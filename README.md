@@ -1,0 +1,1 @@
+Using sentiment analysis on transcripts in the first quarter of 2018 as a predictor for the performance of future fundamentals metrics. The analysis focused on FTSE 100 companies and used the annual earnings report as a baseline for the analysis.
