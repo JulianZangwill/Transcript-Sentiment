@@ -1,0 +1,1020 @@
+SEGRO Plc LSE:SGRO
+FY 2017 Earnings Call Transcripts
+Friday, February 16, 2018 9:00 AM GMT
+S&P Global Market Intelligence Estimates
+
+EPS Normalized 
+
+Revenue  (mm)
+
+CONSENSUS
+
+0.20
+
+265.31
+
+Currency: GBP
+Consensus as of  Feb-16-2018 8:09 AM GMT
+
+-FY 2017-
+
+ACTUAL
+
+0.20
+
+272.90
+
+-FY 2018-
+
+SURPRISE
+
+CONSENSUS
+
+0.00
+
+2.86
+
+0.22
+
+297.31
+
+FY 2016
+
+FY 2017
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.20
+
+0.20
+
+0.20
+
+0.20
+
+0.00 %
+
+0.00 %
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+10
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+SEGRO PLC FY 2017 EARNINGS CALL |  FEB 16, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Andrew S. Gulliford
+COO & Executive Director
+
+David John Rivers Sleath
+CEO & Executive Director
+
+Phil A. Redding
+Chief Investment Officer &
+Executive Director
+
+Soumen Das
+CFO & Executive Director
+
+Unknown Executive
+
+ANALYSTS
+
+Alan Carter
+
+Hemant Kumar Kotak
+Green Street Advisors, LLC,
+Research Division
+
+Keith Crawford
+Peel Hunt LLP, Research Division
+
+Marc Louis Baptiste Mozzi
+Societe Generale Cross Asset
+Research
+
+Michael Anthony Bessell
+BofA Merrill Lynch, Research
+Division
+
+ATTENDEES
+
+Unknown Attendee
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+SEGRO PLC FY 2017 EARNINGS CALL |  FEB 16, 2018
+
+Presentation
+
+David John Rivers Sleath
+CEO & Executive Director
+
+Well, good morning, everybody, and welcome to SEGRO's full year results presentation for 2017. I have
+Soumen here with me, of course. Andy Gulliford, our Chief Operating Officer, is here; and Phil Redding,
+our Chief Investment Officer, ready to take part in Q&A; and the Chairman, Gerald Corbett, is definitely in
+the room as well, so he's around too.
+
+As you know, we've been following a very consistent strategy over the last 6 years, which is all around
+delivering sustainable shareholder returns based upon disciplined capital allocation and operational
+excellence underpinned by the right capital and corporate structure. And I'm delighted to say that, in
+2017, we've delivered exactly what it says on the tin in that regard. Our disciplined approach to capital
+allocation saw us invest GBP 1.1 billion, a record GBP 414 million of it going into the development program
+and a further GBP 610 million into some excellent off-market investment purchases. And we generated
+GBP 525 million from recycling capital out of assets that don't offer the return and defensive qualities that
+we have elsewhere in our portfolio.
+
+Our operational excellence in what has been the most supportive market backdrop I've seen in my 12
+years in the business has enabled us to produce some record data in terms of development completions,
+leasing activity, the vacancy rate and indeed the rental levels we've achieved. And underpinning our
+portfolio activities, Soumen, with the help of his finance team, has enjoyed a busy and successful first year
+by arranging GBP 2.7 billion of debt and equity financing, which have significantly reduced our average
+cost of borrowings and strengthened our balance sheet. And the output from all of this hard work has
+been another set of cracking financial results with a total property return of 19%, an NAV increase of 16%
+and some good uplifts in adjusted earnings per share and dividends.
+
+And as we look to the future, I'm confident that the portfolio of modern, well-located and sustainable
+assets that we've created over recent years will stand us in good stead. We are, far and away, the largest
+industrial investor and developer in London and the South East of England, with meaningful and growing
+positions in Germany, France and Poland. Italy is expanding rapidly. And we are making good progress
+with some of our smaller positions, most notably in Spain. We're unique in having a portfolio balanced
+between big box logistics assets as well as high-growth urban or last-mile warehouses. And as we see the
+structural trends of urbanization, growth of the digital economy and e-commerce penetration continue
+apace in the U.K. and also now begin to accelerate in continental Europe, SEGRO is well placed to take
+advantage.
+
+We started 2018 with good momentum. Occupational demand is encouraging across the piece. And we've
+already had some good leasing successes with low vacancy rates in all markets, limited speculative supply
+and constraints to new supply being brought through, there are good prospects for further rental growth.
+And whilst there are plenty of macro risks out there that may affect the broader economy, the attractive
+fundamentals benefiting our sector, which are structural in nature, are unlikely to change anytime soon.
+Not surprisingly, therefore, investor appetite for good industrial stock remains unsated, meaning current
+valuations are well supported. And I wouldn't be at all surprised if we see further inward yield shift this
+year. Meanwhile, our land bank and our strong balance sheet has put us in a great position to be able to
+capture further growth.
+
+So I continue to feel positive about our prospects. And I'll return to some of these thoughts later on, but
+before that, let me hand you over to Soumen to take you through the numbers.
+
+Soumen Das
+CFO & Executive Director
+
+Great. Well, thank you, David. Good morning, everyone.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+SEGRO PLC FY 2017 EARNINGS CALL |  FEB 16, 2018
+
+So I'm going to take you through the financials for 2017, go into a bit of detail on the valuations and I'll
+take you through some of the activities that we've been undertaking in terms of reshaping the balance
+sheet.
+
+So starting with what I think are a really great set of figures. So we saw strong growth in earnings
+through 2017. The main drivers were higher rental income and lower finance costs, and I'll come on to
+expand on both shortly. Adjusted profit before tax is up 26%, while earnings per share is up 6% to 19.9p.
+The different growth rates reflect the increased number of shares that are in issue following the rights
+issue and the 2016 placing. The balance sheet is in great shape, thanks to all of the financing activity over
+the past year. NAV is up 16% to 556p per share, and loan-to-value remains at the lower end of our target
+range at just [ 30%. ]
+
+We're announcing a 6% increase in the dividend -- the final dividend, to 11.35p per share, which takes
+the full year dividend to 16.6p per share, which is also up 6%. You should just note that all the historic per
+share figures that we've quoted have been adjusted for the rights issue bonus adjustment factor, just as
+described at the bottom of the page.
+
+So just looking at net rental income growth a little bit more closely on this slide. As you can see, the
+impact of acquisitions and disposal roughly net each other out, whilst development completions add about
+GBP 20 million to the top line. Like-for-like growth was 2.6%, which added GBP 4.5 million of new rent.
+Now the different movements in the U.K. and in Europe reflect the under and the over rented positions
+that have been built up from recent years. And we anticipate the European over rented position reducing
+as ERV growth there picks up. The vacancy rate at 4% is, I think, the lowest we've ever reported. And if
+we can maintain it at around these levels, the prospect for continued like-for-like rental growth should be
+good.
+
+And just to help with your forecasts going forward. The blue bar on the right-hand side just shows the pro
+forma run rate for net rent, which adjusts for one-offs and the timing of acquisitions, disposals and the
+completions of developments. And this would be about GBP 5 million higher than the actual 2017 figure.
+And Slide 35 in the back sets out the detail.
+
+Turning now to the rest of the income statement. This slide just shows you the components of adjusted
+earnings. Top line rental growth improved strongly, but earnings also benefited from the lower financing
+costs, which reflects a reduction of debt post the rights issue and also the lower costs of debt from
+the refinancing activity. The full impact of this should really be felt in 2018. As I mentioned at the half
+year, the JV fee income was boosted by an acceleration in performance fees, which crystallized on the
+acquisition of APP. And that took our JV fees to GBP 24 million versus the recurring level of nearer GBP
+16 million. On the third box in the right-hand side, you can see the cost ratio's increased from 23% to
+24.6%. As you read down to the cost of our share schemes, which have gone up, which are -- underline
+and reflect the outperformance of the property portfolio, which clearly you can see in our total return
+metrics, you can see it in NAV, but obviously it doesn't factor into the income statement as yet. Excluding
+the share schemes, the cost ratio would have risen much more modestly by 0.7% to 21.7%, which mainly
+reflects higher staff costs.
+
+Finally, just as a reminder, the average number of shares for 2018 -- for 2017, rather, was 967 million, but
+for 2018 it'll be just over 1 billion. And that increase has the impact of knocking about 0.8p off EPS.
+
+Turning now to NAV. So EPRA NAV per share has risen from 478p to 556p. The valuation gain increased
+NAV by 96p, of which the development surplus comprised a significant piece at 17p. The gain was offset
+by about 20p of costs which relate to the various financing activities.
+
+So Slide 10, we're just going to look at the -- looking at the valuation increase in a little bit more detail.
+The valuation gain totaled just under GBP 1 billion, reflecting mainly a 13% increase in the like-for-
+like portfolio. The U.K. was the major driver of this growth, particularly London and Slough, but as you
+can see, there's also a very healthy contribution from the French, the German and the Italian assets as
+well. Now we don't yet have comparables for Continental Europe, but on the U.K. side, the U.K. portfolio
+generated a capital value uplift of 15.8%. And that compares very favorably to the IPD all industrial
+quarterly index, which grew 13.9%.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+SEGRO PLC FY 2017 EARNINGS CALL |  FEB 16, 2018
+
+So on Slide 11. The valuation increase is really the increase -- is really the result of the asset management
+activities, yield shift and of rental growth. Yields tightened about 40 basis points across the portfolio but
+continue to offer a healthy margin to the risk-free rate as well as rental growth. And you can see that
+in the 3.1% ERV growth during the year. In London, the portfolio equivalent yield was 4.8%, whilst the
+ERV growth was 4.6%, with particularly strong performance in Park Royal and in the North and the East
+London portfolios. We've also seen ERV growth in Continental Europe. You can see on the right-hand side
+of the slide that the growth was especially concentrated in the wholly owned estates, which as you know,
+mainly comprise the warehousing in Paris, in Warsaw and in Germany's main cities. Poland continues to
+offer the highest cash yield. And marketing conditions have stabilized, with ERVs actually nudging up
+during the course of 2017.
+
+Turning now to the liability side of the balance sheet. We raised GBP 2.7 billion of fresh capital in
+2017, which is an extraordinary level of activity and has transformed our capital structure. Firstly, we
+significantly strengthened the financial position with the GBP 573 million rights issue back in March to fund
+the acquisition of APP and future development CapEx. And we've used this additional equity to increase
+the pace of development through 2017. Less than a year on, we've already spent or committed 70% of
+the capital on projects highlighted at the time of the rights issue.
+
+On the debt side, we've raised GBP 2.1 billion. The U.S. private placement in May, which was our first
+debt issue in euros, improved the natural currency hedge for our euro-denominated assets. The sterling's
+bond tender in September, which we -- it was alongside the new issue, locked in low coupons and long
+maturities; and we retired a big piece of our legacy high-coupon debt.
+
+And a new bond for SELP, the second one it issued, affirmed its move into unsecured financing with a new
+8-year bond with a coupon of just 1.5%, which largely removed secured financing out of the joint venture.
+And finally, at the end of the year, we added to our credit facilities, which means we now have over GBP 1
+billion of undrawn liquidity.
+
+Now as you'd expect, all this activity has had a very positive effect. We've extended the debt maturity by
+4.6 years to just under 11 years. And the cost of debt has fallen from 3.4% to just 2.1%. Loan-to-value is
+now 30%, which as you can see is a huge -- a significant improvement over the last 5 years. Now looking
+forward, when you're thinking about your forecasts, we expect to maintain a high rate of CapEx, so in
+excess of GBP 350 million a year on development, with -- in the order of another GBP 50 million related to
+infrastructure, mainly at East Midlands Gateway. That's in line with the GBP 414 million we spent in total in
+2017.
+
+We continue to recycle capital. And we estimate selling around GBP 200 million of assets this year, which
+equates to a run rate of around 2% to 3% of the portfolio.
+
+So just to finish from me. I'm very happy to be reporting very strong earnings growth; a balance sheet
+that is in great shape; and a dividend increase of 6%, which reflects the performance in 2017 but also the
+very strong momentum that we see going into 2018.
+
+With that, I'll hand you back to David.
+
+David John Rivers Sleath
+CEO & Executive Director
+
+Very good. Thank you, Soumen.
+
+So what's behind those impressive numbers is, of course, a supportive market backdrop, but also a lot
+of hard work by our property teams and indeed the rest of the group in terms of executing our strategy.
+Disciplined capital allocation, as you know, is one of the key elements. And that's all about creating the
+right portfolio shape for long-term performance and making capital allocation decisions which will enable
+us to deliver attractive property-level returns.
+
+We took the decision about 2 years ago to switch our emphasis from what had been an acquisition-led
+approach to capital allocation towards one that favored development given the increasingly crowded
+investment market. And so we've been consciously adding to the land bank. And we did so again in 2017,
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+SEGRO PLC FY 2017 EARNINGS CALL |  FEB 16, 2018
+
+although interestingly we generated a similar amount of proceeds from land sales to residential developers
+as we invested in new land, but we've materially increased our development expenditure, with GBP 414
+million going into this channel, more about which I'll say later. But notwithstanding the development focus,
+we've remained alert to acquisition opportunities of off-market and other special situations. In 2017, we
+completed 2 other property swaps, 1 in France and 1 in the U.K., through which we acquired 2 prime
+logistics assets. However, the biggest acquisition of the year was to buy out our joint venture partner's
+interest in APP, which as you know, we executed in March, acquiring in the process another GBP 550
+million of unique airport assets at Heathrow, Gatwick and Stansted. Heathrow's cargo volumes jumped
+10% last year to a new all-time high, and space has been in demand across the portfolio. So the assets
+have performed well since acquisition, and there's a slide in your appendix with some of the details that
+you might want to look at.
+
+Finally, despite having completed over GBP 3 billion worth of disposals in the previous 5 years, we
+continued to take a disciplined approach to managing and reviewing the existing portfolio, constantly
+looking for opportunities to recycle capital out of assets which offer less upside or are not as defensive as
+the rest of our portfolio. And we also continued to recycle capital by selling assets that we've created on
+balance sheet into our SELP joint venture in Continental Europe.
+
+So in aggregate, as you can see, we sold over GBP 500 million of assets in 2017, including GBP 150
+million that we sold as part consideration for the purchase of Aviva's share in APP.
+
+Another important element of our investment strategy though, has been to focus on achieving scale in all
+our chosen markets. The benefits of scale, which we clearly have in London and South East England, are
+not just to do with cost efficiency, but it's also about access to opportunities through relationships with
+customers, with agents, with local authorities and other local stakeholders that you simply can't develop
+if you don't have a really meaningful scale position and seen as a serious, committed player in those
+markets. As I mentioned earlier, we're in pretty good shape now in Germany, France and Central Europe,
+with over GBP 1 billion of assets under management in each of those. And in Italy, we're growing fast on
+the back of the excellent Vailog acquisition 2.5 years ago. We now already have a reasonable scale there
+of EUR 0.5 billion of AUM and with an excellent pipeline of further opportunities coming through over the
+next year or 2. In Spain, a lack of suitable corporate acquisition targets means that our growth has had to
+follow a much more organic approach, but we're making very good progress there, having started only 2
+years ago, through a combination of acquiring land sites and undertaking our own development, through
+funding -- forward funding local partners' projects and also buying some income-producing assets largely
+through customer relationships that we've got elsewhere in the group. We now own 9 assets, and we're
+well on track to have AUM in Spain of in excess of EUR 300 million in the near future.
+
+Delivering sustainable returns also isn't just about building or buying modern warehouses in strong
+locations. It's also important to own very generic buildings that are highly flexible and appeal to a wide
+range of occupier types, which is something that we've been very focused on. And it's about future-
+proofing them in line with our customers' present and likely requirements and taking a responsible
+approach towards sustainability. In 2017, we've continued to focus on reducing our carbon footprint,
+mainly by further investing in renewable energy, in particular rooftop solar panels, including our largest-
+ever array in a single building where we installed 3.4 megawatts of capacity at Tesla's facility in Tilburg.
+And we're also seeking to minimize carbon consumption through the development process, firstly
+by minimizing waste and reusing as much of an existing building as we can but also by using more
+sustainable materials, as we did in Paris where we made the roof beams out of laminated wood.
+
+With customers often investing massively now in automated systems and tech inside the buildings, we've
+been future-proofing our developments with power upgrades. So for example, at our development site
+in East Midlands we spent GBP 7 million extra in order to provide a lot more capacity than a traditional
+logistics team would need because we're just sure that our customers are going to want it. All of our new
+developments as well now have electrical charging points. So you'll increasingly hear us talking a lot more
+about these things in the future. And during 2018, we are going to be setting out new long-term targets
+for the business that we'll be sharing with you later in the year.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+SEGRO PLC FY 2017 EARNINGS CALL |  FEB 16, 2018
+
+Now let's turn to operational excellence. When I get out and about and I visit our assets and meet
+customers, I never cease to be impressed with the knowledge that the SEGRO team has on the ground,
+the relationship they have with the customers, their intimacy with the businesses of our customers.
+And how those excellent relationships have -- and knowledge have translated into results are very
+much demonstrated in these 3 charts. You can see that, in 2017, we generated over GBP 50 million of
+new annualized rent from lettings of standing assets and development, which is the highest ever we've
+achieved. Our vacancy rate is, again, the lowest it's ever been at just 4%, or in fact 3.4% if you strip
+out recently completed spec developments. Our customer retention rate is one of the highest we've ever
+reported. And the uplift in rent reviews -- in rents from reviews and renewals is almost 10%, capturing
+some of the reversion that we've been building up in recent years. We're now consistently generating
+growth in net income from our existing, standing assets. In fact, we've achieved positive rent roll growth
+from our existing portfolio every reporting period since the beginning of 2014. And as you can see from
+the bars on the first chart, most of that revenue growth is coming from development, so let me provide a
+little more color on that.
+
+Last year, we completed 35 developments, producing 650,000 square meters of space, which is again by
+some margin a record in terms of volume. The overall development yields on total costs including the land
+was over 8%. 93% of that income has already been leased or secured.
+
+As always, we provide space to a very diverse range of customers spread across lots of geographies and
+with big boxes and urban. Amazon, though, has been featuring very heavily over the last year or 2. And in
+2017, we delivered buildings for them in Rome, in the Midlands, Barcelona, London and Munich. And you'll
+be seeing us doing more business with them this year. But we've also been doing business with other e-
+commerce players such as Yoox Net-a-Porter. The parcel delivery partners of these online retailers have
+also continued to be very active, particularly now as the battle for last-mile delivery hops up. And we've
+seen good demand from discount grocers and from traditional retailers seeking to respond to the online
+challenge and also from data center operators as the demand for cloud computing services continues to
+[ boon. ]
+
+You can see on this slide just how much the scale of development has ramped up over the last few
+years and what a major source of new income it is for us. In fact, it's more than tripled in terms of
+space development and CapEx spent. And you can see that it's contributed over GBP 110 million of new
+annualized rents, mostly secured now, which is equivalent to about 1/3 of our existing rent roll. Looking
+ahead, we see plenty of opportunity for further income growth, especially against a continuing supportive
+market backdrop.
+
+The low-growth, low interest rate environment that we've become accustomed to is just fine from our
+perspective. Whilst the general trajectory of interest rates is upwards from here and there are clearly
+wider concerns about the effects of Brexit, I don't believe that these will significantly impact demand for
+our type of space. That's because the e-commerce revolution is well established and ongoing. It -- and it
+remains a powerful driver of demand both for big box warehouses and urban warehouses both here in the
+U.K. and increasingly now on the continent, there's definitely been a pickup in sentiment. Meanwhile, as
+these charts show you, the supply situation remains relatively constrained. In the U.K., big box speculative
+development completions slowed sharply in 2017, and they show little sign of increasing dramatically in
+2018. And despite an apparent decline in take-up from the record levels seen in 2016, this masks the fact
+that there are approximately 7 million square feet of space in solicitors' hands at year-end, equivalent to
+about half the total take-up in 2017 itself; 2 million feet of which, by the way, were our own pre-lets at
+our East Midlands Gateway site. So I think 2018 looks like being a good year in the U.K. for take-up.
+
+And in terms of development and construction right across Europe, you can see from the charts at the
+bottom, there's still only a modest amount of spec development in the U.K. And elsewhere across Europe,
+volumes of build are similar to a year ago, but again and particularly emphasized by the red part of those
+bars, it's mostly preleased. Of course, these charts don't include any data about urban warehouses, where
+frankly a reliable supply of data is very hard to get hold of, but we know from our experience in all the
+markets we're operating in the availability of land there is even more constrained than it is for big boxes.
+In these urban locations, a meaningful supply response just isn't possible in most of them.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+SEGRO PLC FY 2017 EARNINGS CALL |  FEB 16, 2018
+
+So the culmination of all of that is that we remain confident about the rental growth prospects from our
+portfolio over the next couple of years. In the U.K., growth rates to 2% to 5% seem eminently achievable,
+with parts of London certainly exceeding that and perhaps areas outside of London a little bit lower. In
+Continental Europe, we're particularly pleased to see some positive momentum in rental growth in the
+urban estates, in the urban markets that we're operating in, but we're also seeing pockets of rental growth
+in big boxes too, even in Poland, as Soumen alluded to, at least the markets we're operating in. The
+market rates have stabilized. And if anything, incented packages are now starting to come back in, which
+is a good sign, but regardless of future ERV growth across the portfolio, even at today's market rents,
+our portfolio is now GBP 25 million under rented, so the prospects for growing income and value from our
+standing assets are good. But that said, it's the development pipeline that remains the real differentiator
+for SEGRO. And despite the very large volume of space delivered in 2017, our current on-site program of
+development remains very substantial indeed, about 50% higher than a year ago.
+
+We have some terrific pre-lets under construction, including 2 on sites acquired through our partnership
+with the Greater London Authority in East London, 2 data centers, 4 warehouses for online retailers and
+3 high-value uses in the form of budget hotels. But 20 of those schemes are speculative, concentrated in
+and around major urban centers where we're very confident that the demand-supply dynamics will see
+that space taken up quickly as it has done in each of the last 5 years. In fact, we've already achieved
+some considerable success since the year-end, including leasing the entirety of our 2-story scheme in Paris
+to IKEA and Leroy Merlin some 11 months ahead of practical completion.
+
+So pulling together the entire development program, this slide gives you the full picture. The current
+projects that I just ran through are shown in the first line of the table. As always, though, we have a large
+number of further pre-lets in solicitors' hands; or in some cases already signed and agreed, subject to
+a planning consent. So we're expecting to start those projects very soon. That's the second line in the
+table. And it includes the first pre-let we've now signed at East Midlands Gateway, which is a 1.3 million
+square foot deal with Amazon. It also includes another sizable pre-let at EMG that we hope to sign very
+soon and a 1.2 million square foot deal for Zalando in Northern Italy. Beyond this, we have over 3 million
+square meters of potential developments under our control from our land bank and from land held under
+option. We have many excellent development sites across all our target markets, and you can see the
+general location of them on the map. You can also see the estimated breakdown of the annualized rent
+by geography, which is shown in the bar across the bottom of the page. And that excludes land under
+options, which if you added the land under options, it would make the U.K. closer to 50%. But the great
+news is that the average development yield on these sites remains attractive at around 7.5%. And of
+course, the yield on incremental capital from here on land that we already own is well north of 10%.
+And although 1 or 2 of the sites, as you can see from the final column of the table, 1 or 2 of the sites,
+could keep us busy for the best part of a decade, the current rate of progress of our overall development
+program could see us work through most of this land bank in a 4- or 5-year period.
+
+So pulling it all together. We've got the potential to increase cash-passing rents by over GBP 300 million,
+almost double our current rent roll. There's around GBP 140 million of additional rent available from our
+current portfolio and the development projects which are either underway or in advanced discussions. And
+there's another GBP 160 million available from projects associated with our land bank and options. And
+whilst this chart doesn't allow for the fact that we expect to continue disposing of assets around the edges
+of our core portfolio, it equally doesn't include any indexation or further market-driven rental growth.
+
+So to conclude. We've already started well in 2018. Occupational demand is encouraging across the piece,
+and we've had some good early successes. With low vacancy rates in all markets, limited speculative
+supply and significant constraints to new sites being brought through, there are good prospects for further
+rental growth. Whilst we're alert to the broader macro risks, the attractive fundamentals benefiting
+our sector are structural in nature and unlikely to change in the near future. The unsatisfied investor
+demand for good industrial stock is providing strong support for current valuations. And our land bank and
+our strong balance sheet have put us in a great position to be able to drive some further growth. So in
+summary, I remain confident about our prospects for further performance.
+And with that, we are happy to take your questions.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+SEGRO PLC FY 2017 EARNINGS CALL |  FEB 16, 2018
+
+Question and Answer
+
+David John Rivers Sleath
+CEO & Executive Director
+
+We will start in the room first. You -- if you -- welcome to Mike. If you put your hand up, you'll find a
+microphone in front of you. It's best if you don't put your microphone up until you know you've got the
+floor, as it were. So Mike, go ahead.
+
+Michael Anthony Bessell
+BofA Merrill Lynch, Research Division
+
+Mike Bessell from Bank of America. Three for me, please. The first, given the GBP 400 million of CapEx
+spend, I can't see anything in here that tells us what the marginal cost on the GBP 1.2 billion of undrawn
+facilities is. How should we think about your incremental costs of financing to fund developments and
+acquisitions? The second would be just an update on the cargo center, update on rent capture through the
+year, also how you're thinking about redeveloping that within sort of in context of a 10% jump in the cargo
+volumes at Heathrow. And the third was just very interested in the rooftop solar. Was interested, do you
+get the benefit of any fees from that, or does the tenant? And also, does that give you -- and does that
+give an economic return? Or is that almost more of a marketing ploy?
+
+David John Rivers Sleath
+CEO & Executive Director
+
+Good questions, right. And particularly good because I'm going to be able to very easily pass one of them
+to Soumen and then the other two to Andy. So I like those tough questions. Soumen, do you want to deal
+with the first one?
+
+Soumen Das
+CFO & Executive Director
+
+Sure. And it's -- well, it's the easy one. So on the GBP 1 billion of sort of undrawn facilities we have, the
+marginal cost of debt is around 1%. And it depends whether we draw in euros or sterling.
+
+David John Rivers Sleath
+CEO & Executive Director
+
+And cargo center and APP update generally, Andy? You've got a mic there.
+
+Andrew S. Gulliford
+COO & Executive Director
+
+Yes, good, yes. Cargo center. So there's a significant kind of reversion there of GBP 10 million, GBP 11
+million from the peppercorns. And we're basically about 30% achieved on that stroke, very advanced
+discussion; about 60% in discussion; and probably about 10% we know we won't get from those current
+occupiers, but of course, that presents a good opportunity for us. So the growth in cargo volume has been
+good, Mike. And we have got our Sandringham estate, which is the second part of the cargo center, full
+for the first time actually, so we had a couple of really good deals this year. So all going pretty well. On
+the PV, I think, was the second one. Not a marketing gimmick. It's something that customers really enjoy.
+What we try and do is get them a more economic power supply back into their building from the solar. So
+it does have a reasonable return, but it's a really nice way of helping customers with their sustainability
+credentials as well as our own. So that's the usual form.
+
+David John Rivers Sleath
+CEO & Executive Director
+
+It's on a single building. It's quite a lot, but then probably Tesla is a bigger consumer of electric power
+than most people would be. Just to add on the cargo center: I mean, Andy mentioned Sandringham
+Road, the cargo center there being full. I think Gatwick is full for the first time in a long time as well. And
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+SEGRO PLC FY 2017 EARNINGS CALL |  FEB 16, 2018
+
+Stansted is also very full. I mean, all the cargo facilities are pretty well chockablock on the back of some
+good export volumes. Marc?
+
+Marc Louis Baptiste Mozzi
+Societe Generale Cross Asset Research
+
+Marc Mozzi from SocGen. And 3 question from my side as well. The first one is about the massive
+slowdown in rental growth you experienced in H2 compared to H1 if I'm correct. And I'd like also to --
+some color on the negative rental growth on the Continental European market you've been experiencing.
+The second one is, out of the GBP 630 million targeted rental income, what would be the net amount if
+you include disposals you have targeted -- you are targeting to fund your development pipeline? So if we
+can have just a kind of size of order of this GBP 630 million net of disposals. And the final one -- I know
+it's a tricky one, but I think it's one everyone would like to have a view on. Brexit will have the potential
+impact on export from the U.K. to Europe. How much of your tenant base is, I would say, associated,
+linked to European trade?
+
+David John Rivers Sleath
+CEO & Executive Director
+
+I'll have a go at dealing with some of those. The rental growth, second half versus the first half. I think
+it's the other way around actually. Maybe just the way the table was set up, but second half rental growth
+generally was much stronger than the first half, particularly in the U.K. I think it was quite modest, the
+ERV growth that we had in H1. And it was triple that in H2, so we had some very good uplifts in rental
+levels in the second half. Continental Europe was more balanced first half and second half. In Continental
+Europe, what we -- what you're seeing, and it depends whether you're looking at like-for-likes, so whether
+you're looking at ERV. So I'm talking about ERVs. And ERVs, the encouraging thing is we have now got
+over 2% growth -- ERV growth, coming through in the urban warehouses; and a little bit of growth,
+0.5% just over, in big boxes. Now your question is, so why doesn't that flow through into the like-for-
+likes. It doesn't flow through into the like-for-likes because in Continental Europe there's this -- you'll be
+aware of this, that leases are indexed in Continental Europe. So they're indexed according to some kind of
+inflational construction cost metric. So what you have is, every year, the lease -- the rents automatically
+go up. And then when you have a break or expiry, the tenant has an opportunity to renegotiate. And
+if the market rent hasn't driven their rebates back down. And so if you look at the data in the property
+book, you'll see we've now got a very positive reversion in the U.K., but in Continental Europe we're still
+about GBP 5 million worth over-rented. So what will happen over the next couple of periods is that, that
+over-renting will continue to unwind. But the good news is that with strong growth, I think, in the U.K.
+adding to that reversion and then Continental Europe now in positive territory, you should start to see that
+reverse, anyway. So I hope that answers the question.
+
+The GBP 630 million of additional rent -- or total rent we're shooting for in terms of the big growth side,
+how much of that -- what's it going to net back to? I don't know. But the guidance we've given is, we're
+around about GBP 200 million of disposals as a normal annual run rate that we would expect. We did all
+the big disposal programs, all the big reshaping of the portfolio. We're now in around about sort of GBP
+200 million or thereabouts annual recycling chunk. And so you'll have to do the math from there.
+
+And then, in terms of Brexit and whether there's an impact on our tenant base, our customer base, I'd
+say the answer is, not really, because the vast majority of occupiers in our portfolio are to do with inward
+consumption. There's a little bit of manufacturing in Slough. Mars make chocolate bars. I'm sure those get
+shipped all over the country and into Continental Europe as well, but the vast majority of our portfolio is
+to do with inward consumption. It's serving major population centers, whether it's big boxes in the middle
+of the country or urban warehouses in and around the South East. So it's all around consumption. It's all
+around urban population growth in particular. And it's all around digital data streaming, which is placing
+demand for data centers; and of course, last-mile delivery for Internet purchases. So I don't -- we have
+this phrase, "Internet trumps Brexit." I think, as far as our portfolio is concerned, we think the forces, the
+structural drivers are much more important than any broad concerns around Brexit. Mike?
+
+Unknown Attendee
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+SEGRO PLC FY 2017 EARNINGS CALL |  FEB 16, 2018
+
+Still on the land bank. I mean it looks like there's been quite a lot of inflation in land, particularly in the
+second half of the year. You've talked about basically your existing land bank, including options, giving you
+about 4 to 5 years of visibility. Should we think about that as your target size of land bank going forward?
+Or is there any intention to look to expand that?
+
+David John Rivers Sleath
+CEO & Executive Director
+
+Happy with the land bank that we've got now. We're about in the range -- we don't set hard targets,
+but we've got a broad range. We'd like to be in that sort of 5% to 7% of GAV is land available for
+development. We'll flex that according to how we see the development cycle and the risk profile, et cetera.
+So at this point, with a very strong occupational demand, we're very happy to have a bit more land, but
+land prices are getting more expensive. And I think it's very important that, for us as a business, we
+remain as disciplined over land as we have done over buying investment products. The great news is that,
+even if we don't buy another piece of land from here, and I'm sure we will find something that makes
+sense, but even if we don't buy any, we've got 4 or 5 years of really good development-led growth to work
+through the current land bank. And we're running -- we are burning through land at about 20%, 25% per
+annum, so that's consistent with that.
+
+Unknown Attendee
+
+Just had one more on disposals, please. You talked about the GBP 200 million per annum run rate. I
+mean, what is it you're looking to sell? I mean, I guess, recently you've been selling some things for
+change of use. You've been selling probably dregs of noncore. Are you at all tempted to come to the
+market with prime product given the strength of the bid that we see out there?
+
+David John Rivers Sleath
+CEO & Executive Director
+
+I'll let Phil answer, tell you whether he's tempted.
+
+Phil A. Redding
+Chief Investment Officer & Executive Director
+
+I'll do the first one: what sort of stuff are we looking to sell in 2018? It is very much the same sort of
+things. So in SELP, we sold in 2017 some stuff in France that was -- that we thought was a little bit
+less core, wasn't going to perform as much. We're going to be probably doing that again maybe out of
+Germany and Poland, so out of SELP. And again, the other big bucket really will be the transfers from Italy
+into the SELP portfolio as well, so very similar to 2017; and as you say, a few noncores around the edges.
+And then, on the good question about are we tempted to sell some of our prime products? Well, when
+we're seeing where the yields currently get to, I must admit tempted is probably
+
+[Audio Gap]
+
+yes. I mean, particularly some of the latest deals. And I've got to say, I mean, 2018 has started pretty
+strongly in the capital markets in industrial sector, so we're certainly expecting some good evidence to
+come through. But for our really prime stuff, I mean, it's -- we're not really looking to sort of trade out of
+that stuff and sort of take advantage. We see these as really long-term anchors for us, mainly because
+they're irreplaceable. Some of our assets now are really so good that we would struggle to reinvest when
+we felt the time was right to do it. And also, they're still performing very strongly because the rental
+growth that they're generating is higher than we're getting on -- in other parts of the market. So tempted,
+yes, but probably not tempted enough.
+
+David John Rivers Sleath
+CEO & Executive Director
+
+I mean, I'm really pleased that we got rid of all the stuff that would have been problematic, would be
+problematic. And it's really -- we're being very picky now, but it is a great market, as Phil mentioned.
+It's a great market to be selling anything that's got any kind of a doubt or concern around its future
+performance, so we'll be thinking hard about that. Any more questions? Yes, Hemant?
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+SEGRO PLC FY 2017 EARNINGS CALL |  FEB 16, 2018
+
+Hemant Kumar Kotak
+Green Street Advisors, LLC, Research Division
+
+So from Green Street. I guess, just picking up some of the comments there about the capital markets;
+and an earlier comment that you made, David, about you wouldn't be surprised to see further yield
+compression. Just trying to understand the background for that comment. Is that based on what you're
+seeing with the start of the year, or is there something more to that? And then perhaps, are there pockets
+where you expect greater yield compression, more strength than others?
+
+David John Rivers Sleath
+CEO & Executive Director
+
+Answer that, Phil?
+
+Phil A. Redding
+Chief Investment Officer & Executive Director
+
+I mean, as I said, I think it's been a very strong start to the year. And what's that based on? Well, mainly
+it's based on the very strong fundamentals that are in the market. So all the market dynamics that were
+driving the performance in 2017 are all still around now that will probably drive the market in 2018. I
+mean, I think -- reading the press in 2017, I don't think a month went by without some new vehicle being
+set up targeting to get into the industrial markets. So there's still plenty of money looking to deploy into
+the sector. So I mean, if you're being very conservative, that's a lot of support for current pricing that
+that'll probably mean in certain markets we're going to see some further yield compression. So I think
+2018 will still be pretty good, but I -- maybe not quite as strong as 2017. I mean, there were some --
+the big platform deals that happened in 2017 that sort of put the yields down, obviously not going to
+be happening again in 2018. But it's going to be pretty good, I would have thought, yes. I mean -- and
+generally across-the-board, that's where we're finding it. There isn't -- well, I think, some areas that,
+where the supply is very low, I mean, might be slightly different. There might be some differentiation in
+yield compression, but I think it's going to be generally positive across-the-board.
+
+David John Rivers Sleath
+CEO & Executive Director
+
+Is the -- I'm asking the question now, is the Continental Europe different to the U.K.?
+
+Phil A. Redding
+Chief Investment Officer & Executive Director
+
+Yes. I mean I think there are slight differences. I mean some markets in Continental Europe that you could
+argue are slightly behind where the U.K. has got to. So Germany is pretty low, almost in line with where
+we are in the U.K. Those markets, I mean, there might be a little bit more but maybe focused more in the
+urban areas rather than in logistics. But France, for instance; Spain; Italy, they've probably still got some
+further to go. So Continental Europe might be a little bit better than the U.K.
+
+David John Rivers Sleath
+CEO & Executive Director
+
+I think there's a sort of the -- there's a broader, if you like, a -- contextual point here, Hemant, which
+is I think the investment world has been relatively slow to realize that industrial isn’t what it used to
+be. In other words, it's not old manufacturing on the wrong end of the decline of Western European
+manufacturing. It's actually around Internet retailing and data centers and last-mile delivery; and the
+whole change -- societal change that's happening is having a massive positive impact. And slowly but
+surely, as Phil talked about, every month, there's some new investor or fund that's been announced.
+Capital all around the world, slowly but surely, is waking up to that. Now some people got there very
+early and did really well out of it, but there are still people that are waking up, saying, "You know what,
+as an investment strategy, we're underweight. We need to get into this space." And that's driving a lot of
+demand.
+
+Hemant Kumar Kotak
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+SEGRO PLC FY 2017 EARNINGS CALL |  FEB 16, 2018
+
+Green Street Advisors, LLC, Research Division
+
+That brings me nicely on to my last question. Your portfolio is already weighted 55% to urban logistics.
+What kind of tilt can we expect? Now I know you've already done the major restructuring of your portfolio,
+but in terms of when you talk about data centers, urban logistics, some of the strengths that you -- I think
+it was Slide 25, that you point to. If you're expecting that in the medium term, can we see a progression
+in the portfolio?
+
+David John Rivers Sleath
+CEO & Executive Director
+
+I think you will see over time that we will be looking to increase our deployment of capital into urban
+warehousing in a lot more cities than we're currently in -- or sorry, a lot more scale than we currently
+have in a number of those, about 12 or 15 cities across Europe that we'd like to do this in. The difficulty
+is, it takes a long time because when we look at all those markets, it's very hard to find good-quality
+existing assets that we can go and buy. So generally we're having to buy brownfield land. We've done
+a lot in the U.K. and Paris; demolish it; build something new. And that takes time relative to big boxes
+where there's more stock around and you can deploy larger chunks of capital quite quickly. One of the
+great things despite all we say about shortage of land and the issues in the U.K. is that we've been around
+here in scale for a very long time building this portfolio. And actually, the U.K. does have planning laws,
+particularly London. It actually strategically protects industrial land. So if a site becomes available, if
+it's designated as industrial -- strategic industrial land, it's very risky for a residential developer to buy
+it thinking that they can convert it to residential. There are some around the edges where you can, but
+it's difficult. Most of Continental Europe isn't like that. Most of Continental Europe, this is the same thing
+happening, urban population growth needing -- fueling the need for more housing, and so the residential
+developers go in and buy because there are very few places where industrial land is strategically protected
+as industrial. It's something that we're very much trying to engage with local authorities with -- on and
+to say that, "You're going to create a problem for yourselves if you don't provide local jobs and space to
+make the city work," but it means it's a long, hard process. So we're very committed to it. We think it's a
+great product, but it's going to be a gradual rather than a very rapid switch in terms of portfolio weighting.
+Any more questions in the room? Alan?
+
+Alan Carter
+
+Yes, Alan Carter, Stifel. This is probably for Andy. Just intrigued, a very high lease retention rate at
+the moment. Obviously, the expiry profile historically has been pretty rapid in distribution space. I'm
+wondering if you can just give a flavor of sort of the uplift you're being able to drive, at least expiry, when
+you've got 80% plus of your tenants remaining in situ. I presume that's driven by a lack of alternatives,
+so you kind of got them across a barrel. So I'm wondering if you can give a few examples if it's not
+commercially insensitive.
+
+Andrew S. Gulliford
+COO & Executive Director
+
+We never have our customers across a barrel, Alan. We're always working with them, but yes, it's pretty
+good for us at the moment because, as you saw from the slides, the lack of supply is clearly, frankly,
+making people sticky. We like to think we are doing pretty well with customers as well. Just mention our
+sort of customer satisfaction, which has gone up considerably to 87%. So we do work very closely with our
+customers, but yes, the dynamic is in our favor at the moment. So we are seeing -- on regears, renewals
+and reviews, you saw from David's stats some really significant uplifts in London over the period. That's
+been in the sort of 5% to 10% mark, a little bit less elsewhere.
+
+What?
+
+I've clearly ruined a relationship with one of our customers there. So sorry about that. But so we are
+seeing progression. And sort of generally we are -- in our leasing and our activities, we are using sort
+of vacancy and regears, renewals. We're looking for value, as opposed to, in the past, we've been,
+particularly on the vacancy side, letting to fill up. That's not the case now. So we're happy on the vacancy
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+SEGRO PLC FY 2017 EARNINGS CALL |  FEB 16, 2018
+
+side too to wait our time for deals. When you've got 3% vacancy on the trading estate, 3% vacancy in
+Park Royal, you can push ahead a little bit. So we're definitely seeing that coming through.
+
+David John Rivers Sleath
+CEO & Executive Director
+
+So Marc. Marc is coming for a return. If you could get your hand up first, and then you get the mic.
+
+Marc Louis Baptiste Mozzi
+Societe Generale Cross Asset Research
+
+Yes, just a follow -- it's not a follow-up actually. It's just on the Sofibus acquisition. If we can have a kind
+of an explanation why, rationale. Is it an industrial or a financial movement? What is the final aim on that?
+What sort of dividend yield are you going to get from that?
+
+David John Rivers Sleath
+CEO & Executive Director
+
+Stake we've acquired in a French-listed company whose principal asset is a -- it's like many Slough Trading
+Estates in South of Paris. I mean, because it's a listed company, Marc, you'll appreciate we're quite limited
+in what we can say, but we're very pleased we've bought a stake in the company. We like the asset. We
+like the terms that it throws off, and we'll see what happens from here. Keith?
+
+Keith Crawford
+Peel Hunt LLP, Research Division
+
+[indiscernible]
+
+David John Rivers Sleath
+CEO & Executive Director
+
+No, you must use the mic now, if you don't mind.
+
+Unknown Executive
+
+Press the button.
+
+Keith Crawford
+Peel Hunt LLP, Research Division
+
+Can you hear me?
+
+David John Rivers Sleath
+CEO & Executive Director
+
+Yes, we can. Go on.
+
+Keith Crawford
+Peel Hunt LLP, Research Division
+
+Good, okay. I've just been looking through this presentation. It answers any question I could conceivably
+ask. It does seem that all the capital has been...
+
+David John Rivers Sleath
+CEO & Executive Director
+
+[indiscernible], not one.
+
+Keith Crawford
+Peel Hunt LLP, Research Division
+
+I mean really right down to looking into the Europe and the balance of all the territories. Everything looks
+perfectly excellent and justifies the capital that's been put in by shareholders in recent years, so I'll ask a
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+SEGRO PLC FY 2017 EARNINGS CALL |  FEB 16, 2018
+
+saucy question. Amazon, what type of leases do you get -- you as a company, get from Amazon? Do you
+get an inc tenancy? Do you get a local tenancy? Do you get a U.K. tenancy? What sort of thing do they
+do? Because they've been fighting landlords for years, of course.
+
+David John Rivers Sleath
+CEO & Executive Director
+
+Well, Amazon are very protective about what they allow their landlords to say. So just in case I put my
+foot wrong, I'm going to pass over to our Amazon key account director, who is Andy Gulliford. And he will
+answer the question as diplomatically as he can.
+
+Andrew S. Gulliford
+COO & Executive Director
+
+I was really hopeful that, as you were taking that, you were going to stay with it. I've got to be really
+careful on that because that is commercially sensitive. And I certainly wouldn't want to upset what is now
+our second largest customer and growing rapidly. But we are, Keith, very aware of the covenant strength,
+not just with Amazon but generally. They tend to have a structure which provides a European covenant
+which is extremely good. So that's what we do.
+
+David John Rivers Sleath
+CEO & Executive Director
+Okay, any more from you all? If not, then thank you all very much for your questions and for coming on
+this morning. And have a good day.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+SEGRO PLC FY 2017 EARNINGS CALL |  FEB 16, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+

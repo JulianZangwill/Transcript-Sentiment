@@ -1,0 +1,1530 @@
+Pearson plc LSE:PSON
+FY 2017 Earnings Call Transcripts
+Friday, February 23, 2018 9:00 AM GMT
+S&P Global Market Intelligence Estimates
+
+CONSENSUS
+
+EPS Normalized 
+
+0.52
+
+Revenue  (mm)
+
+4586.23
+
+Currency: GBP
+Consensus as of  Feb-23-2018 8:30 AM GMT
+
+-FY 2017-
+
+ACTUAL
+
+0.54
+
+4513.00
+
+-FY 2018-
+
+SURPRISE
+
+CONSENSUS
+
+3.85
+
+(1.60 %)
+
+0.50
+
+4158.06
+
+FY 2016
+
+FY 2017
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.57
+
+0.52
+
+0.59
+
+0.54
+
+3.51 %
+
+3.85 %
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+11
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Albert Roger Hitchcock
+Chief Technology & Operations
+Officer
+
+Coram Williams
+CFO & Executive Director
+
+Giovanni Giovannelli
+President of Growth Markets
+
+John Joseph Fallon
+CEO & Executive Director
+
+Kenneth Roderick Bristow
+President of UK & Core Markets
+
+Kevin Capitani
+President of North America
+
+Sidney Taurel
+Chairman
+
+Tim Bozik
+President of Global Product
+
+ANALYSTS
+
+Christopher Anton Giles Collett
+Deutsche Bank AG, Research
+Division
+
+Giasone Ulisse Salati
+Macquarie Research
+
+Ian Richard Whittaker
+Liberum Capital Limited, Research
+Division
+
+Katherine Tait
+Goldman Sachs Group Inc.,
+Research Division
+
+Matthew John Walker
+Crédit Suisse AG, Research Division
+
+Nicholas Michael Edward
+Dempsey
+Barclays Bank PLC, Research
+Division
+
+Sami Kassab
+Exane BNP Paribas, Research
+Division
+
+Simon Baker
+Societe Generale Cross Asset
+Research
+
+Thomas A Singlehurst
+Citigroup Inc, Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+Presentation
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. Good morning, everybody. Thanks for joining us. I'm John Fallon. I'm here with our Chief Financial
+Officer, Coram Williams. We also have the executive team with us who I'll introduce when we get to the
+Q&A; and our Chairman, Sidney Taurel is also with us this morning.
+
+Just before Coram takes you through the details of our 2017 financial results on our outlook for the year
+ahead 2018, let me just pick out a few headlines. In terms of the financial headlines, revenues, adjusted
+operating profit and earnings per share, all, as we indicated, they would be in our January trading update.
+Three new points to note today are: operating cash flow of GBP 669 million with a very healthy conversion
+rate of 116%. As a result, year-end net debt at GBP 432 million is better than the GBP 500 million
+number we previously flagged, and down more than 60% on last year. And the board, as you can see, is
+recommending a full year dividend of 17p, which is comfortably covered by our earnings, excluding the
+contribution from our minority stake in Penguin Random House.
+
+And that leads me to the key headline for today is that, we've delivered on the goals we set out a year
+ago. Operating profits are at the top end of the guidance range. We're performing well in markets that
+have played out much as we expected, and that strong balance sheet is enabling us to invest in our digital
+transformation and return excess capital to shareholders. We further simplify the portfolio with the GEDU,
+WSE and Utel sales, all announced or completed. And you'll see that today, we've concluded our U.S. K-12
+courseware strategic review and are holding the business for sale.
+
+With that deal done, we'll then be happy with the Pearson portfolio. We think we've got the right mix of
+businesses, although, of course, we will keep it under regular review. The industry-wide challenges in our
+U.S. Higher Education courseware business will continue this year, but we're now on top of them. And
+we're making good progress in moving that business to a more sustainable and attractive model. And in
+the remaining 70% of Pearson, we expect to grow revenues this year. And that will help to all 100% of
+Pearson, the whole of the company, to deliver underlying profit growth in 2018. So we're making good
+progress on implementing the strategy, and we're confident that 2018 is going to prove to be both a
+successful and pivotal year.
+
+So let's have Coram take you through the detail of the 2017 results and our guidance for 2018. And then
+I'll be back to say more about the factors that underpin our growing confidence. Coram, over to you.
+
+Coram Williams
+CFO & Executive Director
+
+Thanks, John. Good morning, everybody. So let's start with an overview of our financial performance.
+Revenue, operating profit and EPS are all at the upper end of the pre-close view that we shared with you
+in January. But our cash flow performance is considerably better than our conservative early forecast,
+leaving us with net debt of GBP 432 million at the end of 2017.
+
+Operating cash flow rose by 1% in headline terms, despite a decrease in operating profit. Cash conversion
+was 116%, driven by tight working capital management, lower returns and good cash Penguin Random
+House dividends, offsetting continued investment in product and CapEx.
+
+So let me now walk you through the detail in each area. Let's start with sales. In North America,
+underlying sales declined 4% versus the prior year, mainly due to: One, continued pressure on our higher
+education courseware business, which was down 3%. The drivers of that were broadly in line with our
+expectations, except that we think enrollment and OER were slightly smaller drag than our initial model
+suggested. We did benefit from lower returns seen throughout the year, but this benefit was partially
+offset by cautious buying behavior from our channel partners in the final quarter; two, we saw further
+impact from the contract losses in student assessment that we've told you about previously; three, we
+saw softness in K-12 courseware driven by our lack of participation in the largest adoption opportunity,
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+California ELA, and weakness in open territories later in the year; and four, Learning Studio declined by
+around GBP 13 million in 2017, and we're planning for the remainder GBP 11 million of annual revenue
+from this product to decline to close to 0 by the time it retires in 2019.
+
+The performance of our OPM and virtual school businesses partly offset these declines, with both
+delivering revenue increases of around 3%. This was driven by good enrollment growth across their
+portfolio partnerships, partially offset by contract exists. Both businesses ended 2017 with strong
+pipelines, and we expect modestly better growth in 2018.
+
+Professional certification was flat in North America as a result of the phasing of new contract, but we'll
+benefit in 2018 from the ramp-up of our new contract to administer the U.S. MCAT, Medical School
+admission test.
+
+In Core, underlying overall sales were flat. Revenues more than doubled in the Pearson Test of English,
+and we saw good growth in OPM. But this upside was offset by a number of other factors: Firstly, modest
+declines in U.K. qualifications, as revenues lagged the stabilization we've seen in registrations, following
+a long period of policy change; and two, declines in courseware in Europe and smaller African markets,
+together with some minor business exits.
+
+In growth, underlying sales were also flat. We saw increases in a number of key areas: Firstly, South
+Africa grew 7%, driven by a recovery in spending on school textbooks in some provinces; two, China grew
+in both English courseware and in Wall Street English, the latter driven mainly by new center openings;
+and three, we also saw higher sales in the Pearson Test of English, in both India and China. These upsides
+were offset by: One, declines in Brazil due to economic pressures; and two, lower enrollments in CTI, our
+university in South Africa, together with some smaller business exits.
+
+Turning now to profits. Our adjusted operating profit is GBP 576 million, slightly ahead of the GBP 570
+million to GBP 575 million preliminary range we gave in January and at the top end of the guidance range
+that we gave at the start of 2017. In North America, underlying profits reduced 10% driven by sales
+declines and investment in OPM, partly offset by restructuring benefits from the 2016 reorganization.
+In Core, the decline of 14% was due to revenue mix, investment in new products and services, partially
+offset by restructuring savings.
+
+In growth, operating profit increased 3%, reflecting the higher revenues in China, South Africa School
+Courseware and Pearson Test of English, together with the benefits of restructuring, partially offset by
+lower revenues in Brazil.
+
+This slide shows the profit bridge we gave you in January. We've updated the bridge to reflect our 2017
+final numbers, although the changes are minor. As I said then, the impact of disposals, challenging
+trading, other operational factors in inflation, were partially offset by restructuring savings.
+
+These savings were largely driven by the incremental benefits of our 2016 restructuring program, but we
+also saw a small early benefit from the 2017 to 2019 plan.
+
+Other operational factors in staff incentive was lower than the combined GBP 115 million that we guided
+to at the beginning of the year, reflecting slightly higher incentive payments, as a result of a good
+performance against plan, more than offset by tight cost control.
+
+We've traditionally given you the revenue split of our business by geography and product and here it is for
+2017. But for the first time, the next slide gives you the product contribution split for the group, shown in
+the same way. Let me walk you through it.
+
+We define product contribution as the profit made by each product's area before the allocation of
+geography and centrally-managed costs. That means this is showing the share of profits after directly
+attributable product and salary costs. It's the way that we measure and manage profitability within our
+businesses. The majority of the segments, generates a similar proportion of product contribution to sales,
+resulting in segmental margins, generally being in line with group margins. But the analysis does show
+there are 2 notable businesses which have lower than average contribution: Firstly, our OPM business is
+low margin in the short term because we're investing in ramping up programs ahead of the shared tuition
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+revenue that comes with enrollment growth. Longer-term, profitability will improve significantly; two,
+North American school courseware has historically been below Pearson's average profitability, due to the
+structural pressures in that market. Both pressures were worsening the short term, putting profitability
+under further pressure.
+
+Amongst the businesses that share higher than average contribution, other ones you'd expect, Core
+student assessment, U.S. Clinical Assessment and U.S. Higher Education courseware. The key point here
+though, is that there is no overdependence on one particular business in terms of profitability. And over
+time, the combination of growth and our ongoing simplification efforts will mean the profit is spread more
+evenly.
+
+I turn now to the income statement. Interest cost was in line with guidance of GBP 79 million. Our tax rate
+of 11.1% was lower than expected. Essentially we released some provisions for uncertain tax provision --
+positions as statutes of limitations expired. EPS was 54.1p, down on 2016 in headline terms, but above
+our revised guidance given in October.
+
+Our statutory profit of GBP 408 million, represented a substantial improvement on last year's result, which
+included a significant impairment of goodwill.
+
+Moving on to our 2018 guidance, this slide summarizes the profit and EPS guidance that we gave you in
+January. This is not changed since then, but we've also summarized expectations for the balance sheet in
+2018. So let me take you through all of the guidance now in a little more detail.
+
+This slide shows the operating profit bridge from 2017 to our 2018 guidance range. The base for 2017
+is GBP 510 million, adjusting for foreign exchange and the incremental impact of the 2017 disposals.
+We expect a positive contribution from trading of between GBP 10 million and GBP 50 million. This
+incorporates the ongoing challenges in our higher education courseware business, but also an expectation
+of improved performance in the remaining 70% of Pearson that John referenced in his introduction.
+
+Other operational factors and incentives reduced profit by GBP 30 million with increased investment in
+strategic growth areas, mildly offset by lower incentives.
+
+Inflation will be a GBP 50 million drag, in line with what we've told you in previous years. The restructuring
+program that we started last year will generate an additional GBP 80 million of savings in 2018. Taken
+together, this leads to underlying profit growth and a guidance range of GBP 520 million to GBP 560
+million, based on exchange rates, at the end of 2017. The midpoint of this guidance is in line with the
+median of consensus.
+
+You should note that this bridge includes the contribution of all Wall Street English in Utah, which remain
+in the portfolio at the start of the year and K-12 courseware, which is now held-for-sale, but for which no
+disposal has been announced.
+
+The combined contribution of those businesses to 2018 operating profit will be around GBP 19 million.
+This slide shows how we see our prospects for U.S. higher education courseware in 2018. We simplified
+the format of the bridge to make the drivers of performance clearer. Digital now includes the full benefit
+of growth in our digital sales, including inclusive access or DDA deals, rather than the net impact of
+the digital transition in courseware. That means that the full negative impact on print sales, from the
+secondary market growth, and our own initiatives to shift from ownership to access models, is all shown in
+the third bar.
+
+You can see that our underlying assumptions for the market are largely unchanged, although, we do see a
+slightly lower drag from enrollment of 2% and from OER of 1.5%, based on our experience in 2017.
+
+This means that we expect underlying declines in market demand of around 6% in 2018, a little better
+than the 6% to 7% we've previously guided to.
+
+We are expecting a further improvement in returns as the channel continues to respond to the actions
+we've been taking to reduce inventory levels.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+We don't have perfect visibility into this area at this stage of the year, so we've given a range for this
+benefit of between 1% and 6%.
+
+This means we expect sales in U.S. Higher Education to be flat-to-down mid-single digits, overall.
+
+We're expecting growth in the remaining 70% of our business. Let me walk you through the moving parts.
+In North America, we're expecting stabilization in student assessment and growth in connections, OPM and
+professional certification. Learning Studio will continue to be a drag, but a smaller one than it was in 2017.
+
+In Core, we're expecting modest growth driven by our recent investments in student assessment and
+qualifications, where we're offering new products and services of considerably greater value, along with
+continued growth in PTE and OPM.
+
+In growth, we expect a modest increase, driven by new product launches in English, growth in the Pearson
+Test of English and more stable conditions in Brazil.
+
+Moving on to our simplification program, which underpins the GBP 80 million that you saw in the 2018
+bridge. This slide shows our expectations for the program, updated for the good start that we made in
+2017. We're on track to deliver the full GBP 300 million of savings in 2020, though obviously, the precise
+impact will depend on how exchange rates play out over the life of the program.
+
+Finally, let's turn to cash flow and the balance sheet. As I mentioned in my introduction, cash came in
+strongly in 2017, despite a decrease in operating profit. Cash conversion was 116%, driven by tight
+working capital management, lower returns and good Penguin Random House cash dividends, offsetting
+continued investment in product and CapEx.
+
+For 2018, we'd expect our cash conversion to fall from the exceptional level we saw in 2017, as collections
+and dividends receivable from Penguin Random House both normalize. You should still model cash
+conversion at a minimum of 90%, however.
+
+Product development spend will be similar to 2017, but our capital expenditure will fall slightly, as we
+continue to make progress in our system simplification program.
+
+At the start of 2018, we still have GBP 150 million to spend on the GBP 300 million share buyback we
+announced in October, and we will also have cash outflows relating to our restructuring during the year.
+
+Putting all of this together, we expect net debt to be broadly level with 2017, before the impact of any
+further disposals or FX.
+
+You should also note the deferred revenue grew 5% in underlying terms, rising to just over 19% of
+revenue. However, 2 businesses, Wall Street English and K-12 courseware, together account for more than
+half of our balance sheet deferred revenue. Excluding those 2 businesses from the portfolio, the deferred
+revenue balance would have been around 9%.
+
+Stepping back, we do have a very strong balance sheet, and that means the financial strength that allows
+us to focus on transforming our business. Over the past year, we proactively used cash and Penguin
+Random House disposal proceeds to reduce our debt maturities and substantially eliminate financing risk.
+We now have no maturities until 2021, and we've reduced the size of each debt maturity to decrease
+refinancing risk.
+
+Our capital allocation policy remains unchanged. We will: One, maintain a strong balance sheet with the
+solid investment grade credit rating; two, continued to invest in the business organically; three, maintain a
+sustainable and progressive dividend; and four, return any surplus cash to shareholders.
+
+And with that, I'll hand back to John.
+
+John Joseph Fallon
+CEO & Executive Director
+
+Thank you, Coram. So last year, 69% of our sales, as you see here, came from digital and services, which
+is the measure that we've been tracking over the last decade or more. We're now at the point where we
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+think it'll be helpful to unpack this metric, so that we can all track our digital progression more clearly as
+you can now see on the right-hand side of the slide.
+
+So 32% of our sales last year came from products and services consumed in purely digital form. Virtual
+schools, online degrees, online homework and assessment platforms. 27% came from digital enable
+products and services that combine the digital and physical world. So good example of that would be
+Pearson View, which delivers computer-based testing, but in physical centers. And then the 41% of our
+sales, although, nondigital, includes textbooks, but it also includes those 10% of nondigital services
+businesses, such as Wizard, our English Language franchise business in Brazil.
+
+Just to stress, these nondigital products are still very important to many of our customers and they have
+real value. They will continue to be an important part of the revenue and profit mix for Pearson for some
+time, and perhaps, forever. But as we make good progress on our strategy, the weight of our sales will
+shift steadily to the digital and digital-enable categories. And this will make Pearson a growing, sustainable
+profitable company with a more reliable and predictable revenue and cash profile.
+
+Our customers are a mix, as you know, of students, educators and administrators. They all see that
+education has to evolve, to meet the changing needs of a world of employment and skills. It is going to
+look radically different from our children than it did for us. And our move to digital is all about meeting
+that need. We help people to teach, learn and grow in new and powerful ways, by using our scale
+and expertise to deliver better learning, more personalized, more flexible, more engaging with better
+outcomes, delivered with anywhere, anytime, technology that gives people the freedom and the flexibility
+they crave and the control over when and where they learn. And real-time, personalized feedback that
+supports teachers to help learners to focus on what they really need to achieve.
+
+We achieved the benefits of this digital shift by combining our expertise in content and assessment, with
+the strength and the relationships we have with educators, to power the 3 strategic priorities you see on
+this slide: Drive the digital transformation of our courseware and assessment businesses to grow share;
+two, build our businesses in those structurally growing markets more quickly; and three, make Pearson a
+simpler and more efficient company.
+
+So let's take a look at how these priorities play out in the businesses that now make up nearly 80% of our
+revenues, and profits, as you've just seen from Coram's profit contribution analysis. I'll take you briefly
+through the highlights of what we're doing in each. There's much more detail on the slides and in the
+appendix to the presentation, which should help you.
+
+U.S. higher education courseware accounts as you heard from Coram, were just under 30% of our
+revenues and our profits. Half of those revenues are already digital. And we're expecting that to increase
+to 75% beyond 2020. We serve 3 interrelated customers, students, faculty and administrators. They all
+of value affordable choices and outcomes, but they value them in different ways, and we are meeting
+the needs of each group by changing our business model, from ownership to access, by shifting to more
+institutional and consumer channels, by accelerating digital formats and by investing in better learning
+experiences and outcomes.
+
+Now, it's good to see that our competitors are now following our lead to a greater or lesser degree.
+And the reason that's a good thing is because the quicker the industry as a whole moves to a digital-
+lead access model, the better that is for all stakeholders, especially students. But a winning sustainable
+strategy needs to recognize that the specific needs of all 3 customer groups needs to be met, students,
+faculty and college leadership. And that they all care in their different ways about all 3 things, affordability,
+choice and outcomes.
+
+Now in a January last year, you remember that we set out our plans to scale rapidly lower cost,
+subscription access business models to offer affordable choice with better outcomes. And you can see from
+last year's results that those plans are gaining traction. In our Inclusive Access model, students benefit
+from discounted prices. Day 1 access drives better outcomes for all, through campus integration. And
+Pearson benefits because we get 90%-plus sell-through, gaining share from the secondary market and
+from nonconsumption. We now have students at 425 colleges who last year took over 1 million Inclusive
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+Access courses with Pearson. And we expect to scale the number of colleges and the number of courses
+rapidly this year.
+
+Our digital rental model is now the most affordable option for students, is priced more competitively than
+print rental. And this, again, is helping us to win back share from secondary and nonconsumption. And our
+print rental model offers a competitive price for those, and there are still some who prefer a printed text.
+For Pearson, the benefit is that it eliminates, again, the future secondary market. And that's why in our
+model, we do not allow any other print options than the print rental model. We're scaling this model too,
+as you can see, in our announcement. But we're doing it carefully, respecting the concerns of faculty and
+authors and working with them as we do so. Because that's the best way to get traction longer term.
+
+Now we'll continue to flex our offerings as the market evolves. There are no simple headline-grabbing
+silver bullets here. What you're hearing though is that we're going to focus on a coherent and consistent
+way of meeting the needs of students, of faculty and of administrators for affordability, yes. But for choice
+and better learning outcomes as well.
+
+Now offer offering learners more affordable choices, as you've heard me say, helps us to grow because it
+expands our addressable market. It closes that gap between use and value that we've talked about before.
+But we will also grow by getting more faculty and students to use Pearson courseware, and we do that
+by improving the student experience and enabling better learning, and we're doing that in 3 ways: One,
+really exciting pipeline of new products that are coming to market now and will continue to use do that
+over the next 2 years; two, the deployment of the new global learning platform, which will just enable us
+to innovate faster and scale much more rapidly and reliably; and third, by investing in the services, such
+as analytics, faculty support, seamless integration that college leadership value most and are fundamental
+to making these new business models work.
+
+So let's now take a look at how our priorities play out across the rest of Pearson. For each business, the
+slide will lay out the markets, the opportunity and the competitive advantage. I'm not going to take you
+through the details of each. I'm going to keep my commentary quite high level. We're going to start with
+our school assessment businesses, both in the U.S. and here in the U.K., where digital transformation is
+enabling us to better meet the needs of students, teachers and administrators. Together these businesses
+account for around 16% of our revenues. They have, as you know, been through some difficult times
+around policy and curriculum change in recent years, but we're now through that. We've continued to
+invest and we're well positioned now to grow again in this markets as they stabilize. In the U.S. we are
+still the largest vendor. We've led the shift towards digital testing, with our best-in-class platform, TestNav,
+digitally administered test, now account for well over 50% of the total, and that digital lead is allowing us
+to develop strong partnerships. And through those partnerships produce our own regulatory risk.
+
+In the U.K. we're also pioneering the shift to a more digital future, building on our innovative online
+data analytics tool, ResultsPlus, which is making access to marked exam scripts available online, free to
+every student, every teacher and every school in this country. And in both markets, we're leading the
+adoption of artificial intelligence in assessment to support better learning, providing real-time personalized
+feedback, of which ResultsPlus is a great example, which supports teachers to help learners to focus on
+what they need to achieve to be successful.
+
+This digital promise of anywhere, anytime learning also opens up 2 of our biggest structural growth
+opportunities. And that is to partner with charter boards to run virtual schools and to partner with
+universities to offer fully online degrees. Both markets are still relatively earlier in their development. And
+we've seen some shift in contracts in some of the early adopters in service, some services or insource
+some services, or try to go it alone. We're learning from that, and we're learning that we need to adopt
+our own offerings, which were some of the first to market more quickly to meet the changing needs of
+our partners and that's what we're doing. At the same time, we're developing new Core skills for Pearson
+that we can then deploy across the whole company, around digital marketing, around student recruitment
+and retention. We're scaling online learning in a way that focuses on outcomes, providing, again, better
+learning, anytime anywhere, anyway with personalized feedback that supports that retention and reduces
+churn that in time, of course, makes for a better and profitable business model.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+Today, these businesses account for just under 13% of our revenues. The investment required to scale
+these businesses more quickly, which are now well placed to do, with some really exciting partnerships in
+the pipeline, means, as you heard from Coram, they won't make much of a contribution to profits, short-
+term, but they will drive long-term growth in revenue and profitability as they mature, and over time,
+became a much bigger part of the Pearson portfolio.
+
+In the meantime, more immediate sales and profit growth will come from 2 businesses that make up over
+20% of our revenues today: Professional certification, where our customers seek the credential that opens
+their way to a better job; and learning English, which opens up the opportunity to live or study in another
+country or work for a global company.
+
+The first year of our new American medical colleges contract is the latest in a long series of big wins, the
+Pearson View, 50 new contracts signed last year. And that extensive network of centers that supports
+those contracts is also the platform that has powered the exceptional growth of the Pearson Test of
+English.
+
+Pearson Test of English is more convenient than its rivals. You can take it at any time. You get the results
+more quickly than from any other tests. It provides much more personalized feedback, and is actually also
+a more accurate assessment of ability of all 4 skills for those relying on the results of the test.
+
+Our ownership of GEDU and Wall Street English taught us a lot about running direct-to-consumer, brick-
+to-mortar ELT businesses, and we're putting those insights to great use in both China and Brazil, as we
+now can able to power a wider range of partners who are very keen to deploy our brands, our content, our
+assessment and capitalize on our expertise and ability to scale online.
+
+So those are the primary ways in which Pearson will grow over the next few years. Increasingly, these
+products and services will be delivered across common platforms enabling a leaner Pearson, driving
+significant revenue and cost synergies. Those synergies are enabled by a third strategy priority, which is
+simplification. As you can see, on the chart, we've made good progress over the last 5 years in making
+Pearson a simpler, leaner, more efficient and scalable company, but we're not letting up. We are well
+on track to take a further GBP 300 million of cost out of the business over the next 3 years and that,
+combined with the growth opportunities we see, means that we're now well-placed to get Pearson overall
+growing again. As we accelerate our move digital in a more sustainably profitable and scalable way, with a
+more reliable and predictable revenue and cash profile.
+
+Right across the company, we have talented and committed colleagues who are all very excited by the
+fact that our ability now to deliver more effectively, on what has long been Pearson's mission, to empower
+people to progress in their lives through learning is what will drive our future growth.
+
+And so with that, Coram, the executive team and I will be very happy to take your questions. To help
+answer your questions, we have here, Tim Bozik, who leads on Global products; Rod Bristow, who leads
+in our Core geographies; Kevin Capitani, for North America; Gio Giovannelli for our Growth Markets; and
+Albert Hitchcock, for Technology and Operations. Bob Whelan, who leads our North American Assessment
+businesses can't be with us today because he is at a major customer event. But we also have with us
+completing the executive team, Kate James, who leads our Marketing And corporate Affairs; Jonathan
+Chocqueel-Mangan, who has joined us to lead on Strategy; Anna Vikström Persson, who has joined to lead
+on Human Resources; and Bjarne Tellmann, our General Counsel.
+And with that, let's go into Q&A. So where are we going to start? Should we go here and get a microphone
+there?
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+Question and Answer
+
+Katherine Tait
+Goldman Sachs Group Inc., Research Division
+
+Katherine Tait from Goldman Sachs. If we just dig into OPM a little bit more, clearly it's been a big focus of
+some of the Investor Day presentations that you've done over the last couple of years. And if we just look
+at the numbers, I mean, in 2016, and clearly, enrollment growth of 19%, I think, in a double-digit revenue
+growth. And so this year, 2017, perhaps a little bit more disappointing at the sort of 3% revenue growth
+levels and 8% enrollments. And then also looking out further into your outlook statement talking again
+about, sort of, modest growth outlook there. Can you sort of a marry that up with the broader market
+outlook that you just put up in terms of the 10% market growth? And I appreciate that you are the market
+leader in the segment. But if you could, sort of, explain some of the reasons for the contract exits? And
+perhaps some of the smaller contract restructurings as well? And what sort of drives your view into how
+you can continue to lead in that market?
+
+John Joseph Fallon
+CEO & Executive Director
+
+Good question. I'll ask Kevin to give a bit more color. Just before he does, 3 points I've made just my
+way of introduction: First, we were first to market in this business, 7, 10 years ago. So we're then also
+the first to have to deal with big waves of contracts as they come up for renewal after that 7 to 10 years.
+I think we've learned a lot through those first waves as Kevin will explain, and I think you'll see us get
+much better at contract renewals over the next few years; second, I think we're excited by the pipeline
+we see in the graduate market, which is the established market today, and again Kevin will talk about
+that; and third, we're just starting to see the emergence of what's sometimes called the enterprise or
+the undergraduate market, if you think about it, given the changing nature of higher education, that as
+a potential to be many times the size of the graduate market, we're the only people who scale that so
+far, which we've done in partnership with Arizona State University, and we've got a second very exciting
+partnership coming up with Maryville. So 3 reasons to put it in context, but ask Kevin to expand and give
+a bit more color on it.
+
+Kevin Capitani
+President of North America
+
+Can you hear me? Do I need this?
+
+John Joseph Fallon
+CEO & Executive Director
+
+You need it because everybody is listening online. So just...
+
+Kevin Capitani
+President of North America
+
+I hope I can expand on the all these things, John. First and foremost, if you look at -- to answer the exit,
+if you look at Boston University, which we've had a 16-year relationship with, they're exiting and it's not
+uncommon in a managed services business that over a period of time that companies, institutions will
+take things back, that should be normal. And it's something that we're planning for and accounting for.
+In a business context what you have to do is have a very strong pipeline, and we do, 3x sometimes and
+5x now, to use that terminology to combat that. And basically you need to stay ahead of that, and we're
+well ahead in terms of pipeline, both in our Core and our graduate market. But the undergraduate and
+the enterprise market that John referenced. So as we plan for those things, we're going to see contract
+exits or we're going to see take it in-house. What we don't see is losing the competition, at all. So we're
+planning for that really, really well. I think that some of the contracts and the renewals that we're going
+through, not only is it strong, in terms of getting all those renewals, but in terms of expansion that we're
+going towards. So that's something that you'll see. I don't think that the pipeline has been ever this strong
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+since we bought the business 5 years ago. So we're really bullish on this. The thing that Coram mentioned
+is important, in the investment when you start new programs, you have a 2-year to 3-year ramp to get
+that profitability or get that contribution. And we're in that cycle right now with a strong pipeline. So in
+'19, you'll see great growth in terms of signings and new programs. But in terms of contribution, that
+doesn't take place until '20 and '21 with regards to those. So really, really strong on our pipeline. Two
+things I will mention in addition, I want to expand a little bit. If you look at the undergraduate market
+and the enterprise what we're calling market, with Maryville and ASU, that's a growing market. And there
+isn't anybody else besides us in terms of our competition that can scale that rapidly. And what we can
+do. So you're going to see a lot of additional programs in the Maryville. You're going to see an uptick and
+additional programs enter ASU. And then we're going to scale appropriately with the next 2 or 3 enterprise
+undergraduate, as that market starts to form. What we really like about that market is the average time
+for a student or an enrollment to take place is 3 to 4 years, versus 2 on a graduate program, so the
+revenue is longer, and the student acquisition costs are less, which is really, really beneficial. And nobody
+else can do that but us, in terms of our capability and strength.
+
+Katherine Tait
+Goldman Sachs Group Inc., Research Division
+
+And just a quick follow-up. And is that -- if I think about the investments that you have to make in terms
+of these undergraduate courses versus the graduate courses. I mean, is there a big difference in terms of
+the investment levels required?
+
+Kevin Capitani
+President of North America
+
+For the undergraduate, it's actually a little bit more turnkey. It's more simple. We actually have some
+courseware synergy that we can take advantage of there versus the graduate market, which is kind of a
+bespoked lecture oriented without the courseware. So there's better synergy, both with the marketing and
+student acquisition. And there's better synergy with the courseware that we're really positive on. And if
+you look at our competition, nobody has the scale or the breadth, or the portfolio on the assets that we
+do.
+
+John Joseph Fallon
+CEO & Executive Director
+
+[indiscernible] and the microphone behind you.
+
+Simon Baker
+Societe Generale Cross Asset Research
+
+Simon Baker, Societe Generale. So three questions, please. One, could you just confirm that none of the
+2020 GBP 300 million cost savings are somehow interrelated with the K-12 U.S. courseware business?
+I guess, not but could you confirm? Secondly, on the use of surplus cash, I appreciate the pyramid of
+balance sheet strength and investment then steady dividend growth then returned to shareholders, what's
+the, sort of, time line on a U.S. K-12 courseware disposal before you get to the fourth element, the return
+of cash to shareholders in surplus? And then finally, on the slightly low -- lower drag from enrollment and
+OER, can you just put a little bit more color on what you're seeing that's -- that you're referring to there,
+please?
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. I think, Coram, do you want to pick on the first 3 -- first 2 or 3 points. And then Tim will pick up on
+what we're seeing from an enrollment and an OER point of view.
+
+Coram Williams
+CFO & Executive Director
+
+Sure. So on the first question, just to confirm, there is no interconnectness between the GBP 300 million
+of savings relating to our simplification program and the K-12 disposal. We have been running K-12 as
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+a separate entity for a period of time. And therefore, it's contained, and we will manage any stranded
+costs as a result of that exit, so no relationship there. In terms of the use of surplus cash, Simon, you're
+absolutely right in terms of the pyramid. I think it's a little premature to start speculating about what
+excess capital there might be and therefore what we might do with it, given that we haven't close the
+transaction in Wall Street English, and we've only announced today that we're in a process for K-12. But I
+think the board has demonstrated an appetite to return excess capital, if its' there, but we can't speculate
+just yet just to whether or not if we'll be there.
+
+John Joseph Fallon
+CEO & Executive Director
+
+And just to sort of manage expectations, unlikely processes remind everybody what the profit contribution
+from that K-12 business is.
+
+Coram Williams
+CFO & Executive Director
+
+Good question, John. I just -- I mentioned in my presentation that it's GBP 19 million relating to K-12 and
+Wall Street English, of that GBP 11 million of profitability in 2018 related to K-12. So I think you have to
+think about that number when thinking about proceeds from the disposal.
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. And then, Tim, do you want to give a flavor of where we think we are from a cost enrollment
+perspective and also the confidence we have in where we think the impact of OER will be as Coram called
+it on the chart?
+
+Tim Bozik
+President of Global Product
+
+Right. So the -- our assumptions about the enrollment are reflected in the model that Coram shared. I
+mean, I think, our -- to share a little bit more about the enrollments, we saw some modest improvement
+enrollments as reported last fall. We think sort of long-term they are going to be a function of
+demographics largely as well as participation. We think we've factored that in appropriately to our model.
+And as you know Pearson is weighted to adult learners. And so the sensitivity to adult learners may be
+reflected in that. We're pretty confident in our enrollment outlook. And so far, it can be precise. From an
+OER perspective as well, I think we're quite close to the OER environment, because we're quite close to
+our customers. And to some extent, it's a reflection of the concerns for the value the customers place,
+as John said, about affordability. But they also place very high value on outcomes and choices. So we
+think that our responses both in terms of go-to-market perspective and the things that we're doing
+from a product perspective to deliver products that can support better learning outcomes positions us
+very competitively and well for the impact of OER in conjunction with the things we're doing from an
+affordability standpoint.
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. And for our British audience, just to remind you, that was an American use of quite. So it actually
+means very close. So just to make sure that we are all understood what Tim was saying.
+
+Okay. Next question here from Chris. Can you turn the microphone over?
+
+Christopher Anton Giles Collett
+Deutsche Bank AG, Research Division
+
+It's Chris Collett from Deutsche. Just a follow-up on Coram's very good question about the contribution
+from K-12. I think the GBP 11 million was the -- that's after allocation. So the contribution to profitability
+-- is that more like about GBP 40 million -- GBP 30 million, GBP 40 million? But just give us that number.
+And then so just to follow-up on -- one was on the MyLabs, sort of slow decline. Just wondering what we
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+should expect there. And then thirdly, within growth, so South African textbooks, got a big -- looks like
+quite a big contribution, but it's quite lumpy. So should we expect that to go down again sort of in the
+future before bumping back up in kind of years to come?
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. Coram, do you want to pick up on the first of those questions?
+
+Coram Williams
+CFO & Executive Director
+
+Sure. I think, I've said in previous presentations that the contribution margin on K-12 is high-single digits
+on a sales base, which is a little less than GBP 400 million. So Chris, you're getting to roughly the right
+number. But the GBP 11 million is the right number to focus on, because that is the profit that we will lose
+as a result of the business leaving the portfolio.
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. On the -- on MyLabs and registrations, I mean, as you can see, last year has played out as much
+as we called it, about 18 months ago, which we're seeing good growth in digital revenues as we add
+new features and functionality to the MyLab and mastering products, but they are at the top of the S
+curve from a maturity point of view. So growth in registrations is very dependent on the pipeline of new
+products and features coming through. So Tim, do you want to talk about our -- the regions for our
+growing excitement about that pipeline and how that will drive registration growth in the future?
+
+Tim Bozik
+President of Global Product
+
+So I'm super excited about our pipeline, and John will [indiscernible]
+
+John Joseph Fallon
+CEO & Executive Director
+
+[indiscernible]
+
+Tim Bozik
+President of Global Product
+
+Yes, not quite super. You're correct for other American English differences. First of all, we're seeing very
+strong growth in our Revel product. It's at over 50% volume growth year-on-year. It's growing because
+it does the things our customers care about, which is deliver better learning with real-time feedback
+anytime, anywhere. It is a textbook replacement model. It provides an integrated learning experience.
+It delivers a killer mobile experience that our customers love. Its app store ratings are in the high 4s
+out of 5 from our students and provides a better learning experience, which is what -- because it's
+designed on what we know about how the students learn, and it's designed to deliver that in a sort of
+fully integrated digital fashion. That's indicative, I think, of the R&D and pipeline that will drive further
+volume and share, and therefore, commercial value out of that. I'd like to share sort of one particular
+point from an R&D standpoint. We've been applying artificial intelligence and machine learning into very
+important foundational areas in learning, in mathematics and in writing. And we're doing that in ways that
+allows students and faculty or teachers, not only to get feedback in a sort of learning and assessment
+experience of what they're doing, but how they're doing it. So that means in a mathematical perspective,
+how they're solving a problem and the evaluation of step-by-step, not just a simple answer. From a writing
+perspective, not just sort of the outcome, but how they demonstrated reasoning into this -- into writing
+mechanics. These are activities that are in testing with customers now and I think will bring really the next
+big breakthrough in learning and product value to our customers and will drive sort of future growth in
+both volume and for our business.
+
+John Joseph Fallon
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+CEO & Executive Director
+
+Thanks, Jim. And you will then hand the microphone over to Gio. And Gio, talk a little bit also about how
+we've seen the outlook for South Africa this year and talk more generally about the business.
+
+Giovanni Giovannelli
+President of Growth Markets
+
+So back to John's point there. Part of our business probably will take time to turn to digital, and maybe as
+John said, will never turn to digital. The South Africa K-12 textbook market is a very solid business for us.
+We're very pleased with it. It is indeed as you've said, a cyclical business. So as you correctly pointed out,
+this year's numbers were helped somehow by 3 exceptional orders that we had from provinces in South
+Africa at the end of last year. The way this business works, is as you know, we have relationship -- long-
+term relationship with the provinces in South Africa and they order books. And this obviously depends
+on a government procurement process, which is cyclical. But all in all, the market is still not at its peak.
+The peak was in 2013, and then it fluctuated. So yes, we may have some ups and downs, but it's a solid
+business, pretty much like other businesses we have in the growth markets. I was recently with the CEO
+in China, we have a lot going on there as well.
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. Thanks, Gio. Next question comes from Ian here.
+
+Ian Richard Whittaker
+Liberum Capital Limited, Research Division
+
+Ian Whittaker from Liberum. Three questions, please. First of all, just in terms of sort of average revenue
+per enrollment that used to be, so the chart that we would get into the U.S. higher education, sort of
+in terms of sharing that sort of wide world structure problems in terms -- if that was sort of holding out
+very well? Now I think 2016, that was sort of in the appendix. It looks though it declined to 87. 2017, it
+actually disappeared from the presentation at all. Just wondering if you could actually give us what that
+number is now, and then also as well whether you still see that as a valid metric. So moving forward, can
+you actually explain sort of the -- the sort of structural nature of the market? And the second thing is
+just in terms of -- I guess a point of clarification. I think, Coram, you said 70% of the businesses growing
+in terms of revenue. It's just -- but that includes testing which is flat. Obviously, you've got Learning
+Studios, which is also sort of coming down as well. Sort of on an underlying basis, if you take out K-12,
+is it probably more the case of the 45% of the business is flat to down with only 55% growing? And then
+third of all, just in terms of OPM as well, just coming back on that. So I think the sort of commentary
+was that sort of 2020, 2021, we should start to see the revenue growth coming through some of these
+new contracts coming through. The sort of implication would seem to be that 2019 -- just as '17 and '18
+have underperformed the market, but it sounds like 2019 will also -- you'll also underperform the market
+growth in OPM as well, because you won't get revenues from these new contracts. So just wonder if you
+could comment on that as well, please?
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. Do you want to pick up on the second of those points, Coram? And I'll pick up on the other 2.
+
+Coram Williams
+CFO & Executive Director
+
+Sure. I think we're really clear in that 70% of the portfolio is growing. And just to remind you of some
+of the things that are driving that, the virtual services business, connections and OPM, our professional
+certification business, you're seeing stability in our student assessment business in the U.S. And in the
+U.K., we're expecting growth in our qualifications business here as well as growth in Pearson Tests of
+English and OPM. And you've heard the excitement that Gio has in the great market. So I don't fully
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+understand the numbers you're quoting at me. I think we are clear that 70% of our business is growing,
+and you can hear the drivers.
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. On the first point, our actual net revenues last year were up. So if you take gross sales minus
+actual returns, our net sales were up. And as you heard, enrollments were down. So dividing one by the
+other means that revenue per enrollment started to recover last year. I think we've stopped showing
+that measure, because, I think, it is true as we work through the structural change, making sure that
+it's a measure that really we can all be confident off on a year-by-year basis. It's something we can
+work through. But I think the important point to remember is where the point now where -- our biggest
+competitor is actually second-hand sales of our own textbooks. So as we move to inclusive digital models,
+as we move to digital rental models, as we move to textbook rental models, what we're actually able to
+do is deflate the cover price that you can track and follow, but we inflate the sell-through. And as a result,
+I think, what we're now seeing is that revenue per involvement will start to grow. That's a win-win for
+us, for students, for administrators, and more generally, for the market. And this also becomes an much
+more reliable business because they haven't then got -- which is the big challenge we've had in the last
+few years. Those numbers that we were showing previously distorted by the fact that we've got millions of
+textbooks sat on the shelves in college bookstores or in inventory warehouses around the place. So really
+cleaning out that inventory in that channel and moving to a much tighter, more flexible model where we
+sell much more direct to students and much more direct to institutions. It all gives confidence we've got
+that more flexible business. And then on sort of OPM, we are the market leader. Clear point you need to
+understand is we are at a an earlier point because we were first to market. We're first to have to renew
+contracts, so I think a better measure of performance is what's happening to enrollment growth, what's
+happening to new contracts, how we're growing and expanding the market. And I think, as you heard
+from Kevin, we are very confident in that. Well, Kevin, I know you want to say more about the competitive
+performance and the outlook for the business.
+
+Kevin Capitani
+President of North America
+
+Just that -- maybe rehash or echo what I said earlier. With our existing core partnerships, it's really strong
+and great profitability. And expansion of those programs within those partnerships and those customers
+will lead to good growth. What I was referring to in terms of wait to see is more of the enterprise market
+and how we need to invest in that to get that type of growth in the '20, '21 timeframe. So you're going
+to see growth in this market better than it was this year. You're going to see better contribution and
+profitability as we concentrate on student acquisition within that core. Further -- and it's really an
+important, we're looking at and selecting programs and new partners or customers based on what
+we know the highest demand is. So not so just opportunistic, but what are those disciplines and what
+are those programs within those existing customers where there is demand for those jobs and having
+that be a lot more profitable, efficient on both ends, the acquisition as well as the, say, the margin and
+profitability.
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. We'll go to Thomas Singlehurst next. Thanks, Tom.
+
+Thomas A Singlehurst
+Citigroup Inc, Research Division
+
+Sitting in the wrong part of the room. I do apologize. I had -- I want to ask another question about OPM.
+So I apologize about that. But when looking at the market, it strikes me that when you look at some of
+the big competitors, one of the differences is they are potentially a lot more aggressive in terms of what
+they're committing to in terms of student acquisition. And as a consequence and as you've said might
+prove not to be right. But as a consequence, they appear to have better retention capabilities, i.e. the
+ability to rollover deals. Now the point I wanted to ask about was, obviously, committing more on student
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+acquisition means more upfront cost, which means potentially more capital. So I was just going to ask, I
+know it's a core part of your potential growth longer-term, but what -- have you considered the potential
+of floating the OPM business to get access to direct capital for that business?
+
+John Joseph Fallon
+CEO & Executive Director
+
+I think that we believe that we are, at this point, the best owners of that business. We think that there
+are growing revenues synergies and cost synergies with the -- on the graduate market for the reasons
+that -- the reason that Kevin explained. And I think also we do want to grow the top line of that business
+as aggressively as possible. But we also want to grow it in a sustainable way. And we're not looking at
+this in a 1-year or 3-year view. This is a business that will be the foundations of the future business. So
+we're doing this on a 5- to 10-year view. So the commitments we will make to our customers are the
+commitments that we are confident we can deliver on and they're the ones that actually make rational
+economic sense in terms of the level of investment that we're willing to make and the belief that over a 7-
+year contract, we're actually going to make a reasonable return on that investment. So I think we feel that
+we've got the right balance, and it is really important to take a long-term view and to see this within the
+overall context of the portfolio and the revenue and cost synergies that it will bring over time.
+
+Thomas A Singlehurst
+Citigroup Inc, Research Division
+
+I've got one other follow-up, which -- I can't remember Coram said if the early feedback from offers and
+faculty on some of the alternative models, what -- you're saying that offers -- you had to be wary of offers
+and faculty when thinking about alternative models. And I suppose you're alluding to the same gauge on
+limited model coming down the pipe. So can you just give a -- share any insights on early impressions of
+that model?
+
+John Joseph Fallon
+CEO & Executive Director
+
+Yes. Let Tim pick up on it. I mean, I think, we always think it's more important to focus on doing things
+rather than talking about things that you might do. So both on the inclusive access model and the print
+rental model, these are the things that we've really worked hard to operationalize over the last 2 or 3
+years. And the reason why you pilot them before you scale them is there's always going to be operational
+kinks and things that don't work for when you need to work through. And one of the most important
+things we're making both on inclusive access model and a print rental model work is it has to work for the
+student, it has to work for the administrator, and it also has to work for the author as well. So Tim, I don't
+know if you want to say a little bit more about that as we roll these programs out.
+
+Tim Bozik
+President of Global Product
+
+Sure. So in addition to the -- a fair amount of operational complexity that John described, and we've been
+doing this and we're iterating and learning and scaling. The particular point John raised about authors
+and stakeholders and higher education are a very important one. Authors are also educators, so they're
+both customers as well as sort of product creation partners to us. And this is significant change for them
+as well. So I think we've been successful in both communicating to them, why we're doing what we're
+doing, getting their buy-end along the way and their support for doing it at greater scale. And so they
+have credibility with each other. So we think the steps and the pace that we're taking has put us on a path
+to do this as quickly as possible and as practical in order to keep our stakeholders with us.
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. Thank you. We'll go to Sami at the back of the room, and then come down the front. We'll go to
+Sami first, and then I think I should have said at the outset, if there's anyone listening online who has
+questions that they want to ask, please post them, and we'll take those as well. But Sami, over to you
+next.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+Sami Kassab
+Exane BNP Paribas, Research Division
+
+I'm Sami at Exane. And I'm sorry I missed the earlier part of the presentation. So hopefully my questions
+are not out of date. But 3 questions as always. Can you discuss the rationale of selling the U.S. school
+textbooks courseware business and yet keeping the other assets in the other geographies and whether
+selling one and keeping the other might have some de-synergistic effects? Secondly, BTEC registration,
+any outlook as to whether we can expect a return to growth in that segment? I think Coram mentioned
+qualifications a second ago. But is qualification BTEC only or is it...
+
+John Joseph Fallon
+CEO & Executive Director
+
+Yes, just getting on that.
+
+Sami Kassab
+Exane BNP Paribas, Research Division
+
+And how much revenues did you recognize from Learning Studios in '17? Am I right to think there won't
+be any Learning Studios revenue in '18?
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. Coram, do you want to pick up quickly on the third of...
+
+Coram Williams
+CFO & Executive Director
+
+Sure. I think I mentioned in my script that we had a drag of about GBP 12 million relating to Learning
+Studio as it declined. That was roughly half of the remaining revenue, so you've got a similar decline
+coming in '18 and a little bit in '19. But by then, it's 0.
+
+John Joseph Fallon
+CEO & Executive Director
+
+And the rational, I'd ask Rob to pick up on BTEC registration and the outlook for the U.K. more generally in
+a moment. On K-12, of course, we're -- I think we talked about it back in the summer. This is a business
+that is a much slower on the digital transition. It is one, as you heard from Coram, one of the lowest
+margin and least profitable businesses in the company, and it requires significant capital investment in
+print-led programs that have very little synergies with the rest of the company. Whereas, the rest of our
+school textbook publishing businesses are higher-margin, require less capital investment. And they also
+ensure that we retain a platform for as and when there is an opportunity to lead digital transformation.
+We have other means and other platforms by which we can do that in the U.S. school market, because
+we have a strong profitable digital-leading assessment business. We have a very strong virtual schools
+business. And you remember, we're also retaining both the advanced placement and career and technical
+education part of our K-12 business. So I think those are the reasons why the circumstances of the K-12
+school publishing business in the U.S. are very different from the rest of the company. And then Rod, do
+you want to pick up on where we are on BTEC registration and the wider outlook for the U.K. qualification?
+
+Kenneth Roderick Bristow
+President of UK & Core Markets
+
+Yes. I will. Thanks for the question. I think if I was an American I'd say I'm quite excited about the
+prospect of the growth that we have in qualifications. It is true. In the last few years, we have been
+impacted by education policy changes that have affected the size of the market that we work, and it's
+particularly impacted on BTEC. But I'm pleased to say that our BTEC registration stabilized last year, and
+we'll recognize those revenues during course of 2018, because of the revenue recognition model. I'm
+also pleased to say that as a result of the investments that we continue to make into qualifications these
+last few years, we have a more valuable proposition to put before our customers, and I think we'll see
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+the benefits of that coming through. And then I think to your point about K-12, more generally, in the
+U.K., our strategy is to create a kind of an ecosystem, if you like, of learning around our qualifications to
+support our customers, teachers in delivering those qualification. And we are seeing the benefits of that
+in terms of our ability to gain market share, for example, in GCSE Science where we saw a tremendously
+strong reaction to the ecosystem that we put around our GCSE Science qualification. So I feel very
+positive about the future.
+
+Sami Kassab
+Exane BNP Paribas, Research Division
+
+Okay. And just rapidly, did you disclose the rate of revenue growth or decline of the K-12 assets to be
+disposed of last year?
+
+Kenneth Roderick Bristow
+President of UK & Core Markets
+
+We said that it was a decline based on the back of Open Territories and adoption markets. I don't think we
+put a precise number, but you should assume it's mid-to-high single digits.
+
+John Joseph Fallon
+CEO & Executive Director
+
+And then we'll go over here.
+
+Matthew John Walker
+Crédit Suisse AG, Research Division
+
+Matthew Walker from Crédit Suisse. Just a couple of things, please. The first is you showed higher
+education courseware, I think it was like 28%, 29% contribution. Including central cost, what is the
+percentage share of operating profit of higher education courseware? Second thing is on inventory. And we
+saw a huge change in inventory in '16. And I know there's a range of around 8% for potential outcomes
+on inventory in '17. It turned out to be only 2%. Some of your competitors have said that it was actually
+a much bigger reversal in '17. So can you just explain why it was so little? And going forward, again,
+your outlook first sort of 0 to minus 5 in higher ed, so the entirety of which could be moving 1 -- from
+1 extreme to the other purely based on inventory. So why is it so difficult to work out what inventory
+is going to do. That seems like a really huge range again. And finally, on unlimited, I don't think the --
+you sort of quite said how you thought Unlimited was going. Clearly, Cengage would be in a -- upbeat
+on their call about wherever they call takeaway adoptions or whatever phrase you would use. Why does
+that model not make sense for you and the higher ed companies, the sort of all-you-can-eat subscription
+model? Particularly, if you would think that with Pearson -- I think, this Cengage number is 1.1 courses per
+student. And you would think given Pearson's market share, it will be well above 1.1. And so that kind of
+model would maybe set better than the DDA.
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. Well, let's pick up on that last point first. And then Coram will pick up on the other 2. I'll ask Kevin
+too. But just way of introduction, for the reasons you talked about, that model does work for Pearson. It's
+called Inclusive Access. We've been doing it for the last 3 years. And we have over 400 colleges signed up
+through it and over 1 million students enrolled. And it's a fast-growing part of the business and one we're
+very excited about. So -- but Kevin, do you want to pick up on that and then talk a little bit about how you
+feel the competitive landscape is shaping up on campus?
+
+Kevin Capitani
+President of North America
+
+Sure. Good. Perhaps to be redundant, any type of subscription access model needs to take into account
+all 3 of the customers. You can't just focus on one. I think with our affordability, we've made great
+progress. The pricing is in line with what's Cengage Unlimited wants to do from a B2C perspective once
+that choice is made. Remember that the students choose how to buy, but the faculty still chooses what
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+to buy. And that's a completely different thing that needs to be taken into account. We're there already
+with the pricing schema from a student perspective with print rental and digital rental. And we're taking
+away from the secondary market just to say again. Regarding how things are taking place and what's
+going on, on campus, with our CRM system, we're tracking this daily now. And I have to say that I don't
+really buy into the claims that adoptions are going away. It's not happening. They are sparking interest.
+There is conversation, but it leads us back to what we're doing really well, which is taking into account
+all 3 customers. Daily when I meet with deans, department heads, presidents and provosts, they look
+at this affordability with table-stakes type set of lenses. And what they're more interested in is really
+talking about outcomes and the data that can get to, to help bolster enrollments, keep students in the
+classroom, whether it be online or bricks and mortar, and then outcomes that are associated with that.
+Dashboards are not new to other industries, but they're new now to higher education. And instructors and
+administrators are using those dashboards to actually see when the student's not performing well and
+how they can intervene real time versus those that are doing really well and asking the questions as to
+why and how can we replicate that and duplicate it. That's a completely different discussion than what
+Cengage Unlimited has been proposing. And I would take -- I'm very confident in where we're going and
+what we're doing, that ours is more well-rounded, but the affordability aspect is already there. And then
+finally, students, students' impressions at Cengage Unlimited sounds great. I like the pricing. However, it
+would be better if I had more flexibility. I don't need access to everything. I only want to purchase what I
+need. So it's a big difference. Let's have this discussion again in a year and see where we land. I'm pretty
+confident that we're going to land well.
+
+John Joseph Fallon
+CEO & Executive Director
+
+And so to just build on that last point. If you look at the combination of our digital revenue prices, our
+print rental prices and our inclusive access, we are already very competitive when a student looks at what
+it actually cost them to buy that courseware, which is why, I think, we're very confident in where we're
+at. Coram, do you want to pick up on the operating profit contribution from higher education and this
+inventory point?
+
+Coram Williams
+CFO & Executive Director
+
+Sure. Yes. So -- just to explain why we show you product contribution in the slides, it's because that's the
+way we manage the business. And that allows us to take central costs, manage them centrally, have real
+visibility into them. And as you know, we think that those costs are too high, and it's the way in which we
+control them and will reduce them as part of the restructuring program. So I just want to explain why we
+look at the business in that way. Having said that, you can see that higher education, 26% of revenues,
+28% of product contributions, it's roughly in line with Pearson's overall margins, and it wouldn't look that
+different if you were to do it on a fully allocated basis. But I do want to be clear how we ran the business.
+In terms of the inventory correction, I think, John made a point that on an actual basis, in other words,
+if you look at actual sales and actual returns, then we were up last year. But the key point is that -- and
+we've said this to you all the way through the year last year, returns were lower than the prior year, but
+not quite as low as we had expected. And therefore, that meant we have to top up the returns provision
+to cover ourselves on an accounting basis. So that's why you get 2% benefit on an accounting basis. The
+actual benefit would have been higher than that. In terms of the channel, we've taken a lot of actions to
+improve visibility. So we're really focused on the incentivization of our sales staff. We put in place returns,
+restocking fees, and all of that is about making sure that this channel is under control and that we have as
+much visibility as we can. But we don't have perfect visibility. We've got 2 more returns periods to go this
+year, that's why we're giving you a bigger range. We do believe there will be ongoing reduction in returns.
+But at this stage, it wouldn't be wise to put a narrow range on it.
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. [indiscernible] fair to say, Coram, in the -- what we're seeing is lower buying orders from the
+channel of textbooks in December leading to higher digital sales and higher direct consumer sales in
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+January, leading and return to lower returns in February through to March, which is exactly what we said
+in January we thought would happen and exactly what is starting to happen.
+
+Okay. So -- sorry, 2 more questions, and then we'll wrap it up.
+
+Giasone Ulisse Salati
+Macquarie Research
+
+It's Giasone Salati from Macquarie. Three questions, please. One for John. I'm going to push my luck and
+say can you -- do you think Trump education policy could actually help Pearson? And by this, I mean,
+school choice charter, virtual schooling, is that a boost and it's sizable enough maybe longer-term to be a
+positive? And then on the other side, vocational versus college, is that kind of pushing enrollment down
+to more favorable end for Pearson, which is the shorter or sort of less sophisticated college? Second is
+for Albert, I'm always very concerned about this big restructuring in technology because that seems to
+me everything can go wrong at any point. And we won't know until the last hill. Can you reassure us that
+so far so good? And on the milestones, maybe give us an example. I think, I haven't heard about the
+IBM Watson cognitive -- I can't remember the name, but that -- in terms of coming to market? And the
+third one for Sidney. When you look at the company now, would you be okay spending GBP 1 billion in
+acquisition? Is the base solid enough that you can actually look at growth M&A?
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. So Kevin, is President Trump good news for Pearson in our K-12 and vocational businesses?
+
+Why is everybody laughing? It's a good question. It's a good and perfectly sensible question. So -- yes,
+you do. So everybody can hear you...
+
+Kevin Capitani
+President of North America
+
+Do you have guard rails on for this one? Regardless of President Trump's administration in the virtual
+schools market, the need, desire, pipeline, want is there. So if you look at where we're performing well, in
+certain states, you look at California, Pennsylvania, Florida, even Ohio with some of the problems there,
+there is headroom or great enrollment pipeline associated with what we're doing there, regardless of any
+type of Trump education policy. I think the demand for virtual schooling in that space is going to continue
+to grow. And the good news for us is the barrier to entry is really hard, given the regulatory environment.
+And our brand, our success, our efficacy focus in that space is -- puts us predominantly well-positioned to
+continue regardless of education policy. It's pretty nice to avoid Trump today, so.
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. I'd tell you what will absolutely help our virtual schools business in America. You remember that
+5 years ago we made this commitment that by this year we'll be in a position to report on an externally
+audited independently verified basis on the efficacy of our products. Well, one of the first studies that
+we published very shortly will prove that our kids in our virtual schools across America performed, at
+least as well, if not better, across all subjects as compared with students in bricks-and-mortar schools. So
+the more we can prove the efficacy of virtual schools, the better we'll do. And that brings us back to the
+theme of this morning, because virtual schooling is about affordable choice, better outcomes. And those
+are the themes that are fundamental to the future, the Pearson that we are building. Second question,
+well, I think, Albert just said yes. So Albert, the one-word answer, yes, it's all okay, but give the longer
+version of that.
+
+Albert Roger Hitchcock
+Chief Technology & Operations Officer
+
+Well, I think the thing to say, that's a very multifaceted program, right? So there isn't some large day that
+we're all heading for Armageddon, if that was your point. There's been some really good progress made.
+So just to give you a bit of a flavor that -- so we have a large single instance ERP platform that we're
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+implementing. We're live in the U.K. We went live last year. All of our HR systems have been replaced by
+that single platform that went into the U.S. last year. We're going live with our U.S. business for finance
+and operations this year. So it's a multi-milestone approach to the enterprise. In terms of simplification,
+we've decommissioned over a 1,900 systems to date, 400 of them last year. We decommissioned 19 data
+centers last year. So we're seeing the fruits of all of that simplification, and that's coming through the
+GBP 300 million cost-reduction plan. And in fact, technology and operations are a very large percentage
+of that plan. And all of that is going through today. So other flavors I can give you, a whole new content
+ecosystem was implemented last year, new content offering, distribution, storage, all of that was replaced
+with new systems, and new e-commerce platform went in last year. We have a new CRM platform.
+Kevin mentioned we're getting the benefits of that, that went in the last couple of years. Global learning
+platform, which is our really exciting micro services cloud-based platform that'll host all our content in
+the future. We are implementing 2 major pilots this year, one in the developmental math product. This
+year it's going in place in terms of a major pilot. And also Revel, we're going pull the Revel product line on
+to the platform as well, and that will allow us to innovate much faster. At scale, the platform is infinitely
+scalable comparable to the best digital services platforms out there in the world today. So we're extremely
+excited about the digital platform plan. It's going well. It's delivering. We're seeing the cost savings and
+everything is on track. And I'll let Tim talk a little bit about the IBM Watson.
+
+John Joseph Fallon
+CEO & Executive Director
+
+IBM Watson.
+
+Albert Roger Hitchcock
+Chief Technology & Operations Officer
+
+IBM Watson. But GLP at its core is built with a machine-learning capability. And so machine learning AI is
+at the core of our future digital strategy. I'll let Tim talk about IBM Watson.
+
+Tim Bozik
+President of Global Product
+
+Thanks, Albert. So specifically, on Watson, we've released our first product for testing last fall, limited
+pilot. The service was in a sort of couple of chapters of the product, got the signals there we were looking
+for from that. We are in pilot release with additional products this semester, full semester usage, multiple
+courses, AB testing, et cetera. We're encouraged by what we've seen so far, and we feel like we're on track
+and sort of link that to Albert's calling about sort of GLP and the early comments about our organic sort
+of R&D in applications artificial and machine intelligence. I think we've got a very strong pipeline and we'll
+have a platform that will allow much more rapid prototyping validation and then sort of commercialization
+or productization of these kinds of services.
+
+John Joseph Fallon
+CEO & Executive Director
+
+And then, I think, Sidney, you've invited to give a view from the board on balance sheet and capital
+allocation.
+
+Sidney Taurel
+Chairman
+
+Thank you. Yes, over the last 2 years, we've been really focused on simplifying the company, getting it
+under operational control, strengthening the balance sheet, and at the same time, making the organic
+investments that we need to build our future. With those investments, we are confident that we have
+the wherewithal and the capabilities to grow in the future. We have one more year of that simplification
+process to go through. As you know, 2018 is a key year for delivery on our TEP program as well as on
+the GLP. And it's only when we have this done that we could envisage in the future potential acquisitions.
+Because I think what we learned in the past was that our ability to integrate those companies was very
+limited. So we have the wherewithal, but I don't exclude in the medium to long-term future the possibility
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+of inorganic growth. I do not expect this to be large acquisitions, but we will be on the lookout for things
+which can supplement our organic growth strategy.
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. And TEP is the enabling program, which is the underpinning finance and planning changes that
+enable the -- the unlock [indiscernible] further through independent pound of cost savings that we were
+talking about. Final question, and then we'll call it a day.
+
+Nicholas Michael Edward Dempsey
+Barclays Bank PLC, Research Division
+
+Yes. It's Nick Dempsey from Barclays. Just 2 to squeeze in. First of all, in your 2018 EBITDA bridge
+for trading, you've got GBP 10 million to GBP 50 million. It strikes me that if you look at the range of
+possibilities for North America higher ed courseware and do a kind of 70% drop-through on that, that's a
+swing of 40. So are you not flexing the rest of the business at all in there? Is that swinging from GBP 10
+million to GBP 50 million all about the range of possibilities of that business? Second question, on your
+savings target. You mentioned that there's better -- the FX at the end of 2016, so if we mark-to-market,
+what's that 300?
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. Coram, I think, those are all for you.
+
+Coram Williams
+CFO & Executive Director
+
+Sure. And so -- in turn -- let me take the FX question on the savings first. The only reason I flagged that
+in my script is, obviously, a chunk of those savings will be generated in U.S. dollar. So I want to highlight
+that sensitivity. Currently, on the back of the rates that we're planning on, it's still very close to 300. So
+it's not that there is a hidden message here that we're coming off the 300, that's not the point. It's merely
+that there is a degree of sensitivity there. In terms of the trading performance, I think the key point is
+that, actually, we've said that 70% of our business will grow this year, and we've laid out the assumptions
+for that. That's what drives the range in trading. But obviously, would be offset depending on where we
+land in higher ed. So it's the interplay of those 2 sets of assumptions that would drive where we land
+overall, but it's not just about higher ed.
+
+John Joseph Fallon
+CEO & Executive Director
+
+Okay. And on that, thanks again for your interest. Thanks for coming. Gio, Tom and Angela are all here,
+and we're very happy to take your questions, any follow-up you may have in the course of today, but good
+to see you all. And catch up with.
+[Audio Gap]
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+23
+
+PEARSON PLC FY 2017 EARNINGS CALL |  FEB 23, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+24
+
+

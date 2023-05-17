@@ -1,0 +1,1409 @@
+Fresnillo Plc LSE:FRES
+FY 2017 Earnings Call Transcripts
+Tuesday, February 27, 2018 9:00 AM GMT
+S&P Global Market Intelligence Estimates
+
+CONSENSUS
+
+EPS Normalized 
+
+0.67
+
+Revenue  (mm)
+
+2103.21
+
+Currency: USD
+Consensus as of  Feb-26-2018 12:05 PM GMT
+
+-FY 2017-
+
+ACTUAL
+
+0.65
+
+2093.31
+
+-FY 2018-
+
+SURPRISE
+
+CONSENSUS
+
+(2.99 %)
+
+(0.47 %)
+
+0.72
+
+2415.79
+
+FY 2016
+
+FY 2017
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.42
+
+0.67
+
+0.45
+
+0.65
+
+7.14 %
+
+(2.99 %)
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+14
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Call Participants
+
+EXECUTIVES
+
+David A. Giles
+Vice President of Exploration
+
+Gabriela Mayor
+Head of Investor Relations
+
+Mario Arreguín
+Chief Financial Officer
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+ANALYSTS
+
+Daniel Edward Major
+UBS Investment Bank, Research
+Division
+
+Daniel Harry David Shaw
+Morgan Stanley, Research Division
+
+James Andrew Keith Bell
+BofA Merrill Lynch, Research
+Division
+
+Jatinder Goel
+Citigroup Inc, Research Division
+
+Luke Nelson
+JP Morgan Chase & Co, Research
+Division
+
+Unknown Analyst
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Presentation
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+Thank you. Good morning all. Thank you. Good morning all, and thank you for being here at the Full Year
+2017 Preliminary Results of Fresnillo. I would like to draw your attention to the disclaimer. And here with
+me this morning is Mario Arreguín, our CFO; and David Giles, our Vice President of Exploration.
+
+David A. Giles
+Vice President of Exploration
+
+Hello there.
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+I would like to start with an overview.
+
+2018 marks a 10-year anniversary for Fresnillo being listed in the London Stock Exchange. So I think
+it's a great opportunity to look back and see what we've done in this decade, which I believe which has
+achieved a lot of our milestones.
+
+In the operations side, our silver production has increased by up to 69%, going from 34 -- a little bit over
+34 million ounces of silver at the end on 2007 to 53.3 million ounces of silver. Gold, remember, that we
+achieved the 750,000 ounces mark. We're doing right now 911,000 ounces of gold. But at the same time,
+we have increased silver reserves by 23% since IPO and gold reserves by 216% since IPO, going from 9
+million ounces of gold to 35 -- just over 35 million ounces of gold.
+
+Dividends that we have paid, $2.5 billion over this decade.
+
+And on the development side, we started with 3 mining operations: Fresnillo in the Fresnillo District;
+Ciénega, the smallest one of our operations; and Herradura. And since then, we've opened 4 new mines:
+Saucito in the Fresnillo District; Noche Buena on the Herradura District; and Soledad-Dipolos; and San
+Julián, a new mining district.
+
+Along with that, we opened also a satellite mine in Ciénega, San Ramón. We built the third dynamic
+leaching plant at Herradura. And right now, we are commissioning 2 projects, the Pyrites Plant at the
+Fresnillo District and the second dynamic leaching plant at Herradura, that will help us process sulphide
+and transitional ore from the Herradura deeper ore body.
+
+On the exploration side, also some good numbers. We posted $1.6 billion invested in exploration since
+IPO. And that has helped us grown our rich silver resources by 177% to 2.3 billion ounces, and gold
+resources, we have grown over 3x, as I mentioned, from 9 million to just over 39 million ounces.
+
+95% of our growth has been organic. The only producing piece that we have purchased is the Noche
+Buena ore deposit. And as you know, we have a strong pipeline of growth prospects and projects, 1.8
+million hectares of exploration and mining concessions in Mexico, just around 400,000 hectares of
+exploration concessions in Peru, making it the largest concession holding in Peru for a mining company.
+We started 4 years ago, acquiring these concessions. And also, we are scouting in Chile. Hopefully, in the
+next coming years, we'll start exploring there.
+
+Sustainability, it's another one of our columns with the workers, with the communities around the
+operations in where we operate. And I think the only way now for mining having an integral approach, not
+only in production, but also in sustainability. Next.
+
+So this is what we call the value-creation cycle, starting with high-quality, low-cost, flexible operations.
+Very importantly, and especially in environments that we live through the cycles in mining, a disciplined
+approach to development. But remember that the operating assets that we brought onstream are along
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+the same lines, quality lines, from our regional assets, specifically Saucito, which is even more competitive
+than Fresnillo.
+
+Also, San Julián, the growth along the lines of -- in terms of low cost of production at a similar level down
+Fresnillo. And on the gold side, Soledad-Dipolos and Noche Buena at a point in time. And this is possible
+with a dedicated team, very experienced. This team has been together for the last 25, 30 years, longer
+workforce, also making possible this growth and this approach.
+
+This underpins, of course, the strength of our balance sheet that in turns gives us the possibility to invest
+in development of new prospects and new projects that will go and balance our approach to returns and
+further growth. All that in a framework of sustainability in the mining industry.
+
+This is a chart in which we have reflected some of the growth and some of the milestones we achieved in
+these 10 last years, starting with the IPO in May 2008; then bringing onstream Soledad-Dipolos; Saucito I
+was commissioned in 2010; then Noche Buena; then we commissioned the first dynamic leaching plant at
+Herradura; Saucito II, the expansion in 2014; further growth, which is about optimizing, which is another
+key element in our strategy, optimizing Saucito from nominal capacity of 4,000 each one of the phases,
+Saucito I and Saucito II, and now we are close to 9,000 tonnes per day in the 2 plants. San Julián Phase
+I, which was a quite difficult and challenging project to bring onstream, initially mentioned that we were
+planning to bring first San Julián earlier than Saucito II, and then given the fact of the challenges that we
+were facing there, we kind of pushed Saucito II and -- earlier and we brought later San Julián. And finally,
+San Julián Phase II commissioned last year.
+
+But as I mentioned, our main strategy has been consistent in these 10 years in which we invested in
+growth. That's the first column. Total exploration expenses on the last decade, $1.57 billion from 2008 to
+2007 (sic) [ 2017 ] and total CapEx sustaining as well as growth CapEx, just over $4.2 billion these 10
+years. That gave us, as I mentioned, increase in silver equivalent resources of 4.45 million ounces.
+
+If you divide these ounces that we just covered by the amount we have invested in exploration, gives
+approximately $25 per ounce discovery, which is quite outstanding, I would say.
+
+Production growth: silver, 69%; and gold, 225%. And EBITDA of $8.5 billion in these 10 years. And total
+dividends paid, there has not been a single prelim or final interim or final dividend that we have not paid
+in these 10 years amounting to $2.492 billion as well. Thus making the strategy of balanced growth and
+returns. And as I mentioned in an environment in which many of mining competitors have gone through
+write-offs or write-downs, in our case, it's not been the case.
+
+From all of these aspects, I believe that health and safety is the one in which we've suffered. In 2017,
+we have one fatality. And I regret to say that last night we had a fatality at the Saucito mine. So this is a
+pending aspect in a company to really go and achieve our objective of 0 fatalities. So we are reinforcing
+this aspect that never gives you rest in our operations. And hopefully, with a new approach that we are
+implementing across all of our operations, we can finally fulfill our objective of 0 fatalities.
+
+Sense of environment, community relations, as I mentioned, very important thing. We have been working
+with the communities on 4 different pillars, which are education. Well or better educated community gives
+you the possibility to start a dialogue really and making -- or being able to interact with them and try
+and to convey the message of why mining is important in these communities. Also, with job creation.
+Water is very important, so we have some programs in terms of water in our communities, and also
+entrepreneurship, so that we can maintain the economic activity even beyond mining.
+
+Some of the highlights in these 10 years. And coming to 2017, we achieved silver production of 58.7
+million ounces, including the Silverstream, up 15%, within the guidance. And gold production, 911,000,
+less than the year before, but better than we expected in the guidance.
+
+Construction of San Julián, as we mentioned, we achieved it. We ramped it up, the second phase, in only
+2 months and now it's running up to capacity. We look forward to -- we are evaluating the possibility on
+installing screenings as we did in the various screens in Saucito so we can further improve the capacity
+at San Julián Phase II. Phase I, remember that it's a nameplate capacity of 3,000 tonnes per day. We are
+doing 3,500.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+And also, silver production at the Fresnillo mine was up. The bottom production at Fresnillo was in 2015.
+2016 was slightly up. And 2017, we've increased 4%. This year, we have a confidence to continue that
+trend. So we are forecasting 7% to 9% further increase in production that will bring our silver production
+to 17.5 million to 18 million ounces of silver. The larger development that we've done in the last 2 years
+have paid off somehow. We have a larger number of stopes and that gives us a possibility to forecast the
+larger production.
+
+Gold, 38.5 million ounces in resources and 2.3 billion ounces of silver also went up. And we had a slight
+decrease in terms of reserves on the silver side, and David Giles will go in more detail about that.
+
+Guidance for this year is between 67 million to 70 million ounces of silver, including the Silverstream. And
+on the gold side, very much flat, 870,000 to 900,000 ounces of gold.
+
+EBITDA of just over $1 billion, $1,060,000,000 in EBITDA. And another characteristic, another mark in our
+operations, very good margins, 50.6% EBITDA margin as -- on a consolidated basis in our company.
+
+I would say that the cash generation in our operations is quite important, and that gives us the possibility
+to have cash in hand of $896 million. And that, with the cash on hand and the commitment that we see
+in terms of investment for next year has made our board to pay the final dividend of $219.6 million, USD
+0.298 per share, up 39%, totaling close to $300 million for the full year.
+
+Just some small information on the operations. As I mentioned, Fresnillo is maintaining the upward
+trend, and we expect to do so in this year as well. I would like to draw your attention to the cash cost
+for 2017. Mario will go in more detail about the inflationary pressures that we've been experiencing at
+our mines. But basically, we keep on strengthening the infrastructure in Fresnillo. We are deepening the
+shaft, the San Carlos shaft, to 400 meters so that we can have access to the deeper zone of that ore body.
+We are also bringing a -- onstream a new vertical conveyor, which is quite an alternative to a shaft and
+that will lower the haulage cost from the bottom part of the ore body. That is already being -- has been
+commissioned. And also, we are bringing a tunneling machine that will be ready in the last quarter of
+this year that will further increase the development rates. But especially, on the haulage level, the [ 6
+95 ] level to the west, which will give us access to prepare those areas out west of the Fresnillo and up
+from [ 6 95 ] level. So we keep on strengthening the infrastructure and the position and deficiencies at
+Fresnillo.
+
+On Saucito, 21.2 million ounces of silver in production last year. In 2016, let's say, the 21.9 million ounces
+of production made us the largest silver-producing mine worldwide. So we expect very much the same this
+year. We had lower grades due to some geomechanical problems in some of our stopes. But we are in a
+good position this year. So giving you some guidance and some of the annexes in terms of grade that we
+are expecting for Saucito and Fresnillo in this year.
+
+In Saucito, we are also strengthening our infrastructure, deepening the Jarillas shaft, and also maintaining
+the development rate at 33,100 meters per month. On the Fresnillo side, we are doing 3,500 meters per
+month, which we believe is a sustainable rate, even to be in a position to increase to 9,000 tonnes per day
+next year. Next.
+
+Herradura, a production of 473,000 ounces in 2017. Very good cash costs and remarkable increase in
+terms of reserves and resources.
+
+Let's go back to when we bought the 46% of this asset from Newmont. We had a much smaller reserve
+and resource base. Since then, we've been evaluating different possibilities for Herradura. We mentioned
+at a point in time to keep Centauro because we have further exploration potential to that. But this increase
+in reserves to 7.7 million ounces, extending the mine life of Herradura, has given us the possibility of
+evaluating an expansion at Herradura. And I will further comment in the following slides.
+
+We are expecting to commission the second dynamic leaching plant just to be efficient in processing the
+transitional and the sulphide ore at depth, so very exciting Herradura, very exciting times.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+In Noche Buena, 4.6 years -- 4.5, 4.6 years of mine life, according to that reserve. Herradura is not
+growing, so we are concentrating on being very efficient, more efficient in terms of the production at
+Noche Buena.
+
+Finally, on Ciénega. Ciénega, the same trends. The gold trending down, silver trending up. But in
+equivalent ounces, it's approximately -- it's been the case, approximately the same 150,000 ounces of
+gold. Very efficient production in terms of cash cost. The number you have there of 72,000 ounces of gold
+and the 5.4 million ounces of silver amount to approximately 150,000 ounces equivalent gold.
+
+Good news in terms of exploration. In Ciénega, you may remember that we were evaluating at a point
+in time increasing the production to the west of Ciénega in the Taspana area. With the exploration
+success we are having in the same Ciénega mine, we are changing that view and probably the increase in
+production will be in the same flotation plant in Ciénega instead of building it to the west, 25 kilometers of
+the Ciénega infrastructure. Next slide.
+
+And San Julián Phase I and II. Well, as I mentioned, Phase I is doing very well in terms of the production
+rate. And Phase II, as I mentioned also, very good ramp-up last quarter of last year.
+
+I would like to mention the amount of resources that we have in San Julián. So this year, we are
+concentrating on upgrading those resources to reserves and that will be a big piece in our strategy at the
+mine. Also, with the potential we see, we mentioned before that we opened this mine with approximately
+exploring what we see a potential of 30% in the district. So further potential, exploration potential in
+the same district, more visible on the veins. But also, we are doing some exploration on the further
+disseminated ore bodies as well.
+
+And some of the projects that we are building right now that expect to be commissioned in the next
+quarter is the Pyrites Plant to further increase the coverage in the Fresnillo District, treating the flotation
+tailings and historical tailings from Fresnillo and the current tailings from Saucito that is expected to be
+commissioned this year, the portion of Saucito. And in 2019, we'll build the flotation plant for the tailings
+at Fresnillo. So a total $155 million investment, going very well, as you can see.
+
+On the upper photograph, you will see to the left Saucito I and II. And on the front -- or forefront, I mean,
+is the new facility of the leaching plant.
+
+And the second dynamic leaching plant in Herradura, you will see in the photograph on the left, very much
+a mirror plant to the first dynamic leaching plant being built. So another 8,000 tonnes per day, $110
+million investment, expected to be commissioned in second quarter of this year.
+
+And then on the right, that section will help me illustrate what I mentioned, the growth in reserves to
+7.7 million ounces. And let's remember that when we commissioned the second dynamic leaching plant,
+we said this was going to help us extend the mine life of the Herradura mine on an average of 390,000
+ounces per year to 12 years. Well, if you take into account the 7.7 million ounces of reserves that we
+have now and you divide it by the 390,000 ounces of gold, that would give you approximately 20 years
+of mine life. When you have that kind of mine life, then you start looking for alternatives, either grow the
+capacity and expand the open pit, and that's what we did. Right now, we are moving 120 million tonnes
+per year between ore and waste. We did an exercise to go to 150 million, another one will go to 180
+million, 185 million per year. But what we found so far is that the current production of 120 million is the
+best alternative so far. Instead of investing heavily in equipment through expansion, I think it's a better
+case the way we are doing it. So we have a mine life, which is a very good success, of just over 20 years
+of this ore body. But this doesn't seem -- this -- I wouldn't say that this would be a dynamic approach
+that we will be doing the following years. We continue exploring because there are further exploration
+potential. And whenever that exploration gives us additional reserves and resources, we will evaluate
+again a potential expansion for this ore body.
+
+Juanicipio project, the next big development projects of Fresnillo on the Fresnillo District. We mentioned
+the quality of this project before. We were expecting to finish the feasibility study in the first month of this
+year. Unfortunately, I think we were a bit optimistic. We will finish it. The consultant we are hiring to do
+this full feasibility study will be finishing it at the end of this month. So more likely at those times, that we
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+will present for approval to the respective boards in April, at which time in which we will publish the full
+feasibility study.
+
+And with that, I will pass the microphone to -- oh, there's no microphone, to David Giles.
+
+David A. Giles
+Vice President of Exploration
+
+Thank you. Good morning. We're on Page 20. This is -- this triangle shows the very strong growth pipeline
+that the company has. And this strong pipeline gives us a potential to develop large, world-class, low-cost
+mines -- new mine.
+
+And was looking at the -- back when the IPO in 2018 -- up at the top where there's mining operations,
+back in 2018, Saucito, San Ramón, Soledad-Dipolos and San Julián were all down in the bottom half of the
+triangle and we've moved those up to new mines. What's going on right now? We're very active right now.
+Octavio has described the development projects which are going very well. There, you can see the second
+line down the Pyrites Plant, Cebollitas, Centauro and Juanicipio.
+
+And we're also moving -- this year, we'll move to PEA these 4 advanced exploration and prefeasibilities
+projects: Centauro Deep, Orisyvo, Guanajuato and Rodeo. So those by the -- all of those by in the end of
+this year will have PEAs from them and eventually will be presented to the board for new mines.
+
+In 2017, where did we have good exploration results? Our mining operations districts like Fresnillo,
+Herradura, San Julián have great potential. So lots of our effort has been there. And we've increased
+resources at those places, particularly at Saucito and at San Julián.
+
+As well as you come down the triangle, other places we had greatest success was at the Centauro
+Extension.
+
+Guanajuato, which is a district that our mother company worked years ago, Fresnillo has continued to
+explore there, and it's looking very good. The gold, silver resources there have increased substantially.
+
+Coming down to these prospects in drilling. We've had good results in the Tajitos property, which is in the
+Herradura District; at the Candameña property, which is in the Orisyvo District; at San Juan, which is a
+prospect that we've resumed exploring, it's in Durango.
+
+Further down the triangle, we've had good results at Lejano, the exploration that's in early stage that's
+in the Herradura District; at Uruachi, which is on the bottom right side the triangle, which is within the
+Orisyvo district. And also a couple of the properties in Peru are doing very well at Sto. Domingo and
+Supaypacha.
+
+You'll see on the top of the triangle, on the right, our exploration budget. We're going to continue the
+same strategy. It's a good budget, $200 million for 2018. 42% of the -- 42% will be spent around our
+mines. But our districts, I think there's still an early stage -- a lot of potential there. 33% of the budget
+will be spent at the advanced exploration projects and 25% at new properties for the future.
+
+Underneath the triangle, we can see -- a couple of times, Octavio has mentioned the large land position
+that we have in Mexico improved. But it's not any old land position. We're right in the main mining
+districts. So we're well located for the future there.
+
+We come to Page 21. Thank you, Gaby. I'm going to show you the gold resources and then the gold, silver
+resources and then the gold reserves and the silver reserves.
+
+This table on the gold resources, you can see it's in millions of ounces on the Y side of the graph. We're
+really just looking at our resources at the top of a huge bar, right? The blue bar there, we have 38.4
+million ounces of gold resources at the beginning of the year. And at the end of the year, 2017, that was
+increased to 38.5 million ounces, the blue bar on the right.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+And some things have gone up, some things have gone down, but you can see that the increase in gold
+resources mainly came from the Fresnillo, Ciénega and San Julián mines as well as at Guanajuato project,
+and this was partially offset by a small reduction in the resources in the Herradura District.
+
+We go to Page 22. This shows the situation at our silver mines and projects together. Again, we're just
+looking at the top tip of an iceberg of our resources. You can see on the bar on the left, at the beginning
+of the year, our resources were 2.17 billion ounces of silver. That's a lot. And you can see at the end of
+the year, they were increased to, which is the blue bar on the right, 2.32 billion ounces of silver. That's an
+increase of 7%. Where was that done? It was mostly done, look at the big green bar, at the Saucito mine,
+where a dozen drill rigs are working at surface. And they're still exploring it, and it's still growing. You can
+see all the way across it on silver resources, everything went up at Fresnillo, Saucito, Ciénega mines, San
+Julián and the projects, the various projects we've got like Guanajuato, San Juan and others.
+
+Let's talk a little bit about reserves as we go to Page 23, our gold reserves. So you can see on the bar
+on the left, the blue bar, gold reserves at the beginning of 2017 were 9.54 million ounces of gold. These
+were substantially increased, and see the bar on the right, to 11.7 million ounces of gold. The big jump,
+of course, is the green bar there, Herradura, where we increased the reserves at Herradura, 2.5 million
+ounces. News we have, as Octavio pointed out, Herradura we now have 16 years of reserves and 22 years
+of resources.
+
+The gold reserves came down slightly at Saucito and at Ciénega. But really, that's no important impact
+because we have resources at those mines that's 24 and 30 years, respectively. Very good shape, our gold
+reserves.
+
+As our silver reserves, as you can see on 24 -- Page 24, the blue bar, at beginning of the year, we had 570
+million (sic) [ 530 million ] ounces of silver reserves. At the end of the year, 501 million ounces. Where
+did they come down? They came down, you can see the red bar on the left, at the Fresnillo mine. The
+silver reserves came down because at the Fresnillo mine, we concentrated on our development work on
+increasing production rather than convert resources to reserves at that mine. But we still have 10 years'
+reserves, silver reserves at the Fresnillo mine, and we have 45 years of silver resources at the mine.
+
+Similarly, at Ciénega, there's a slight reduction, 12% in the -- 12 million ounces in silver reserves. We
+have 30 years of resources at the Ciénega mine. So we're in good shape. What we have to do this year is,
+particularly at Fresnillo mine, concentrate development on changing the silver resources to reserves.
+
+So that's the summary. I think that we have a very strong future on its reserves, resources and new
+mines.
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+Mario?
+
+Mario Arreguín
+Chief Financial Officer
+
+Okay, good morning, everyone. It's always a pleasure to be here and be able to share our financial results
+with you. I would like to start on Page 21 by showing you the variables which are outside of our control --
+Page 27, sorry, Page 27, by showing you the variables which are outside of our control but had an impact
+on our financial numbers. And these are mainly the metal prices, the exchange rates and cost inflation.
+Those are the 3 important ones that had some sort of impact on our numbers.
+
+Starting with metal prices. As you can see, gold and silver prices, which are our main products, were more
+or less in line with what we saw the previous year. Where we do see an important increase is on the base
+metals, in lead and zinc, which are our by-products. However, with the important increases in prices that
+we saw versus last year of 24% in the case of lead and 33% in the case of zinc, they did have a material
+impact, both on our sales, profits and also in our cash costs when you credit back the base metals.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+In terms of the exchange rate, there are 2 ways to look at it. First, when you look at it on a spot basis,
+what you had at the beginning of the year and at the end of the year, that will basically impact some of
+our accounting numbers. And where you see a real effect in terms of our cost is when you look at the
+average spot exchange rate throughout the year.
+
+So let's start with the spot at the beginning and end of this year. As you can see in 2016, we had a
+20% devaluation, which had an important impact on our numbers, basically on our deferred taxes. And
+contrasting that in 2017, we had a slight revaluation of 4.5%. Again, given the fact that we had a very
+important devaluation in 2016 and a slight revaluation in 2017, that meant that in 2016 we recognized a
+very important effect on the deferred taxes. And we saw the opposite effect in 2017 given the revaluation.
+And where you see and compare 1 year to the other, you will see that, that had a very important impact
+when you talk about the net income after taxes, and we will see that when we look at the income
+statement.
+
+In terms of the average spot exchange rate, as you can see, we had a very slight devaluation of only
+1.5%, still favorable in terms of our costs.
+
+And in terms of cost inflation, very contrasting years. In 2016, we had a deflation of 8.08%, mainly driven
+by the huge devaluation and the impact that, that has on our peso-denominated costs versus 2017 where
+we saw a cost inflation of 6.36%, mainly driven by the increase in electricity prices and also the increase
+in diesel prices. So bearing all of this in mind, we can now move to the income statement.
+
+But before that, on Page 29, I just would like to share -- 28, I'm not getting the pages right. I'd like to
+share with you basically the -- how we go about calculating our cost inflation. Here you see the basket
+that we consider and the specific weight for each one of the consumables. And that's just for you to look
+at so you can see which were the ones that had the most important impact. Again, you can see here
+clearly that it was electricity and diesel and also contractors.
+
+Moving on now and bearing everything else that I just said in mind, we can now look at the income
+statement. And as you can see, all profit lines, which are highlighted in yellow, were above last year. It
+was not a huge increase. But I think overall, it was a good year. We had increases in profits of around 5%
+in terms of gross profit, then operating profit.
+
+What I would like to share with you as we move along throughout this presentation are basically 4 or 5
+concepts. First, I will touch on the increase in adjusted revenues, where that came from. Then I would like
+to talk about adjusted production cost. We had an increase of 24%, and I do want to make sure that we
+all understand how that came about. Then I will touch on gross profit, which increased by 5%. Also would
+like to share with you the most important components of that increase. I will touch a bit on exploration
+expenses, which were the main projects and the main operations which used that $141 million that we
+spent throughout the year. And then I will explain how we increased the net profit by 32% when income
+before taxes only increased by 3.2%. So that's going to be the bulk of the next few slides that we're going
+to look at.
+
+So going first to adjusted revenues. Here, we show the breakdown by mine and also by metal of our
+revenues. As you can see, gold continues to be the most important component of our sales, representing
+50%; silver, 38%. And as I mentioned, zinc and lead, which are our by-products, they used to be around
+6%, 5% of our total revenues. With the important increase in prices, now they represent around 12%.
+
+And when you look at the pie on the left-hand side, you will see that when we did the IPO, we only had
+3 colors there. Now you see a more diversified participation of all the mines that we have, 7 in total. And
+that will continue to change next year as San Julián ramps up throughout the year.
+
+Let's move to the next page, Gaby, please. In terms of adjusted production cost, what you see here is an
+analysis of the $150 million increase. In other words, the increase -- the 24% increase that's shown in
+the green bar. And what we try to do with this chart is show you how we get to that increase of $150.28
+million.
+
+Starting on the left, most of that increase is related to additional production, to increase in production,
+mainly San Julián coming into operation, that's Phase II. And Phase I, ramping up to full capacity
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+throughout the year, that's in 2016, Saucito -- I mean, San Julián Phase I only operated for a few months.
+So it's good to know that most of that increase in adjusted production cost is related to volume.
+
+Following that, of course, is cost inflation. I already explained to you that we had a 6.3% cost inflation. So
+translating that in terms of production cost, that represented an increase of $40 million.
+
+Thirdly, we've had increases in maintenance and also we -- an increase in the consumption of
+consumables and also some services at our mines, which represented around an increase of $18 million.
+
+The fourth column is an unusual one. This increase that you see here for $12.7 million is related to the
+fact that at Saucito, in 2016, some of the minerals that we processed came from the development works
+that we were doing at the mine. We were not going to throw that to the waste because it had good
+content, so we decided to process that. But most of that cost was capital-light and went to the balance
+sheet. And only -- we only recognized the costs related to -- in the income statement, the costs related
+to the milling and flotation. So it was like that, sort of like, if you will, subsidized the production in 2016.
+In 2017, we had -- we also processed some volume, but much lesser than we did coming out of the
+development works that we were doing. So that accounts for the $12.7 million that we show there.
+
+On the positive side, I told you that we had a slight devaluation of the average exchange rate, which had
+a positive impact of $4.7 million. And we also had less development works that were taken to the income
+statement in other mines, which lowered our adjusted production cost by $10.5 million. So that briefly
+explains how we get to the $150 million increase.
+
+Moving on now to the consolidated gross profit. Again, on the right-hand side, we see the green bar, which
+shows the $43 million increase in gross profit. And all the other bars simply show how we get -- how
+we got to that. Higher production represented $142.9 million increase in gross profit. Then the higher
+metal prices. Remember, we were talking only about zinc and lead, and that's why I insisted that they had
+a material impact because that increased our profit by $72 million. And then you have the devaluation
+effect, which I already spoke about, which had a slight positive effect. And then you start seeing the
+negative factors, which was cost inflation, we already spoke about that. The fact that we have an increase
+in depreciation as more and more new mines come into operation, we start recognizing that depreciation.
+I already mentioned that we had more maintenance. So that had an effect of increasing our -- decreasing
+our gross profit by $48 million. And lastly, the fact that we had lower ore grades compared to the previous
+year had a negative impact of $88 million. In other words, if we have kept those same lower ore grades,
+which, by the way, were totally expected, we have that accounted for in our budget, and that's why we try
+to compensate that with additional volume, which you can see on the left side. So with that, we get to the
+$43.3 million change in gross profit.
+
+Very briefly, just a breakdown of the $141 million in terms of exploration expenses. You can see that $65
+million went to our operating units; around $27 million went to our exploration projects; $27 million to
+prospects; and $12 million to regional prospecting.
+
+So that's more or less the breakdown there.
+
+Moving on to cash flow now. We had a good year also in terms of cash generation. Worth mentioning here
+is CapEx, the purchase of property, plant and equipment. We've invested $600 million, one of our main
+uses of cash during the year, an increase of almost 39% compared to the previous year.
+
+Another pleasant for our investors use of funds is the dividends paid throughout the year, which were
+$236 million. This includes the final dividend for the previous year. No, the -- yes, the final dividend for the
+previous year and the interim dividend also.
+
+I think it's worth mentioning the fact that we were net cash flow positive, considering the number that you
+get before paying out dividends. So that's good to know. And also, the fact that we closed the -- I would
+say, with a very healthy cash balance of very close to $900 million at the end of the year.
+
+Next, on Page 35, just a brief breakdown of our investments in CapEx. So for those who are interested in
+knowing where we invested that money, you can see it here on Page 35.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Balance sheet, not much to comment. I think we have a very, very solid balance sheet.
+
+Move on to the next page, please. And lastly, in terms of cash cost, here we're showing the consolidated
+cash cost. For those who like to see Fresnillo as a silver company, which we are, of course. We converted
+every other metal, gold and the base metals into silver equivalent ounces. And you can see that in -- you
+can see the company that way. We had an increase of only 2.4% on -- in terms of cash cost expressed
+in silver equivalent ounces. But if you would like to look at it from a gold perspective, given the fact that
+50% of our sales the previous year were gold, then you would see that we had a 4.7% increase in our
+cash cost. And we do the same numbers for the all-in sustaining costs. I think we are very competitive
+and one of the lowest all-in sustaining, all-cash cost businesses compared to our peers.
+
+In the appendix, you will see all the individual cash cost for all our mines. We saw that when Octavio was
+presenting the operating part of the presentation.
+
+And with that, I think I'm done.
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+Okay. The last part, I'd like to touch on the [indiscernible] development and construction of the projects.
+And a -- here, something to mention, we are brought -- some of the change that we've done, we brought
+closer Fresnillo to 9,000 billed by quarter to a half year as we recognize a better position for the mine.
+Ciénega, I think, with 5,000. We pushed that over a quarter further out. Juanicipio maintained the
+mid-2020 starting operation. And Orisyvo right now is -- we've been optimizing the evaluation there,
+strengthening the case, and this project really speaks out about our disciplined approach to growth. I
+mean, having a 8.5 million ounce of gold ore body, some other companies probably would have rushed to
+bring that into production. But in our case, as I mentioned, a key part of our strategy is not really diluting
+the quality of the core in production. So whenever we bring this onstream is because we feel confident
+that it is growing for the long-term success of I think the metric that we have for the kind of operations
+that we are -- aim for. And in the case of Centauro, this is the conceptual or the concept we have, further
+exploration in the coming years. We do have exploration potential above the 7.7 million ounces of reserves
+that obtained -- obtaining resources. And whenever we achieve a larger resource base, we will continue
+doing the evaluation of a potential expansion of the pit. For the time being, it's at 120 million tonnes per
+year, producing on average the 90,000 ounces of gold over the mine life and further potential at depth
+I mentioned. The basic concept that we will be reviewing along the lines of exploration success in the
+coming years and evaluation of the potential as such. Juanicipio, we have pointed out before the $305
+million CapEx is according to the PFS that we have from 2012. More likely that will change as soon as we
+have the full feasibility study concluded, we will be updating you accordingly.
+
+Next. With this, we have 2018 and '19 a flat silver production and going up in 2020, as we expect
+production coming from the Fresnillo expansion to 9,000. Pyrites Plant, well, a share of Juanicipio reflected
+there. And the front -- further increase in production at San Julián.
+
+Next slide. On the gold side, as well in 2018 and '19, somehow similar production. And in 2020, a small
+jump from some of the operations we had reflected in the growth chart as well. That growth, coupled with
+the expected CapEx, you may remember that in 2018, in the previous operation, we have big year, which
+is still the case but to a lower extent, $755 million. This year, coming down in 2019 and 2020 to $725
+million and $590 million with a breakdown of the sustaining growth.
+
+Just on the previous chart, I believe there is something -- the previous one. Previous one. In that one, I
+mean, we should see the Centauro expansion going from 2021 and on -- not from 2020. We believe that
+2021 and 2022, it reflects in the CapEx number that we have in the last year. 2020 is not kind of that
+CapEx reflected, so the previous chart on Page 39, yes, we should make that correction. Okay?
+
+Well, here you have a company that has been performing these last 10 years according to the objectives
+we've set at that time. Very much on track to doubling our production we had in 2008. And growing
+in productions. So importantly, in reserves and resources, as we mentioned. Bringing onstream new
+production around the same quality that we initially had. Very disciplined in terms of capital allocation and
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+we -- probably will be -- will grow [ single ] stream. Cash generation, ample EBITDA margins and a very
+focused approach to growth and returns.
+
+And now as an outlook for this year, I mentioned we'll continue strengthening the safety programs across
+all of our mines, that's a pending issue that we have. Deliver Saucito Pyrites Plant, starting the Pyrites
+Plant portion of Fresnillo. Fresnillo, further efficiencies, but we are confident that we will keep on the same
+trend, going upwards. Conclude the feasibility study for Juanicipio and to start building it whenever that
+is approved by our board. Continue investing in exploration, as I mentioned, it's quite remarkable metric
+that we've achieved in recent years.
+
+The guideline for this year, 67 million to 70 million ounces of silver, flat production to last year. Optimize
+the operations. A very focused control on costs, I think this is one of the challenges we have this year. And
+along the lines, also some geopolitical events in Mexico Presidential election and the NAFTA negotiation
+that may bring some volatility to the exchange rate.
+
+Just to conclude, reiterate our investment case, high-quality, low-cost, flexible operations; a disciplined
+approach to development, very important. This [ year ], we've seen corporate cycles in the mining
+industry. And despite that fact, we have maintained our approach, and that's giving us good results, that's
+thanks to our experienced workforce. Strong balance sheet, further grow and invest in those projects and
+prospects that are on the lines of foreign operations and commitment to sustainability, which is the only
+way that we continue mine life.
+And with that, operator, have -- we've concluded the presentation, and we would open up for questions
+first here in the room and then after via call. Thank you.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Question and Answer
+
+Daniel Harry David Shaw
+Morgan Stanley, Research Division
+
+Dan Shaw from Morgan Stanley. Just a -- first a couple on exploration. So on Slide 20, you've got
+your pipeline triangle and the $200 million budget. Can you give us an idea of how much of that $200
+million goes to actual, I guess, activity, drilling and so on? And how much is spent on just holding land
+packages potentially to look at in the future? And then just as a follow-up on exploration as well. At
+Herradura, you've got resources down but reserves up. Is that just a transfer of one to the other or is
+there something else going on that?
+
+David A. Giles
+Vice President of Exploration
+
+Yes, most of our exploration money be spent on drilling and development, really. The $200 million, how
+much to give an estimate? 75% is drilling and development working. And on the resources, the resources
+went up strongly at Herradura the year before. And this year, it was more focused on changing resources
+to reserves. This 2017, the reserves went up, and 2016 is when the resources made up the big jump.
+
+Daniel Harry David Shaw
+Morgan Stanley, Research Division
+
+Is this about a transfer from one to the other?
+
+David A. Giles
+Vice President of Exploration
+
+Yes.
+
+Daniel Harry David Shaw
+Morgan Stanley, Research Division
+
+Got it. And then just wanted to ask on CapEx. 2018 number didn't come down, I think we had $860
+million previously, and now we're at $755 million. I'm trying to do sort of the comparison on the expected
+delivery of growth, but I have a black and white printout from the old one, which makes it a bit more
+difficult. Can you just run through what is driving that reduction from what you said previously, $860
+million down to that $755 million that we are today?
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+Well, in that $860 million, we had the previous expectation for [ bringing ] Juanicipio, we expect to
+approve it earlier. And then we changed to the full feasibility study that we updated you. So that's a part
+of the change. Also, the Pyrites Plant as well, although we are not changing the conclusion periods for that
+plant, but we have changed or moved a little bit from one to the other one. What else we changing there?
+Some of the sustaining as well, some of the sustaining. That's about it. There's one other portion of the
+possibility to a -- for the expansion of Herradura as well. More investment in trucks, that is not coming. So
+that's it.
+
+James Andrew Keith Bell
+BofA Merrill Lynch, Research Division
+
+It's James Bell at Bank of America Merrill Lynch. Just 2 questions. On cost inflation, last year, you gave
+specific guidance, I wasn't sure if I missed that in the press release, but what are you thinking particularly
+on the electricity and the labor and contracting sites for this year?
+
+Mario Arreguín
+Chief Financial Officer
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Sure. You're asking about last year?
+
+James Andrew Keith Bell
+BofA Merrill Lynch, Research Division
+
+No. I'm saying, it was 4% to 6% guidance last year. So you came in slightly above...
+
+Mario Arreguín
+Chief Financial Officer
+
+Oh, yes. What are we expecting...
+
+James Andrew Keith Bell
+BofA Merrill Lynch, Research Division
+
+What are we thinking about the [ division ]? And then particularly electricity, contractors, labor, that sort
+of breakdown, if you can give any color there.
+
+Mario Arreguín
+Chief Financial Officer
+
+Yes, of course. We're expecting something around 7%. In the particular case of electricity, no, we not
+expecting an increase. Most of the increase that we are expecting is derived from the fact that we
+in Mexico had an inflation of 6.7% last year, which will be reflected on higher wages. And we're not
+expecting, but we are assuming for our budgeting purposes, that we will not see a devaluation. But
+anything can happen with the elections that are coming along and the NAFTA. But assuming no exchange-
+rate effect, and given the fact that we had inflation that will be reflected in wages, I would say that,
+that's the main component, along with some consumables, which makes us believe that we will see a 7%
+increase next year. In terms of electricity, now expecting pretty much same level or a bit lower. We're
+going to be consuming more electricity from private sources that are dedicated to generating electricity
+from the wind, [indiscernible] electricity. And we have discussions with them, and that's the sort of cost
+that we are expecting for electricity next year. And then later, we have a start to negotiating with the
+union, one of our sister companies have -- they may start at 7%, so that would be our target for this year.
+
+James Andrew Keith Bell
+BofA Merrill Lynch, Research Division
+
+Okay. And then just on Fresnillo mine. Last year, you've changed over the contractor, I believe. Then
+you talked about it, maybe the mine being in a better position, the 9,000 tonne per day target being
+brought forward. I just wondered if you could talk about what's changed in the last sort of 3 to 4 months.
+And then maybe talk a little bit about the grade projections sort of past 2018, given that you've kind of
+underperformed there for the last couple of years.
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+Well, the Fresnillo mine, as we mentioned -- as I mentioned, I mean it touched bottom as of 2015. 2016,
+very much level. 2017 is 4%, which we aimed for initially 7% to 10%, of course, and we ended up at 4%
+increase. We are confident, according to the number of a production stopes that we have now, to measure
+development that we will be able to reach 7% to 9% increase this year going to 17.5 million to 18 million
+ounces of silver. The production stopes, we have been well, what we were -- and we also updated you
+on the lack of workforce at the time, what we have achieved with the union is to allow us to go with
+contractors as well as the production stopes. And that gives us further confidence that we can increase the
+throughput, the volumes this year. The production stopes are ready. So we will try to start with contractors
+on the production stopes next month. What has changed? Contractors is continuous somehow challenge
+and struggle. We have approved 1 to 2 new ones, with no significant good results. However, we have
+maintained the 3,500 meters per month development mark, that gave us possibility of a larger number of
+stopes. That would take us to the 9,000 tonnes per day. However, at that time, we would need to further
+increase the development. Hopefully, with the new contractors coming in the following couple of months,
+we can reinforce that and be ready for the contract production. If that is proven successful, what we will
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+do probably is to get rid of some of the smaller contractors that are not performing well, but we will do
+that until October. Infrastructure, as I mentioned, we have continued strengthening the mine. The vertical
+conveyor belt will help us get rid of some of this haulage by truck. Ventilation as well, pumping stations,
+electricity going to the West that have speed up the cycles from development to production to haulage. So
+all in all, a better position.
+
+Luke Nelson
+JP Morgan Chase & Co, Research Division
+
+Luke Nelson, JPMorgan. Just on the medium-term guidance, 2019, '20, that you provide on 40 and 41.
+Looks like it's been reduced by 10% to 12% versus what was given at the half year. And I know you did
+talk through some of the changes to the expected delivery. But don't just -- doesn't -- I mean, most of
+those things were sort of alluded to at the H1. So I'll just be interested to see, is anything changed in
+terms of grades or throughput or the Pyrites Plant, et cetera, to drive that reduction in production for
+next year specifically? And then also, my second question, just following on from the first on the CapEx
+guidance. Just if you could provide a bit more breakdown or granularity on what you missed on approved
+projects for 2019 and '20?
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+Sure. The changes on the production for next year, a little bit less grade according to some geomechanic
+changes that we have to do in San Julián. The initial production program contemplated mining in the next
+years in some of the higher-grade area. And with these changes that we did, we are going in lower -- a
+little bit lower-grade area, so that's one of the changes. Another one is also in Saucito, but not drastically,
+but slightly. I think those are the 2 main changes.
+
+Luke Nelson
+JP Morgan Chase & Co, Research Division
+
+Is it possible to give a bit more quantitative guidance on grades and volumes? Do you expect full...
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+In San Julián, we have one in the Annex, don't we, for next year. What we are expecting in terms of
+grade and volumes? Do you have it there in the presentation, Gaby, so we can show it? Yes, we have the
+breakdown for San Julián, the vein systems. This is what 2018 expected grades, 150 grams per tonne for
+the disseminator 185, which was high for '19. We are not producing the [indiscernible] probably not this
+year. So we may be able to give you some indication with respect to 2019.
+
+Luke Nelson
+JP Morgan Chase & Co, Research Division
+
+And then the CapEx, the unapproved proportion of CapEx for next year and 2020.
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+Unapproved, can you show the slide on the CapEx? That goes along with the chart that we have on the
+previous page. But for 2018, we would have portion of the Fresnillo going to 9,000, of course. The Pyrites
+Plant, concluding that portion of the Saucito. Pending will be 2019, the Pyrite Plant of Fresnillo. Juanicipio,
+we have it in 2018, '19 and '20. Las Torres exploration, we have it in 2018 [indiscernible] Herradura in
+2018. And the rest is very much sustaining. In 2019, we have the Fresnillo, 9,000; the Pyrites Plant, the
+portion that belongs to the Fresnillo flotation for the tailing; a little bit of Ciénega expansion, 3/4 probably
+of that CapEx; Juanicipio, as I mentioned; and a portion which is not approved, of course, of Orisyvo. And
+the rest is sustaining. And in 2020, we would have 1/3 approximately of Ciénega expansion, which is not
+board-approved yet; Juanicipio, to conclude that project, the construction of that project, a portion of
+Juanicipio, which is not approved -- board-approved. And that's it. The rest is sustained.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Luke Nelson
+JP Morgan Chase & Co, Research Division
+
+Last couple of questions. I just wanted to ask about the Fresnillo portion of the Pyrites Plant. You
+mentioned that it looks like it's been delayed by 12 months. Could you explain why that is?
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+That in a way was contemplated. First it will be flotation part of the Saucito. And then going to the
+flotation part of Fresnillo. We've delayed it probably by 6 months. So that's initially, we were going to build
+[indiscernible]. But we've been doing it because we are producing already some pyrites concentrate and
+some silver content but as the pyrite in Saucito has the capacity to treat also the portion coming from
+Fresnillo, we will be able to preserve that [indiscernible] happens. And next year we'll go into building
+the flotation part of the Fresnillo and continue building the historical tailings there that makes up the
+[indiscernible].
+
+Luke Nelson
+JP Morgan Chase & Co, Research Division
+
+And then I wanted to ask about the cost inflation on a dollar per tonne milled basis. At Saucito, it was up
+pretty significantly, 29% year-on year, and I think 20% at Ciénega as well. What was driving those 2 sort
+of kind of outlier increases on a dollar per tonne milled basis?
+
+Mario Arreguín
+Chief Financial Officer
+
+Sure. In the terms on -- in terms of Saucito, what I said about the mineral that came out of the
+development works, that was a big, big component of that change. And in terms of -- you asked about
+Saucito -- no I mean Ciénega?
+
+Luke Nelson
+JP Morgan Chase & Co, Research Division
+
+No. Ciénega, yes.
+
+Mario Arreguín
+Chief Financial Officer
+
+There we had more development costs -- development costs.
+
+Luke Nelson
+JP Morgan Chase & Co, Research Division
+
+And then just, I'm sorry, just one last one, sorry. On -- could you just give us some clarity around the
+Herradura potential expansion you had mentioned? So you said you'd thought an optimal level for
+the mine was around 120 million, 130 million, which is what it did in 2017. So what format would this
+expansion potentially take that you mentioned that [indiscernible] has a higher reserve position?
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+It would be a lay back of the pit, of course, and a higher tonnage milled per year. We compare the 120
+million tonnes per year that we are doing right now to 150 million and to 185 million. And the amount
+of investment that we will have to do for an expansion going to 150 million or 180 million would not be
+compensated with the investment [indiscernible]. So a better case was to still at this level with the levels
+of resources and reserves to keep on the current production [indiscernible].
+
+Luke Nelson
+JP Morgan Chase & Co, Research Division
+
+But potentially to do an expansion of a much bigger scale than...
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+I think if you can -- can we put the section of the Herradura pit. Whenever you keep on exploring and
+then some of the blocks that you have over here and you translate those blocks of waste to ore, you
+make a stronger case to lower with the stripping ratio somehow. And then you produce more ore out
+of the same tonnage as you would have a stronger [indiscernible] so that's what we're aiming for. Keep
+on exploring, converting of the ore, identifying further ore on those areas and then evaluate again the
+possible expansion.
+
+Jatinder Goel
+Citigroup Inc, Research Division
+
+Jatinder Goel from Citi. A couple of questions. On your sustaining CapEx guidance for '19 and '20, it looks
+much below '18 and also below 2017 level while production is flat in '19 and actually rising in '20. Just
+trying to understand what's driving that sustaining CapEx lower. Are there any one-off elements? And --
+or is there a cyclicality which will come back in 3, 5 years which don't happen every year? And second
+question, operating material on your Slide 28 had a lower delta year-on-year in 2017. What's driving
+that, given inflationary environment? Is there any contracted volume? Or was there any lag which is now
+coming through in 2018? And maybe a final one, Noche Buena looks very impressive on milled tonnage
+unit costs, flat year-on-year compared to all other mines. What's specifically behind holding that cost flat?
+
+Mario Arreguín
+Chief Financial Officer
+
+Well, for the CapEx and the jump of production of 2020, that has to do with Fresnillo going to 9,000, the
+jump; the Pyrites Plant that we mentioned, concluding also the Fresnillo portion; San Julián; and a little
+bit of Ciénega, with the continuous trend that we have; and a little bit of Juanicipio. If we are aiming to
+conclude Juanicipio by mid-2020, second half, that operation would be ramping. So that's the -- has to do
+with the jump from 2019 to 2020. And the CapEx, if we look at the previous version in 2019 and 2020,
+is a higher CapEx than what we were expecting. So that higher CapEx, compared to what we did in the
+interims, is a bit higher in 2020. So that has to do also with that higher productions. What was the second
+question again, please, sorry.
+
+Jatinder Goel
+Citigroup Inc, Research Division
+
+Operating material on Slide 28 had a negative year-on-year delta. Just trying to understand what made it
+go down in an inflationary environment, even though it's a lower [indiscernible]? [indiscernible] currency
+or --
+
+Mario Arreguín
+Chief Financial Officer
+
+Versus the 7% that we are expecting for this year?
+
+Jatinder Goel
+Citigroup Inc, Research Division
+
+Page 28. Yes, operating material, the second broad heading, minus 1.1% unit price increase.
+
+Mario Arreguín
+Chief Financial Officer
+
+Operating materials.
+
+Jatinder Goel
+Citigroup Inc, Research Division
+
+Yes.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Mario Arreguín
+Chief Financial Officer
+
+No, that simply reflects the fact that some of our providers lowered their prices on certain operating
+materials. And for this year, it's going to be the opposite. We're expecting increases in line, which is one
+of our consumables. We're also expecting increases in the price of steel, mainly for grinding, for milling.
+Those are the 2 main items in which we are expecting increases in terms of consumables and operating
+materials. Whereas, last year, we had a reduction -- an important reduction in tires, in explosives and in
+sodium cyanide. That's why you see that minus 1.1%.
+
+Jatinder Goel
+Citigroup Inc, Research Division
+
+Just a final one, Noche Buena flat year-on-year unit cost. Third question.
+
+Mario Arreguín
+Chief Financial Officer
+
+Noche Buena flat on production.
+
+Jatinder Goel
+Citigroup Inc, Research Division
+
+2017 unit cost was flat year-on-year while all other mining areas had higher unit cost on milled tonnage.
+
+Mario Arreguín
+Chief Financial Officer
+
+Yes. The distance to the waste dumps has to do with it, was shortened. So that's why we're maintaining
+the same costs.
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+Yes, for example, Noche Buena coming to the last stage of the time line. In some areas of the open pit,
+you have no further potential of production underneath. You can store the waste there, not bring it to the
+waste dumps. So we are concentrating on Noche Buena it has the benefit of mine life to really maintain or
+even reduce costs.
+
+Unknown Analyst
+
+Sorry, can I just ask one more? Just on your longer-term outlook, you targeted 65 million ounces of silver
+by 2018. We're in 2018, it looks like you're going to get there. Obviously, gold, you've surpassed that
+already. When do we get another set of longer-term targets for Fresnillo in terms of maybe whether it's an
+ounce target or do you think it's not appropriate to have that anymore and it's about returns, or...
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+We are finishing right now the strategic plan. And of course, the board that has to do with the definition
+of the strategy and then the goals, we are discussing that possibility. We may be discussing that in April.
+So probably if we go and set an objective for the coming years, it would be more likely that we come up
+with a new objective in July [indiscernible]. Of course, it will not be a 10-year. We were initially trying to
+establish a track record. But that's what we are discussing in the board sessions.
+
+Unknown Analyst
+
+And could I ask one follow-up question? Just on the maintenance CapEx guidance you gave in the slides.
+For 2019, we have about $170 million decline in CapEx for maintenance year-on-year. What were the main
+drivers behind that?
+
+Octavio M. Alvídrez
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Chief Executive Officer
+
+Herradura came down. San Julián as well from 2018 to '19. Ciénega also. We were developing Taspana
+and we finished that, and that will come into production. What else? I think those 3, Herradura, San Julián
+and Ciénega. Fresnillo is maintained. Saucito as well. And Noche Buena, a little bit [indiscernible].
+
+Unknown Analyst
+
+And then I have one last question. So on exploration, you had in your exploration triangle the Cebollitas
+Cluster as a potential development. Could you give us some information around what that is and
+[indiscernible]?
+
+David A. Giles
+Vice President of Exploration
+
+It's in development and exploration and providing some ore as well. A satellite project, about 20
+kilometers away from Ciénega. And we've found the extension to these from those bench [indiscernible]
+
+Unknown Analyst
+
+Follow-up question. Just on the dividend. Obviously, you have very strong track record in paying out the
+dividend and you have a very clear policy as well. But it would be interesting just to get your view on how
+you're thinking about shareholder returns going forward, particularly in the context of CapEx that is -- will
+fall away over the next 12 to 24 months, production that is, well, fully flat and also with the balance sheet
+that is in a strong position at the moment. So it's, well, how relevant you think the current policy is. And
+how you sort of decide between the -- sort of investing internally or M&A versus additional shareholder
+returns.
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+Well, as we've done in the past, I mean, consistency, I believe, is what the -- somehow sustains the
+company from somewhat -- to maintain the [indiscernible] strategy. What we've done in the past is
+probably what we could expect in the future. Whenever we go over $1 billion cash in hand, we don't
+have the use in the coming years for the portfolio development approval we have. We paid in the past
+[indiscernible] dividends. So that might be the case. Having quite a large exploration portfolio, I don't
+see good chances to go in M&A. Exploring our own projects and prospects, bringing those that make
+sense along the lines in terms of quality, low cost has paid out for the company. So whenever we go and
+look at some other possibilities in terms of M&A, we always compare it to what we have in our portfolio
+[indiscernible] strong choice in terms of the return metrics, and the strength of the operations that we
+can make out of those. So -- but we take a look at some of the operational assets that are out there for
+sale, we have all this research and development. We've done since the purchase of [indiscernible] early-
+stage projects that we are developing. Some of those examples are Candameña, for example. In the
+area of Orisyvo we've done some acquisitions as well just to further strengthen the area. What other -- in
+Guanajuato.
+
+David A. Giles
+Vice President of Exploration
+
+Yes, we bought property there. In Peru, we have picked up in Sto. Domingo, we've consolidated that
+district. And in the Fresnillo District [ we've bought ] to consolidate.
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+[indiscernible] more like. And as we mentioned, our strategy to balance growth and returns support really
+the [indiscernible]. Okay. Operator, are there any questions via phone?
+
+Operator
+
+[Operator Instructions] And we have one question already from Daniel Major from UBS.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Daniel Edward Major
+UBS Investment Bank, Research Division
+
+Three questions. I mean, first one, there is the recurring theme that your results of meeting the
+[indiscernible] of the construction side but pushing out the growth profile over the subsequent years.
+Obviously, we've got into that in some detail and a similar concept on the CapEx. I mean, what additional
+degree of confidence can you give us that the targets you lay out in terms of growth in CapEx are not
+conceptual targets but are just kind of real targets, and we're not going to see the same pushing out of
+growth [indiscernible]? And then the second question, I suppose more specifically on the recurring theme,
+is the development rate at the Fresnillo mine, can you remind us exactly what development rate you're at
+right now? And when you expect to get to the development rate required to support the 9,000 tonnes per
+day throughput rate? And the final question is on whether you could give us any update on the succession
+planning within the Baillères family, whether there's been any changes in the central sort of [ general
+optional session ] and the shape of the company and whether there's any potential changes at the board
+level [indiscernible]?
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+Okay. Development rates of Fresnillo is the first one is…
+
+Gabriela Mayor
+Head of Investor Relations
+
+Dan, can you please just reformulate the first question please? Is it about the rate of certainty and
+confidence about the CapEx targets?
+
+Daniel Edward Major
+UBS Investment Bank, Research Division
+
+Correct. What degree of [indiscernible] confidence can you give us that you're not going to downgrade
+2019, 2020 production guidance again that has been a recurring theme over the last couple of sets of
+results?
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+Production. CapEx.
+
+Gabriela Mayor
+Head of Investor Relations
+
+[Foreign Language]
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+No production, we feel quite comfortable. Of course, as we mentioned, I mean, the track record that
+we've done over the last 10 years, it is on target at the long-term level. However, I recognize that on
+year-to-year, it may be changing, but not drastically. Well, we have in front of us the 2018, which is quite
+firm. '19 and '20, I would say '19, very much a similar level, and '20, the jump, according to the project
+that we mentioned, we are quite confident on achieving those. The CapEx as well is an exercise in which
+we plan ahead for the next 3 to 4 years. And of course, what we try to do is optimize that first view.
+Whenever we optimize it, it's good. What has happened in the past also that we have deferred some of
+the projects, especially that has been the case in Juanicipio, also with the -- with San Julián as well, that
+was a very challenging project in terms of construction. So -- and Juanicipio for some of the reasons that
+we explained at that moment. Fresnillo, I think, has been the case in which we've been falling short of
+our expectations in the past. I think we've been a bit optimistic there in terms of the development rate
+that we were planning to achieve. However, going from 3,000 meters per month to 3,600 and 3,800 that
+we achieved in the past, gave us a possibility to have Fresnillo in a much better position right now. And
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+that's why it's been 2 years in which we have increased the production. And this year, we are aiming -- as
+I mentioned, we have the production stopes ready. It's just a matter of workforce that we will be achieving
+with contractors. But we feel more confident of -- in Fresnillo as well achieving a third consecutive year of
+increased production. The other question was?
+
+Gabriela Mayor
+Head of Investor Relations
+
+Around succession planning.
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+Well, succession planning. Mr. Alejandro Baillères was named Vice -- Deputy Chairman. Deputy Chairman
+in our last board meeting. The Baillères family with Alejandro is third-generation in mining, very
+experienced and the [ column ] in our -- [ columns ] in our company. So Alejandro has been in the board
+several years now and just recently been named Deputy Chairman. Mr. Alberto Baillères, our Chairman --
+our current Chairman, I mean is very hands-on, very active, is the core of our company and our strategy
+and is still the case.
+
+Gabriela Mayor
+Head of Investor Relations
+
+Any more questions?
+
+Octavio M. Alvídrez
+Chief Executive Officer
+
+Any further questions, operator?
+
+Operator
+
+We have no further questions in the queue.
+
+Octavio M. Alvídrez
+Chief Executive Officer
+Okay, thank you very much all. Have a pleasant day with no snow.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+FRESNILLO PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+23
+
+

@@ -1,0 +1,1362 @@
+HSBC Holdings plc LSE:HSBA
+FY 2017 Earnings Call Transcripts
+Tuesday, February 20, 2018 7:30 AM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2017-
+
+-FQ1 2018-
+
+-FY 2017-
+
+-FY 2018-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+SURPRISE
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+0.13
+
+0.10
+
+(23.08 %)
+
+0.21
+
+(4.76 %)
+
+0.70
+
+0.70
+
+0.00
+
+0.69
+
+12785.48
+
+12440.00
+
+(2.70 %)
+
+13902.86
+
+(0.55 %)
+
+51404.13
+
+51524.00
+
+0.23
+
+54250.86
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: USD
+Consensus as of  Feb-20-2018 7:20 AM GMT
+
+FY 2017
+
+CONSENSUS
+
+0.70
+
+ACTUAL
+
+0.70
+
+SURPRISE
+
+0.00 %
+
+- EPS NORMALIZED  -
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+9
+
+2
+
+ 
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Iain James Mackay
+Former Group Finance Director &
+Executive Director
+
+John Michael Flint
+Group Chief Executive, Member of
+Management Board & Executive
+Director
+
+Stuart Thomson Gulliver
+Former Group Chief Executive,
+Chairman of Management Board &
+Executive Director
+
+Unknown Executive
+
+ANALYSTS
+
+Alastair William Ryan
+BofA Merrill Lynch, Research
+Division
+
+Christopher Robert Manners
+Barclays Bank PLC, Research
+Division
+
+David John Lock
+Deutsche Bank AG, Research
+Division
+
+Fahed Irshad Kunwar
+Redburn (Europe) Limited,
+Research Division
+
+Joseph Dickerson
+Jefferies LLC, Research Division
+
+Magdalena Lucja Stoklosa
+Morgan Stanley, Research Division
+
+Martin Leitgeb
+Goldman Sachs Group Inc.,
+Research Division
+
+Michael Francis Helsby
+BofA Merrill Lynch, Research
+Division
+
+Raul Sinha
+JP Morgan Chase & Co, Research
+Division
+
+Robert Noble
+RBC Capital Markets, LLC,
+Research Division
+
+Ronit Ghose
+Citigroup Inc, Research Division
+
+Thomas Andrew John Rayner
+Exane BNP Paribas, Research
+Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+Presentation
+
+Stuart Thomson Gulliver
+Former Group Chief Executive, Chairman of Management Board & Executive Director
+
+So good afternoon from Hong Kong. Good morning in London, and welcome to the 2017 HSBC Annual
+Results Call.
+
+With me today, Iain Mackay; and John Flint, who takes over tomorrow as Group Chief Executive. I'll look
+at the main points before Iain takes a detailed look at the numbers. I'll then talk about our performance
+against our strategic actions before handing over to John to talk about 2018.
+
+Now 2017 was a good year for HSBC. Reported profit before tax of $17.2 billion was $10.1 billion higher
+than 2016 due mainly to the nonrecurrence of a number of large significant items. Adjusted profit before
+tax of $21 billion was up $2.1 billion or 11%, with increases in all 4 global businesses and 4 out of the
+5 regions. A strong revenue performance helped us achieve positive adjusted jaws of 1% in 2017, more
+than covering increased business investment and higher performance-related costs.
+
+Retail Banking and Wealth Management had an excellent year. Strong deposit growth started to benefit the
+bottom line as interest rates began to rise. We continued to grow lending in our target markets, especially
+Hong Kong and the U.K.
+
+Commercial Banking adjusted revenue grew well on the back of an outstanding performance in Global
+Liquidity and Cash Management. Global Trade and Receivables Finance revenues stabilized after a difficult
+2016. And we increased our market share in key geographies.
+
+Global Banking and Markets grew adjusted revenue for the year due mainly to the strength of our
+transaction banking businesses. Growth in the first 3 quarters of the year in markets and banking enabled
+both to withstand the effects of subdued market activity in the fourth quarter.
+
+Global Private Banking adjusted revenue continued to reflect the impact of historical repositioning but was
+broadly stable over the course of 2017 and grew by 10% in our target markets.
+
+Adjusted loan impairment charges were significantly lower than 2016 due mainly to improved conditions in
+the oil and gas industry in North America.
+
+Our strong equity Tier 1 ratio of 14.5% included the effect of recent changes in U.S. tax legislation, which
+reduced our capital position by 9 basis points. There was also a net of buybacks throughout the year
+which totaled USD 3 billion in 2017. Our policy is to consider buybacks where appropriate, subject to the
+execution of targeted capital actions and regulatory approval. And we plan to issue between $5 billion
+and $7 billion of additional Tier 1 capital in the first half of 2018. Now the program of strategic actions
+announced at our investor update in June 2015 concluded at the end of 2017. We completed 8 out of 10
+actions on time and on or above target. We also completed the exit of household due to the run-off of our
+CML portfolio.
+
+Iain will now talk you through the numbers.
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+Thanks, Stuart.
+
+Looking quickly at some key metrics for 2017. The reported return on average ordinary shareholders'
+equity was 5.9%, up from 0.8% in 2016. The reported return on average tangible equity was 6.8%, up
+from 2.6%. On an adjusted basis, we had a positive jaws of 1%; and with a tangible net asset value per
+ordinary share of $7.26, up $0.34 on 2016.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+Slide 3 provides detailed items that take us from reported to adjusted for both the fourth quarter and
+the full year. You'll find more details of these adjustments in the appendix, and the remainder of the
+presentation focuses on adjusted numbers.
+
+Slide 4 breaks down adjusted profit for 2017 by global business and geography. Adjusted profit before
+tax was up by $2.1 billion or 11% due to higher revenue and lower loan impairment charges. All 4 global
+businesses grew profit before tax. Retail Banking and Wealth Management had a particularly good year
+with a 24% increase on 2016. Commercial Banking also registered a strong performance with profit before
+tax growth of 15%.
+
+Slide 5 looks at fourth quarter profit before tax, which was $807 million higher than the fourth quarter of
+2016. This was driven by a 10% increase in revenue, and 4 out of 5 regions delivered higher profits in the
+quarter. The reduction in Europe was driven by a weaker Global Banking and Markets performance, which
+included lower revenues in FICC and 2 large impairment charges.
+
+Slide 6 looks at revenue. Fourth quarter revenue from our global businesses was $400 million or 3%
+higher than last year's fourth quarter. I'll go through each business in more detail in the next few slides.
+
+As Slide 7 shows, Retail Banking and Wealth Management revenue grew by 8% in the fourth quarter
+compared with the same period last year. Wider spreads and higher balances in Hong Kong helped grow
+revenue from current account, savings and deposits by $370 million. Income from investment distribution
+increased by $98 million from higher sales, particularly in Hong Kong. We grew customer lending and
+customer deposits by 7% and 5%, most notably in Hong Kong and the United Kingdom. Lending revenue
+was $117 million lower due to margin compression. For the full year, revenue was up by 9%, with strong
+performances across the business.
+
+Commercial Banking revenue was 11% higher than last year's fourth quarter. Global Liquidity and Cash
+Management had another excellent quarter, growing revenue by 16% due to higher spreads and balance
+sheet growth in Asia. Credits and lending grew by 5% due mainly to balance sheet growth in Hong Kong
+and the U.K. Global Trade and Receivables Finance revenue was broadly stable, as strong asset growth in
+Asia compensated for the impact of repositioning activity in the Middle East. Full year revenue was 5% up
+on 2016, mainly driven by Global Liquidity and Cash Management in Hong Kong.
+
+In Global Banking and Markets, the diversity of our product range helped us withstand the impact of
+subdued trading conditions in the fourth quarter. Revenue was down against a strong fourth quarter
+performance in 2016. Also, our transaction banking products continued to generate increased revenue
+from higher balances. In particular, Global Liquidity and Cash Management revenue grew by 18%, and
+Securities Services grew by 15%. Lower trading volumes and reduced volatility affected FICC revenues,
+especially in rates. Global Banking and Markets' fourth quarter return on risk-weighted assets was 20
+basis points higher than the same period last year, and the business delivered a return on tangible equity
+of 10.6% in 2017. Revenue for the full year was up 3% on 2016, mainly in Global Liquidity and Cash
+Management and Securities Services. All of our Global Banking and Markets businesses grew revenue in
+2017.
+
+Global Private Banking revenue grew by 2% compared with last year's fourth quarter. We grew client
+assets in Global Private Banking for the fifth consecutive quarter and saw positive inflows of $15 billion in
+our target markets in 2017. Revenue grew by 8% in our target markets in the fourth quarter, particularly
+Hong Kong, and by 10% over the full year.
+
+Corporate Centre revenue grew by $695 million compared with the fourth quarter of 2016. This was
+principally due to nonrecurrence of a net negative $684 million income reduction in valuation differences
+and long-term debt and associated swaps in 4Q '16. Balance Sheet Management revenue fell by $167
+million. This was due to nonrecurrence of a gain in last year's fourth quarter and repositioning activities
+carried out earlier in 2017. We have now completed the run-off of our subprime U.S. CML portfolio, the
+principal legacy of the 2003 household acquisition. As a consequence, associated revenue is $129 million
+lower than last year's fourth quarter. We will complete the wind-up of the household legal entities in the
+coming quarters.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+Slide 12 shows net interest margin, which was broadly stable. Net interest income of $7.4 billion was $260
+million higher than the third quarter. Our net interest margin for 2017 was 1.63%, 7 basis points lower
+than 2016, excluding Brazil. Net interest margin fell by 3 basis points from the impact of the CML run-off
+and margin compression in Europe and Asia, 3 basis points from higher costs of debt and 3 basis points
+from foreign currency translation. This was partly balanced by a 4 basis point increase from higher deposit
+margins, particularly in Asia and in Global Liquidity and Cash Management. There's a detailed slide on net
+interest margin and more information on net interest income sensitivity analysis in the appendix.
+
+Slide 13 looks at loan impairment charges. Loan impairment charges were $658 million in the fourth
+quarter or 27 basis points as an annualized percentage of gross loans and advances. This was $218 million
+higher than the third quarter due largely to 2 corporate exposures.
+
+Slide 14 looks at costs. Our operating expenses excluding the bank levy were $296 million higher than
+last year's fourth quarter, reflecting additional investment to grow the business and ongoing investment in
+digital and IT security. We achieved around $600 million of cost savings in the fourth quarter, which helped
+support growth and absorb the cost of inflation and investments in regulatory and compliance programs.
+We invested a further $322 million in business growth in the fourth quarter, mainly in Retail Banking and
+Wealth Management. Our total expenditure on regulatory programs and compliance was $3 billion, around
+$200 million more than the prior year. We expect regulatory and compliance spending to remain broadly
+stable.
+
+Turning to capital on Slide 15. The group's common equity Tier 1 ratio was 14.5% on 31st September
+compared with 14.6% on 30th of September. Common equity Tier 1 capital reduced by $3.7 billion in
+the fourth quarter due mainly to the fourth quarter dividend and a reduction in the value of our deferred
+assets as a result of changes in U.S. tax legislation. Implementation of IFRS 9, including benefits from
+classification and measurement changes, will result in a favorable impact on our common equity Tier 1
+ratio applying the European Union's capital transitional arrangements. The fully loaded day 1 impact is
+expected to be negligible.
+
+Slide 16 looks at our group return metrics. The return on average ordinary shareholders' equity was 5.9%,
+up from 0.8% in 2016. And the return on tangible shareholders' equity was 6.8%, up from 2.6%. Our
+return on tangible equity excluding significant items and the bank levy was 9.3%. If we also exclude the
+impact of U.S. tax legislation, our return on tangible equity was 10.2%. We're now disclosing our return
+on tangible equity by global business. The numbers for 2016 and 2017 are on the slide, and there are
+more details in the appendix. All 4 global businesses improved the return on tangible equity in 2017, with
+double-digit returns in our 3 main businesses.
+
+I'll now hand back to Stuart.
+
+Stuart Thomson Gulliver
+Former Group Chief Executive, Chairman of Management Board & Executive Director
+
+So for the remaining slides, I'm going to summarize the outcome of our 2.5-year strategic action program
+which concluded at the end of 2017. And then I'm going to hand over to John to talk about the year
+ahead.
+
+Slide 18 provides the final report card in relation to our 2015 targets. By the end of 2017, we had
+achieved 8 of the 10 actions we set out at our 2015 investor update. This included actions to reduce group
+risk-weighted assets, deliver cost savings, accelerate our pivot to Asia and implement Global Standards.
+Our U.S. bank profitability and RMB internationalization revenue targets remain outstanding, although we
+have made significant progress towards completing both.
+
+Slide 19 shows how we've increased both capital efficiency and capital strength. We exceeded our group
+risk-weighted asset reduction target by more than 20% and our Global Banking and Markets target by
+31%. We've increased returns at the same time, growing our return on risk-weighted assets from 1.5%
+in 2014 to 2% in 2017. The reduction in risk-weighted assets has helped us build one of the strongest
+common equity Tier 1 ratios in the industry while maintaining a strong dividend and returning $5.5 billion
+to investors in the form of share buyback.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+Slide 20 looks at NAFTA profitability. While the low interest rate environment has held back the U.S.
+business, we've more or less doubled its adjusted profit before tax since 2014. We also achieved
+nonobjection to our U.S. capital plans as part of the CCAR process in both of the last 2 years. And in
+2017, the U.S. business paid the first dividend to the group in more than a decade. A large part of our
+international business emanates from U.S. customers, so it's of huge importance to the group even if
+that's not reflected in the U.S. legal entity's numbers. We increased the international client revenue
+actually booked in the U.S. by 10% in 2017.
+
+Our Mexico business is significantly improved, delivering higher revenue, higher lending, higher market
+share and higher profit. It has grown market share in both mortgages and personal loans and achieved
+double-digit revenue growth in international subsidiary banking and with multinationals. 2000 profit before
+tax -- 2017, sorry, profit before tax of $440 million represents real progress, with revenue up 34% and
+lending up 38% since 2014. The growth opportunity for our Mexico business remains significant.
+
+Slide 21 shows that we have delivered on our commitment to an -- achieve an exit run rate for 2017
+equivalent to our 2014 cost base. We've delivered run rate savings of $6.1 billion since 2015, more than
+$1 billion above the top end of our Investor Day target range. This has enabled us to absorb the $2.5
+billion that we've invested in growth and business improvements, the $2.4 billion of inflation and the $1.3
+billion of investments in regulatory programs and compliance over the same period. We've invested a total
+of $7 billion in costs to achieve between 2014 and 2017. As well as removing costs from the business,
+this has vastly improved both our systems and the service we offer our customers. It has positioned the
+business to capture market share and grow revenue whilst also improving life for our employees. You can
+find examples of how these programs have made us a better bank on Slide 35 in the appendix.
+
+Slide 22 shows how our improved international connectivity helped strengthened our market positions.
+This is proof of the benefits of our global universal banking business model, which is tailored around
+the needs of large corporates that operate across our network. We've invested in our network to better
+deliver the kind of cross-border service that our clients want, while many of our competitors have exited
+the market at the same time. We've also simplified the business to improve control while retaining the
+benefits of scale. As a consequence, we've increased the proportion of client revenue that comes from
+international clients from 50% in 2015 to 53% in 2017. We've also grown our market share in key trade
+finance markets, increased balances and captured market share in Global Liquidity and Cash Management
+and maintained our leadership at the corporate foreign exchange market. We've also increased transaction
+banking revenue by 5% since 2015, whilst 30% of group revenue now comes directly from transaction
+banking, up from 29% 2 years ago.
+
+Slide 23 shows how we've refocused the business back towards the bank's heartland in Asia. We've grown
+our lending and insurance income in Hong Kong since 2014. We've rapidly grown lending in the Pearl River
+Delta; launched new products; and established new businesses, including the first security joint venture in
+Mainland China to being majority owned by an international bank. We've grown assets under management
+in Asia by 49% and increased annualized new business insurance premiums in Asia by 32% since 2014.
+And we've strengthened our position as the world's #1 bank for international renminbi business and
+established HSBC as the best overall international bank for the Belt and Road initiative, according to both
+Asiamoney and FinanceAsia.
+
+To conclude. HSBC is simpler, stronger and more secure as a consequence of our strategic actions. We
+have strong revenue growth and a robust capital ratio. Our international network is better at connecting
+customers to opportunities in the world's fastest-growing regions. Our investments in Global Standards
+in risk and compliance helped pave the way for our exit since 2012's deferred prosecution agreement
+with the U.S. Department of Justice, although financial crime prevention and strong compliance remain a
+daily focus for us. Our business is now more capital efficient and capable of producing stronger returns for
+investors.
+
+With that, I will hand over to John.
+
+John Michael Flint
+Group Chief Executive, Member of Management Board & Executive Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+Thank you, Stuart.
+
+So these results and the achievements over the last couple of years clearly give us a great platform to
+build on. With that in mind, there are 5 things to take away about the year ahead. First, we're doing a
+lot of work to refresh our strategy and accelerate delivery. The strategy we have is working. We need to
+keep evolving it and to deliver it at pace. We haven't yet achieved our return on equity target, but we
+remain intent on doing so. That target therefore remains in place, as do our other targets. Second, in an
+environment where we're generating more revenue, we're going to be better able to invest in growing the
+business, subject to achieving positive jaws.
+
+Third, we're going to focus keenly on improving customer satisfaction in every business across the group.
+We've been investing to speed up approval times, simplify processes and significantly reduce bureaucracy,
+but as our environmental, social and governance reports from last year show, we've got more to do to
+raise customer satisfaction levels. We'll be disclosing more on customer satisfaction in our 2018 ESG
+report in April, and we aim to improve in all areas.
+
+Fourth, capital discipline and positive jaws remain essential to achieving our return on equity targets.
+We're going to run the business more efficiently, absorbing inflation and as much of the cost of investment
+as we reasonably can. We're also going to keep investing in risk and compliance. We have a clear aim to
+be the industry leader for risk and compliance and believe this can be a powerful competitive advantage.
+And finally, the fundamentals of HSBC will remain the same as they always have: strong funding and
+liquidity, strong capital and a conservative approach to credit.
+
+I will update you further either at or before our half year results in August.
+
+Stuart Thomson Gulliver
+Former Group Chief Executive, Chairman of Management Board & Executive Director
+
+Thanks very much.
+So we're very happy to take questions. The operator will now explain the procedure and introduce the first
+question. Operator?
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] We will now take our first question today from Mr. Joseph Dickerson from Jefferies,
+please.
+
+Joseph Dickerson
+Jefferies LLC, Research Division
+
+Just a couple of questions. So firstly, we've obviously had a few rate hikes. And the NIM was flat quarter-
+on-quarter in Q4, but if I look at the trend in NII, it's actually annualizing in Q4 up about 15% year-on-
+year. So I'm just wondering, like, what should we see as the trajectory of the NIM now that we've had
+the drag from the CML eliminated. And it seems like there's some reasonable momentum, particularly in
+Hong Kong, on the NIM, so any color there about how to think about this over the next year would be very
+helpful, obviously market impacts notwithstanding. And then secondly, just on the U.S., how many costs
+are associated with the legacy household entities that you plan to wind up? And then secondly, can you
+remind us how many costs were associated with the DPA? I know the monitor is probably still in place, but
+what are the net costs from those 2 aspects that will come out of the U.S. business? That would be very
+helpful.
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+Okay, net interest margin. I think, as the slide title suggests, we certainly feel, based on what we've
+seen since 2017, that we're reasonably well to benefit as rates move higher. The key drivers for 2017
+are set out in the slide quite clearly. We have, as you point out, Joe, the sort of residue of the dilutive
+impact of running-down the CML portfolio, which completed in the fourth quarter. That accounted for
+about 3 bps of adverse movement to NIM. Slightly higher costs of MREL, TLAC by another name, and
+that reflects the higher issuance during 2017. And that program continues in 2018 to ensure we meet
+the regulatory guidance over the medium term. And then a little bit of impact from currency translation.
+That's the less-favorable news. The more favorable news is that -- is in that last point, where we saw
+higher spreads coming through liabilities, our deposit base and surplus liquidity principally over the course
+of the year. And that was most notable within the U.S. and then to a slightly lesser extent within Hong
+Kong as well. In addition, one of the things that we experienced in 2017 were tighter margins on the
+liability side and the U.K. balance sheet on the move down in the bank rates in the middle of 2016. Seeing
+that adjusted upwards again in the fourth quarter of 2017, again we'd expect to see some benefit of that
+coming through in 2018. So I think, in terms of our balance sheet disposition; and we look at some of
+the pricing dynamics on the asset side of the balance sheet and the positioning on the liability side, we'd
+certainly expect to see some benefit flow through from higher rates. So if the Fed follows through on a
+market expectation of higher rates in 2018, we should certainly expect to see the benefits of that come
+through. The headwinds in that regard, some have been eliminated, as you point out. We will continue to
+issue MREL into the marketplace, which will slightly increase the overall net interest expense that we incur
+in that space, but overall we think we've got reasonably positive trajectory. We provided more guidance
+on this, in net interest margin, in the investor deck and in the appendix to the investor deck as well as on
+Page 110 and 111 of the annual report and accounts, so more detail there, hopefully, for you to help on
+sensitivity analysis, Joe.
+
+Joseph Dickerson
+Jefferies LLC, Research Division
+
+Not there yet in on Page 110, so sorry...
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+You'd be a fast reader if you are, Joe, better man than me. On household, the wind-down really is the
+number of entities. Now this is an organization that operates in a state-by-state basis across the U.S.
+both in terms of subprime lending as well as some of its insurance businesses. So there are quite a few
+entities to be wound down, but I think in the round, the cost of winding down some 50 entities is literally
+in the rounding from an HSBC perspective. As it relates to the DPA, you'll recall that the penalty that was
+assessed in us in 2012 was $1.9 billion. The annual cost of the monitorship which started in the middle of
+2013 and will conclude in the middle of this year has run in the range of $120 million to $140 million per
+annum in the round. So we will continue to see some expense coming through in 2018 in that regard.
+
+Operator
+
+Our next question today comes from Alastair Ryan from Bank of America.
+
+Alastair William Ryan
+BofA Merrill Lynch, Research Division
+
+I feel a little bad asking this question, but the buyback guidance is some of the least useful that we've
+had in quite some time. So you're coming off a streak of significant buybacks. I appreciate there's this
+technicality around the AT1 issuance in the very short term, but it's tempting to read a significant shift into
+this with the new management and...
+
+Stuart Thomson Gulliver
+Former Group Chief Executive, Chairman of Management Board & Executive Director
+
+[indiscernible]. No. So no, that's not what you should read it. So literally, and John will just interject here
+in a moment, this is about the fact that there are technical rules around having AT1s in the market and
+not being able to buy back shares at the same time. So there's nothing cute about it at all. There's no
+change in the policy. It absolutely isn't the case that John Flint and Mark Tucker are abandoning what
+we've had in place for the last 2 or 3 years. And once that technicality has passed, once the market has
+replaced the $7-odd billion of AT1s that we want to do, then you'd expect to see some form of buyback
+come along at that point in time. So do not over-interpret into it. And I'll just ask John to sort of join in
+since he's sitting next to me here.
+
+John Michael Flint
+Group Chief Executive, Member of Management Board & Executive Director
+
+Sure, Stuart. Thanks. And Alastair, Stuart is exactly right. You shouldn't read any change in attitude
+towards our approach to capital management and the role of buybacks within that, but there is a technical
+reason why we want to get these -- well, we're going to get the AT1s done, and therefore there's a
+technical reason why we can't announce a buyback at this point.
+
+Alastair William Ryan
+BofA Merrill Lynch, Research Division
+
+Clear. Could I just follow up? And this might be a bit thick for me, but you wrote 180 basis points of AT1
+out there. $7 billion is a lot to do. It would take you well above the current sort of allowable amount. And
+your CET1 is already so high that you've effectively filled your Tier 1 requirements with common equity, so
+it feels like there's an awful lot of capital kicking around in the business. Is -- do we get any back -- how
+do we scale that, that you're going to end up with very high capital ratios with all this new issuance? And
+you've already about $13 billion of surplus CET1, so is AT1 substituting to CET1 down the road? Or are you
+just getting stuff done now ahead of 2023 or whatever it is?
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+Part of it is just getting to those regulatory guidance in the medium to longer term, Alastair. And part of it
+is just normal financing and refinancing activities within the liability stack of the firm as a whole. And you
+obviously will recall we did a buyback in the second half of last year, and that precluded some [ additions ]
+activity which we may otherwise have wanted to do. So that sort of goes to the timing around this, but
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+it is really just in the general round of financing and refinancing activity as well as with an eye to longer-
+term requirements around AT1.
+
+Operator
+
+Our next question today comes from Robert Noble from Royal Bank of Canada.
+
+Robert Noble
+RBC Capital Markets, LLC, Research Division
+
+Just on the extension of the DPA, is there any risk that this affects your ability to withdraw capital from
+the U.S.? Or is that not an issue? And just in the commercial bank, the loan balance was flat. I was just
+wondering if there's anything, any specific reason, [ well, that's sort of ] relating to balances. But even
+without that it's flat. And you pulled out a comment that said there was spread compression in Asia and
+the corporate, but -- and I was wondering. Has that improved on the asset side, the spread compression
+in Asia?
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+So last question, first. It's been fairly consistent both within mortgages and Hong Kong as well as
+corporate credit and lending in Asia over the course of 2017. There is a lot of liquidity [ doing the rounds ]
+not only in this part of the world but globally, and the pressure has been consistent. We haven't seen it
+intensify or slacken in that regard over the course of 2017. I think those competitive pressures remain
+fairly consistent going into 2018, based on evidence so far. On your first point, to be clear: The deferred
+prosecution agreement that we entered into in 2012, with respect to AML, the charges in that regard
+were dropped in December of 2017. And that DPA has now come to an end on the back of a significant
+investment and work that was done in terms of improving the overall firm's ability with respect to financial
+crime risk management. The -- as we discussed in previous quarters, our ability to extricate surplus
+capital from the U.S. was very much informed by CCAR and having nonobjections to the results for
+stress tests and capital plans associated with those stress tests in previous years. And I think, as Stuart
+mentioned earlier on, we did get our first dividends from the U.S. in 2017 since -- I think it was 2006 or
+2007 was the last time that a dividend had been paid. So it is the first time there was a dividend in 10
+years. And we were successful in pulling a quite significant amount of surplus capital from the U.S., in line
+with those capital plans to which the Federal Reserve raised no objection in 2017. So I think that covers
+that. With the third point...
+
+Stuart Thomson Gulliver
+Former Group Chief Executive, Chairman of Management Board & Executive Director
+
+Yes. It was loan and advances growth in Commercial Banking. Actually, it's up 7%. It was up USD 22
+billion net.
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+Yes. So in the round. And that's largely informed by growth in the United Kingdom. And we saw some
+growth in Asia as well, but that was largely informed by a reasonably robust environment in the United
+Kingdom for Commercial Banking outstanding credit and lending perspective.
+
+Operator
+
+Our next question today comes from Raul Sinha from JPMorgan.
+
+Raul Sinha
+JP Morgan Chase & Co, Research Division
+
+Can I have two, please? Just the first one is on staying on loan growth. I mean, if I look at the underlying
+loan growth in Q4 across the group, year-on-year I think you grew at 7%, which is, let's say, at the top
+end of your mid-single-digit indication for '18, if I'm generous. And within that, obviously you've got 12%
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+growth in mortgage balances in Hong Kong, 7% growth in the U.K. Well, how should we think about the
+composition of growth? Do you think that any of these individual areas that is growing is going to see
+material pickup or slowdown in 2018 relative to where you are today? Or is it just a continuation of the
+trends that we've seen so far? So just interested in how you square the [ federal ] and the mid-single-
+digit sort of guidance. And the second one is [indiscernible], if you want that as well, is just on thoughts
+on U.K. asset quality. And I was wondering if you have any thoughts on some of the pressures that we are
+seeing, especially in the business services sector and construction. Do you think that, at this point, it is
+sort of isolated incidents? Or do you think that there might actually be more pressures building up from an
+asset quality perspective in the U.K.?
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+So on U.K. asset quality specifically, excepting the 2 large exposures for which we made provision in
+the fourth quarter, we see a very stable credit environment. And there one see slightly benign, more
+so than perhaps one would expect. And that has been consistent, again with the 2 notable exceptions,
+across global banking and markets, Commercial Banking and retail bank Wealth Management. I think
+overall we've seen a very stable picture across the business in the Americas. We've seen a slight uptick
+in retail bank Wealth Management in Mexico, but that was expected on the back of the nature of business
+that we're growing there, particularly within retail banking Wealth Management, with a slightly higher
+proportion of unsecured personal credit in that particular marketplace. In Asia, very, very stable; and a
+slight pickup in the Commercial Banking space in Hong Kong; but again not characterized by anything
+in particular that would be worth bringing out. So I think overall, other than the notable items that we
+mentioned in the fourth quarter, it's a pretty stable picture. I think it would be entirely accurate to say
+that, learning from that experience in the fourth quarter, we are, as our credit teams always do, taking
+a good look at secondary-order impacts that may emanate from particularly one of those names, but at
+this point in time a reasonably stable picture. Going back to credit and lending growth: I think one of the
+things which does not necessarily show up by an examination of the fourth quarter balance sheet was how
+strong credit and lending in Global Banking and Markets and particularly in Asia had been last year. In
+the fourth quarter, we saw a number of areas of paydown of credits in that Global Banking and Markets
+scenario, but the pipeline in Asia remains very strong in the Global Banking and Markets space and
+remains encouraging in Commercial Banking across the piece. And in retail bank Wealth Management, and
+John can certainly go into more detail on this, we continue to see an opportunity to grow market share
+in the U.K. mortgage space. We continue to hold a very prudent position with respect to underwriting.
+LTVs for the portfolio overall are just around about 40%. New issuance tends to -- new underwriting tends
+to be done at about 60% LTV. And overall experience in that book has been very, very stable. And as we
+continue to expand the broker channel, I think we now have 23 brokers that give us line of sight to the
+marketplace, we are seeing more of the market obviously and are quite keen to continue to grow share in
+that space. Overall stock in the market is still slightly below 7% market share.
+
+John Michael Flint
+Group Chief Executive, Member of Management Board & Executive Director
+
+Yes. Iain, thanks. So just maybe just to supplement that. So on the RBWM side, mortgages in the U.K.,
+you should expect us to continue to compete aggressively there and to continue to take market share as
+we leverage back into the intermediary space, an area that we've been absent from for a while. We retain
+all of our underwriting -- or we retain control of underwriting, and we're not compromising our credit risk
+standards or our credit risk appetite. We're just getting more distribution through this new channel. And
+as we approach the advent of the ring-fenced bank, if anything, the opportunity increases because the
+surplus funding of the ring-fenced bank is now looking for a home which has looked to be a reasonable
+place for it. I mean in Hong Kong the market remains extremely competitive, but we will defend our
+market share there. And our third biggest retail business, Mexico, there is still room for us to grow into our
+footprint. So across the retail space you should expect to see continued asset growth.
+
+Raul Sinha
+JP Morgan Chase & Co, Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+I mean that sounds very constructive, but I guess what I'm struggling to square with is your current pace
+of growth looks like it's running at 7% and yet you're talking about mid-single digit, let's say, an aspiration
+for 2018. Is that just conservatism baked into that sort of forecast? Or is there something that I'm missing
+where you might actually be more cautious on?
+
+John Michael Flint
+Group Chief Executive, Member of Management Board & Executive Director
+
+7% sounds about mid-single digit to me. Doesn't it [ square off, no ]?
+
+Operator
+
+Our next question today comes from Chris Manners from Barclays.
+
+Christopher Robert Manners
+Barclays Bank PLC, Research Division
+
+It's Chris Manners from Barclays here. Just 2 questions, if I may. The first one was on target capital levels.
+And when I look at your slide deck, it looks like your MDA at the 1st of Jan next year is going to be 11.6%.
+You're indicating you're at $25 billion surplus to that. I know, in the past, you've been sort of talking about
+a sort of 12% to 13% target range. And then you might run a little bit higher than that and for a while.
+Just maybe a few thoughts on how much capital do you think you need to run with longer term and how
+that flows back into the buyback. And the second one is I had a couple of questions on the ring-fenced
+bank. When I look at the ring-fenced bank's sort of illustrative balance sheet, you do look like you have
+a lot of liquidity there. So 25% of the balance sheet is liquid assets. And also just -- yes. So how can you
+sort of shift that out of the ring-fenced bank? Or how can you make that more productive? And how much
+capital do you think that ring-fenced bank is going to need? And so it's got around GBP 82 billion of RWAs.
+Is it going to just run at the group's CET1 ratio? Or are you going to run that a little bit higher?
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+Okay, on the last couple of points, Chris, the guidance on regulatory requirement for common equity Tier
+1 in the ring-fenced bank is in the range of 12.5% to 13%, 13.5%. That go around the houses. I don't
+think you'll find a ring-fenced bank in the U.K. with different guidance in that regard. And as John pointed
+out, we do have a very strong liquidity position within the ring-fenced bank. And part of the challenge will
+be profitably deploying that liquidity, as the opportunity to move it further afield in the group is part of
+ring fencing; and namely to prevent us moving that liquidity further afield in the group, both liquidity and
+capital resources. So absolutely that will be part of the challenge to continue to look at how we optimize
+the ring-fenced bank balance sheet and put to good use the resources that we have in it, but it would be
+fair to say we have a very safe balance sheet going into the start of trading with that bank in the 1st of
+July this year. On the group's common equity Tier 1 ratio, I think, certainly over the course of the last
+12 months, we've tried to encourage you to think about the top end of our 12% to 13% range from a
+common equity Tier 1 perspective. And certainly, if we reflect on the output of regulatory buffers on the
+back of stress tests, then the tendency has been to move the Pillar 2 requirements a little bit higher on
+the back of those stress tests. And I think that's broadly what we would expect to experience again as
+we work through 2018. So I think we are nudging the common equity Tier 1 requirements for the group
+probably somewhat above 13% at this stage. And how much above 13%, we'll get better indication when
+we get some guidance from our principal regulators around how they intend to interpret and apply the
+learnings from the stress tests of 2017. We'll, hopefully, get some guidance on that over the course -- the
+coming months, but I think it would be fair to say that we would expect to see that common equity Tier 1
+ratio for the group nudge somewhat above 13% now.
+
+Christopher Robert Manners
+Barclays Bank PLC, Research Division
+
+Okay, so maybe it [ comes towards ] sort of 14-ish for the moment. Is that fair?
+
+Iain James Mackay
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+Former Group Finance Director & Executive Director
+
+You keep trying to put words in my mouth, Chris. I don't think I said that. Did I...
+
+Christopher Robert Manners
+Barclays Bank PLC, Research Division
+
+So it's above 13%. It seems to be the next tests, it's next place.
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+You don't like anything between 13% and 14%? Never mind. Broadly speaking, I think what we said
+earlier, around the fact that we don't really see that impacting our overall policy with respect to capital
+management and the propensity for buybacks.
+
+Operator
+
+Our next question today comes from Magdalena Stoklosa from Morgan Stanley.
+
+Magdalena Lucja Stoklosa
+Morgan Stanley, Research Division
+
+I've got 2 questions. One is about the investment growth, and another about kind of year-to-date trading.
+So the first one, when you look forward and kind of talk about the investments for growth in 2018 and '19,
+kind of could you give us more detail about the kind of extent and the nature of your key spend items;
+and maybe a little bit more color, more detail around your digitalization policy? So that's question one. And
+question two, I mean, how do you see the beginning of the year in trading activity? In particular, we have
+seen the resurge in volatility but still against kind of very strong underlying economic activity, so how have
+you started? And when you -- and how do you see particularly trading across 2018?
+
+John Michael Flint
+Group Chief Executive, Member of Management Board & Executive Director
+
+Magdalena, It's John. I'll start with the first question, so our investment spend. What I won't do today is
+kind of talk about the -- anything that relates to the development of the strategy. So that's something that
+we'll work with the executive and the board on over the next few months and then update everybody at
+or before the half year results. But what we have been doing over the last couple of years is investing in
+new technology, bringing technology into the bank to make it easier for customers the bank with us and to
+automate processes either to reduce headcount or to make it easier for staff to get on and do their jobs.
+Last year, we spent around about $5.3 billion on technology. As a function, we've invested over $2.3 billion
+in digital across our 3 biggest businesses over the period 2015 to 2017. Some examples of what we've
+been spending our money on and where we've got a bit more work to do: We are the biggest financial
+services user of biometrics, so that's touch, voice recognition and face ID. 40% of our retail customer
+log-ins are now passed with us. We've got the largest deployment of mobile pay solutions of any retail
+bank in the world. In Hong Kong, where we're hosting this call from, we have a new peer-to-peer mobile
+application, PayMe, that allows customers to send money to their family and friends et cetera. So those
+are some investments that have been rolled out. We have similar work in train. All of that investment, of
+course, will be subject to the positive jaws constraint. If the revenue environment remains constructive,
+we should be able to continue to bring new technology and to make the bank better. We'll maintain the
+positive jaws discipline. And when we get to the strategy update, if there's any change in the priorities of
+what we're investing in, we'll let you know then.
+
+Magdalena Lucja Stoklosa
+Morgan Stanley, Research Division
+
+But John, can I follow up very quickly? It looks like the investment over the last 2 years has been very
+much about kind of safety, security and the front end, i.e. the customer satisfaction you've talked about
+kind of earlier in the conversation. How about the back end? How about the kind of middle- and the
+back-office spend, which kind of tends to -- or kind of -- which tends to be following the -- I think, the
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+front-office investments? Is that something that is also kind of happening in the background to the same
+degree?
+
+John Michael Flint
+Group Chief Executive, Member of Management Board & Executive Director
+
+Yes, it is very much so. So the things that are visible to you and to our customers, the things you can see
+are part of it, but an awful lot of the investment has gone into the middle- and the back-end processes
+either to improve the technology platforms that support the business and/or to automate processes that
+are currently very manual. So there's an awful lot of that going on...
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+And there is a very significant amount of investment in the area of meeting regulatory compliance
+requirements simply with respect to the amount of reporting that we now do for our regulators around
+the world, whether it's with respect to capital, risk-weighted assets, liquidity, overall exposure from a
+credit perspective. So improving the speed, reducing cycle times, enhancing data quality. And being able
+to provide multiple, different cuts of data, which of course has benefit as well to the business in terms of
+helping inform decision-making at product and segment levels, is an area where there's been considerable
+investment over the course of the last couple of years.
+
+Stuart Thomson Gulliver
+Former Group Chief Executive, Chairman of Management Board & Executive Director
+
+There's quite a bit of detail on Slide 35 in the appendix which gives you a bit of a sort of touches to some
+-- where some of the middle- and back-office expenditure has been. And then you also asked how we're
+trading so far this year, which Iain will give you a completely inscrutable answer.
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+With those instruction -- no. I think the first 6 weeks of the year have been fairly constructive. It's -- as
+you say, it's the volatility has contributed to higher volumes that we've seen come through. So I think
+overall, certainly when you reflect on the daily runs that are coming through Global Banking and Markets,
+it's a reasonably encouraging picture over the first 6 weeks of the year.
+
+Operator
+
+Your next question comes from Fahed Kunwar from Redburn.
+
+Fahed Irshad Kunwar
+Redburn (Europe) Limited, Research Division
+
+I just had a couple of questions. The first is just following up on the margins. Obviously you've got good,
+higher yields on the surplus liquidity in the year, but Hibor since the beginning of the year has fallen quite
+sharply, it's off about 50 bps in the beginning of the year. I'm just wondering. That deposit margin and
+particularly in the Hong Kong exit deposits, is that the -- does that fall going forward? And how does
+that play into the margins guidance you gave earlier overall? And the second point was just around jaws,
+obviously very positive. And the investment spend will be kind of under the constraint of positive jaws, but
+at the moment, consensus close to 3% kind of positive jaws for the next 2 to 3 years. I think you talked
+about on the call last time jaws of more like 1% to 1.5%, from memory. Is that 3% reasonable? Or do you
+think that's just still a little bit elevated?
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+Fahed, I think your memory is quite good actually. I like that guidance quite a lot. And then from a NIM
+perspective, there obviously is some variability in terms of how the deposit betas impact the overall flow-
+through to our income statement. And clearly we're responsive to market pressures in that regard in Hong
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+Kong just as everywhere else in the world, but broadly speaking, the guidance that we offered is conscious
+of some of the dynamics that we've seen over the last 4 or 5 weeks.
+
+Stuart Thomson Gulliver
+Former Group Chief Executive, Chairman of Management Board & Executive Director
+
+And if I can, on Hibor. So Hibor was kind of trading 50s, averaging about 54 basis points in the first
+quarter '17, 40 basis points in the second, around 44 in the third, got up to about 84 in the fourth quarter,
+spiked to around 100 and is back at 80. So the 100 was the outlier, so no, that doesn't require us to
+change the guidance.
+
+Fahed Irshad Kunwar
+Redburn (Europe) Limited, Research Division
+
+Okay. Okay, so the fourth quarter was the outlier. That's very helpful.
+
+Stuart Thomson Gulliver
+Former Group Chief Executive, Chairman of Management Board & Executive Director
+
+Yes, it was.
+
+Operator
+
+The next question today comes from Tom Rayner from Exane.
+
+Thomas Andrew John Rayner
+Exane BNP Paribas, Research Division
+
+Can I have the -- 2 questions and -- please? Just firstly, to go back to share buyback and the capital
+guidance. I mean I noticed that you have repeated what has been your dividend guidance for some time,
+that you're going to hold it flat for the foreseeable future. Obviously, though, that suggests a sort of
+continuing capital build. And one aspect I don't think you're asked about with regards the share buyback
+was the fact you haven't been able to finalize or tell us what the final Basel IV outcome is going to be. I
+just wondered. Is there any issue about the uncertainty around the potential Basel IV impact that may be
+making you a little bit more cautious on sort of committing to the share buyback? That's my first question.
+And I have a second one, on costs. I don't know if you want it now or after.
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+Fire away, Tom.
+
+Unknown Executive
+
+[indiscernible].
+
+Thomas Andrew John Rayner
+Exane BNP Paribas, Research Division
+
+Yes. I just wanted to try and get you to update. I know you're still targeting positive jaws, but just the sort
+of potential sort of size of those jaws. Because obviously, having taken out more than 6 billion per annum
+of costs already, I guess it gets increasingly difficult to find those new sort of gross cost savings. You're
+talking about, so -- or John, I think you were talking about wanting to invest more as revenue improves.
+So my sense is that, if we're talking positive jaws, we might be more 1% than 3%, but I'm just trying to
+get a feel for what you're -- you think the potential is there, please.
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+Yes, Tom, I think 1% to 1.5%, 2% is pretty good guidance around the jaws number, per the previous
+questions. So I think your read of it is pretty much spot on in that regard. To go much wider than 1.5%
+or so is probably beyond what we are thinking about. In terms of Basel, whatever they call it now, 3.5
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+or 4, I don't think per se that's necessarily what's coloring our thoughts around the buyback. In fact, it's
+definitively not. The reason we've given you for the buyback is the fact that we've got AT1s that we'd
+like get into market. The first half year, in our experience, has always been more conducive to getting
+both good demand and good pricing on those products. And there are listing authority regulations which
+simply preclude us from doing a buyback at the same time as AT1s, or vice versa for that matter. I think,
+as far as Basel IV goes, as you probably know as well, if not better than I, there are over 60 areas of
+national discretion now available within the guidance that was published back in December. And for an
+organization that operates across 67 markets with some 40 regulators, the opportunity to apply national
+discretions across a broad range of dimensions within Basel IV creates some uncertainty for us. And I
+think, when you look at how other people, other institutions that have published their results already
+on this that have given guidance, it's been pretty much along the same lines that there's pretty broad
+discretions that can be exercised. And therefore, the outcomes can be uncertain. For those that have
+provided guidance, I think what characterizes them is they tend to operate in a relatively small number
+of markets and may have benefited from the fact of some guidance from the regulators already. I think
+certainly our principal regulators around the world are still very much in the stage of working through their
+own policy application in this regard. So yes, there is some uncertainty in terms of the impact. And as we
+get greater guidance, we'll be sure to provide you with some guidance when it becomes meaningful to do,
+but that's not what's influenced our decision with respect to buybacks at first -- at the end of the year.
+
+Operator
+
+Our next question today comes from Michael Helsby from Bank of America.
+
+Michael Francis Helsby
+BofA Merrill Lynch, Research Division
+
+I've got 2 questions, if I can. Thanks for Slide 33, you've given us the future sensitivity in the outer-years
+to the future move in the yield curve, but clearly, 2017, we saw rates moving already, which does imply
+that you're, for want of a better word, already pregnant with a higher net interest income in the outer-
+years. So I was wondering if you could actually quantify that NII benefit for us in '18, '19, '20 like you've
+done in that slide. And then secondly, I think, ex the $105 million of customer [ dress ] that's in NII in the
+fourth quarter, you're annualizing at $29.9 billion. I think, for all the reasons that you've talked about, NIM
+now looks like it's going up. I think, Iain, you talked about mid-single digit broadly being in line with 7%
+loan growth. And obviously you've got an FX tailwind in the U.K. next year. It does imply that consensus
+NII of $30.6 billion looks extremely mean. I was just wondering if you thought that was a fair observation.
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+Not necessarily, Michael. I don't think we'll necessarily recut the sensitivity table for you right here and
+now, but when we give you the first quarter numbers, we'll be sure to really look at that sensitivity table
+that we provide you on Page 33 and update it for any developments that will have occurred or may have
+occurred between now and the first week of May, when we get those results into your hands. I think
+overall, going back to the -- what we talked about at the NIM at the beginning of this call, we come out of
+2017 with a reasonably constructive position and a reasonably optimistic outlook for Fed policy movement
+in this regard. But as you can see, we've got a clear basis of assumptions included on Page 33, and I think
+that gives you the propensity to take that and then doodle with it in your spreadsheet if you're so inclined.
+
+Michael Francis Helsby
+BofA Merrill Lynch, Research Division
+
+Okay, so you don't think that consensus NII in 2018 looks too low.
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+Not necessarily at this point in time.
+
+Michael Francis Helsby
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+BofA Merrill Lynch, Research Division
+
+Interesting.
+
+Operator
+
+Our next question comes from Ronit Ghose from Citigroup.
+
+Ronit Ghose
+Citigroup Inc, Research Division
+
+I just wanted to follow up. So if consensus NII doesn't look too mean, consensus costs definitely look too
+low, right, Iain?
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+No, don't think so.
+
+Ronit Ghose
+Citigroup Inc, Research Division
+
+Okay. 2 more questions...
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+Now remember there's an FX impact when it comes -- remember there is FX impact that is going to come
+through this, okay? So it is important to reflect. And I think we provided on page, the cost page, within
+the deck, I think it's Page 14, the impact of applying the FX rates, particularly in the sterling-dollar block,
+that it would have if we apply the exchange rate on the 14th of February. So that's something that we'd
+always point out just on the basis that we provide you with adjusted data on a constant currency basis.
+Just continue to reflect that within your models. And as I say, as we work through the first quarter and
+have a few months of trading activity behind us and a better sense as to how the year is playing out, we'll
+continue to update you as we get to that point in time.
+
+Ronit Ghose
+Citigroup Inc, Research Division
+
+Sure, sure. And I get that, but I'm just looking at where -- I'm just going back to your comment on
+jaws, which you've repeated a couple of times. Consensus jaws are clearly quite a bit broader than your
+guidance, so I'm guessing that the consensus costs number, rather than the consensus revenue number,
+is where the difference is versus your expectations. But you don't have to comment on that. The question
+I had was specifically one on MREL please, Iain. Before, you guided to the lower end of the $60 billion
+to $80 billion range, I think, is that still intact? Or we're going to get more MREL issuance. And I have a
+second, more broader question, and maybe that's more for your incoming CEO, about open banking in the
+U.K. HSBC seems to be the only big bank that have done much on this front. And I'm -- just would love
+any kind of color or anecdotes on how you guys see that playing out, open banking, PSD2, for you in the
+U.K. this year. So MREL, $60 billion.
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+So MREL range, $60 billion to $80 billion. I think that range still holds true. At this point, we have one
+of our principal regulators that has provided some reasonably firm guidance on this on MREL and the
+positioning of MREL across the group, and that's the potential regulation authority in the U.K. We -- there
+is a consultation document out there from the HKMA, which will get firmed up as we move through the
+year and probably very much towards the end of the year actually, which again would be helpful, as well
+as an expectation of improved guidance from the U.S. But I think the $60 billion to $80 billion range
+remains an appropriate range to work on. I'm not sure I would guide you necessarily to the lower end
+of that range, but certainly within that range is where we see it right now. I think -- in terms of cost
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+guidance, I think we've sort of given you the tools here. We had the exit run rate that we talked about,
+so excluding the incremental investment that was largely focused within retail bank Wealth Management
+and certain digital tools in the fourth quarter, we exited 2017 in line with the 2014 expense base, around
+about 7.5 to 7.6 quarterly run rate. And if you think about that continued investments in the growth of
+the business to be bound by 1% to 1.5% to 2% positive jaws, then don't multiply 7.6 times 4. Think
+about revenue growth and the propensity for us to continue to invest into that growth whilst maintaining
+a positive jaws of 1% or so. And I think, with that, it gives you the ability to model out what this may look
+like with a reasonable degree of accuracy as the results flow through.
+
+John Michael Flint
+Group Chief Executive, Member of Management Board & Executive Director
+
+And I'll pick up on the -- so with respect to the question on open banking: It's open banking is here.
+It's the regulatory direction of travel on this one is clear. The potential disruption that this could cause,
+we think, is quite significant, so it's therefore important for us to be in early, testing and learning and
+experimenting with this. So we've currently got 3 aggregation platforms trialing. We got one in the U.K.
+called HSBC Beta, which we launched in September last year, which allows customers to see all of their
+accounts on one screen and, let's say, who they bank with. And from our perspective, it's important that
+our customers aggregate through us. This is all ultimately about control of the customer relationship.
+So we've gone out early. I'm very proud of that. We just need to test and learn and see where we take
+-- where we can take that. We have something in France called personal economy that we're doing
+in partnership with a fintech. And our first direct brand in the U.K. is also trialing a proposition that's
+currently in the FCA sandbox. So our attitude towards this is we need to test and learn and be reasonably
+agile in our thinking. We'll keep you updated as we learn.
+
+Operator
+
+We will take our last question today from Martin Leitgeb from Goldman Sachs.
+
+Martin Leitgeb
+Goldman Sachs Group Inc., Research Division
+
+Also 2 questions from my side, please. And the first one is just to go back to your U.K. proposition in light
+of upcoming ring fencing access and deposit base within the ring fence and your strategy on mortgages.
+And I just wondered if you could shed a little bit of light on the launch of new -- of the new intermediary
+mortgage platform, which I think has successfully launched in 4Q. And I was just wondering if you could
+give us an indication on what you think your market share could get to in terms of mortgage lending
+because, as far as I'm aware, I think in direct lending you have a kind of a market share of roughly 20%
+at the moment in mortgages in the U.K. In terms of indirect origination, we have broadcast it's around 1%
+to 2%. And I was just wondering. The new platform you have launched, where could that potentially get
+your market share in terms of intermediary lending in mortgages in the U.K.? And the second question
+is just a follow-up on Slide 33 and the incremental disclosure on NII sensitivity over time, and I was just
+wondering if I read this correctly. So for any potential rate hikes, you would get the benefit -- around 50%
+to 60% of the benefit coming through in year 1, with the remainder then over the next coming years.
+And I was just wondering if that is an indication that you have fairly limited amount of structural hedging
+in place. Because I would have typically expected that the feed-through could be potentially slower with
+structural hedging in place.
+
+John Michael Flint
+Group Chief Executive, Member of Management Board & Executive Director
+
+Martin, okay, it's John. I'll take the mortgage platform first. So I'd -- I'm not going to give you a number
+as to where we think we can take market share to. I think we -- well, the figures show that we took our
+market share of approvals from 8% in '16 up to 9% during the quarters '17, so we're up roughly 1% on
+the year. We've got -- we still have funding and capital to allow us to continue to grow in the U.K., so we'll
+just continue to see that trend, but I don't want to signal a number or an end date for that. With respect
+to the new platform, the platform was launched probably 12, 15 months ago. And it's recently been
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+upgraded, yes, and too early to give you any kind of indication as to what that's going to do to production,
+but any upgrade clearly is going to help.
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+Martin, on the structural hedges, we do have a number of market structural hedges and most notably in
+the U.K. We do not have structural hedges within the Hong Kong marketplace. So that may inform your
+question to some degree. We have time for one more question.
+
+Operator
+
+Your next question comes from David Lock from Deutsche Bank.
+
+David John Lock
+Deutsche Bank AG, Research Division
+
+So had two, really, on the U.S. The first one was just on HSBC U.S.A. The core Tier 1 looks like it fell from
+15.3 to 14.2 quarter-on-quarter. I just wondered if you could clarify what was the driver of that change. Is
+it an upstream to the group? Or is it a reflection of the U.S. tax change? And the second one was on the
+U.S. tax change. I just wondered if you -- if it was too early; or if you maybe had any initial thoughts on
+what you thought the impact could be for your long-term tax rate; and if there's any beat implications,
+particularly given you obviously fund a lot of the group out of the holding company.
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+So the answer to your first question was upstreaming of surplus capital was the driver of the reduction
+in the capital ratios within the U.S. And then on the tax change, we've got $1.2 billion, $1.3 billion
+impairment on the deferred tax assets in the U.S. Obviously, in the longer term, as we continue to
+improve the profitability of the U.S. business, a lower corporate tax rate ought to be beneficial. One of the
+things that we are working through with a number of our peer group is to understand detailed guidance,
+which is yet to be received from the IRS, around the application of VAT and how various thresholds apply
+within that calculation. As I'm sure you know, it's a fairly complex setup and piece of legislation that's
+been put in place with respect to VAT. So we are still working through whether or not it bites for HSBC.
+And if it doesn't, then obviously we clearly benefit from a lower corporate tax rate going forward, but we
+do need to have a clearer read on the guidance from the IRS before we make that final determination.
+
+David John Lock
+Deutsche Bank AG, Research Division
+
+And just a couple of follow-ups. So could you just confirm the dollar amount that was upstreamed? And on
+the beat, I just wondered. I mean obviously, if this works out, then actually it is negative for you because
+of the funding, the way the funding will be transferred from the holdings into the U.S.A. business. Would
+you consider issuing locally in order to effectively optimize that? Or is that just not simply something that
+would work from a regulatory perspective?
+
+Iain James Mackay
+Former Group Finance Director & Executive Director
+
+It -- certainly the U.S. regulation with respect to TLAC would conceivably allow us to do that. We do have
+a SEC-registered entity in the U.S. that has in the past issued senior notes into the marketplace. So it
+is not beyond the bounds of possibility, but we certainly would make, take no action in that respect until
+we've got a clearer understanding of exactly how VAT would apply. And there are a number of areas of
+ongoing consultation and clarification that have been sought from the IRS in terms of how it's going to be
+applied in that regard. In terms of the total amount of capital upstreamed from the U.S., in 2017, it was
+USD 4 billion.
+
+Stuart Thomson Gulliver
+Former Group Chief Executive, Chairman of Management Board & Executive Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+Okay, that brings the call to an end. Thanks very much. Thank you, operator.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+HSBC HOLDINGS PLC FY 2017 EARNINGS CALL |  FEB 20, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+

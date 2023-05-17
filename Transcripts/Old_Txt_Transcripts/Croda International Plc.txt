@@ -1,0 +1,1099 @@
+Croda International Plc LSE:CRDA
+FY 2017 Earnings Call Transcripts
+Tuesday, February 27, 2018 9:00 AM GMT
+S&P Global Market Intelligence Estimates
+
+CONSENSUS
+
+EPS Normalized 
+
+1.77
+
+Revenue  (mm)
+
+1361.08
+
+Currency: GBP
+Consensus as of  Feb-16-2018 12:30 PM GMT
+
+-FY 2017-
+
+ACTUAL
+
+1.82
+
+1373.10
+
+-FY 2018-
+
+SURPRISE
+
+CONSENSUS
+
+2.82
+
+0.88
+
+1.90
+
+1402.66
+
+FY 2017
+
+CONSENSUS
+
+1.77
+
+ACTUAL
+
+1.82
+
+SURPRISE
+
+2.82 %
+
+- EPS NORMALIZED  -
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+11
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+CRODA INTERNATIONAL PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Jeremy K. Maiden
+Group Finance Director & Director
+
+Stephen Edward Foots
+Group Chief Executive
+
+ANALYSTS
+
+Adam Robert Collins
+Liberum Capital Limited, Research
+Division
+
+Andrew Gregory Stott
+UBS Investment Bank, Research
+Division
+
+Chetan Udeshi
+JP Morgan Chase & Co, Research
+Division
+
+Gunther Zechmann
+Sanford C. Bernstein & Co., LLC.,
+Research Division
+
+Paul Richard Walsh
+Morgan Stanley, Research Division
+
+Stephanie Bothwell
+BofA Merrill Lynch, Research
+Division
+
+Thomas P Wrigglesworth
+Citigroup Inc, Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+CRODA INTERNATIONAL PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Presentation
+
+Stephen Edward Foots
+Group Chief Executive
+
+Okay, morning, everybody. Welcome to another webcast from Croda International for the 2017 full year
+results. As I look around the room, it reminds me of the boardroom of Sutherland Football Club I was in
+recently, and the only difference is there's a few more trophies in here than in the boardroom over there.
+And judging from what I can see on the pitch, it's going to be a while since -- till we get another trophy as
+well. Anyway, let's get on with it. Some Colchester fans in the room as well, so you better be quiet.
+
+Yes, as usual, it's a little bit from me on the highlights for 2017, and then Jez, more on the detail of the
+numbers and then back to me on strategy. Okay, so let's get into it then. A year of very good progress
+for Croda, and a strong quarter four and then a year of significant progress, we would say. Record profits,
+core sector is up 11% PBT, and strong sales growth of 10.4%, strongest underlying growth since 2012 and
+the innovation machine, that is Croda, that's what we stand for, continues to grow, fifth successive year
+of NPP growth, driven largely in '17 by Personal Care and Life Sciences and the consumer business is just
+-- strong NPP growth there. And margins and returns are stable, and in particular, the ROIC at 19.2% is
+particularly impressive when you -- given the big outlay that we've had on our Atlas Point facility, 19.2%
+broadly flat from last year, but underlying ROIC's moving ahead.
+
+Some really, really interesting disruptive technologies, we -- you'll hear the word disruption a lot more
+from Croda, some of these technologies potentially are very disruptive for our industry for the next 3 to 5
+years, and we're acquiring them at quite a rate at the moment, that will continue. You'll hear more about
+that from later in the pack, but more at the Capital Markets Day. And good returns for our shareholders,
+dividend up again for the 26th year.
+
+We finished the year in a stronger position than when we started the year, and that's always a good sign
+in Croda. Just getting behind the numbers a bit, consistent top and bottom line growth coming through.
+We're really pleased about that. We focused on constant currency, that's the most important thing in our
+life and through our management teams. Constant currency in the core business up 5.6%. And the quality
+and the business continues to improve as well, return on sales up 20 basis points. So margins nudging
+up. And an excellent EPS growth of 14.9%, up to 179p, and a particularly strong outperformance in the
+second half of the year. So we're a strong business and we're getting stronger.
+
+Probably the highlight in the pack, and you get a lot of information from us now is if there's one line that
+I would like to be left with is the broad-based nature of our growth, it's solid growth across the world,
+across the sectors. They're all growing broadly mid-single-digit, Personal Care, Life Sciences, Performance
+Technologies, 3 strong legs of growth now. It's not just about Personal Care. Personal Care very important
+to the group, but the other 2 businesses are equally as important.
+
+Now we're investing heavily around the world whether it's R&D, manufacturing, sales and marketing.
+Life Sciences and Performance Technologies, don't forget about them, some good growth, very strong
+structural growth coming through. And something that we don't show you very often, but we look at every
+month is our customer classes. So our top 10 customers represent about 16% of our sales, growing at
+4.7%, the next 10 are growing at 4.3%, and the rest, which is a big number, it's about 26,000, growing
+about 4.6%. So consistent growth right across our customer categories around the world.
+
+If there has been a change over the last 2 or 3 years, it's been -- we've always seen good growth with the
+rest section, the light blue, we've been negative with the top 10 and top 20, and it's the big customers
+that are starting to grow again for Croda, which is important, important message to get across. We're
+starting to win again with the multinationals. I think the other point there, not all of those multinationals
+are Personal Care. In the top 10 or top 20, there's quite an equal spread between the 3 businesses. Of
+course, there are a number of multinationals but -- in Personal Care, but there's quite a few Crop and
+Health Care, and industrial customers in there, too.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+CRODA INTERNATIONAL PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+And all major regions are growing as well. So we've been very pleased with the Europe and Asia
+performance, strong and stable we would say. But the outperformance has come from North America,
+across all categories. That's Personal Care -- North America are up 8%. Very good progress.
+
+So just getting into the sectors. Personal Care has been the pick of the sectors in many ways from where
+it was 18 months ago, strong sales growth. If you remind yourself going back, some of the headwinds
+in this business has been geographically, it was North America and Latin America; across the sectors or
+the subsectors, it was the formulation business and the multinationals, all of those were negative and
+have been negative for a year or 2. They've now turned positive. And all of them, they are in the green
+and we're seeing sequential improvement in most of those through the year. And that's accelerating the
+growth, so all of our regions and all of our subsectors are in a very good position now, which is important
+for 2018 and beyond. And a big -- quite a lot of self-help there from the business. Sandra and her team
+have reorganized into these 3 sub business units providing more momentum, more focus, and all 3 of
+those businesses are in a stronger position at the end of the year than they were at the start.
+
+Multinationals recovered as well, very strong second half and overall for the year, the MNC is a positive.
+The first time in a few years, we could say that for our multinationals. And this general flight to premium
+is really accelerating. What we mean by that? Most of the invention in the industry is going at the top of
+Personal Care. And you look at some of our customers like Estée Lauder, anybody that's a big innovator
+in this area is growing very quickly because virtually all of the growth is coming at the top end and that's
+where Croda has positioned itself from our innovation platforms for several years.
+
+The slight knock in margin is all down to mix. We've been really pleased with the MNC growth and the
+formulation growth in Croda, arguably the outstanding performance of the subsectors in the pack are
+at slightly lower margins than the rest. So it's diluted for 70 basis points, but if you look at each of the
+subsection -- sectors in margin term, they're very strong, strong and stable. So we're very happy that
+the base business is starting to come back in Personal Care. And I would leave you with this that Personal
+Care is probably in the best position it's been in for 5 years in Croda, really strong position, very pleased
+with the performance. We expect that to continue.
+
+Life Sciences has been good too but different and predominantly, it's innovation in Health Care and Crop
+Care and it's integration of Incotec as well. 4.6% sales growth, profit of 14%, and 200-basis point margin
+improvement. So a lot of that's coming from the NPP growth, up 10%, 32% of sales, good growth in
+Health Care, even better growth in crop protection. Crop protection becoming a world-class business for
+Croda, no doubt about it. We're being very pleased with the performance. And its outperformed now, I
+think, the fourth year in a row. And I think in Incotec, a point on Incotec. We've restructured -- we feel
+like the restructuring is complete. We've closed a number of facilities, more recently we closed the Japan
+facility in the middle of the year and now we're investing for growth, which is classic Croda. So we're
+investing in China, America, Brazil, and Europe and this is a good business for Croda, and it got all the
+hallmarks of a classic innovation-led business. And we're ahead of our plans. By the end of this year, we'll
+have doubled the return on sales in that business over 2.5 years, very good business for Croda. And we're
+being very pleased with the Health Care high-purity growth as well.
+
+I think a point on the API contract. We've decided to exit that. I think we've talked to you in recent times
+about the pricing pressure in that business. That's been a real growth story, an impressive story for
+Croda over 4 years, developed -- we generated GBP 55 million worth of sales over 4 years. But as more
+competition is coming in, there's more pricing pressure in the North American market and whilst we do
+get this profit share in the contract, you can -- that can turn into a loss share as well. And we didn't want
+that, neither did Par, our key relationship there. So we agreed to exit that contract. So that's a knock in
+turn over terms of about GBP 11 million worth of sales. But the rest of the business behind that is in good
+shape and APIs generally for the group -- for Life Sciences is about 3%. So it's a very modest -- relatively
+modest part of the portfolio. But Life Sciences generally in very good -- a very good place. Incotec ready
+for growth, and Health and Crop in good places, too.
+
+And last but certainly not least, is Performance Technologies. We are transitioning to more focus
+innovation, becoming a really consistent performer in Croda and it's a strong third leg, not a weak third
+leg. Second year of double-digit profit growth, 10.7% profit on good sales growth and 120% -- 120 basis
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+CRODA INTERNATIONAL PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+points improvement in the second half in margin, too. Jez can talk a bit more about the volume changes
+in that business, quite interesting though the profit growth is impressive. And it's this focus of value
+over volume, which is what Croda stands for. So the broad-based growth is around us, it's fast-growth
+technologies, it's -- we have tried to spend more time in smart materials and energy technologies. There
+are some really quite interesting growth opportunities coming, whether it's in light weighting or in the
+electrification of cars, or new general lubricant opportunities too. There are many opportunities. And I
+think we're being particularly pleased with the geography of the growth, a lot of this was a European
+business many years ago. And we've invested in R&D and factories around the world, and the strongest
+growth here is in Asia and North America, which is a testimony to the fact that we've got small market
+share positions there. So we expect that growth to continue. So really good performance for Performance
+Technologies.
+
+So we're firing on all cylinders with the 3 businesses, we're in a good position with them all. And they're
+all in a stronger position at the end of the year than they were at the start of the year. So on that note, let
+me hand over to Jez.
+
+Jeremy K. Maiden
+Group Finance Director & Director
+
+Thanks, Steve, and morning, everybody. So let's have a look, first of all at the key numbers in the income
+statement. Sales were GBP 1.37 billion, up just over 10% in reported terms. Operating profit up just
+over 11% at GBP 332 million, small increase in the interest charge that reflects the higher debt level that
+we carried into 2017 having done the special return to shareholders in the middle of '16. And the profit
+before tax on the adjusted basis that we report on, GBP 320.3 million, an increase of 11%. Now the IFRS
+profit measure is slightly stronger, key reason behind that is that we have a GBP 7.7 million exceptional
+tax credit and that arises from the impact of the recent U.S. tax legislation on our deferred tax liability.
+So we revalue that and gave us a GBP 7.7 million credit. I'll talk about the ongoing impact of U.S. tax
+changes a little later in the presentation. So overall adjusted EPS, 179p, as Steve said, up nearly 15%.
+So a very strong performance and on the back of that we've proposed a full year dividend of 81p, which
+is an increase of 9.5%. A bit more in the final, because the interim was up only about 6.5%. So the final
+dividend up double-digit.
+
+As Steve said, the positive thing about the year has been the improving sales momentum that we've
+seen and you can see that captured in the quarterly constant currency sales growth graph for the core
+business of the 3 core sectors. We saw a steady return to organic growth during the first half year with
+some impact on second quarter from timing of Easter, and then we saw that growth accelerate during the
+second half year. This was driven by progressive improvement in the consumer businesses of Personal
+Care and Life Science, and the key for us is that, that was achieved at maintained strong margin. So
+there was no margin dilution around that. At the same time, we rebalanced the Performance Technology
+portfolio, the second half year saw lower growth, which is what we indicated we expected to happen at the
+half year and this was because we were focusing on value rather than volume growth. We've seen a lot of
+volume growth in the first half, second half, this became much more driven by value, and as Steve said, to
+the benefit of margin. And the encouraging thing overall is that we do feel that we have 3 strong legs of
+growth behind these numbers, it's not just based on a single sector's performance.
+
+So here we look at the bridge of sales growth in 2017, beginning with GBP 1,244 million, the reported
+sales for 2016. Industrial Chemicals continues to decline in terms of its sales as we continue to refine
+that business, particularly lose some of the co-stream sales and divert them to other uses or change the
+chemistry around them and produce less of those materials. The core business added 5.6% in constant
+currency to growth and the impact of our technology-based M&A was basically 0 in terms of sales. There's
+very little sales associated right now with those technology acquisitions, they're all for the future. So
+overall for the group, constant currency sales growth of 4.6%, add to that the currency translation benefit
+of 5.8% and you have 10.4% reported growth and GBP 1,373 million. Currency translation all very much
+first half, second half actually slightly negative as sterling strengthened.
+
+Here just splitting out price and volume. And again, this graph is something we're very pleased with the
+shape of this. You can see that in the consumer businesses of Personal Care and Life Science, is very much
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+CRODA INTERNATIONAL PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+volume-driven with a relatively stable price mix component. But in Performance Technology, you're seeing
+the reverse of that, it's very much driven by the price mix improving and not so much volume, which is
+the shape we wanted to get. So in Personal Care, 5% volume growth with price and mix broadly stable,
+and as Steve said, reflecting the recovery in Beauty Formulations, and the continued strong performance
+in Beauty Actives.
+
+In Life Science, we have 6% volume growth. This was offset by a small decline in price mix because we
+were much more weighted towards crop protection growth, which is a slightly lower average price. On
+Performance Technologies, volume growth of 1%. So very much [ are about ] improved product mix,
+technology, value over volume, together with the 1 sector where we did see meaningful raw material price
+rises last year, which we fully recovered by the early part of Q3. And overall for the group, a nice balance
+of 4.6% constant currency sales, include 3% of volume growth. So good recovery, good growth in volume
+demonstrated in those numbers.
+
+If we look at the operating profit generation across the sectors, then the group operating profit is up
+GBP 34 million in reported currency and 6.9% in constant currency terms. With a return on sales, the
+margin improving by 20 basis points. Personal Care profit was GBP 12 million of growth, 3.3% in constant
+currency, Life Science, the stand out performer, GBP 15 million of additional profit contribution, 14%
+increase in constant currency profit driven very much by Incotec restructuring, with a return on sales on
+target to meet our 20% target for the end of 2018 in that particular business unit. Growth in crop and also
+the high end of health delivery systems and the return on sales in Life Science is now back above 30%,
+as Steve highlighted. And then on Performance Technologies, GBP 9 million of additional profit, constant
+currency growth over 10% for the second year running, return on sales very much on target for our 20%
+medium-term goal.
+
+So looking at the overall impact of that on EPS, splitting that out into the bridge on this slide, 2016 EPS
+155.8p per share. Then sales growth, as I said, adding 4.6% to EPS, better mix and margin improvement
+driving the 2.3% improvement there and then the slight negative from the higher interest bill. FX added
+4.6% to the constant currency growth of 6.5%, and then the tax rate has added another 3.8% there.
+And that's because we've had a lower tax rate, 26.8% in the year compared with 28% where we've been
+previously, driven by lower U.K. tax and the mix of where the profit comes from now in overseas terms.
+No impact in that number from the U.S. tax changes, that's all for '18. Giving us overall very healthy
+growth of 8 -- of 14.9% to 179p EPS. I've highlighted at the bottom of the slide, 3 areas that we expect
+to see a continued impact in 2018. In interest, first of all, capitalized interest, we've been capitalizing
+interest associated with the biosurfactant plant as we're required to do under accounting standards, and
+that capitalization will cease at the end of the first quarter when that plant is due to come on stream.
+Therefore, the interest that we're paying goes back to the P&L, now that's a delta of about GBP 3 million
+of additional interest to the P&L in 2018.
+
+On FX, obviously, that's currency translation. It'll be what it'll be. It's mechanical. At the moment, clearly
+sterling is stronger than it was at this time last year. We've put you a little slide on the very last page of
+the pack as an aid that might sort of guide you in terms of the calculation. But if rates continue at the
+current level, we'll be around about GBP 11 million to GBP 12 million of currency translation headwind
+compared with the 2017 rates, if we stay at where we are today. And then on tax rate, this is where we
+get the benefit to EPS of the impact of the U.S. tax changes at the end of last year. We anticipate U.S. tax
+reduction will reduce the group's effective tax rate by 2.5 percentage points. So it'll bring us down from
+26.8% to low 24% level. So meaningful accretion to EPS expected from the U.S. tax changes.
+
+Finally, looking at the balance sheet really and the cash flows around there. First of all, starting with the
+net CapEx, we reached peak CapEx in 2017 spending GBP 157 million on CapEx. The biosurfactant plant,
+you can see, is the lion's share of that, everything installed by the end of 2017 with commissioning at the
+moment. So very little CapEx anticipated in 2018 from that plant and you can see the rest of the capital
+portfolio is very much in line with where we expect to be, around about 1.3 to 1.5x depreciation. So we're
+looking at GBP 65 million perhaps GBP 75 million of CapEx during 2018. As a result, we expect that to
+reverse the free cash flow decline that we saw in '17, clearly driven by the CapEx and see that free cash
+flow step up again in 2018.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+CRODA INTERNATIONAL PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+In terms of net debt, despite the lower cash flow, we saw net debt broadly stable and leverage decline
+slightly. So we're at 1x, which is the lower end of our target gearing range. And finally, a word on
+pensions. Showing you here the post-tax IAS19 deficit, that's come down significantly from GBP 113
+million to GBP 21 million. Of course, it's the accounting basis and the cash payments to pension schemes
+is driven by what's going on in the actuarial reviews for the individual schemes. The U.K. scheme is the
+key scheme there. The triennial evaluation is September [ 2017 ], it's still in draft, but it's showing a
+surplus on a technical provision basis. And therefore, we would not anticipate any cash deficit payments
+for the next 3 years on the U.K. scheme.
+
+I'll now hand you back to Steve to cover our strategy as it impacts 2018.
+
+Stephen Edward Foots
+Group Chief Executive
+
+Thanks, Jez, or is it Hugh Grant? Or possibly Brian Connolly? We haven't really worked it out yet in Croda.
+Anyway, back to -- we're not sure. Great, I mean, what Jez has described in detail is the broad nature
+of the growth. And I think we've been privately and the board very happy with the investments that
+we're putting into Croda over the last few years. Its started to get growth right around the world, across
+customers, across all sectors as well. Our job now is to try and stretch that growth and we've identified 6
+growth buckets for Croda for the next 3 to 5 years as part of our strategic planning, some of them you've
+-- are well known to you, some of them are quite new to you. Of course, it's about premium niches in
+R&D. It's all about getting into fast-growth markets with bigger and better R&D from Croda and getting
+closer to the customer with our R&D. But smart partnering and technology acquisitions are getting Croda
+to think more externally about partnerships, and in many ways using this -- see that as an extension to
+our R&D arm, as all the technology acquisitions we're buying are great R&D, very well developed R&D with
+rich IP, we'll come on to that. And you're going to hear a lot more about sustainability in Croda, more and
+more. It's becoming central to Croda's plans. It's not just about renewable ingredients, it's about high-
+purity ingredients and our consumers want safer and -- safer products and products free from -- products
+with impurity-free chemicals in them. It's very important. So safety is becoming an essential part of the
+sustainability story too. And digital is relatively new. We're really keen with digital technologies. Digital,
+for Croda, is about connecting better to our customers. It's not really about trying to take cost out of
+businesses, we're not a bank. We think digital can sit in front of our sales, marketing and research arms
+and help us get in closer to our customers. So a lot of opportunities. Let me take you through each one in
+turn and just give you some color as to where we are and what we're trying to do for 2018.
+
+Attracting strong growth in premium niches. We've been ever much that since 1925, but I think the key
+points on here are not so much the products, it's the bars at the top. There is a flight to premium in
+Personal Care, that's not going away. Virtually, all the innovation in Personal Care is at the top of Personal
+Care and the small- and medium-sized customers out there are targeting that as are the multinationals
+now. Croda is very well positioned to capture a lot of that growth, whether it's an antiwrinkle active,
+sun products, hair straightening, hair strengthening, color retention, we -- our job is to put the clever
+ingredient in the formulation that can transform the brand. That's the most important thing. Often our
+products are at very small inclusion levels and -- but they are crucial to the end marketing strategy of our
+customers, and they create a lot of value for our customers. So we work intimately with them, and we'll
+continue to do that.
+
+In Life Sciences and in Performance Technologies, it's slightly different, it's performance that drives
+that. And what I mean by that is they want efficacy, they want absolute proof that your product works
+in the formulation. So whether it's in crop, in drift reduction or yield increases or in Health Care, it's
+great delivery systems to improve cancer drugs or injectables. You have to have absolute product
+stewardship with your products, they want more and more efficacy from our ingredients. And lots of great
+opportunities in industrial applications now, sterile coatings is a good example. We got some clever active
+ingredients for pain -- for hospitals and things like that, really sterile systems. And all of these are classic
+Croda, small inclusion levels transforming the brand. And I could put up another 20 products there. We
+launch a lot of products a year, targeting the trends of the 3 industries that we're in. So very powerful and
+again, you'll hear a lot more at the Capital Markets Day.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+CRODA INTERNATIONAL PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+In R&D -- and our strategy in R&D is decentralization. It's getting closer to our customers and a NPP
+metric is a crucial nonfinancial metric for Croda, up 75% over the last 5 years, significant improvement.
+There is more IP in the business today than there is 5 years ago, very important for the group. And if I
+look at Asia and South Africa, we're putting research and development labs very close to our customers
+and our noncustomers in emerging markets. And a lot of that is just working side-by-side with them in our
+laboratories with their problems, very powerful, pretty simple, but it's driving a lot of growth in Asia and a
+lot of the reason that our growth in Asia is getting consistent now is having these R&D laboratories close
+to our end markets growing at 6%. And in South Africa, we opened a new claims laboratory there in the
+Personal Care recently, sales up 15%. R&D is an essential part of our growth in emerging markets and it's
+driven by technology rather than by anything else.
+
+And we're not waiting there. Those 4 R&D labs have -- most of them have been opened now in the last 6
+months in Croda with Sederma the exception, that opens in the middle of the year, expansion there. And
+again, it's more about capturing new opportunities with existing and new customers.
+
+And smart partnering is something that you'll hear more about for Croda as well. It's working with
+university startups, make the universities themselves with open innovation programs and it's all to look
+at R&D in a different way. More external R&D is helping us solve problems quicker for our customers and
+our future customers. So partnerships in color cosmetics. We can talk about, it's in the pack. But the
+graph shows you that our open innovation program now is really gathering pace. We've got somewhere
+in the region of 400 partners out there now. We started with very little in 2010-'11. And we've got maybe
+200 projects and the government funding has helped that to the tune of around GBP 12 million, most of
+that from the British government. So we work very well with the universities. And as I said, it's giving
+us virtually free expertise out there. It's helping us solve problems in a quicker and more agile way. And
+I think we've got premium Home Care opportunities as well as skincare, but just to call out Nautilus,
+great opportunity for Croda. That started as an open innovation project. We've been working with them
+for several years. We verified the technology. What we're after was the bottom bullet point, access to
+unique microbial -- marine microbial library, really good. There's lot more plants under the ground than
+there is above the ground, and we think this is a source of new generation claims for our existing and new
+customers, some really good chemistry there. So we're delighted with that, and there will be a number of
+product launches coming from Nautilus in the next 2 or 3 years with claims that Croda has never made
+before. So it's great. So lots of opportunities there. And also in technology acquisitions, we're looking for
+more disruption, emphasis on disruption, bigger bets, bigger opportunities. And if I just look at what we
+bought over the last -- what we bought or built ourselves in new technologies, IRB, biotechnology, and the
+rest, growing at 65% compound growth. It starts from a small base, but this is starting to help the growth
+at the top of the company, shaping the company. And all of that is IP protected as well. So it's helping the
+NPP programs as well. We just want to do more of these. So that's why we're accelerating our capture of
+technologies. Enza is sugar chemistry, really clever chemistry, very IP-rich, and it's sustainable surfactants
+for the future playing on the sustainability trend.
+IonPhasE is a really interesting one for electrostatic protection. Again, a lot of IP around it. And more
+for iPads, for phones, for cars, where there is a need for controlled electrostatic discharge, permanent
+antistats in a different way, really clever. It protects valuable major equipment. And that's something
+that we quite -- quite a weird one for Croda, but when we looked into it, looks really perfect for Martin's
+business in smart materials. And again, that should fast grow, Finnish company, with great R&D, and
+loads of patents, what we like. And we'll be doing more of this -- probably 4 or 5 of these per annum.
+We probably won't announce them individually. We'll announce them collectively, but we're interested
+in weird technologies, technologies even some of our customers aren't thinking about yet, but we're
+interested in great people as well. So over the last 12 months we brought on some great scientists,
+biochemists, agronomists, biologists, great formulators as well and that will help Croda develop in our
+core businesses as well. So it's quite -- this is an exciting area of growth for Croda. And our sustainability
+story is gathering pace. Jez talked about the biosurfactant plant, award winning as well, just on stream
+at the end of this quarter, 100% bio-based, 100% renewable, low carbon footprint, and this USDA bio-
+preferred is the independent stamp that you need that says, this is a green -- these are green surfactants.
+Lots of opportunities in the Home Care and Personal Care and just some of the numbers down here, 40%,
+and if you look at the [ Intel ] database, 40% of skin and hair product launches in the last 2 or 3 years
+contain alkoxylates, 40% of them. And if I look at the sustainability trend in Personal Care, 1 in 2 products
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+CRODA INTERNATIONAL PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+at the moment contain sustainability claims. So you start playing with big numbers and we just need to
+convert a small number of these across to the green chemistry, and we'll be in a very good shape. And
+we've got 7,000 customer product combinations already, we've -- this is a complex business for Croda.
+It's got some great IP anyway. So we are very well protected in that respect. And the customer interest
+is gathering pace all the time, big surfactant conference in January, and we have all of those and more
+very interested in the technology. So it's a great story, we expect good growth to come from that and it's
+-- Croda putting our money where our mouth is on sustainability, no doubt about it. And just a word on
+digital, we brought in a Chief Digital Officer, which might surprise some for a B2B company, very important
+for Croda. We've got 1 common SAP platform in the group, what we want to do is connect the data from
+that SAP platform through our sales marketing and research groups in a more clever way to give a digital
+experience that customers haven't had from Croda or anybody else in our industry before. We're not
+interested in ripping cost out and simplifying processes without digital, it's front-facing, it's connecting
+us better with the customers. And also we're moving into digital technologies to help our R&D. So we've
+seeded investment in Cutitronics, which is novel delivery systems for your skin, gives you a diagnostic
+data on skin quality and it allows you to help with formulation development to improve your skin, rapid
+formulation screening at the material innovation factory at Liverpool. It's a great way of -- a great agile
+way of screening thousands of formulations in a short space of time, certainly helpful to get problem-
+solving through our R&D quicker, and the next generation customer is virtual, it's agile and they're very
+data hungry. And we like that, we like that in Croda. Our job at digital is to make sure we can talk to
+them in a different way than we talk to them now. Virtually 60%, 70% of the innovation across all of our
+businesses is coming from these type of customers. So we have to position ourselves in a smarter way
+to capture future growth with them. So that's the thinking behind digital. And you'll hear more and more
+about that over the next 2 to 3 years. So I think just in concluding, we're investing in the right things.
+We're investing in more disruptive technologies, it's all about R&D as well taking bigger bets, digital and
+manufacturing capabilities are an essential part of our offerings. And in people, we want to specialize
+knowledge in people, we like specialists. We can commercialize the knowledge of people, that's part of
+our job. So in outlook, we've got good momentum, we had a good start to the year, and consistent top
+and bottom line growth and we expect to deliver continued progress. So let's stop there and take your
+questions. Gunther?
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+CRODA INTERNATIONAL PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Question and Answer
+
+Gunther Zechmann
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Can I kick off with 2 please? One is on the outlook that you have actually there. Can you just give some
+more color around what do you expect for the different business areas in terms of the growth? And maybe
+if you can put some of your expectations here on the margin side as well for the year.
+
+Stephen Edward Foots
+Group Chief Executive
+
+Yes. I mean, the way to look at it is how we look at our plan. We started with Personal Care, the early
+part of last year, where we said probably 2% growth for '17. We increased that to 4% through the second
+half. We would increase that again this year to 5% growth. I think 5% is about right. And probably 5%
+probably about right for the group, mid-single digits, with Life Sciences a little bit ahead of that and
+Performance Technologies a little bit below that. So we screen for mid-single-digital sales growth, I think,
+5.3% at the end of the year. And we started well, but -- mid-single-digit is about right, with a tad margin
+improvement coming through mainly from the Performance Technologies business. We're really happy
+with the margins in Personal Care and Life Sciences. We just want more quality turnover growth coming
+through. We're starting to get that. There's been a correction in margins in Personal Care, just because
+the base businesses is coming about. We don't expect that -- to see that again next year. So margins
+in the consumer business is broadly stable. And with a bit of margin increase coming through on the
+industrial businesses.
+
+Gunther Zechmann
+Sanford C. Bernstein & Co., LLC., Research Division
+
+And the second one on capital allocation and cash returns to shareholders. Jez, if I can ask, what's holding
+you back being more generous? As in the net debt to EBITDA is 1x around it, but also the -- once the
+dividend increased the ordinary one, the payout ratio actually came down a little bit. So can you put some
+more color around your thinking when it comes to cash returns, please?
+
+Jeremy K. Maiden
+Group Finance Director & Director
+
+Yes, we haven't changed our view around capital allocation since we introduced the policy 3 years ago.
+And we did the special 2 years ago. The -- yes, we're at the bottom end of the target range of 1 to 1.5x
+EBITDA. We'll -- we expect cash flow to be good in 2018. We've increased the dividend, yes, with one eye
+to what's going on in reported currency terms. Clearly, there might be a little bit more reported currency
+headwind in 2018 depending on what sterling does. And we want to be able to continue to improve the
+dividend over time. As Steve says, as we have over 26 years. So I think the ordinary dividend, we're
+always keen to maintain a good payout ratio and make sure we can drive that forward broadly in line
+with growth in earnings. And so then it leaves the opportunity to use the balance sheet and the cash
+generation for 1 of 2 things really, inorganic expansion through M&A or returns to shareholders. And we're
+very clear that if we see opportunities to grow beyond just the technology acquisitions, which are quite
+small in terms of outlay. Then we will -- bolt-ons, maybe something bigger if those opportunities develop
+in the chemical sector over the coming period. Or we'll return money to shareholders. We're very clear
+around that.
+
+Stephen Edward Foots
+Group Chief Executive
+
+Adam?
+
+Adam Robert Collins
+Liberum Capital Limited, Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+CRODA INTERNATIONAL PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+It's Adam Collins from Liberum. I had a couple of questions too. First one is on Personal Care. You talked
+about the strong growth in Actives during the year, double-digit growth. Could you tell us what the growth
+rate was in the other 2 areas, formulations and effects? And would you mind to give us sort of a sense of
+how you see the 3 areas growing in the coming years? You talk about Personal Care overall growing up
+5%. But how would those 3 areas perform? And then the second question is on the PT side. Again, you
+talked about strong growth in energy and smart materials, but would you mind giving us a sense of what
+the growth rate was in the other areas, coatings, the slip additives business, and home care, for example?
+
+Stephen Edward Foots
+Group Chief Executive
+
+Yes. Well, let me do the first one and Jez might -- we can do it together. I mean, I get on the second one.
+I mean, in Personal Care, a great performance from Actives, double-digit sales growth, a low double-digit
+sales growth. It hasn't -- we thought it would be more of an impact in quarter four than there actually
+was with the plant outage. But that's great stock management by the management team, because we
+had stock around the world. Formulation business, broadly mid-single-digit. It's been a really good
+performance there. And that's a big part of Personal Care. And effects, flat, negative first half, positive
+second half. And if you look at -- if you look into 2018, we see broadly 5% there, a little bit more in
+Actives, similar in formulations and may be similar in effects as well. So around mid-single digit for
+formulations and effects, maybe slight formulation below 3%, 4%; effects mid-5%; and active, a little
+bit more. But it screens for about 5%. But all businesses are in a good shape. And I mean, let me start
+with the industrial one. I mean, Energy Technologies has been the great growth driver in 2017, really good
+business growth there, around 10%. And smart materials, low single-digit, I think, getting behind the
+numbers. Jez can answer.
+
+Jeremy K. Maiden
+Group Finance Director & Director
+
+So the way we've reconstructed the -- smart materials is both coatings and the old polymer additives
+business. That's really what we're seeing as the core of smart materials, but clearly driving to new
+technologies so that we can increase the proportion of NPP and so forth there. And then in energy,
+technologies that's picking up the lubricant business and the oil and gas business from there, with a small
+third leg in selected home care and water treatment. And so that's the way we're analyzing it really now to
+provide more of a focus to create new technologies and drive new technologies in those areas.
+
+Thomas P Wrigglesworth
+Citigroup Inc, Research Division
+
+Tom Wrigglesworth from Citi. A couple of questions, if I may. Firstly, on press reports that you're in
+conversation with Ashland, irreconcilable differences or part of a longer-term kind of courting process,
+maybe you could explain the attractions and what happened there in a bit more detail. And then secondly,
+just in terms of your guidance and the kind of framework, am I right to interpret that there is a kind of
+renewed confidence in investing in growth in Croda coming forth from this set of results, the success of
+Incotec, kind of leading you to further accelerate looking for IP? Is that the message that -- am I receiving
+that correctly?
+
+Stephen Edward Foots
+Group Chief Executive
+
+Okay. Let me try and take that all in one, because it partly answers Gunther's question about share
+returns as well. We don't need to get into a courting process like going back to school days. But we don't
+talk about press speculation or rumors, we will say that for sure. It's not my style. It's not the company's
+style as well. I think generally, the way to look at our M&A approach has -- it hasn't changed. We've got,
+in many way, optionality to do what we want. Our priority focus has always been and continues to be small
+bolt-ons and technology-led acquisitions. We are very keen on technologies in the company. And in many
+ways, one great way of transforming a business is just bringing some of these technologies on it. Some
+of these technologies could be very big. But we'll see where we get to with that. But of course, we do
+look at -- it's like a pyramid effect for our M&A. We've always had 2 transformational targets in our mind.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+CRODA INTERNATIONAL PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+They're always going to be around. Uniqema came 10 years ago, 11 years ago. And they come once every
+decade or 2, and we're not fixed on them, we don't need -- I think the point on M&A is we don't need to
+-- we don't feel like we need to do M&A. We don't feel like we have to. And we may deserve to do it. I
+think we deserve to do M&A, but we won't do it just for the sake of it. We keep our -- the 2 words that
+we use at Cowick Hall a lot are patience and discipline. And so that hasn't changed. So our M&A strategy
+all options are open. Priority focus in the near term is small and small technology acquisitions and bolt-
+on, 1 or 2 interesting bolt-on technologies as well. I think your point on growth is well made. We gain
+more and more confidence that the investments that we're putting into the business is starting to come
+through. We've got very good growth now in all 3 businesses. We expect that to continue. In many ways,
+the investment is good enough around the world to get continued growth. Our job is to stretch that more.
+And whether you hear the word disruption more and more or digital or sustainable -- sustainability, it's
+all about getting faster growth in the business. So yes, for sure, there's definite confidence improvement.
+And a reminder to everybody, the cheapest way of growing is to grow organically. It really is. But that's
+not going to stop us having a good look at some M&A opportunities. And Gunther's point is we still -- there
+is a good chance that we still could do some sort of special return or a share return of some description,
+cash return of some description to shareholders this year. We're keeping all of our options open. It's just
+we took a decision today not to do it now, because particularly on the small and medium-size bolt-ons,
+there's 1 or 2 interesting projects that we are in discussions with. Something may come off before the
+middle of the year. Something may not. So -- but it's on the bolt-ons -- bolt-on areas. But yes, we're in a
+good place, we've got growth. So let's keep our options open is the message.
+
+Paul?
+
+Paul Richard Walsh
+Morgan Stanley, Research Division
+
+It's Paul from Morgan Stanley. Just a follow-up on that one. It's clear to me, though, that you would rather
+invest your cash flows in your business than return cash to shareholders if you can get the right returns
+on that cash. That's just me sense-checking your priorities for capital allocation. And then my second
+question, you talked about margin gains, Steve, in the PT business this year. But I also saw, in the second
+half, a very strong performance in Life Sciences. Should I think that, that's an unsustainably high margin,
+because you aren't talking about Incotec in the 20% this year? Or is the second half the sort of run rate
+we should expect for that business? I know currency plays a bit of a role in this stuff, but generally, that
+was a step-up in margin in Life Sciences in the second half.
+
+Stephen Edward Foots
+Group Chief Executive
+
+Yes, okay. I mean, on the first question, our priority is to do the right thing in terms of returns, in terms
+of shareholder value for ourselves and for you. So if we could find the right opportunity from an inorganic
+point of view, of course, we would look at that first. I mean, you look at Incotec, we've doubled the
+profitability in 2.5 years. So I think for anybody out there would say, well, if you can find more like that,
+go on and do it. The returns that we can get for that are great. If anything has given us a lot more
+confidence in the management teams in Croda, it's the same management team that was there 10 years
+ago. We're good at acquisitions. It doesn't matter whether they're small, medium or big. And so if there's
+a right opportunity, we will look closely at it. But we always get back to the view that says, " Year 1 and
+2. It's not about that. You can take cost out of the businesses and it's mechanical. And you can look good
+after a year or 2. Can you grow the business better than the incumbent management team from year 3,
+4, 5, 6?" That's the most important thing from value creation, from M&A. I could write a book about value
+destruction in M&A for the chemical industry. Maybe we'll do it some time. So -- and many people forget
+that years 3, 4 and 5 is where you make all you money. It's what we did with Uniqema, and that's where
+we would do it again if we chose to go down that line. But if we don't, Paul, there is not a huge numbers
+of targets out there for Croda. And if we don't, you could all plan your future cash generations in the group
+and you can get to a really pretty low gearing number. We'll return it, we will. Jez's allocation policy is very
+clear on that. So it's not for now, but let's see, let's see what happens on that. And your point on margins,
+I means, it's a bit of Personal Care and Life Science. But let's take Life Sciences first. We don't guide the
+margins up for the business. They tend to go up, because the natural innovation programs will drive it
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+CRODA INTERNATIONAL PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+up. So in our plans internally, they're broadly flat. Is there a chance that they may go, they might. But I
+don't think Incotec is going to sit at 20% returns on sales for too long. It's going to continue to climb and
+with very good margins in Incotec as well, so a high-margin business. It's a knowledge business. So in
+many ways, it depends on the mix in that business. But Health Care, Incotec, very good and Crop Care is
+good too as well. So we're guiding for margin stability, though there may be a chance that margins start
+to creep up if we're successful with the -- particularly on the Incotec growth going forward.
+
+Paul Richard Walsh
+Morgan Stanley, Research Division
+
+[ I understand this ] is nothing unusual in that second half margin, which is better [indiscernible]
+
+Stephen Edward Foots
+Group Chief Executive
+
+No, I mean, it's better from -- innovation-led NPP growth up 10%, it's good quality growth, Health Care
+and Crop Care.
+
+Chetan Udeshi
+JP Morgan Chase & Co, Research Division
+
+Chetan Udeshi, JPMorgan. Just one question on the acceleration in growth you've seen in Q3 and Q4.
+We've seen that with other Personal Care-exposed companies as well. So would you say this is mainly the
+demand coming back? Or do you think there is some sort of share shifts happening, maybe your exposure
+to Indies, as you call them, is helping you grow faster than your competition?
+
+Stephen Edward Foots
+Group Chief Executive
+
+I mean, the macro point is an interesting one. I mean, Croda is never driven by macros really. It's
+driven by micros, doing the right things, it's our innovation. I think there is a little bit of growth in macro
+in Personal Care. But I think when we look at the 2017 numbers for skin care growth and hair care
+growth for the industry, I don't think they'll be significantly different to 2016, 2.7% to 2.8%. That's not
+statistically different. What is different is most of the -- the pace of that growth is coming at the top. It's
+coming at the top of the industry. It's clever growth at the premium end, the luxury end, some people call
+it. That's great for Croda. So anybody in that luxury end screens well for that. I talk about Estée Lauder,
+most of that business is at the top. So I think there's a little bit -- it's macro, but most of it is self-help
+from Croda doing the right things and its constant innovation machine pointed in the right part of Personal
+Care. And I think the other point to make would be North America, I think from a regional point, we have
+seen North America come back. Some of that is macro -- a little bit of that is macro, but we've seen good
+growth in the other 2 businesses in North America, too. But mainly, it's Croda doing the right things and
+targeting the right areas. Andrew?
+
+Andrew Gregory Stott
+UBS Investment Bank, Research Division
+
+Andrew Stott, UBS. You can't comment on press speculation, but you can comment on the mechanism
+for a large transaction, I guess. So my question is really the fashion of the chemical industry to look at
+merger of equals, some failed, some still trying to succeed. Is Croda of the mindset that a merger of
+equals is a plausible option? Or would you like to have operational control, and therefore, equity is really
+the financing option for you? That's question number one. Question number two is around Life Science.
+Again, Q4 was exceptionally strong, and I'm just not sure what the key drivers were bottom up for that.
+So I just wondering if you go through each of those individual components.
+
+Stephen Edward Foots
+Group Chief Executive
+
+Yes, okay. Well, just the Life Science -- I mean, the first question, good question. I think everybody
+that knows Croda knows that when we do inorganic organizations -- they're few and far between. But
+when we do them, we do them, because we want management control of them, absolute management
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+CRODA INTERNATIONAL PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+control. I could never see Croda wanting to enter into any type of merger. The culture of this company
+is too important for them. And so we're talking hypothetically, of course. But generally, you would -- we
+would want to have ownership of the organization, any organization that we buy, same with Uniqema,
+and for the right reasons. You want -- the synergies are all about growth [ that would be ] reversing
+somebody's business into Croda's business model, that's where it would be. And Croda's business model is
+very powerful, and we're one of the best off balance sheet -- value in the company is the selling network.
+It's a great global reach. It's technical selling people who are great at doing what they're doing. So yes,
+absolute control. And then it would all be down to financing and can you get the value in year 3, 4, 5, 6
+and 7. But back to -- we don't have to do -- we don't feel we need to do a big deal. We don't. We need
+to do -- we just need -- we want more technologies in the company. And in many ways, in the next 10
+years, if we have another 50 technologies, 50 micro businesses in Croda, I'll be happy, because we're
+bringing them on at a phenomenal rate now. And if we get 4 or 5 of these a year, we'll be in a very good
+position, capital-light, rich IP, clever people, great returns, brilliant for ROIC and margins and great for
+NPP. You look at and you think -- and that's where the fertile ground is in our industry. There's loads of
+these coming up, and we're tuned into them. And we're looking for things that nobody else is looking for,
+I can tell you that. Some of them maybe surprise a Chief Executive. Do you want to do the Life Science
+question?
+
+Jeremy K. Maiden
+Group Finance Director & Director
+
+So I suppose all 3 of the businesses within Life Science did particularly well in the fourth quarters. So
+Incotec is quite a seasonal business, and the fourth quarter is the key quarter for it, because obviously,
+you've got to get these seeds enhanced, coated and so forth and into the supply chain for the spring.
+So it's a very busy period and quite hard to call in, and it was a very successful fourth quarter. Crop
+protection, the above-the-ground crop treatment, the traditional Croda business, extremely strong, had
+a very -- it was very flat first half, and second half was a real resurgence. Clearly, long-term, the driver
+there is our collaboration with major ag chem companies. But nonetheless, it was particularly strong in
+crop in the second half and good sales consistently outperforming the market in crop. And then Health
+Care had a good fourth quarter. And generally stronger in high-purity delivery systems also helped, of
+course, by the final sales of API into North America, because clearly, we have been guiding to around GBP
+8 million of sales. And as Steve said, we did about GBP 11 million on that contract. And that reflects the
+fact that clearly, we want to get the stock shifted, so there will be no residual cost to us going forward
+there. So a little bit of help from the exit of the API contract, but mostly just really strong underlying
+performance in the 3 businesses.
+
+Andrew Gregory Stott
+UBS Investment Bank, Research Division
+
+And can I just follow up, sorry, on that? On the crop protection side, is that specific to the drift control, the
+problems Monsanto are having? Or do you think this is just a broad recovery?
+
+Stephen Edward Foots
+Group Chief Executive
+
+I mean, broad recovery, we'd say. I mean, drift reduction is an interesting niche area, but it's one --
+it's relatively small, one in several. I think what we're finding is we're not alone, but more and more
+of the innovation is coming to -- they want more intelligent delivery systems to get more -- an extra
+performance out of their pesticide or herbicide. And that's really, really important. And that's one reason
+why we're interested to purchase Plant Impact we announced recently. It's not a dump a truck business,
+as we talked about before. Or some people think Plant Impact is a building company, but it's a crop
+company honestly. And that's a really -- it's a clever move for Croda as well, because we think that's
+accretive to the technology. It's a gap in our technologies, and we think that's going to be helpful to our
+customers, big and small, in crop, too.
+
+Stephanie?
+
+Stephanie Bothwell
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+CRODA INTERNATIONAL PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+BofA Merrill Lynch, Research Division
+
+It's Steph Bothwell from Bank of America. Just 2 questions. So firstly on Atlas Point, can you perhaps give
+us an update in terms of how things are tracking there, and also how we think about the contribution from
+that in 2018 and 2019? And the second question was on your digitization strategy. You said it wasn't about
+cost reduction, but should we expect any incremental cost R&D CapEx associated with that project?
+
+Stephen Edward Foots
+Group Chief Executive
+
+Okay. Well, Atlas Point, let me start and Jez can take over the finances. In good shape, should be on
+stream at end of quarter 1. And the interesting thing is this customer buy-in, the customer interest is
+escalating quite quickly now, which is what we want. And a reminder to you all that this year is all about
+just getting everybody converted to the green economics. So there should be a margin -- there should
+be some margin improvement coming throughout the year as we move away. We take the raw material
+out, [ our ] intermediate out the supply chain. 2019 is the big year where we would get further growth,
+new growth, as we connect with all of our customers, big and small, to look at developing new white space
+with them, brand extension. So we're in discussions with them already. But that as -- like what we say
+with acquisitions, it takes a year for us to position it correctly, and then we see the benefits. So you'll see
+a margin improvement plus a sort of turnover benefit next year. On that note, Jez, want to add anything
+on...
+
+Jeremy K. Maiden
+Group Finance Director & Director
+
+Yes, in terms of profit impact from simply replacing the suppliers effectively in the supply chain, which is
+what happens on day 1, we replaced the existing sort of roughly 20,000 tonnes of EO that we buy. Yes,
+small single-digit millions of pounds profit impact, maybe GBP 4 million based on running for 3 quarters of
+the year. But as Steve said, the real bigger benefit is then being able to grow the volume on the back of
+the sustainability platform, but on day 1 of this year, yes, so perhaps around GBP 4 million if we're on time
+for 1st of April.
+
+Stephen Edward Foots
+Group Chief Executive
+
+Yes. And on digital, I mean, nothing really. We might bring on half a dozen, 5 or 6 real digital experts to
+help us. But it's trivial to the cost of things. The most important thing is we see digital as a new vehicle for
+us. It's a new marketing channel that will help us. We're doing a lot of good digital stuff anyway. But we
+wanted this digital head to put a roadmap together to get us excellent in digital over a 2-year period. And
+I think all the signs are, I think, we'll do that.
+
+Jeremy K. Maiden
+Group Finance Director & Director
+
+Yes, we've done all the work on websites and so forth and SAP. So the backbone is there. It's just
+exploiting it.
+
+Stephen Edward Foots
+Group Chief Executive
+
+Adam?
+
+Adam Robert Collins
+Liberum Capital Limited, Research Division
+
+A couple of follow-ups. So on Omega-3, could you remind us what the remaining business is in Omega-3
+and what the plan is for the existing plant that's been supplying power? And second question goes back
+to the PT growth. The biggest bid by far is the high-purity excipients business, and that seems to be in a
+long-term structural growth trend.
+
+Stephen Edward Foots
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+CRODA INTERNATIONAL PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Group Chief Executive
+
+Life Sciences you mean?
+
+Adam Robert Collins
+Liberum Capital Limited, Research Division
+
+Life Sciences, beg your pardon, Life Sciences. Could you talk a little bit about high-purity excipients? What
+is driving that business?
+
+Stephen Edward Foots
+Group Chief Executive
+
+Yes. I mean, let me take the Life Science question. I'll let Jez do the Omega-3 one. I mean, Life Sciences
+for Croda of the high-purity excipients, it's all about stabilizing drug actives. They're not the active
+ingredient in the formulations. But what we're seeing, the trend in the pharmaceutical industry is to more
+complex drug actives, 3-dimensional, big molecules. What that means is it's very difficult to stabilize
+them in formulations. And then the flight to performance that I mentioned before is all about if you can
+stabilize them well and get them targeted to the site that they need to be targeted to, whether it's part
+of your skin, part of your particular body, you'll get an increased performance. So we spend a lot of time
+with our customers collaborating with them about how to stabilize the actives. So it's about stability. I
+won't trivialize it. It's very important. So we're engaging lots of different relationships, different levels.
+But that's all about that. So we're in cancer drug, we're in chronic leukemia drugs, we're in eyedrop eye
+care materials. And we are creating a lot of value for our customers. We like that. They create value. We
+do as well. There's a big margin in it for Croda, and there's an even bigger margin in many ways for our
+customers. On the Omega-3?
+
+Jeremy K. Maiden
+Group Finance Director & Director
+
+Yes, on the Omega-3, so obviously it's quite a different platform to the rest of the Health Care business,
+which as you say is around the excipients, in particular the high-purity part of the excipients delivery
+systems. Omega-3, really 2 components left. One is the nutritional element of Omega-3, which we're still
+doing on site; and then secondly, a small residual platform in high-purity APIs. So we've got a couple of
+European generics, a lot smaller than the North America contract. But there's also a handful of interesting
+clinical trial, new drugs rather than generics, which may come to the market and which we may be able
+to participate in. So we continue to support those and supply sort of test quantities and so forth. They
+could become big drugs in their own right and they might not, of course. So we very much think of API, as
+Steve said, about 3% of Life Science turnover in total. So a small platform, a bit of a ring fence platform,
+but one where we have some skills and expertise and where there could be some interesting things for the
+future. So we'll stay involved in that. It won't impact the Leek site, as the Leek site carry on, making the
+whole range of products it does for Life Sciences. So there's no issues around that. There's no exit cost
+or anything such as that associated with this. And then we'll see where the Omega-3 platform takes us.
+So we're not out of it. We'll see. But more -- probably more branded, you know, new drugs rather than
+focusing on generics, which isn't really, isn't really Croda.
+
+Stephen Edward Foots
+Group Chief Executive
+
+Okay.
+
+Chetan Udeshi
+JP Morgan Chase & Co, Research Division
+
+Maybe one question on NPP products. Can you give us some examples of how do you see the benefit of
+that in terms of customer lock-in that you have now versus, say, some years in the past? Or is it just that
+given these are patented stuff, patented Actives, customers have to come to you? Or are your competitors
+doing the same?
+
+Stephen Edward Foots
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+CRODA INTERNATIONAL PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Group Chief Executive
+
+Yes, I mean the way to look at NPP is it's patented technology. So if it's patented, we've got something
+that you could -- what you want with NPP is you've got something that's valuable. And this is the
+philosophy of Croda, your customers really need it and they want it and it creates a lot of value for
+them. And if you've got that relationship with them, then that's perfect. There's margins in it for both
+companies, big margins. And that's the spirit of NPP. So there's nobody else. If we've got an NPP product,
+that means nobody else, by and large, can offer anything like that. So Matrixyl is always a great example
+in pentapeptides for -- Boots No7, Olay Regenerist, that product drives the brand. If it wasn't in the
+formulation, there wouldn't be a brand. And in many ways, that's the sort of example that we use to
+drive our thinking not just in Personal Care, but in the other 2 businesses as well. So yes, so the spirit of
+what we do is we want more and more of our business secure. So if we have more intellectual property
+in the company year-on-year, we're a stronger business, much stronger. We have more pricing power. We
+have more security. We don't have to look over our shoulder every 3 months to see whether competition
+is going to steal your business. We're not in that market -- our job is to create markets, in many ways,
+not destroy them. And that's -- so that's the philosophy. It's a deep philosophy. So it's all about clever
+ingredients. We just want more and more clever ingredients.
+Okay, great. Well, thank you very much, everybody. Off you go to your next -- your next one.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+CRODA INTERNATIONAL PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+

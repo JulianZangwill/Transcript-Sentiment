@@ -1,0 +1,921 @@
+London Stock Exchange Group plc 
+
+LSE:LSE
+FY 2017 Earnings Call Transcripts
+Friday, March 02, 2018 9:00 AM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2017-
+
+-FY 2017-
+
+-FY 2018-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+EPS 
+Normalized 
+
+-
+
+-
+
+-
+
+1.47
+
+1.45
+
+(1.36 %)
+
+1.75
+
+Revenue  (mm)
+
+457.00
+
+522.90
+
+14.42
+
+1873.57
+
+1955.00
+
+4.35
+
+2090.45
+
+Currency: GBP
+Consensus as of  Mar-02-2018 8:48 AM GMT
+
+FY 2017
+
+CONSENSUS
+
+1.47
+
+ACTUAL
+
+1.45
+
+SURPRISE
+
+(1.36 %)
+
+- EPS NORMALIZED  -
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+7
+
+2
+
+ 
+LONDON STOCK EXCHANGE GROUP PLC FY 2017 EARNINGS CALL |  MAR 02, 2018
+
+Call Participants
+
+EXECUTIVES
+
+David C. Warren
+Group CFO & Executive Director
+
+Paul Froud
+Head of Investor Relations
+
+ANALYSTS
+
+Christopher Myles Turner
+Joh. Berenberg, Gossler & Co. KG,
+Research Division
+
+Gurjit Singh Kambo
+JP Morgan Chase & Co, Research
+Division
+
+Johannes Thormann
+HSBC, Research Division
+
+Matthew Charles Moon
+Keefe, Bruyette, & Woods, Inc.,
+Research Division
+
+Unknown Analyst
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+LONDON STOCK EXCHANGE GROUP PLC FY 2017 EARNINGS CALL |  MAR 02, 2018
+
+Presentation
+
+David C. Warren
+Group CFO & Executive Director
+
+Good morning. Thanks to all of you who braved the elements to get here. Okay. Are we adjusted okay?
+Yes. Good morning. Thanks, again, to all who braved the elements, and to those people on the phone. I
+welcome you to our presentation of our full year results.
+
+As Paul has just outlined, we delivered another strong performance. We've seen growth across all of our
+core businesses, all of our core pillars, intellectual property, risk and balance sheet management and
+capital formation.
+
+The group has continued to successfully execute our strategy to grow and diversify operating in an open
+access basis in partnership with our customers. The group is truly diversified by business activity, by
+geography, by currency, providing resiliency across market cycles. And we have continued to invest in new
+initiatives and have made selective acquisitions that develop our client offering while meeting our strict
+financial and strategic criteria.
+
+The group is strategically, is operationally and is financially well positioned to capitalize on a range of
+opportunities ahead and to continue to drive shareholder returns.
+
+We also remain focused on delivering the financial targets we have set for the next 2 years.
+
+If we move now to Slide 13. MiFID II embeds and recognizes open access as a key principle in financial
+markets, and is one in which we have been operating under for a number of years. We firmly believe
+that the new rules will introduce greater competition in financial markets, promoting transparency and
+innovation, while helping to reduce costs and leading to better risk management.
+
+The implementation of MiFID II, which as you all know, took place on the 3rd of January this year, was a
+key focus for a number of our businesses, technology and support. The transition to the new regulatory
+regime has in overall terms been very smooth for the group. We are well positioned. And as we stated
+at our investor update last year, a number of our businesses including, MTS, CurveGlobal, Turquoise,
+TRADEcho and UnaVista are already beginning to benefit in the new environment.
+
+We also believe that the new best execution rules will allow our various platforms to further benefit with
+growth across our customer offerings.
+
+LSEG operates in a dynamic global industry and there will continue to be new challenges and opportunities
+ahead. As detailed on Slide 14, the group remains well positioned regardless of any changes to macro
+regulatory environments including Brexit.
+
+With more than 4,500 employees located across 18 countries worldwide, we are able to serve our global
+customer base delivering both innovation and growth. As a systemically important organization, we will
+continue to ensure the orderly functioning of our markets through our highly regulated businesses, many
+of which operate with licenses in multiple jurisdictions, including the U.K., the Eurozone, the U.S. and Asia.
+
+There continues to be much debate over the future of euro clearing post Brexit. We firmly believe that
+enhanced regulatory supervision and regulation on a global scale will far outweigh any short-term political
+benefits of location-based policies, restricting the clearing of euro-denominated transactions to the
+Eurozone would fragment global markets, increase risk by weakening the default management process
+and substantially increase cost for investors.
+
+In relation to interest rate swap clearing, we set out on Slide 15 that in 2017 more than half of all interest
+rate swaps cleared through SwapClear were denominated in U.S. dollars. 27% of swaps are denominated
+in euros and of this percentage, euro swaps originating from EU-based entities comprise only 7% of LCH's
+interest rate swap flows.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+LONDON STOCK EXCHANGE GROUP PLC FY 2017 EARNINGS CALL |  MAR 02, 2018
+
+We, therefore, continue to advocate on behalf of all of our partners and stakeholders for the minimization
+of fragmentation of systems and processes, which have been designed to make the markets more
+efficient, more stable and safe.
+
+As I said, the group is driven by organic and inorganic investments to drive growth and develop our client
+offering. On Slide 16, we have detailed recent M&A activity in our 2 largest business divisions. We have a
+successful track record of delivering against the stated cost and revenue synergies as demonstrated here
+with the acquisition -- Russell acquisition and the majority stake in LCH.
+
+In the bottom right, you'll see that over the course of the year, we have increased our shareholding in
+LCH, following the sale by certain minority investors. This means that the group currently owns 65.9% of
+the clearing house. We also completed the acquisition of The Yield Book, which represents an opportunity
+to significantly enhance FTSE Russell's fixed income capability. And as a result, FTSE Russell is the most
+diverse of the leading global index companies in product terms and is well positioned to benefit from the
+strong underlying market trends, including the demand for broader, multi-asset capabilities.
+
+The acquisition also enabled the group to expand its global distribution network and its increased our
+footprint in the U.S. and in Asia.
+
+I'll talk more to the recent FTSE Russell and LCH initiatives later in the slide deck. But, however, now on
+Slide 17, we highlighted some of the positive results of our investment in organic growth opportunities.
+
+In Capital Markets for example, shown on the right-hand side of the screen, Turquoise Plato Block
+Discovery saw a 600% rise in the total value traded over the year. In Post Trade, clearing volumes
+increased across the board, and RepoClear launched its new sponsored clearing initiative.
+
+Turning to Slide 18. LCH achieved another strong performance with record volumes in 2017, driven by
+new business as well as additional flow from existing customers. SwapClear remains the leading OTC
+rates liquidity pool in the world, processing over USD 870 trillion in notional in 2017, driven by significant
+onboarding of new clients across Europe, across the Americas and Asia Pacific.
+
+And over USD 11 trillion in notional was cleared through ForexClear in 2017, compared to just USD 3.2
+trillion in the previous year. The introduction of new bilateral margin rules has been a catalyst for members
+to start clearing centrally, and we believe that there will be further opportunities for substantial growth.
+
+These include the launch of FX Options clearing later this year. A number of members have already
+indicated their support to this service, which equates to roughly 50% of the G10 FX Options market.
+We also expect to see greater take-up of compression and client models. And following the SwapClear
+playbook, take up of these services is at an early stage in the FX pace, but we believe they will continue to
+gain traction.
+
+On Slide 20, we highlight the good progress being made at CurveGlobal, the new interest rate derivatives
+platform, which has built a firm foundation since its launch. CurveGlobal is providing -- is proving to be
+a highly efficient differentiator, offering genuine choice and liquidity to the market. As we stated back in
+June, we expect more banks and market makers to join as the market share grows. The platform has
+achieved a 300% rise in open interest in the last 12 months and confirmed plans to launch a SONIA
+futures contract in the second quarter of the year.
+
+In the context of best execution rules under MiFID II, CurveGlobal products continue to be best priced or
+tied the majority of the time while also offering lower transaction fees, free market data and the ability to
+trade fractional blocks for increased price granularity.
+
+The expansion of LCH Spider later this year to include all short and long-term euro and sterling contracts,
+will also maximize the margin offsets available to our customers.
+
+I won't spend much time on Slide 21, but you can see here that FTSE Russell has continued to perform
+strongly, delivering more than 30% CAGR revenue growth. FTSE Russell has a loyal and high-quality client
+base, driving recurring revenues and a balance between asset-backed and subscription revenues.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+LONDON STOCK EXCHANGE GROUP PLC FY 2017 EARNINGS CALL |  MAR 02, 2018
+
+Around 60% of our revenue is subscription-based and we expect to continue to achieve sustainable and
+attractive margins over the coming periods as we work with our customers to deliver benchmark and
+analytics solutions.
+
+As you'll see on Slide 22, FTSE Russell has further strengthened its position as the leading global index
+provider with approximately USD 15 trillion benchmarked to its indexes. It has also increased the value of
+ETF assets tracking our indices with over $600 billion now benchmarked.
+
+Indexes are firmly embedded across the investment process, and FTSE Russell has the ability to provide
+customers with a comprehensive product range and a deep data and analytics offering. The combination of
+client relationships and product capabilities also drives innovation, also in partnership with our customers
+in areas such as environmental, social and governance and as you know, so-called ESG. For example, the
+world's largest pension fund, the Government Pension Investment Fund of Japan, will use the new FTSE
+Blossom Japan Index as a core ESG benchmark.
+
+This highlights a growing trend among asset owners to integrate ESG considerations into their investment
+strategies. FTSE Russell is also well positioned in emerging markets with a strong track record of
+developing country-focused benchmarks.
+
+And on Slide 23, we reconfirm our confidence in the financial targets that we set at our Investor Update
+last June. We've made good progress in 2017, with double-digit growth at FTSE Russell and LCH OTC. And
+we remain focused on delivering growth in group-adjusted EBITDA operating margin to around 55%, by
+2019, while maintaining control of our underlying costs.
+And so finally, now turning to Slide 24. In summary, our strategic ambition remains the same, to deliver
+best-in-class capabilities, and to drive global growth and develop our customer partnership approach. Our
+highly capable and experienced management team remains focused on the opportunities ahead to deliver
+the financial targets we've set for ourselves for the next 2 years, while at the same time, continuing to
+invest and to expand. The group is well positioned for further successful development and growth. And
+with that, I want to thank you, for being here, for your time today. And Paul, and I, will now be pleased to
+take any questions you would have.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+LONDON STOCK EXCHANGE GROUP PLC FY 2017 EARNINGS CALL |  MAR 02, 2018
+
+Question and Answer
+
+Paul Froud
+Head of Investor Relations
+
+Right, so Q&A phase. First of all, I should just apologize. I gathered during the course of that presentation
+and we might have lost the audio line. So we weren't aware of that at that time. I'm hoping that we got
+people back online now. [Operator Instructions] I'm going to start firstly by taking questions here from the
+floor, and then we'll change quickly to take the questions between the floor and the audio. You won't need
+microphones, but if you could, please give your name and your company as you give your questions as
+well please. So thank you. I think, Philip, you got your hand up there.
+
+Unknown Analyst
+
+Obviously, I believe your cost guidance, but not all my clients do. So I wonder if you could just talk
+through what gives you the confidence to reaffirm that and the transparency you have on those targets for
+2019?
+
+David C. Warren
+Group CFO & Executive Director
+
+Okay. Thank you, Philip. Good morning. I should start by saying that I firmly believe in our cost guidance
+and as do -- as does the management team. So let's make sure we start there. I think we have always
+said, and I hope we were clear in kind of describing this and laying it out last June, that it was going
+to be phased. I mean, we wanted to put the slide up this morning that we show that really did, I think,
+emphasize and kind of show and give more detail on the types of investments we're making, the amount
+in the investments we're making and where that money is being spent. It's being spent for growth, it's
+also being spent to increase the scale of our infrastructure and allow us to transition some of our key
+operations to lower cost in nearshore and offshore sense. So we're doing a lot of things at the same time,
+investing for growth and also, I think, investing for the infrastructure that will sustain that growth. So we
+continue to be in this period of heightened investment. That's why you can see the continuing buildup
+of depreciation expense, which we've been talking about, but we've continuing to be investing as well.
+But we also are confident that as we execute on these plans in 2018, we begin then to make the shift
+and then begin to benefit from the operating expense efficiencies that we're going to realize through
+the investments we're making. And also a number of the costs that we have had for some of the other
+regulatory programs, will also tail off and the some of the costs that we have this year, particularly around
+infrastructure, have been dual running. We're investing in the new infrastructure, at the same time, we're
+running the core operations. So I think there are a lot of components to this, Philip. But what I do want to
+make sure that I can make very clear to everyone today is that we are confident in our plans. We know
+the actions that we need to take 2000 -- in 2018 and in 2019 to deliver on the targets that we've set and
+reaffirmed today.
+
+Paul Froud
+Head of Investor Relations
+
+Do we have a -- I see there.
+
+Unknown Analyst
+
+[indiscernible] Morgan Stanley. Just a few questions for me. Just in terms of [Technical Difficulty] if you
+could just maybe remind us or kind of give us a recap on how we should think about the impacts of the
+movements in pound on yours earnings, and to the P&L. Then lastly, just in terms of what is announced to
+be able to expect with LCH, and so the additional [indiscernible] if you just give us maybe some comment
+on the financial implications of that and how that will play out?
+
+David C. Warren
+Group CFO & Executive Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+LONDON STOCK EXCHANGE GROUP PLC FY 2017 EARNINGS CALL |  MAR 02, 2018
+
+Okay. Did we get all those.
+
+Paul Froud
+Head of Investor Relations
+
+I think we did. Only 4 questions, right. So first one, I think was on operating expenses for '18.
+
+David C. Warren
+Group CFO & Executive Director
+
+So well, we did try, I mean, in Paul's comment, we did try to provide some further information as to
+how you can think about depreciation expense for 2018. And so I think that's important because the
+investment is still continuing. We don't actually break out a lot of detail in terms of the variable comp.
+But it isn't a significant -- it is a significant part of how we compensate employees. A number of our
+employees -- a number of our key employees that are driving the business performance are compensated
+on performance-based equity plans. And so obviously, as the -- we've held this, as the valuation of
+the company increases, there are these automatic increases for that compensation expense. So as we
+continue to grow, as evaluation continues to grow, those will also continue to grow.
+
+We haven't actually talked about when -- depreciation expense, how it will look in 2018, 2019, how it
+looks into the future. But I would just say, in just -- in terms of an overall sense of OpEx, depreciation
+expense will grow as the investments begin to subside, and the number of the initiatives that we're
+working on now are completed, depreciation expense given the investments we made today will obviously
+start to even out. At the same time, we will be able to realize, and this is in response to the answer -- this
+is kind of building on the answer to the question I gave Philip, operating expenses will also will be able to
+get benefits in the OpEx lines from the core OpEx in terms of IT functionality and core staffing. Because
+we will have built out a number of our business service centers and be able to shift many of our functions
+to the lower cost nearshore and offshore locations. So it is all part of a plan that gives us confidence in the
+2019 targets. But I think -- and I'll ask Paul to comment more specifically in a moment. But in addition to
+the guidance -- beyond the guidance that I just gave on depreciation -- that we gave on depreciation this
+morning, there really isn't any more specific color we would provide other than just a general commitment
+we have and confidence we have in the target being achieved in 2019.
+
+Paul Froud
+Head of Investor Relations
+
+I think that's right. I think we know where the consensus operating expenses are for 2018 prior to the
+results coming out today, I think GBP 940 million. I expect with the trend lines we've given you on some
+of the costs including depreciation we expect that to step up a bit. But also I think we've signaled to you
+today that the underlying tax rate is lower-than-expected. So probably those things net out when we get
+to the earnings level, I think that's probably the best help I can give you there. I think our next question
+was on...
+
+David C. Warren
+Group CFO & Executive Director
+
+MiFID II.
+
+Paul Froud
+Head of Investor Relations
+
+Yes, and CurveGlobal.
+
+David C. Warren
+Group CFO & Executive Director
+
+CurveGlobal, MiFID. Look, we're seeing benefits. I mean, so we've seen a sharp increase in the use
+of Turquoise Block -- the Turquoise Block trading facility. That's MiFID II compliant. We've seen sharp
+increases and a 600% rise. We're also seeing increases in other businesses. We're seeing -- I think the
+pickup we're seeing in CurveGlobal has a lot to do with the fact that we're running an open access model
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+LONDON STOCK EXCHANGE GROUP PLC FY 2017 EARNINGS CALL |  MAR 02, 2018
+
+in partnership with our customers. It is helping customers comply with best execution rules. So we are
+seeing pick up there. We will -- it's still early for MiFID II. But in terms of the range of different business
+benefits that we projected to get, we are still confident that we will see those. We're starting to see them
+already as I said in my prepared remarks.
+
+Paul Froud
+Head of Investor Relations
+
+There was a question on FX sensitivities, perhaps I can point you in a couple of areas there. I mean,
+clearly we highlighted going through the slides the impact from FX, right on the cost and on the income
+line. In the back of your slide deck, so everyone whose has got the slides from this morning, we do give
+a split out both by income and expenses by currency so to reflect the acquisitions that we've made. That
+has led to an increase in our U.S. dollar exposure. U.S. dollars make up just over a quarter of our income
+and about just under 20% of our cost. So we gave you the full split out by currency there. We also gave
+you some sensitivities in that deck as well just to how to think about the percentage movements in a
+movement case, sterling and principal currencies, euro and dollar. I think your last question was on the
+LCH stake.
+
+David C. Warren
+Group CFO & Executive Director
+
+So you did notice that we increased our holding -- our economic interest in LCH. There are -- as you
+know, in terms of -- we own the majority stake in the London Stock Exchange Group, but there are a
+number of minority shareholders who are importantly also customers and users of the clearing systems.
+This is a governance model that was absolutely intentional when we made the acquisition of LCH in the
+first place. And its one -- that is one that we fully believe in, and we know that it is the right model for
+LCH going forward. It is really a very -- it's just a great example of how we operate in an open access
+world in partnership with our customers. A number of minority shareholders when they evaluate their
+investments will make decisions about any number of investments that they have. And during the course
+of 2017, some of these shareholders -- minority shareholders made a decision that they wanted to sell all
+or part of their shareholdings in LCH. They still remain customers very much so. It was just really what
+did they want to do with their economic ownership. So as a majority holder, we are kind of -- we are a
+natural buyer. And so we were approached as were others as well. I mean, every shareholder -- when a
+minority investor, any shareholder who wants to sell, all shareholders have right of preemption. So this
+is available to all shareholders. So we were approached by a motivated willing seller. And we made the
+analysis and decided on economic terms that it would make sense for us to invest. It does not change in
+any way our governance rights. The governance framework still remains the same in terms of our position
+on the board, the position of other minority investors on the boards in various committees. And as I said,
+at the beginning, we continue to believe that the governance model for LCH is the right model. And the
+fact that we've increased our economic ownership does not really in any way signal a change in how we
+believe LCH should be operated.
+
+Paul Froud
+Head of Investor Relations
+
+Can I go to the questions on the phone line. I know people have been very patient with the connections
+today. So can we take the first question on the audio please.
+
+Operator
+
+[Operator Instructions] And our question comes from the line of Gurjit Kambo of JP Morgan.
+
+Gurjit Singh Kambo
+JP Morgan Chase & Co, Research Division
+
+An apology, if I'm asking questions because I missed obviously the first part of the presentation. So the
+first question is just on sort of Russell revenue and cost synergy targets. Clearly you have done better
+than that and you've come in ahead of time. Do you see any further synergies that could drive that
+number up from -- given that you've owned it for 2, 3 years? That's the first question.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+LONDON STOCK EXCHANGE GROUP PLC FY 2017 EARNINGS CALL |  MAR 02, 2018
+
+Paul Froud
+Head of Investor Relations
+
+Okay, I'm sorry you missed the first part of the presentation, Gurjit.
+
+Gurjit Singh Kambo
+JP Morgan Chase & Co, Research Division
+
+That's all right.
+
+Paul Froud
+Head of Investor Relations
+
+It was excellent by the way.
+
+David C. Warren
+Group CFO & Executive Director
+
+Thank you for the question. Look, I know you' know this if you've been following us, but we do have a
+very good track record in terms of integrating acquisitions. And with FTSE Russell, the acquisitions of
+Mergent and The Yield Book closed in 2017. So we had a full year on Mergent and probably 3 or 4 months
+with respect to The Yield Book. So there were certainly some synergies that we were able to take on
+those acquisitions. But the plan -- the detailed plan that we always do with any acquisition before we
+sign the papers and close calls for those synergies to be delivered, continuing to be delivered in 2018
+and beyond. So the synergies that we announced when we announced that we put out and laid out when
+we announced the acquisitions, we're still confident in. We always look for opportunities to do better, but
+I think the important statement for now, early days into the acquisition, the integration is going well.
+These are 2 different opportunities. Mergent is really a data business that we're integrating. And The Yield
+Book is a leadership business in fixed income, indices and analytics. So 2 different businesses, but each
+with very strong characteristics and definitely will help to drive and enhance the product offering and
+the profitability of FTSE Russell. So integrating well on those. And I would say at this point in time, the
+synergies that we have announced, we still feel very confident in achieving.
+
+Gurjit Singh Kambo
+JP Morgan Chase & Co, Research Division
+
+Okay, great. And then a second question.
+
+Paul Froud
+Head of Investor Relations
+
+I'm sorry.
+
+Gurjit Singh Kambo
+JP Morgan Chase & Co, Research Division
+
+Can I ask a second question? Just in terms of your EBITDA guidance, 55%. Is that a full year 2019 or
+exit rate firstly? And then, just following on from that. You give a bit of guidance on the 50% in LCH as
+a target. What about the other divisions? Any sort of -- how should we think about margins in those
+divisions?
+
+David C. Warren
+Group CFO & Executive Director
+
+Right. Well, we disclose what we do have. We do segments of disclosures in our financial report. So
+margins can be calculated obviously on that disclosure and that's the extent to, which we disclose them.
+And when we had the June Investor Day, we only really focused on in terms of announcing a 2019 target,
+we only focused on -- we focused on the group EBITDA margin and we also focused on LCH. But we did
+not give any specifics with respect to other business segments.
+
+I think there was a -- and the question was, was this for full year '19.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+LONDON STOCK EXCHANGE GROUP PLC FY 2017 EARNINGS CALL |  MAR 02, 2018
+
+Paul Froud
+Head of Investor Relations
+
+Full year or exit.
+
+David C. Warren
+Group CFO & Executive Director
+
+Exit. So exit rate for the EBITDA margins in both cases was I think the question you asked initially.
+
+Paul Froud
+Head of Investor Relations
+
+Do we have another question on the phone line?
+
+Operator
+
+Yes sir, our next question comes from the line of Kyle Voigt from KBW.
+
+Matthew Charles Moon
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+This is actually Matt Moon on for Kyle. I apologize if I -- this might have been addressed in the first half of
+the call. But -- you guys noted that the CEO search is progressing. We're just curious as to how the board
+would view potential strategic M&A during this time of transition or if this is potentially or likely on hold
+until the CEO search is completed?
+
+David C. Warren
+Group CFO & Executive Director
+
+Right. Thank you for the questions. Look, the board, there is a well-defined strategy that we have.
+We spent a fair amount of time with it in June, as you know, where you can meet the members of the
+management team. We're committed to delivering on that. And I think the results today speak for
+themselves. Certainly, part of that is an ongoing effort on the part of the entire management team to
+evaluate opportunities, to evaluate organic investments, and to evaluate inorganic opportunities. That's
+always ongoing. So that, I would say, is in no way shutdown, it continues to be part of our strategy.
+You would not expect us to comment on any specifics. But the business is operating in a fully functional
+committed way executing on its strategy. And in that sense, all opportunities for growth and shareholder
+returns are certainly being looked at.
+
+Matthew Charles Moon
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+Okay, great. And then, if I could just get one more in there. So it sounds like and it looks like Turquoise's
+Plato Block Discovery has done well thus far in the year despite the delays in the double volume caps for
+dark trading. So just wanted to hear your comments, just how does this continuing to progress in 2018?
+And then, maybe just some comments regarding the pricing of this product? I think, you, in the past have
+said the updated yield here is about 6x greater than that of the normal LIT book, but just wanted to get
+your thoughts there?
+
+David C. Warren
+Group CFO & Executive Director
+
+Let me take the first part of it. Look, it's performing well. Block Discovery was performing well in advance
+of January 3 of this year. So we're quite pleased with it. Yes, we will get -- as we get further clarity on
+volume caps that will continue to perform. But we're very confident in that business. We're very confident
+in the offering. And I think Block Discovery will continue to be a service that investors are going to
+continue to demand. So we're still very optimistic about it. And we speak with confidence to it going
+forward.
+
+Paul Froud
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+LONDON STOCK EXCHANGE GROUP PLC FY 2017 EARNINGS CALL |  MAR 02, 2018
+
+Head of Investor Relations
+
+Matt, your question on the yield. You're absolutely right and that's one of the reasons why we highlighted
+the dark trading. It does have an average yield of about 6x that of a trade on the LIT book, so again
+seeing the growth in that area in particular is very beneficial for us. I think we got a question from the
+floor. So Chris, if I could give you the microphone otherwise people won't hear you.
+
+Christopher Myles Turner
+Joh. Berenberg, Gossler & Co. KG, Research Division
+
+It's Chris Turner from Berenberg. 3 quick questions, if I may. Firstly, can I just check I've understood the
+2 disposals you did of Exactpro and Millennium ESP. Was it they were breakeven? So the disposal of those
+should boost your EBITDA margins a little bit, just check the logic for that. Secondly, CurveGlobal, I think
+-- I saw that they had a GBP 20 million round -- funding round, which has raised your ownership from
+26% to 43%. Is that right, and if so how will that impact the incentivization that banks have to trade with
+CurveGlobal if they have less skin in the game? And then finally and bigger picture in the fourth quarter,
+one of your competitors bought a 10% stake in Euroclear, which is obviously a very important custodian
+not particularly as far as LCH. What are your thoughts on that sort of change, how you think about that in
+the platform management space at all.
+
+David C. Warren
+Group CFO & Executive Director
+
+Yes. I mean, I'll take the last one first. I never comment on specific strategies or actions of our
+competitors. But obviously, it is certainly out there. I think the important part is that we still believe
+that when we look at our Post Trade business globally, broadly, we obviously have leadership position in
+OTC clearing. Settlements is an area -- that is an area that's rich in terms of its future, in terms of its
+prospects, there will be continuing demand for good global collateral management from global customers.
+So in terms of what we're doing about it, again it's broadly in the context of looking at all opportunities out
+there. So other people are taking different actions. But there are a range of different opportunities that are
+out there to enhance our existing businesses. And we continue to evaluate and look at all of them as you
+would expect us to do and as we've always done historically. So I wouldn't make any further comments on
+that other than the ones that I've just made. What is the first one?
+
+Paul Froud
+Head of Investor Relations
+
+First one is on the 2 disposals.
+
+David C. Warren
+Group CFO & Executive Director
+
+Yes. You're actually right in terms of analyzing the margin of those. So with the disposal, they would have
+a positive benefit on margin.
+
+Paul Froud
+Head of Investor Relations
+
+And then the other was the funding raising that occurred, and the increase in our stake.
+
+David C. Warren
+Group CFO & Executive Director
+
+Yes. So obviously, we got up to 43%. I think importantly that was around where all the existing
+shareholders supported. We do anticipate that they -- we know that there is increased interest in this
+platform. And we would anticipate other banks coming in, other people signing up. So I would say where
+we're right now is not where we would end up being. But certainly, in supporting the platform and it's
+important that everybody participate in a round. So our long-term intention in terms of ownership, we
+would never really speculate -- we never give specifics on, but I think as additional investors come in, we
+could anticipate selling some of that -- some of that ownership down.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+LONDON STOCK EXCHANGE GROUP PLC FY 2017 EARNINGS CALL |  MAR 02, 2018
+
+Paul Froud
+Head of Investor Relations
+
+Yes. Question from Johannes.
+
+Johannes Thormann
+HSBC, Research Division
+
+Johannes Thormann, HSBC. 3 questions, if I may. First of all, a follow-up on MiFID II. Your competitors
+-- or your listed competitors have raised concern about systematic internaliser regime. What's your view
+on this? How much do you see risk to your cash per trading business from those guys. Secondly, can you
+share -- I guess, you made this analysis, how much of the increase in FTSE revenues is driven by increase
+in market cap, driven by net inflows and driven by inorganic measures in this year? And last, but not least
+here, we all know that politicians don't tend to have rational economic decisions, but regulators are forced
+to move the Eurozone banks to move their clearing to the Eurozone probably. Could you elaborate on
+the status of your clearing operations at LCH SA? And there has been a comment from Futures Industry
+Association doubting the interest rate swap clearing capability of LCH SA, if you could comment on that as
+well?
+
+Paul Froud
+Head of Investor Relations
+
+Yes, okay. So we'll take those in order.
+
+David C. Warren
+Group CFO & Executive Director
+
+Look I think -- I think you have to move to specific ones. We have not really seen an impact on systematic
+internalisers to date. They'll be given some specifics on that?
+
+Paul Froud
+Head of Investor Relations
+
+We'll put out our normal trading statistics on the databases. I think you can see that the share on the LIT
+trading is holding up, in both Italy, and also in London. The growth that we're seeing in Turquoise is on
+the block side. So I know there was a concern entering the year, on the introduction with MiFID II. So far
+that doesn't look that was having any impact on us. Second question I think was about the growth of FTSE
+Russell, how much was from the inflows? How much is from the inorganic?
+
+David C. Warren
+Group CFO & Executive Director
+
+Yes. We just don't break it out that way. I think there is a mix of what's going on with that business all the
+time in terms of investments, in terms of pricing changes. I think we run that business holistically with
+strong customer relationships. I think the important thing for FTSE Russell is that it continues to deliver
+double-digit growth and that's very much our prediction going forward, and we reconfirmed and reaffirmed
+our confidence in that generic.
+
+Johannes Thormann
+HSBC, Research Division
+
+If market cap levels would fall like 10% a year, you would still believe in double-digit volume growth --
+revenue growth?
+
+David C. Warren
+Group CFO & Executive Director
+
+I think -- obviously that's not happened yet, we do sensitivities. We would clearly watch it as -- if that's
+where we thought it was going. I think the other important part about the FTSE Russell business is the
+way we make money. It is a mix of volume-based pricing as well as subscription pricing. It's more on the
+data subscription side than it is on the license side. And we're constantly developing and innovating and
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+LONDON STOCK EXCHANGE GROUP PLC FY 2017 EARNINGS CALL |  MAR 02, 2018
+
+selling, making new data sales every year. That's a business that's had some strong growth. And that's
+a business that as you know, is quite sticky because you know this data once you have it, it's hard to
+move with that -- it's hard to keep going without it. So that will always be a focus. And I think it is really
+the mix of those revenues. And I think also on the fact that on the ETS side -- so its FTSE revenues in
+context of all group revenues, it's the structure of those revenues in terms of being 60% subscription and
+40% volume-based. And then, also I think if you then kind of keep going into that, if you look at the ETS
+themselves that's about 20%. So I think it's important to have all of this in context. And I think we have
+always felt that that's one of the strengths of the businesses, is the diversity of actually how we interact
+with our customers and how we sell our products.
+
+Paul Froud
+Head of Investor Relations
+
+Third question was about the potential for still regulatory changes in terms of whether euro clearing takes
+place.
+
+David C. Warren
+Group CFO & Executive Director
+
+Look, it's an ongoing discussion. You follow it, the landscape is evolving, the discussion changes every
+day. I think the important thing for us is that we're engaged with all stakeholders, politicians, regulators,
+our customers. We're not in a position to predict outcomes at this time. I think we're really about being
+prepared to react in whichever way it goes, at the same time our position hasn't changed. We continue to
+believe that and support enhanced regulation and global supervision, we continue to believe that transition
+rules are important to this. And we continue to support programs, policies that do not fragment markets.
+That's the general statement.
+
+With respect to your specific comment on LCH SA. Again, a general -- my general answer is, LCH SA
+obviously is performing well. It clears a number of OTC products. You can think about LCH -- if you think
+about LCH SA in the context of the entire company, it is the fact that we have -- we operate businesses
+that have licenses and we operate of size and scale globally. So we have operations in a number of
+jurisdictions, including in the Eurozone. So if you want to talk about Brexit more broadly we're maintaining
+strong global positioning and we will be positioned to react in whichever way we need to react, but I think
+at this point in time, we're just involved in the debate and in the discussion as it moves forward.
+
+Paul Froud
+Head of Investor Relations
+
+Any more questions from the floor before I go back to the phone lines again? No. Okay. So any more
+questions on the audio line before we conclude?
+
+Operator
+
+There are no further questions from the telephone. Please continue.
+
+Paul Froud
+Head of Investor Relations
+
+Okay. Right. Well, I think we're going to draw it to a close in that case. Thank you, again, for everyone for
+turning up, and thank you on the phone lines for bearing with us.
+
+David C. Warren
+Group CFO & Executive Director
+
+Thank you.
+
+Paul Froud
+Head of Investor Relations
+
+We're around for the rest of the day, if you need to talk. Thank you.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+LONDON STOCK EXCHANGE GROUP PLC FY 2017 EARNINGS CALL |  MAR 02, 2018
+
+Operator
+This does conclude our conference for today. Thank you all for participating. You may all disconnect.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+LONDON STOCK EXCHANGE GROUP PLC FY 2017 EARNINGS CALL |  MAR 02, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+

@@ -1,0 +1,968 @@
+NEXT plc LSE:NXT
+FY 2018 Earnings Call Transcripts
+Friday, March 23, 2018 12:00 AM GMT
+S&P Global Market Intelligence Estimates
+
+-FY 2018-
+
+CONSENSUS
+
+4.12
+
+4122.05
+
+-FY 2019-
+
+CONSENSUS
+
+GUIDANCE
+
+4.11
+
+4156.99
+
+4.12
+
+4190.70
+
+EPS Normalized 
+
+Revenue  (mm)
+
+Currency: GBP
+Consensus as of  Mar-22-2018 11:18 PM GMT
+
+FY 2015
+
+FY 2016
+
+CONSENSUS
+
+4.03
+
+4.33
+
+- EPS NORMALIZED  -
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+3
+
+4
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+NEXT PLC FY 2018 EARNINGS CALL |  MAR 23, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Michael J. Roney
+Non-Executive Chairman
+
+Simon A. Wolfson
+CEO & Executive Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+NEXT PLC FY 2018 EARNINGS CALL |  MAR 23, 2018
+
+Presentation
+
+Michael J. Roney
+Non-Executive Chairman
+
+Good morning, and welcome to the NEXT group results. I joined the board of NEXT just over a year ago
+and became Chairman in August 2017. And during that time, I certainly have been very impressed by the
+passion and commitment of all the executives at NEXT. In that vein, I would really like to thank all the
+40,000-plus employees of NEXT for their hard work and commitment, which really comes through in the
+financial results. Michael Law, our Group Operations Director, has been with NEXT for 23 years. He will
+retire from the board in May. Michael has made a huge contribution to the group and a huge contribution
+to the board. Michael has been very effective in handling issues in the area of warehousing and logistics,
+some of the most complicated issues that NEXT faces. And he's been very effective in handling those
+issues and solving the problems.
+
+I would like to welcome Richard Papp to the board. Richard is the group Merchandise Director with over
+25 years’ experience at NEXT, and he'll be a successor to Michael. There's certainly a lot of change in the
+retail sector. And one of the things that you'll see today that comes through in the presentation is that
+NEXT has not stopped in looking at all the problems, but really is focusing on a number of new initiatives
+to try to face this new and challenging market. I believe that the leadership team of NEXT is very strong
+and is going to execute the correct measures to really build shareholder value in the future. So now over
+to Simon.
+
+Simon A. Wolfson
+CEO & Executive Director
+
+Okay. Thank you, Mike. I have to say that I 100% agree with that last statement about management team
+and leadership being very strong.
+
+Looking at last year's numbers. Top line -- total sales down 0.5%, full price sales up 0.7%. This is all
+about the fact that we were less effective at clearing our sales stock last year than we have been in the
+past.
+
+Operating profit, down 8.2%. So -- and this is a story that, throughout the presentation, we're going to
+try and sort of elucidate exactly why that was, why it -- how is it that the top -- a stable top line turns
+into a negative bottom line. We're going to go through each of the reasons for that but in summary, poor
+clearance rates; fixed costs in retail, which is a declining business; variable costs in Directory, which is
+a growing business; a step-change in our cost base in Directory in order to invest in the systems and
+marketing that we think is needed to drive the business forward. And those are the main things that are
+-- and also the -- sorry, final thing is the loss of margin as a result of us selling more branded stock rather
+than NEXT stock online. And I'm going to go into each one of those later on, but that is the sort of big
+picture set. If you want to go now, you kind of have most of the presentation.
+
+Interest benefit of GBP 4 million here. This is -- we had a bit of double running between our bonds. We
+had one bond that hadn't expired, another one where we have the money in the bank. We've got the
+money and so we had some double interest costs last year.
+
+In terms of tax, lower rate this year. There is a one-off credit level. We expect the rate in the year hence
+to be broadly in line with the year just gone. And profit after tax down 6.8%. Earnings per share boosted
+slightly by the buybacks we did right at the end of the year and also in the previous year. Dividend
+maintained despite declining earnings per share, but still very healthily covered at 2.6x.
+
+Cash flow. Capital expenditure, down last year. There is only one reason for this really, and that is that the
+amount of money we spent on the stores reduced significantly. Around GBP 12 million of that reduction
+was stores that we aimed to open last year that were delayed and opened in this year. So the final bill
+for those stores won't come in until this year. So there's a little bit of an imbalance there. But I think,
+generally, the amount we're going to spend on new stores over the next 4 or 5 years will obviously be
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+NEXT PLC FY 2018 EARNINGS CALL |  MAR 23, 2018
+
+tempered as we raise the bar in terms of being sure that those stores not only make a profit on the first
+day, but they'll make a profit at the -- on the last day at the end of their lease as well. So that will impede
+the rate of growth in the space going forward.
+
+Cosmetic refits. A much bigger number than usual, I think. Of that GBP 22 million, around GBP 12 million
+was in 1 store in Arndale, which was an experiment that I'll come onto later. GBP 50 million on head office
+and systems. A whole host of small items here, 2 worth mentioning. We've spent around GBP 3 million
+developing new accommodation for new starters. One of the big issues we have is when people first come
+to Leicester, it can be a bit intimidating. This is sort of people just come from university graduates, so we
+have set some accommodations up where they can come and live for 6 months in a sort of safe and very
+nice environment in order to find their housemates move on.
+
+The other issue -- the other item, big-ticket item is GBP 4 million on new RFID handheld terminals in our
+stores.
+
+Warehouse, much less than last year. Last year, GBP 28 million. The lion's share of that was building of our
+new automated storage and retrieval warehouse for sofas. Of the GBP 11 million, about GBP 3 million or
+GBP 4 million that was actually finishing that project and some of the other projects that we started in the
+previous year.
+
+Looking forward to next year. A little bit more space opening, again, boosted by the space that moved
+from this year into next year. A more normal figure for maintenance CapEx, around GBP 15 million in the
+stores. Head office CapEx, around GBP 12 million. There's no single item here. We are talking about head
+office and systems, just lots of small investments. And a step-change, another big increase in warehouse
+CapEx. In terms of what -- we're spending the money here.
+
+As we ran into Christmas, we ran up against the capacity constraints of our Directory warehouse or online
+warehouse. We were able to cope with that operationally in terms of our service to our customers. We've
+got all the stock out of the warehouse. It wasn't the problem that affected our customers, but it was
+a problem that affected our costs because as the warehouse becomes more crowded and you begin to
+take capacity, costs go up. So we're going to need to spend GBP 35 million on that. Of that, half will be
+automated storage and retrieval of returns. So the returns processing was the big sort of rate determining
+step that affected us last year. We're spending GBP 3 million more increasing our forward capacity for
+Directory.
+
+What's interesting about -- if you look at the total stock holding online, we don't anticipate that, that will
+grow enormously. But what will grow is the amount of different options we have, particularly as we're
+adding other people's branded stock. And as we take advantage of the opportunity that online gives
+us to have smaller buys so we're -- and the addition of additional -- the addition of those extra item
+options means that you need more forward location. You've got to have one of each item forward. So it's
+the forward locations, the picking locations where we're going to need more capacity in Directory. It's
+relatively cheap. It's floorspace and racking and that -- we'll spend about GBP 3 million on that.
+
+And the final thing we're doing, which is interesting, is that we are taking the retail warehousing that
+we've currently got in a building that also services our online business and condensing it into the existing
+retail warehouse. So we are, in fact, using surplus retail capacity to hand over to Directory.
+
+You'll notice also throughout this presentation, I'll refer intermittently to Directory as online and Directory.
+In the new sort of world, we've rebranded Directory online, and that's because we think it's much cooler.
+But as we go through the presentation, I will continue to make the mistake of referring to it as Directory,
+so please bear with me on that. Working capital. Big swing in working capital. Two items here: stock and
+Directory debt, around GBP 115 million of extra Directory debt. And on stock, we had GBP 35 million more
+stock at the end of the year than last year but last year, we had GBP 35 million less stock than the year
+before. So the swing in working capital is around GBP 70 million.
+
+Tax paid. There was a tax credit here as a result of us closing previous year's tax returns. Cash flow before
+distribution to shareholders, down 47% -- GBP 47 million. And it's just worth stressing that the reduction
+in cash flow is less than the reduction in profits. There is a temptation in difficult years for companies to
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+NEXT PLC FY 2018 EARNINGS CALL |  MAR 23, 2018
+
+ensure that, that is the other way around. And I just want to reassure you that the quality of our earnings,
+in terms of our provisioning, is as robust as it has ever been.
+
+In terms of distribution to shareholders. This -- the distribution to shareholders was larger than the cash
+generation, and that was as a result of us bringing forward this year's buybacks into January.
+
+Net cash flow, GBP 141 million. That's about GBP 130 million less than last year, and that's all about 2
+things: Directory debt and stock.
+
+Balance sheet. Still robust. Stock, up 8.6% at the year end. This isn't because we expect our sales to be
+up by 8%. And we expect there to be less stock going into the end-of-season sale than we had in the
+summer sale last year, so we're not overstocked. This was all about 2 things: partly timing of Chinese
+New Year and the timing of deliveries, and partly, it was because we carried over more stock from the last
+phase of the winter season last year into spring in order to give ourselves more warm weight stock as we
+went through January and February, which, in hind sight, turned out to be the right decision.
+
+Debt of GBP 122 million. This is Directory -- all driven by Directory debt. You can see that the debt is up
+12% on sales that look like they're only up 6%. So it looks as though customers are spending -- taking
+longer to pay off their debt. That isn't what actually is happening underneath it. If you split it out into
+the 2 halves, you'll see that, in the first half, Directory debt was broadly stable on credit sales that were
+broadly stable. And in the second half, the online debt has increased pretty much in line with the credit
+sales. And the reason that in spring, the growth is lower; and in winter, the growth is higher is because
+people tend to increase their amount of debt in winter and reduce it in summer. So increase in and around
+of Christmas, pay it off in the summer. So that's the reason for the difference between those 2 numbers
+but broadly, debt is now increasing in line with credit sales.
+
+In terms of net debt, just a quick walk forward on that. We generated GBP 335 million of surplus cash off
+to paying dividends, CapEx, tax, et cetera. Special dividends are GBP 256 million. Towards the back end of
+the year, we were -- that GBP 256 million, you'll remember, was the amount of cash we thought we would
+generate at the bottom end of our guidance range. So there was always going to be a little bit of surplus
+cash if we hit our midpoint. We spent that on buybacks, GBP 79 million on buybacks. We then spent some
+of next year's cash flow in January to get GBP 105 million of buybacks. We then increased Directory debt
+by GBP 115 million.
+
+Looking forward to next year. GBP 300 million of surplus cash at our central guidance point. Buybacks of
+GBP 275 million. This is not the same as the operational cash flow because the amount we borrowed from
+this year, we're paying back next year. So that GBP 25 million we spent in January we won't spend again.
+Online debt, up another GBP 110 million. And as we increase our Directory debt going forward, we will
+finance that with debt rather than capital.
+
+In terms of our funding, still very well financed against our peak debt requirements, GBP 1.2 billion of
+peak debt versus GBP 1.4 billion of bonds and bank facilities. But what you can see is that we're now a
+long way into our bank facilities. And at some point, between now and May next year, we will look -- or we
+intend to look at issuing another bonds to replace some of that bank debt with more secure longer-term
+debt.
+
+Just moving on to the detail of the business, starting with retail. I think it is very important to make sure
+that our retail accounts accurately reflect and the store-by-store profitability accurately reflects the actual
+profit the retail is making because if we don't, we could end up shutting shops that are actually making us
+money. There's only one item here that we've really transferred and that is the cost of servicing Directory
+orders through the stores we had underestimated in previous years. We've gone back and looked at the
+actual costs to retail as a result of servicing all those direct orders and it's around GBP 14 million higher
+than we thought it was.
+
+All the numbers you'll see in the Directory and retail accounts that I'm about to go through have been
+restated to account for that GBP 14 million swing in both this year and last year. Full price sales, down
+7%.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+NEXT PLC FY 2018 EARNINGS CALL |  MAR 23, 2018
+
+In terms of sales from new space, we opened around 50,000 square feet in the year. That was -- in terms
+of stores, we lost 10 stores, closed 14. I think store closures are going to become an increasing part of the
+retail landscape. And I think it's worth just talking a little bit about the stores that we've closed. On the
+face of it, it looks like we're being too aggressive because the stores are making 12%. In reality, one of
+the stores we shut was a compulsory purchase of our shop in Eastbourne for redevelopment. If you look
+at the stores that we actually shut, they're around 10% profit. And there are 2 things we look at when
+we decided whether to close the store: one is the profitability and the other is the actual quantity of cash
+profit that it's making because there is a cost in servicing a shop as well, getting the area manager there,
+display team. All the costs that we don't necessarily load into the branch appraisal we need to account
+for. So if a store is, on average, making less than GBP 200,000, it goes on the watch list. And the other
+thing is as much as we wouldn't go out and choose -- actively choose to shut a shop that was making 10%
+profit. Equally, we would never sign a new lease for a store that is only making 10% profit. And all the --
+so -- and of the 14 stores, 11 of them had reached the end of their lease. So we're not -- we're basically
+-- the landlords then got a choice. They can either take the keys back; we can hold over with them, in
+which case, we just carry on paying the existing rent. And there are a large number of stores that are
+doing that now. When we can't reach an agreement with the landlord for a new lease but -- we just carry
+on paying the old rent until such time that one or other of us wants to shut the operation, the landlord or
+ourselves. But we would never sign a new lease at just 10%.
+
+In terms of performance of the new store portfolio. Missed its target slightly, which isn't a surprise or
+shouldn't be a surprise given the performance of our ranges in the first half. Pay back, just slightly over
+our 24-month criteria but the profitability of those stores still healthy at 21%. What we're now doing is
+when we appraise a new store, we are looking at what the -- not just what the profit will be day 1. In the
+good old days, you'd say, it doesn't -- we look at the profit in day 1, and then it might go up as time goes
+on. Now I'm afraid we have to take the opposite view. So every new appraisal we're doing, we're saying,
+what is -- what will the profit of this store look like if the worst comes to the worst and there is minus
+10% like-for-likes until the end of the lease. And then we look at the internal rate of return on the capital
+invested over that term and what the year ex profit is when the lease term ends.
+
+In terms of profit analysis, a big drop in profits. Bought-in gross margin was fine, a lot -- a big loss from
+markdown. And this is all about -- it's not about the amount of stock we put into the sale. We actually put
+significantly less stock into the end-of-season sale than last year, 9% less stock but sales were down 16%.
+We think that there are 2 things going on here, and we don't know how much is one phenomenon and how
+much is the other. Generally, sort of the chat in our industry is that markdown has become less effective. I
+think there's a good reason for that and that is that you can now go on to pretty much everyone's website
+and their clearance operation is also on their website, including ours. So people have always got access
+to the last season sale in the sort of clearance, in effect, the online clearance store that is a tab in most
+people's websites. And that'll be a sort of rational reason. There was also an awful lot of stock generally
+that went into sale last year as a result of the environment being difficult.
+
+And the final thing is our range in the first half we know weren't right. So it shouldn't be a surprise that if
+we couldn't sell it at full price, we had difficulty selling it at half price. In terms of stock loss. Interesting
+thing here. Stock loss actually as a cash figure remained broadly the same. The amount of stock taken
+from our stores has remained the same but obviously, the store sales went down. So markdown costs, as
+a percentage of sales, went up marginally.
+
+Store payroll. A potentially surprising gain on store payroll, and this is basically because the efficiency
+measures and productivity measures that we introduced into our stores outweigh the inflationary costs of
+both general inflation and the national living wage.
+
+Store occupancy costs went up as a percentage of sales. That's all about falling sales. Underlying rent
+and inflation was much less than 1%. So in terms of actual rent reviews, we're not seeing much inflation
+coming through.
+
+Warehousing and distribution. Again, this is the deleveraging of fixed overheads in our warehouse in the
+distribution operation where, I think, we probably haven't moved fast enough to cut back on some of the
+costs that are semi-fixed, and I'm going to come on to that later.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+NEXT PLC FY 2018 EARNINGS CALL |  MAR 23, 2018
+
+Central overheads. Again, it's all a story really of fixed overheads at the center and declining top line
+sales.
+
+In terms of online. Much happier picture. Sales up 9%, 11% full price. In terms of how that was made
+up, in terms of the makeup of that, 9% of the growth which -- from the U.K., of which only a very small
+amount was NEXT branded stock. You can see that our LABEL stock, the third-party brands we sell
+through NEXT Directory was much, much bigger growth. That isn't quite the whole picture. The picture
+becomes much clearer when you look at it by half. And you can see in the first half, the NEXT branded
+stock was significantly down in the previous year. And in the second half, it was up. We don't think that we
+will not grow Directory-branded stock online in the year ahead, so apologies for the double negative. We
+think we will grow NEXT branded stock online in the year ahead and by more than 2%.
+
+We think that the underperformance of the NEXT branded stock was more to do with the stock that
+we produced than the competition it was facing from the LABEL brands. There is inevitably some
+cannibalization in the LABEL brands, but we think last year's performance in the first half was about
+ranging errors.
+
+In terms of overseas. 26% growth in sales. Sounds brilliant. It's not as brilliant as it sounds. At constant
+currency, it's around 10%. We would expect about 10% in the year ahead.
+
+Customers. You can see that overseas, the sales growth is being driven by customers. And in the U.K., it's
+being driven by sales per customer, particularly credit customers. So you can see that credit customers
+last year increased sales by 9% on flat numbers of customers. And this is all about the improvements --
+we think this is all about the improvements that we've made to our website, things like NextUnlimited
+where you spend GBP 20 for unlimited free deliveries to home. And all the other initiatives we put into
+improving our website, services and broadening our offer, we think, is what has driven the credit sales
+forward.
+
+In terms of credit customers. You'll remember that 2 years ago, we faced a little bit of a crisis in terms
+of our credit numbers. Jan 2016, there were 5% -- nearly 6% down on the previous year. Last year,
+the situation had improved. As we stand in January, credit customers around 0.6%, up on the previous
+year. And we think that at the very worst, we will stabilize the credit customer numbers now. We don't
+anticipate that those will decline in the year ahead. Possibly, they might move forward slightly more than
+that.
+
+In terms of profitability and margin and assets. 0.6% erosion in gross margin. Biggest issue here is the
+difference between the margin rank on third-party stock and NEXT stock.
+
+Markdown. The same effect in Directory that we had in retail, where the increase in sales stock wasn't
+matched by an increase in sales.
+
+Interest income. Although interest income grew, it didn't grow as fast as sales so that reduces margin.
+Catalogs and mailshots. We've done a lot to reduce unnecessary spend on catalogs and mailshots. That
+gave us a 1% improvement in margin. A lot of that money we invested in online marketing and systems.
+
+Central overheads. A slight gain as we get positive leverage over fixed costs in the online business. In
+terms of the outlook. This is a graphic that explains just how we felt throughout most of the year. And
+really, I think it's worth just going through all the pressures that we felt last year and what they -- what
+we think will be their effect in the year ahead. So cost price inflation was a big issue for us. We said this
+at the beginning of the year. The devaluation of the pound meant that we had to put our prices up by 4%.
+Interestingly, I think we were one of the very few, if not the only retailer, that said we were going to put
+up our prices. But miraculously, if you look at price inflation in the clothing sector, generally, it went up by
+almost the same amount. Just to point.
+
+So -- and I think the point there is that actually, we don't feel that the raising of our prices left us
+in a significantly worse competitive position than we were in at the beginning of the year. And we're
+comfortable with our competitive position about prices at the moment. In terms of U.K. consumer, we've
+had pretty much a whole year of negative real income.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+NEXT PLC FY 2018 EARNINGS CALL |  MAR 23, 2018
+
+And the final thing is the sectorial shift, and this is something that we first started talking about nearly
+2 years ago, October '16 we first mentioned this. But we are still seeing innovation in streaming, the
+opening of new pubs, restaurants, bars, film, so research into film. All of those things we feel are taking
+money out of the clothing sector. And we have no signs that there was any reduction in the pace of that
+change yet.
+
+Finally, we got a structural shift online and this is -- of these 4 issues, this is, by far, the most important
+because it is structural. And finally, just to make things worse for ourselves, at the beginning of the
+year, we had a marked product accident. So I think you can sort of characterize these headwinds into 2
+types: cyclical which, at some point, they will work their way through the economy; and structural, where
+actually it is a profound change to the nature of our industry and we need to work out how the company is
+going to cope with this change going forward.
+
+And it's just worth talking about the profitability of the different income streams. This is the 8.2% decline
+in group profit compared to stable headline. So you see, overall, our sales went up by 26%.
+
+But if you look at the profit performance, retail lost GBP 86 million as a result of lost margin on sales,
+minus any variable costs we were able to save. If you look, and there's a little bit of fiction here, but
+bear with me because it explains the nature of the profit erosion that we're seeing at the moment. If you
+look at the growth in profit that we would've got from exactly the amount of sales that we lost in retail,
+if you look at the profit that we would've made on that, had it all been not NEXT stock, that would've
+been GBP 68 million. So the act of transferring sales from retail, Directory branded sales from retail to
+Directory creates a gap. That gap was GBP 18 million around -- sorry, went a bit -- 13p on the pound.
+So the actual -- if you like, the structural cost of the change in the 2 functions is around 13p. That's not
+because Directory makes less profit than retail. Actually, it makes more profit than retail at a net level.
+It's because so many of our retail costs are fixed and so many of our Directory costs are variable. The
+change creates a loss. Actually, we did slightly better than that. We overachieved in Directory. We gained
+more sales in Directory than we lost in retail, so that sort of reduces the structural cost around GBP 6
+million. But not all of the stock that we gained online was NEXT branded stock. A lot of it was LABEL stock
+and the margin on that is lower, so there's a GBP 30 million attrition as a result of switching stock --
+switching sales from NEXT branded stock to online stock. Some of that was down to the underperformance
+of our own ranges, and we wouldn't expect that to recur in the year ahead. So in your mind, so you can
+see there are 2 different losses going on here. The structural costs, around 13p on the pound. And then
+there's GBP 30 million branded cost.
+
+Cost savings didn't quite match cost increases. These are the costs -- the changes in our fixed cost base,
+the ones that don't directly relate to growth or decline in sales. And the big issue here has been the step-
+change in Directory cost base. The GBP 11 million we invested in revenue costs to build new systems and
+marketing capabilities, which was more than paid off but which cost us profit last year.
+
+The final actually was clearance rates. The degradation in our clearance rates cost us GBP 22 million. And
+so what you have there in that 1 graph is an explanation as to how top line sales of roughly flat delivered
+profits down 8%. Or I should just say, sorry, for the group, profit and markdown sales have put the figure
+at the bottom. Markdown -- total stock for sale was down 4%, total markdown sales were down 10%.
+That's what generated that GBP 22 million loss.
+
+So in terms of the year ahead, and we've changed the graphic here, to give you not a beautiful sunny day
+but perhaps to give you an end of the storm in sight. In terms of the cyclical pressures, some of them are
+definitely reducing. We know that cost price inflation is going to work its way out of the system by the end
+of the year and potentially reverse as we go into next year.
+
+So view the economy. If you look at Bank of England's central forecast for inflation and their central
+forecast for average earnings, they anticipate that we will see a return to real income growth in the middle
+of the year. Actually, that's what they do think. Last week, they issued their latest figures, and you can
+see that the inflation figure came at right end -- right at the bottom end of their forecast fan, and earnings
+moves forward slightly faster. So it looks we're now in a position where already averaging comes moving
+forward. A caveat there, it will take, in my view, at least 6 months for that to really hit the consumers'
+consciousness. It took a while for it to work the other way through the system. It will take a while for it
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+NEXT PLC FY 2018 EARNINGS CALL |  MAR 23, 2018
+
+to work back, but there's a reason to be slightly optimistic on that. And the sectoral shift we think is still
+there, in force, and we see no -- we can see very little evidence of it abating in the year ahead.
+
+So cyclical pressures, moving back. The permanent challenge of structural shift to online remaining. And
+that -- really, those -- that fact drives the agenda for the business in terms of what we have to do. Product
+remains at the heart of our business, and you can see the power of getting it wrong from our figures last
+year in the first half. I'm not going to talk at length about product because I feel -- chief executives always
+sound a bit silly when they're talking about production. You never really fully explain yourself because it's
+a sum total of lots of individual decisions that are being made with individual suppliers. But just to give
+you a sense of what went wrong, this was the 6th page of our tailoring section in the February brochure
+that we issued last year. It's called New Romance and it should have been called Bad Romance, clearly.
+It's not necessarily heartland stuff. This was the 6th page this year. And you can just say, oh, there she
+is. NEXT lady is back with us. And if you're looking at the improvements in our range, it really is best
+demonstrated by these 2 graphics.
+
+In terms of what we said, time scales improved. This is what we said at this point last year. We said
+quarter 1, double cross; quarter 2, single cross; a bit of improvement in quarter 3; recovery in quarter
+4. It pretty much panned out as we expected, and the sales by quarter kind of reflects the steady
+improvement in the ranges. One note of caution is please remember, I know that you will all -- you won't
+forget this, but please remember that first quarter was that bad when we announced our quarter 1 sales
+because our quarter -- our performance in the first quarter is likely as a result of [indiscernible] comps to
+be significantly better than the rest of the year, so don't do the old straight line on the graph.
+
+I think -- in fact, we've drawn a graph for you. You can't get your -- we're fading it, so you can't get your
+rulers out and measure exactly where the -- we expect each quarter to fall. And of course, we don't know
+so those rulers won't be much use anyway. But broadly, we're expecting the first quarter to be between
+1.5% and 2% better than the remaining quarters.
+
+I should also say actually that, although the first quarter -- a lot of people are talking about that very
+bad week we had in February. We did have 60 shops shut on days in that week, so that did affect us. But
+overall, we picked up some of those sales the week before and after. Overall, we're still on track for this
+sort of number in the first quarter.
+
+Defending retail sales. We're not just sitting back and doing nothing and waiting for shops to shut. The
+most important thing we're doing, which we are really excited about is a bit techy and therefore may bore
+some of you, but we think it could be really important.
+
+If you look at a customer sitting at home, ordering NEXT Directory stock, what they will find is that on
+average, around 10% of the items that they're looking for are completely sold out in Directory. And 20%
+of the items that they're looking for are on a delay. This is be -- either we're expecting returns back from
+customers, so we've sold -- in effect, we've sold and anticipated return or more often, it's because we're
+anticipating a delivery or a predelivery from a supplier.
+
+When you look at the stock that customers can't find in Directory, which represents around 30% of our
+demand, 10% of it is available in a store. And we've estimated -- this is not just in any store. We estimate
+that 10% of it is available in the average customer's local store. 40% of the items on the delay are in a
+store that is close to -- local to the average customer. And that gives us an opportunity. We started to fund
+that opportunity just for Christmas with a Find In Store button. Find In Store button just tells you if the
+item is in store. Unfortunately, because stores can't really put stock aside, it's not much help. It will tell
+the customer if it was there this morning, but it won't tell them if -- it's almost impossible for us to find it
+and put it aside at the moment. So it's just a -- it might be there if you get there in time to [ try out the ]
+thing.
+
+Going forward, we're looking at [ increases ] in proper click and collect. And that will be live, I think,
+in September. And certainly, we have 2 calendars in NEXT. We have a calendar that works -- it's a bit
+like Gregorian and Julian. We have a calendar that works for the whole business, and then we have a
+systems calendar. And the systems calendar is always 1 or 2 months in advance of the actual. So our
+systems calendar is telling us that we're going to deliver that in sort of July, August. We've -- in sort of
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+NEXT PLC FY 2018 EARNINGS CALL |  MAR 23, 2018
+
+normal speak, we say that's probably going to be September. This new system will allow us to -- allow
+customers to go online, to buy the item online. We will pick the item, scan it, put it aside in a store. We
+enter that within 30 minutes, text the customer to let them know that we've got it before they set off and
+the customer will then be able to pick it up. We think -- we don't know how big this is going to be. We
+know that the demand is there for that stock because we can see the lost demand in Directory. We don't
+know people's willingness to have the [ hassle ] of going to pick it up. But what is interesting about this
+is -- it's the first time that we've had an initiative in the last 10 years where retail can do something that
+Directory can't.
+
+Directory cannot get their stock to a customer same day. Retail can, and it will obviously be a retail sale.
+
+Store orders. We're doing pretty much the same thing. At the moment, customers, if they find an item
+they like in store but the size isn't there, they can order it at the till, either for delivery back to the store
+or delivery in home. At the moment, all of that stock comes from the warehouse. We will be opening up
+the store -- other stores' stockpile so that any stock that is -- if that stock is available in another branch,
+it can be transferred back to the ordering branch within 2 to 3 days, or sent to the customer's home.
+We'll also be clever about it in order to minimize costs to make sure that if it's in a local store, it doesn't
+have to go back to a central warehouse but will go back to a local depot. So it will be store-to-store,
+transfers within depot group. We think that 17% of the stock can be done that way, so it's very cheap. And
+obviously, it can go to the customer's home as well.
+
+Retail credit. At the moment, we do about GBP 1.6 billion with the sales on our Directory account. It's
+often assumed that all of this business is online business. In fact, around GBP 240 million of it are
+customers using their Directory account to pay for goods that they're buying in store. So we do have a
+sort of retail credit business. Currently, we only offer that to its active Directory customers. We've made a
+few changes to the offer to make it compliant with store credit. We've got 700,000 names, addresses and
+emails of customers that we know are regular customers in retail that aren't active customers in Directory.
+And we will be promoting a credit offer to them, initially online, so they'll be able to get access. They'll, in
+effect, be able to open a retail account rather than a Directory account. We've got no idea how big this is
+going to be. It won't be enormous but what we do know is that the customers -- when we give Directory
+customers the access to their Directory account in stores, we know that their sales go up by more than
+10%. And this is mainly -- and this will be mainly about the sales generation rather than interest income,
+although it will obviously give us an interest income and will be at the same APR as our Directory account.
+
+In terms of costs. I have a myriad of cost-saving initiatives as usual. And the question I have been asked
+for the last -- about 7 years is surely there's nothing left in the tank to save now. You've done your red
+pen, you're fist banging in a boardroom and really, there's nothing left. And what I want to stress is that
+the cost savings that we made in the business and are making in the business are not sort of red pens,
+people sitting down and saying cut that out, cut that out. We have been very careful not to damage our --
+quality of service or damage the future of the business through underinvestment through saving money.
+So the -- all the savings that we're making are driven either by technology, rightsizing our Directory
+business, better negotiation, and making sure that expenditure in the past that was relevant, we are
+cutting out now that it is no longer relevant. And I'm just going to talk about 4 little examples of that very
+quickly to give you a flavor of it.
+
+Retail man-hours. We expect to make GBP 6 million saving in retail man-hours. One of those projects is a
+GBP 2 million saving in scanning costs. At the moment, we scan every single item on our shop floor every
+week to ensure that we've got the correct balance between stockroom and the shop floor and stock it in
+the stockroom, make sure there aren't any sizes missing in the stockroom. That cost us a lot of money but
+it is worth it because generally, if this item isn't there, the customers won't ask for it.
+
+We've replaced all of our handheld terminals, and we're now replacing our security tags with an RFID-
+enabled security tag. So we're not tagging every single garment with an RFID tag at source. We're tagging
+it in the store when we put the security tag on it. And the main reason for that is because the cost is so
+much lower. If we RFID tagged every item at source, it would cost us at least GBP 8 million of additional
+revenue cost every year. So we're not doing that. We're doing the tags. We will be able to scan at least
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+NEXT PLC FY 2018 EARNINGS CALL |  MAR 23, 2018
+
+5,100 items an hour, and that will give us a saving of GBP 2 million. And I actually think that, that 5,100
+scans an hour is a low figure. I think it should be much higher than that.
+
+In terms of retail deliveries. Again, this is just all about rightsizing the apparently fixed costs of the
+retail business. So delivery network, depots, all those things look fixed. But actually, when you look -- if
+you look at this graph, what this shows is the retail sales in red and the number of deliveries that we're
+making in blue. And you can see that we just haven't anticipated aggressively enough the reduction in
+retail sales. So we think there's a GBP 4 million saving in rightsizing our delivery network.
+
+Rent. This is interesting. These are the stores where we've succeeded in renegotiating the rent with a
+landlord at the end of a lease. Obviously, you don't get rent reduction at review, but at the end of the
+lease you've got an opportunity to renew. 19 stores were renewed last year. The average rent saving in
+those stores was 25% on the rent, and GBP 5 million capital contribution. You shouldn't count that GBP
+5 million capital contribution as a profit to NEXT because we spend more than all of it, making sure that
+those stores are fit for purpose for the balance of the lease. So we're not -- we are reinvesting that money
+in the stores, but the 25% reduction in rent is a real cost saving.
+
+In addition, where we are refitting the stores and using that capital contribution, we'll take the opportunity
+of putting concessions in. And so we've got -- we've generated around another GBP 170,000 worth of
+revenue from new concessions, which takes the -- if you got the net rent, down by 28% in those shops. It
+takes the rent, as a percentage of sales, down to 7.5%. Those -- the portfolio of stores renegotiated have
+an average profit of 21%, and a lease term of 7 years, an average lease term of 7 years. So what you can
+see is that we are no longer automatically signing 10-year leases. We're beginning to sign more and more
+leases for 5 years, and in some cases, only 2 or 3 years.
+
+Looking forward to next year. We have an awful lot of shops up for renewal. Of the 29 that we think we
+can and will renegotiate, and these are estimated numbers, we think that we can take the rent down by
+around 22%. We think we should be able to achieve around GBP 7 million of capital contributions, and
+we think we can get concession income of around another GBP 370,000 of concession income. What's
+interesting when you look at those stores is that whereas in the previous portfolio, the occupancy costs,
+the rent costs, the net rent were GBP 7.5 million. Year ahead, we're looking at GBP 6.5 million. Every
+appraisal we look at, we are looking at what the profitability will be at the end of a lease, assuming minus
+10% like-for-likes. So that means we're often able to -- we're unable to offer landlords the same length
+of lease that we were offering last year. And the average lease length we expect on these stores will be
+around 5 years, same level of profitability around 21%.
+
+In terms of concession income, we expect to get GBP 5 million more concession income next year. That
+is not quite right. We expect to open concessions next year whose annualized contribution will be GBP
+5 million more than previous year. Because some of them will open halfway through the year, we won't
+necessarily get the full amount of the benefit in this current year. We'll get it -- some of it we'll get in the
+following year.
+
+Just in terms of concessions, we -- NEXT, in the past, I have noticed, has been criticized for not wasting
+money on grandeur schemes. We -- happily, we put that criticism to bed. In Arndale, we spent GBP 12
+million and introduced what will be used as an experiment. We introduced every concession that we could
+think of. Scene one is would they be successful? Two, would they pay us enough rent to justify their place
+in the store? And thirdly, will they bring more people to the shops? So we're looking at -- we've got a
+restaurant, a spa. And bridal shop, we're still in negotiations for those. We have a barbers; Paperchase;
+kids' activity center, which is basically making mugs with your handprint on it. That's a thing. We've got
+a car -- a very small innovative car showroom and a new and extended café. All in all, those -- we expect
+those to generate around GBP 800,000 worth of rent, which is around 40% of the rent in that store.
+
+In terms of the restaurants, we've opened 2 restaurants so far, one in Arndale, the other one in Hull. They
+are 50-50 joint ventures with a restaurant group, with Gino D'Acampo's Restaurant group. When you look
+at the appraisals, they are not as good as a retail store. We've used an IRR rather than a payback because
+the payback doesn't look good at all. So -- I mean, the IRR is acceptable but not brilliant. And I think we
+have work to do on improving the profitability and payback in these restaurants as we move forward. And
+we're looking to buy thing -- shop fitting items from China rather than Italy, all those sort of things we can
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+NEXT PLC FY 2018 EARNINGS CALL |  MAR 23, 2018
+
+do to make them more profitable going forward. But we don't anticipate they're going to be a huge source
+of profit. We only get half the profit anyway. The real test for us will be what do they do to the footfall in
+the shop. Do they make the shops more relevant, interesting, exciting places to go? We've got 4 more
+planned, and we will see how those 4 go before we commit to many more.
+
+A final thing on costs. This is about the cost of print. Now what we haven't done, NEXT doesn't take big
+strategic decisions. So it would be very easy for us to say, let's just stop producing the catalog, save
+GBP 70 million. We would definitely lose money if we did that because we constantly measure the return
+on the amount of money that we invest in catalogs when we send them to customers in terms of the
+sales increase that they generate. And we know that for a very large number of our customers, catalogs
+are still extremely relevant and definitely generate much more profit than their costs. However, there is
+an increasing number of customers who trade online-only. And for those customers, we need to make
+sure that we are not sending them catalogs. So we're constantly testing the free catalogs to see which
+customer segments respond, which don't, and where we can cut them back. I'm also looking at things like
+photography costs.
+
+What's interesting about photography is that photography has become, I think, much more accessible but
+that makes it cheaper. If you look at photography sort of 5, 10 years ago, it was all very perfect. People
+that you would never ever see in real life made up without a hair out of place and makeup that no human
+being can really do in a half hour before they run to work. And that's definitely changing as a result of the
+style of photography you see on the Internet, blogs, Instagram. It's all much faster, quicker. In changing
+the style of our photography, we have saved a lot of money taking those photographs as well without, we
+believe, in anyway reducing the quality as far as the customer is concerned of the photographs.
+
+Final sort of leg of our plan is to maximize the potential online. And I would say that at this point, I
+wouldn't want you to look at these, the things that I'm talking about, either last year or next year and
+assume that they are a definitive closed list. We have done far more than we can possibly talk about in a
+reasonable time, but I'll give you a flavor of the main ones we've done. And we think -- what we saw is
+an acceleration of growth in both retail and online. I say acceleration of growth. Obviously, retail it was a
+decline in the rate of moving backwards but you can see both businesses improved but online improved
+much more. And we think that is in a large part, down to the changes that we've made.
+
+One of our advisers was very worried that in putting this graph in your pack, you would do the straight
+line extrapolation of Directory performance. Please don't do that. We're not intending that -- that line
+really shows a step-change rather than a progression. Don't straight line that forward. Just in terms of
+the projects that we've done. I just put sort of a list in your pack. You can see nextpay, a much more
+effective mobile site; NextUnlimited, where customers can sort of pay for all they eat with GBP 20 for free
+delivery for the rest of the year. International mobile sites, faster registration and check-out, intelligent
+recommendations, what is -- what we found fascinating about all these changes is that when you measure
+the return that each one of them gives us, it's tiny. You introduce it and you have kind of intelligent
+recommendations. And the people who get shown them versus those who don't increase their sales by
+0.2% or 0.3%.
+
+And when you look at the increase that we've got, it's much greater than any one of the initiatives has
+delivered on its own. And we think that there is a cumulative effect here. We think if you've got intelligent
+recommendations and faster checkout and you're showing a customer more relevant profit, and they
+can all return. Put all those things together, the sum total of all of them put together is greater than the
+individual benefits you get from each one of them because the whole shopping experience just becomes
+much easier.
+
+Looking forward, we've still got massive to do. In fact, we've got more to do than we can program. There
+is so much to do. Targeted marketing will be a big focus in the year ahead, using data that is all legitimate
+and required, in the right way, et cetera, et cetera. But in essence, we now have -- we've spent a lot of
+money last year developing a data marketing platform that combines all of the information that we know
+about our customers, including their recent browsing history, purchase history, average spend, where they
+live, demographic, all the rest of it with the information that we can get from Google when those people
+are searching and recognizable when they're going around the Internet. What that means is that we are
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+NEXT PLC FY 2018 EARNINGS CALL |  MAR 23, 2018
+
+able to make our digital marketing much more effective. So just to sort of explain the effect of this, this
+is a real case study. Here is a fictitious site, where we would bid for customers in that manner. The higher
+the bid, the more of the customers you get. Has 10 million customers a month. Put it in the past for this
+particular website, the demographics of those people looking at the website fall into 3 different categories,
+in terms of their propensity to buy NEXT's stock, low, medium and high. In the past, all we've been able
+to do is to bid for that group of people with 1 price. So we bid GBP 7 per 1,000. And as a result of that,
+what you can see is that you end up getting slightly worse mix of customers because you're paying the
+same for actually the best customers as the worst customers. Your best customers are reduced from 10 to
+7 that you see, and the low customers increase. And actually then, they remain the same. It's just sort of
+balance the medium and lower the changes. But it's those high customers where you get all the money.
+What we're able to do going forward is to bid different prices for each segment. So if we spend exactly
+the same amount of money but pay GBP 11 for the best customers, GBP 7 for the medium customers
+and GBP 3 for the low customers, what we have experienced is a significant improvement in the quality
+of the customers we get back without any increase in the cost of acquiring them. So you see, we get
+22% to the customers. That's your adverts are in the high category and that's the category that counts.
+In this particular example, that resulted in 12% more sales per advertising pound spent. And an uplift
+in the internal rate of return of the investment of 75%, so a very significant improvement in the rate of
+return on the investment in digital marketing. And it is the return on the marketing that drives the levels
+of investment we put into it.
+
+Another small initiative. We -- at the moment, we only have one credit offer, which is a traditional style
+account -- for younger newer customers, online-only customers, people who've never had a catalog. That
+-- those accounts seems rather old-fashioned and not relevant. We're introducing a product that we call
+three-step. It's a product that's available with various other online retailers. It's a very simple product. 3
+core payments: nothing to pay today, 3 equal payments, no interest to pay if you pay each installment off
+on-time. The cost of financing that is relatively low because it's a declining balance and we're borrowing
+money at relatively cheap rates. The cost of financing that is relatively low. And customers also have
+flexibility that if they don't want to pay off the full amount at any point, they can pay off the minimum
+payment. So let's say it's second payment, they pay half of it, the balance goes on to an interest-bearing
+account. So there will be some interest income from this, but the main purpose of it is to turn customers
+that we characterize as cash customers into behaving more like account customers, because we think that
+they -- the provision of an ability to spread their costs in a way that's relatively simple. And if they pay all
+of on time, has no cost to them, will drive additional sales and drive interest in an account in a customer
+group that simply isn't interested in an all-star mail order account. If that works, and there's a big if there,
+we will look at introducing that credit offer as a retail offer as well.
+
+Finally, product personalization. This is a business that we started. You all have seen this at Christmas.
+You all have received personalized gifts, with your name emblazoned on them. It is absolutely true. I've
+received -- over the holiday period, I received 3 identical cheeseboards, all with slightly different variations
+of my name and address on them. And I don't really like cheese but it's a -- I can tell you that it is a big
+trend in that product category that we ought to be in. It's all third-party suppliers. It's very easy for us to
+provide this service. We're providing -- it's just -- these are just web pages on our site. We estimate that
+we'll total around GBP 7 million in the year ahead, assuming that we don't move the product offer forward,
+which we hope to. The interesting thing about this product category is that it's all direct dispatch. It goes
+directly from the supplier to the manufacturer. And that's a problem because -- for 2 reasons. The first is
+that if a customer orders several different personalized items, they all go from different suppliers. And so
+the cost begins to ratchet up of the delivery cost. You just ratchet it up because you can't consolidate the
+orders. And if you go into other sites actually, the customer pays for those separate deliveries, so you can
+go on to -- on some sites, you can actually -- the customer end up paying 3 delivery costs on 1 basket,
+which is not the way we operate. It also means that we can't deliver to store. What we've worked out is
+that in the -- for these suppliers, every day, we will have a van that delivers next-day to store Directory
+orders to every single one of our stores. So when we looked at these suppliers, there aren't many of them.
+Almost all of them were within 2 miles of a reverse leg of one of those vans. So at very little cost, we can
+pick up their stock, and inject it into our network, which means we can send it directly to the customer
+which should reduce costs, possibly consolidate that stock with other similar stock or with their own held
+orders. And we can -- it opens it up for delivery to all of our network. So what we end up with is a much
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+NEXT PLC FY 2018 EARNINGS CALL |  MAR 23, 2018
+
+more sort of comprehensive network of stores. And I think this is a theme that we will be developing
+going forward, and is potentially important. And that is that -- when you look at all the projects that I
+talked about today and the ones that we haven't talked about today, a lot of them are about turning the
+stores into distribution points, whether it be distribution points for other third-party suppliers' products,
+for our own warehousing products, for product that is already in those stores, either to other stores or
+to customers at home, or to customers on the same day. What you can see is that we are beginning to
+build -- to treat the stores in a very simple way as a sort of distributed warehouse really, where you can
+order stock from any parts to any other. And going forward, we think that will become more and more
+important. And it's potentially a bit of a lifeline to retail businesses. And the thing that we hold onto is
+that still 50% of our orders, even after introducing NextUnlimited for our best customers, still 50% of
+orders, around 50% of orders are going to store. 80% of our returns come back to stores. So there's
+definitely a role for stores. Part of that role, we think, is joining them up and getting much better and
+much more effective use of the stock that we have already distributed around the country. And that is a
+theme that you will see us developing over the next few months. And I suppose I do take some courage
+and encouragement from the fact that a little known retailer in America has huge online, has just started
+to open shops, and we're way ahead of them.
+
+So if you like, that is the happy thought. So there we are, happy thoughts. The stores all won for their
+distributed network of -- sort of distributed warehousing and it's all wonderful. However, I don't think
+that we have lost our reason and that we haven't lost sight of the dark side, which we're fond of anyway
+because as effective as those stores may be as a distribution point for Directory stock and as distributed
+warehousing, they're very expensive. And what happens if we carry on seeing negative like-for-likes? We
+presented 6 months ago what we thought was a worst-case scenario of our stores declining at 6%. Since
+then, we've come in at minus 9.5% like-for-like in the last year. So that pessimistic scenario looks now
+slightly optimistic, and it was only for 10 years. So we've rerun the exercise using the same assumptions
+that we used last time and that is that we don't open any new stores. There's no additional profitable
+revenue from new stores, that unprofitable stores are closed, on lease expiry. That profitable stores --
+and the profitable stores are held over until such time as they become unprofitable, if they're anywhere
+near the negative level. So using those assumptions, we've walked forward at a minus 10% like-for-like
+scenario for 10 years. And in the tenth year, you can see that actually is a significant cost to the group,
+around minus GBP 74 million but we still accumulated GBP 300 million of cash. Take it forward another
+5 years, and you get sort of a good news and bad news effect. The good news is that actually you lose
+a huge number of the liabilities. So the ongoing cost of running a retail business is GBP 19 million rather
+than GBP 74 million, but the net cash that you've generated over those 15 years in your retail shops is
+only GBP 86 million.
+
+What that says to us is that whilst this, we think, is worst-case scenario, it doesn't account for a number
+of other profit revenue streams. First of all, we talked about the interest sales in retail. Those are actually
+-- although they're Directory profit, they are generated by the stores. Add that into the mix, you generate
+another -- you get the cumulative cash up to GBP 253 million. If you assume that in the stores that
+were new, we are able to get a 15% reduction in rent, which is 10% less than we're achieving at the
+moment, and in this scenario of minus 10% like-for-like for 15 years, we think that, that is a conservative
+assumption. Then that puts more cash in the tail. And most importantly, if you see any transfers of sales,
+if you look at the stores which are close to other stores and assume that where we shut them, we transfer
+our 15% to the retail sales. When we do it the other way around, if we open new stores, we tend to see
+cannibalization of between 20% and 25%. If you open a new store near an existing store, normally on
+average, 25% of the additional sales from the new store will come from an existing store. We've assumed
+reverse cannibalization of 15%. That gives you around GBP 431 million of cash over the next 15 years.
+And a year -- 15 drag on the business around minus 8%.
+
+There are 2 things also that this doesn't account for. It doesn't account for any concession income. You will
+see in the year just gone, we're adding GBP 5 million concession. In the year coming, we're adding GBP 5
+million of concession income, and it doesn't assume any gain from other retailers who are shutting shops.
+So we think that it's a relatively conservative model. It's not what we expect to happen but realistically,
+we think even in a minus 10% like-for-like scenario, we will generate around GBP 430 million of cash from
+the stores, be left with a negligible cost at the end of it. The big assumption we've made throughout all
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+NEXT PLC FY 2018 EARNINGS CALL |  MAR 23, 2018
+
+this model is that the fixed costs that are shared with Directory are paid for by Directory at -- and the
+assumption is that Directory online has grown as fast as the retail has declined in pound terms. Obviously,
+as time goes on and the retail business gets smaller, you only need a very small growth in the Directory to
+pay for the big decline in retail because the numbers become -- the numbers diverge. So we think that's
+a very conservative element. And I guess, the point we would make is that this is clearly a problem, one,
+a big source of revenue for us in this scenario, will dry up over the last 15 years. But it does not, in any
+way, detract from the value of our online business. So that -- it's not a lead weight around the neck of
+an online business and doesn't in any way, devalue it. And as long as we got stores open, actually having
+those stores enhances the value of the online business because we can deliver and return through them.
+
+So what feels like a very long presentation, we're just coming to the end now. This is the good bit. Looking
+at next year's forecasts, this is taking central guidance and making ridiculously accurate forecasts, the
+numbers we can't possibly know. So don't panic if one number is higher and the other one is lower. The
+best number is probably the 1% growth in group sales. But assuming that we get 10% growth online,
+7.5% decline in retail. In terms of what happens to profit, we would lose GBP 76 million of margin less
+variable cost saved in retail. If we were to match that number, we would gain GBP 66 million from full
+price Directory sales. So the structural gap in the year ahead is around -- remains around GBP 10 million.
+And in fact, we think, we'll take more online than we lose in-stores. That pushes it up to GBP 83 million.
+That is all at NEXT margins. We will lose some. We think that the cost of lost -- of margin erosion will be
+around GBP 23 million in the year ahead. Remember, it was GBP 30 million last year, so a better -- we
+think it will be better next year not because we won't grow our LABEL business but because we think we
+will get a lower decline -- or a better performance rather, in our NEXT branded business.
+Cost savings. Pretty much matching each other. We haven't got the big step-change in Directory
+expenditure this year. I should stress, we're not -- that step-change will remain, so we're not spending any
+less on Directory but we're not having another GBP 11 million increase in expenditure. Clearance rates. We
+are not expecting to decline in the year ahead. That may -- of all the things we're forecasting, that may
+prove to be the most optimistic because it may just be that sales actually are going out of fashion and that
+we still -- we see a continued loss of clearance sales. I think that's the area of vulnerability there. What
+that gives us is GBP 705 million of profit, growth in EPS of around 1.4%. I think, I again, I think that's
+important is that at a time of structural change, a time when retail is moving backwards, we still think
+-- on our central guidance, we still think we will be able to maintain our earnings per share, which is --
+means that on a straight sort of total shareholder value basis, we don't think our shares will be worth any
+less profit at the end of the year than they will be at the beginning of the year. We'll pay a dividend, which
+equates to 3.2% of GBP 48 share price. So the total return of growth in underlying profit per share and
+ordinary dividend yield with around a 4.6% return in the year ahead if we hit our central guidance. And
+whilst that is a long way off the best performances that NEXT has delivered over the years, we think in the
+current environment, with the challenges that we faced, that will be a reasonable result for the group.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+NEXT PLC FY 2018 EARNINGS CALL |  MAR 23, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+

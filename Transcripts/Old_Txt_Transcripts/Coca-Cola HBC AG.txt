@@ -1,0 +1,1422 @@
+Coca-Cola HBC AG LSE:CCH
+FY 2017 Earnings Call Transcripts
+Wednesday, February 14, 2018 9:00 AM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2017-
+
+-FQ1 2018-
+
+-FY 2017-
+
+-FY 2018-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+0.22
+
+-
+
+-
+
+0.28
+
+1.20
+
+1.23
+
+2.50
+
+1.37
+
+1486.00
+
+1486.60
+
+0.04
+
+-
+
+6506.78
+
+6522.00
+
+0.23
+
+6678.60
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: EUR
+Consensus as of  Feb-14-2018 8:19 AM GMT
+
+FY 2017
+
+CONSENSUS
+
+1.20
+
+ACTUAL
+
+1.23
+
+SURPRISE
+
+2.50 %
+
+- EPS NORMALIZED  -
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+10
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Basak Kotler
+Former Investor Relations Director
+
+Unknown Analyst
+
+Michalis Imellos
+Chief Financial Officer
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+ANALYSTS
+
+Andrew Holland
+Societe Generale Cross Asset
+Research
+
+Edward Brampton Mundy
+Jefferies LLC, Research Division
+
+Fernando Ferreira
+BofA Merrill Lynch, Research
+Division
+
+Komal Dhillon
+JP Morgan Chase & Co, Research
+Division
+
+Richard Felton
+Morgan Stanley, Research Division
+
+Sanjeet Aujla
+Crédit Suisse AG, Research
+Division
+
+Stamatios Draziotis
+Eurobank Equities Investment Firm
+S.A., Research Division
+
+Tristan van Strien
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+Presentation
+
+Operator
+
+Thank you for standing by, ladies and gentlemen, and welcome to Coca-Cola HBC's conference call for the
+2017 full year results.
+
+We have with us Mr. Zoran Bogdanovic, Chief Executive Officer; Mr. Michalis Imellos, Chief Financial
+Officer; and Ms. Basak Kotler, Investor Relations Director. [Operator Instructions] I must also advise that
+this conference is being recorded today, Wednesday, February 14, 2018.
+
+I'll now pass the floor to one of your speakers, Ms. Basak Kotler. Please go ahead.
+
+Basak Kotler
+Former Investor Relations Director
+
+Good morning. Thank you for joining our call today to discuss Coca-Cola Hellenic Bottling Company's
+results for 2017.
+
+Today, I'm joined by our Chief Executive Officer, Zoran Bogdanovic; and our Chief Financial Officer, Michalis
+Imellos. Following the presentation by Zoran and Michalis, we will open the floor to questions. [Operator
+Instructions]
+
+Before we get started, I would like to remind everyone that this conference call contains various forward-
+looking statements. These should be considered in conjunction with the cautionary statements on the
+screen. This information can also be viewed in our press release issued today.
+
+Now let me turn the call over to Zoran.
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+Thank you, Basak. Good morning, everyone, and thank you for joining our Full Year Results Call.
+
+I'm delighted to host my first full year results as CEO of Coca-Cola HBC. I will start by giving an overview
+of the year. Michalis will then take you through our financial performance before I discuss our operational
+performance and outlook for 2018.
+
+As you can see, I'm fortunate to have taken over a business in excellent shape. 2017 was an exceptional
+year for the company. We are delighted to have delivered strong growth in volume, revenue and margin,
+demonstrating significant progress towards our 2020 goals.
+
+Starting with the top line. FX-neutral revenue grew by 5.9% in the year, achieved through a good balance
+of volume and FX-neutral revenue per case. FX-neutral revenue per case grew strongly, up 3.6%, and
+faster than in 2016 due to better price, category and package mix in all segments. Volumes grew by 2.2%
+overall, with strong growth in the second half of the year. We grew across all segments, with particularly
+strong growth in our Emerging and Developing countries, despite a challenging operating environment
+in both Nigeria and Russia. EBIT margin increased substantially, up 120 basis points, as the result of
+our ongoing focus on revenue growth initiatives led by price increases and mix improvements. We were
+also helped by volume leverage, careful management of input costs and a small positive foreign currency
+impact.
+
+Comparable EPS was EUR 1.23, up 27% on the prior year.
+
+We increased our net capital expenditure spend by EUR 46 million in this period, focusing on revenue-
+generating opportunities in markets with high growth potential. This impacted our free cash flow, which
+declined marginally to EUR 426 million.
+
+Finally, our board is proposing a EUR 0.54 dividend per share, a 23% increase on the 2016 dividend.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+With that, I will turn the call over to Michalis.
+
+Michalis Imellos
+Chief Financial Officer
+
+Thank you, Zoran. Hello, everyone.
+
+In line with our practice, as I take you through our financial results for the full year, I will refer to
+comparable figures which exclude the impact of restructuring costs, the mark-to-market valuation impact
+of commodity hedges and specific nonrecurring items.
+
+Currency-neutral net sales revenue grew by 5.9% in the full year. On a reported basis, net sales revenue
+increased by 4.9%. In recent years, reported revenue growth has been considerably smaller than the
+currency-neutral one. In 2017, the stronger Russian ruble helped to minimize the currency impact.
+
+Volume growth of 2.2% was broad based across the segments and accelerated as the year progressed,
+with the second half delivering better volume expansion than the first half. We are pleased to see good
+momentum in our medium-sized and Emerging and Developing segment countries, while Nigeria and
+Russia produced flattish results in a challenging operating environment. Currency-neutral revenue per
+case grew in all segments as well, up 3.6% overall, with positive contributions from price, category and
+package mix.
+
+Gross profit margin improved by 90 basis points, helped by the significant price/mix improvement,
+operating leverage from volume growth as well as careful management of input costs and a small positive
+foreign currency impact. Operating expenses as a percentage of revenue improved by 30 basis points, a
+good performance driven by top line operating leverage. Comparable operating profit increased in the full
+year by 20% versus the prior year, and comparable operating profit margin expanded by 120 basis points.
+Better price/mix, combined with volume leverage, drove this excellent performance. We also managed our
+input costs carefully, taking advantage of certain windows of opportunity to prebuy PET resin, for instance.
+I will give you a bit more color in a few minutes.
+
+Currency impact was an EUR 8 million tailwind in the year due to the strong Russian ruble, which more
+than offset our other weaker currencies, mainly the Nigerian naira.
+
+Comparable earnings per share reached EUR 1.23, 27% higher than prior year, further helped by the
+improved financing costs year-on-year.
+
+Our working capital balance remained in a triple-digit negative territory. We generated strong free cash
+flow of EUR 426 million in the full year, down EUR 5 million year-on-year. Higher operating cash flow
+was offset by a EUR 46 million increase in net capital expenditure, as per our plans to invest in revenue-
+generating assets.
+
+Turning to the revenue performance, let me start by saying that we are very pleased with a balanced
+contribution from volume growth and price/mix improvements. It is also good to see that the growth is
+broad based across our markets.
+
+As I mentioned earlier, currency-neutral revenue per case improved substantially versus the prior year.
+Our successful commercial strategy and execution improved category and package mix in all segments.
+We also implemented significant pricing to offset adverse foreign currency movements, particularly in
+the Emerging segment. In our Established markets, currency-neutral revenue per case increased by
+0.7%. Good category and part mix were partially offset by adverse channel mix. In Developing markets,
+improved price, category and package mix led to a 2.7% increase in FX-neutral revenue per case.
+
+The Emerging markets saw a 6.9% improvement in currency-neutral revenue per case mostly as a result
+of price rises, which as I mentioned were deployed to offset currency headwinds. Category and package
+mix also contributed to the improvement, offsetting adverse channel mix.
+
+Turning to input cost. Currency-neutral input cost per case was up by 3.1% in the year. This is slightly
+better than the guidance that we gave in November. We had contracted EU sugar prices at favorable
+levels at the end of 2015, which proved successful. PET resin prices did increase as expected, but careful
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+management and certain well-timed prebuys by our procurement team ensured that we secured better
+pricing versus our plans.
+
+Turning to our OpEx performance. We have worked hard over the years to rightsize our operating cost
+base, and we continue to use our infrastructure effectively while we grow the top line. In the year, this
+resulted in comparable operating expenses reducing to 27.9% of revenue, a 30 basis point reduction
+compared to the prior year. Let me walk you through the key drivers: Reductions in administration and
+warehousing costs led to a 50 basis points improvement as a percentage of revenue. Sales and marketing
+expenses increased by 10 basis points. Direct marketing expense increased in absolute terms to support
+our new product and flavor launches and was stable as a percentage of revenue. We also incurred a
+significant one-off negative impact of 40 basis points driven mainly by a bad debt provision in Croatia
+and the investment we have made in redesigning the revenue growth management framework. As a
+result, we are pleased with the ongoing strong underlying performance of our OpEx as a percentage of
+revenue, especially in view of the growing sales and marketing investments that support our revenue
+growth management initiatives.
+
+Turning to the operating performance, we are reporting comparable operating profit of EUR 621 million
+in the year, EUR 103 million higher than in the prior year. This is a result of driving price/mix and
+volume while managing input and operating costs, enhanced by the absence of adverse net foreign
+exchange movements. Historically, currency movements have been a headwind to profitability, impacting
+predominantly the Emerging market segment. Let me provide you with some more color on the key
+drivers on a segmental basis.
+
+In Established markets, we benefited from volume growth, favorable price and product mix and lower
+operating expenses. These were only partially offset by the negative impact of higher input costs and
+adverse foreign exchange impact. In Developing markets, improved volume, price and mix only partly
+offset the impact of unfavorable input costs and higher operating expenses due to the bad debt provision
+in Croatia. Excluding the provision, the Developing segment EBIT grew year-on-year. The Emerging
+markets segment benefited from higher pricing, mainly in Nigeria, and higher sales volume, along with
+minimal net FX impact. These factors more than offset higher costs of goods sold and increased operating
+expenses.
+
+As far as restructuring is concerned, we incurred charges of EUR 29 million in the year, mostly in our
+Established and Emerging segments. Restructuring benefits in the year from 2016 and 2017 initiatives
+amounted to EUR 17 million. Looking ahead to 2018, we expect restructuring costs of approximately EUR
+11 million, with estimated annualized benefits of EUR 8 million from 2019 onwards. The savings in 2018
+from initiatives taken in 2017 and those that will be taken in 2018 are expected to reach EUR 7 million.
+
+Turning now to free cash flow. We generated EUR 426 million in the year, EUR 5 million less than in the
+prior year. Cash flow generation was supported by higher profits and good working capital management,
+while we increased net capital expenditure by EUR 46 million. We remained disciplined in our working
+capital management, sustainably delivering triple-digit negative balance. Our capital expenditure as a
+percentage of revenue came in at 5.8%, within our target range of 5.5% to 6.5% compared to 5.3%
+in the prior year. In 2017, we accelerated investments in revenue-generating assets to support the
+momentum in top line growth.
+
+Let me now touch upon the financing cost improvement in 2017.
+
+With the successful refinancing of a EUR 600 million November 2016 bond, our 2017 results show a dual
+benefit: a bond interest cost improvement of EUR 7.5 million per year and the cycling of certain new-issue
+costs and the extra interest incurred during the overlapping period in 2016. These one-off costs amounted
+to EUR 13.5 million. Overall, net financing costs for 2017 amounted to EUR 37 million, a reduction of EUR
+26 million compared to the prior year. Our net debt-to-comparable EBITDA ratio stood at 0.8x at the year-
+end.
+
+Before I conclude, let me walk you through our profit margin levers in the light of our 2017 results.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+Firstly, a reminder of the operating leverage formula. All else being equal, 1 percentage point of volume
+growth yields approximately 25 basis points of EBIT margin improvement, while 1 percentage point of
+revenue per case growth yields approximately 70 basis points of EBIT margin improvement. Applying
+this formula to our results, our 120 basis points EBIT margin expansion in the year can be explained as
+follows: 50 basis points of margin expansion from volume leverage based on the 2.2% volume growth in
+the year, 230 basis points expansion from revenue leverage based on the 3.6% growth in currency-neutral
+revenue per case in the year, 10 basis points expansion from our cost productivity initiatives, 100 basis
+points contraction from the combined impact of currency and input costs. Somewhat unusually this year,
+we also have a 70 basis points headwind from one-off costs, 30 basis points in cost of sales and 40 basis
+points in OpEx. These include a bad debt provision and our investment into the redesign of our revenue
+growth management framework.
+
+With that, let me now pass the floor to Zoran, who will take you through the operational performance for
+the year.
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+Thank you, Michalis.
+
+Overall, volume increased by 2.2%, an acceleration from the marginal expansion of 0.1% in the prior
+year. Additionally, all 3 segments delivered faster volume growth in the second half of 2017 compared to
+the first half. Furthermore, strong volume delivery from our markets such as Romania, Serbia, Ukraine,
+Hungary and the Czech Republic was an important component of overall volume growth. It is very pleasing
+to see these medium-size countries thrive as their economies develop. Nigeria and Russia had tough
+operating conditions in the year, although their economies are forecast to improve.
+
+Looking at the segments. In Established markets, volume grew by 1.1%, helped by a good summer. Water
+and Energy were the growth drivers, more than offsetting declines in Sparkling, Juice and ready-to-drink
+tea. Developing markets grew volumes by 2.8%, showing an acceleration in the second half mainly due
+to an acceleration of volume performance in Poland. Volume growth was driven by Sparkling, Energy and
+Juice, partially offset by declines in Water, ready-to-drink tea and sports drinks. In the Emerging markets,
+volume grew by 2.7%, with a strong growth in Ukraine, Romania and Serbia. Russia and Nigeria volumes
+declined marginally. All categories grew in this segment, apart from ready-to-drink tea.
+
+Looking at our performance by category. Our evolving sparkling beverages portfolio is proving popular
+with consumers. And we are seeing strong growth trends from new variants and flavor launches such as
+Coca-Cola Lime, Coca-Cola Zero Lemon, Sprite Cucumber, Schweppes Pomegranate and 8 new flavors of
+Fanta. As the result of our efforts, sparkling beverages volumes increased by 2.3% in the year, faster than
+1.2% growth rate we saw in 2016. All our marketing in the Developing and Emerging segments delivered
+volume growth in Sparkling, with the exception of Nigeria.
+
+In the Established markets, we are putting extra efforts behind lights and adult drinks. Therefore, seeing
+Coca-Cola Zero up by 14% and Schweppes up by 10% in this segment is very encouraging. Having said
+that, the decline in regular Coke is holding Sparkling volumes back in the Established segment. Within
+the Sparkling category and overall for the group, Trademark Coca-Cola increased by 2.7%, with a 22%
+increase in Coke Zero. We also saw a 5% uplift in Schweppes and 3% in Fanta. We are also seeing growth
+overall in our still drinks portfolio.
+
+Let me touch on the developments in the key categories. Water grew by 3% in the year, with growth in
+Established and Emerging segments and decline in Developing. Juice declined in the year by 0.8%, with
+mixed results in our markets. The Established segment declined, mainly driven by Ireland where the
+decision to reduce distribution of concentrated formula drinks impacted volumes negatively. Nigeria had
+a difficult year following price increases. On the other hand, Juice volume is back to growth in Russia.
+Energy continues to be a strategically important category for us, and we delivered another year of volume
+growth above 20%. Growth is supported by Monster, which increased volumes by 48.3%, including the
+launch in Nigeria, and 40.6% on an organic basis. Ready-to-drink tea remained weak in a -- with a decline
+of 7%. Romania, Hungary and Bulgaria, the countries where we will retain the Nestea brand, delivered
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+volume growth, while other countries were in decline in 2017. We launched the FUZE brand at the start of
+2018 in all of our markets, apart from Nigeria. The early indications from the markets are very good, and
+we believe that the new launch will revitalize the category in the coming years.
+
+Turning now to our performance by segment and focusing on some of the bigger countries.
+
+In our Established markets segment, volume was up by 1.1% in the year, mainly a result of Water and
+energy drinks. Sparkling, Juice and ready-to-drink tea were in decline. In Italy, volumes declined by 0.5
+percentage points. Excluding the impact of the delisting of the low-value Water brands, which impacted
+comparatives in the first quarter, volume in Italy would have been stable on the prior year. While full-sugar
+sparkling drinks have been under pressure for some time in Italy, our efforts in lights, adult drinks, single-
+serve packaging; and the hotels, restaurants and cafés channels are bearing fruit. For instance, Coke
+Zero, which now accounts for 16% of Trademark Coke in Italy, grew by 21% in the year.
+
+Volume in Greece grew by 6% in the full year, driven by Water, Sparkling and Energy. The good summer,
+a good tourist season and an improving retail market helped, although macroeconomic conditions are still
+challenging. Water continued its positive momentum, with growth in all 4 quarters. Low-calorie sparkling
+drinks grew, with growth in Coca-Cola Zero further helped by the launch of the new Coca-Cola with stevia
+and no calories. In Switzerland, volume declined marginally. Good performance in Water, growth in Coca-
+Cola Zero following the launch of the new 0-sugar formula and in Fanta with the slider bottle were not
+enough to offset declines in Coca-Cola regular and ready-to-drink tea.
+
+In addition to robust volume growth in Established markets, we achieved a 0.7% improvement in FX-
+neutral net sales revenue per case. Favorable price and product mix more than offset the unfavorable
+channel mix.
+
+In our Developing markets, volume grew by 2.8%, with an acceleration in the second half mainly due to
+acceleration of volume performance in Poland. Volume growth was driven by Sparkling, Energy and Juice,
+partially offset by declines in Water and ready-to-drink tea. In Poland, we started the year with specific
+commercial plans that will drive value faster than volume; as well as a significant pipeline of innovation in
+new variants, flavors and packaging. These initiatives improved FX-neutral revenue per case. And volumes
+picked up as the year progressed despite poor summer weather and a declining underlining NARTD
+market. We finished the year with 1.5% volume growth in 2017. And the very strong fourth quarter is
+extremely encouraging for 2018.
+
+In the Czech Republic, volume grew by 6%, with all categories growing except for Water. Sparkling
+delivered high single-digit growth driven by Coca-Cola regular, Coca-Cola Zero, Fanta and Sprite. Water
+declined by high single digits despite a flattish fourth quarter, while Energy continued to grow, driven by
+Monster. Hungary remains a strong market, where the consumer is very receptive to innovation. Volumes
+grew by 7% overall. Coca-Cola trademark grew by mid-single digits, led by double-digit growth in Coca-
+Cola Zero following the launch of the new formula and by growth in Coca-Cola regular. Fanta grew by
+double digits as well following the launch of the new Fanta slider bottle. Water grew by high single digits,
+helped by the good weather in the third quarter.
+
+Overall in the segment, favorable price, category and package mix resulted in a 2.7% increase in FX-
+neutral revenue per case.
+
+Volume in our Emerging markets grew by 2.7%, with strong growth in Ukraine, Romania and Serbia which
+more than offset the marginal declines in Russia and Nigeria. Volume in Russia declined by 0.3% for the
+full year, with positive momentum through the year culminating in a good fourth quarter. It is good to see
+that Trademark Coke was up mid-single digits, supported by Coke Zero which grew in the high teens. Mid-
+teens growth in Schweppes and mid-single-digit growth in Sprite also helped to achieve low single-digit
+growth in Sparkling overall. Water was weak, declining at a low double-digit rate boosted by a particularly
+poor summer weather and competitive pressure. Juice volume returned to growth after a couple of difficult
+years.
+
+Volumes in Nigeria declined by 1%. 3 price increases taken to offset the significant depreciation of the
+naira had an adverse impact on demand. We adjusted our PET package sizes to maintain price points
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+relevant to the consumer, which helped to maintain volumes. We have further PET package launches
+planned in Schweppes and juices. Stills grew mid-single digits, with high single-digit growth in Water but
+a double-digit decline in Juice. Volume in Romania grew by 6%, with strong results across all categories.
+Sparkling grew mid-single digits, with mid-single-digit growth in Trademark Coke and Fanta. Schweppes
+grew in the low teens. Stills grew high single digits, with mid-single-digit growth from Water and Juice.
+Ready-to-drink tea continues to do well, with mid-teens expansion.
+
+FX-neutral revenue per case grew by 6.9% in the period, in line with our strategy to implement pricing
+initiatives in markets facing inflationary pressures and currency headwinds. It is pleasing to see that both
+category and package mix also supported value.
+
+In closing. We are very pleased with our performance in 2017. We delivered another year of strong growth
+in profitability, and there is a good momentum in the business we can build on. Looking at 2018, we
+expect volume to continue to grow in all 3 segments, with the Emerging markets segment accelerating
+and Russia and Nigeria return to volume growth. Our revenue growth management initiatives which are
+designed to grow revenue faster than volume have gained momentum. We will also take pricing actions
+in markets impacted by foreign currency depreciation. With relative stability in Nigeria and Russia, the
+contribution from pricing actions is likely to slow down in 2018. Overall, we are confident we can continue
+to improve FX-neutral net sales revenue per case in the year.
+
+At current commodity price levels, input costs are expected to be a low single-digit headwind in the
+year mainly driven by resin. Taking into account our hedge positions and current spot rates, the adverse
+impact on EBIT from foreign currency is expected to be around EUR 30 million for the full year. Finally, our
+actions in cost management and the effect of top line operating leverage are expected to result in further
+reduction in operating expenses as a percentage of revenue, supporting another year of EBIT margin
+growth.
+With that, I will now hand over to the operator. And Michalis and I will take your questions.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+Question and Answer
+
+Operator
+
+[Operator Instructions] Our first question is from Sanjeet Aujla from Crédit Suisse in London.
+
+Sanjeet Aujla
+Crédit Suisse AG, Research Division
+
+My first question is really on your volume growth outlook. You sound pretty upbeat. Can you just elaborate
+a little bit more on what you're seeing which gives you the confidence? And are you anticipating volume
+acceleration at the group level in 2018? And in particular, you're losing Nestea, which is a bit of a
+headwind on your volumes in 2018. Can you elaborate on the early indicators on FUZE? And are you
+confident that the FUZE launch can offset the Nestea headwinds?
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+Thank you, Sanjeet. When it comes to volume outlook for 2018, we feel positive as we see that economies
+are showing slight improvements in the right direction across all markets. And for that reason, we expect
+volume to continue grow in all 3 segments. The underlying economic conditions are expected to be
+broadly similar. And on top of that, we have a strong pipeline of innovations and package launches. Now
+if I can give you some more detail on each segment: As I mentioned, we had a notable improvement in
+our volumes in the Established segment in 2017 compared to 2016. And as you'll remember, the summer
+volumes were particularly strong due to very good weather. This will present a difficult comparison for
+2018. Now we will work hard to repeat our 2017 volume performance in the Established segment. Now
+in the Developing segment, we do see ongoing good economic conditions. And with that background,
+we think that our teams can deliver an equally good year of volume growth. In the Emerging segment,
+where we delivered strong volume growth even though Russia and Nigeria saw marginal declines. Now
+we think that, in 2018, we will see a better performance from Russia and Nigeria, while a few markets
+such as Ukraine and Romania which delivered really exceptional volume growth in 2017 may see a slight
+slowdown, so overall we think that volume growth in the Emerging segment has room to accelerate. Now
+when it comes to the switch and launch of FUZE tea, we feel very excited having in the portfolio such a
+brand as FUZE tea, as it's a great-tasting product. It offers exciting and innovative flavor combinations. It
+is the fastest-growing billion-dollar brand from The Coca-Cola Company portfolio. And early signs from the
+launch from all of our markets are very encouraging. So with that, I remain quite confident that with the
+FUZE tea we will be able to reshape the iced tea category. Thank you.
+
+Sanjeet Aujla
+Crédit Suisse AG, Research Division
+
+My follow-up question is really on some of the investments that you've been putting through. Can you
+just elaborate on the -- in particular on the investments in the revenue growth initiatives, which were a
+margin headwind? What -- where exactly are those investments going? And also, on CapEx, can you just
+elaborate on the increasing CapEx? And is that the sort of new run rate we should think about given your
+faster top line growth?
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+Thank you. Now in particular with revenue growth management over the last 2 years, we've been stepping
+up quite a bit the way we do things, increasing our capability. And all of that resulted in the targeting
+initiatives that we have implemented last year and that we will continue this year and the years to come.
+This relates to the targeted focus behind our prioritized occasions; behind single-serve packages, which
+have higher value, as you know; behind the targeted channels where we are exploring where are the
+revenue pools that we want to go after. So also playing with the new categories, that is also part of our
+revenue growth management when it comes to category mix. So targeted actions which are focusing on
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+category, package mix, high-value products, occasions, adult propositions, these are some of the things
+that I would highlight as a part of our revenue growth management agenda. CapEx, as we mentioned,
+as you see, we have increased CapEx last year, which increased from 5.3% of revenue to 5.8%. And this
+increase of CapEx spending has been behind the revenue-generating activities. And one of the examples
+of that is our acceleration behind coolers, which we started last year but even more we will continue this
+year.
+
+Operator
+
+And the next question is from Richard Felton from Morgan Stanley in London.
+
+Richard Felton
+Morgan Stanley, Research Division
+
+First of all, on Nigeria, you mentioned in your pre-prepared remarks that you expect it to return to volume
+growth in FY '18. I was wondering if you could perhaps be a little more specific on that. Should we expect
+just a modest recovery or a return to the kind of growth rates that we saw in 2015 and 2016?
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+Thank you, Richard. Indeed we do expect Nigeria to come back to positive volume growth. Even in 2017,
+bearing in mind that we have done pricing in excess of 30%, delivering this minor decline in volume,
+we find that as a very good result. Now as the conditions in Nigeria have stabilized in the course and
+progressively in 2017, we need to remind ourselves that Nigeria stays our significant growth engine with
+demographic opportunity, urbanization. It's a country with low per capita, so it is a growth opportunity.
+And we have seen that, with our OBPPC strategy that we have executed last year and that we will
+continue doing this year, where we see more of our SKU or our package proliferation, that helps us to
+position our products at the magic price point which help us to capture the volume growth in the market
+that is there. To your point, which level of growth we would see, I would say that we see something in the
+low single digits. We have to also bear in mind that we will be cycling very strong Q1 last year. And that's
+why we do see that start of the year will be more soft. However, then progressively it is going to pick up
+and accelerate. Thank you.
+
+Richard Felton
+Morgan Stanley, Research Division
+
+And I'm sorry. My one follow-up question: In the Developing markets region, F '17 was obviously impacted
+by the bad debt provision in Croatia. You mentioned in your statement that, without that bad debt
+provision, EBIT would have been up year-on-year. Can you also say whether EBIT margin would have been
+up year-on-year?
+
+Michalis Imellos
+Chief Financial Officer
+
+Thanks, Richard. This is Michalis. So yes, absolute EBIT would have been up. EBIT margin would have
+been marginally down. And that's because we have in the Developing segment the biggest increase in
+terms of input cost per case currency neutral compared to the other 2 segments. So that had a negative
+impact on the margin. And in addition to that, we had in a couple of countries some significant increases
+in terms of the tariffs in logistics which have not been fully absorbed yet through revenue-growing actions.
+And also, we had some promo pressures which had an unusually higher impact in terms of the revenue
+per case and overall the margin. So a small decrease if you exclude the impact of the Croatian bad debt
+provision, very confident that we can resume margin growth in 2018 in Developing.
+
+Operator
+
+And we have a question from Stamatios Draziotis from Eurobank Equity Investments.
+
+Stamatios Draziotis
+Eurobank Equities Investment Firm S.A., Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+Three questions, if I may, please. Firstly, on the volume argument, just a follow-up mainly regarding
+Russia. Could you tell us, based on the research that you may have done, what sort of boost to volumes
+similar big football events have had in the past and the extent to which you expect this sort of a volume
+boost to materialize in Russia in 2018? Second question would be on -- sorry. Yes. Sorry.
+
+Basak Kotler
+Former Investor Relations Director
+
+Stam, it's Basak. Can I remind you and perhaps those who may have dialed-in late to the call that we
+suggest you ask your questions one at a time?
+
+Stamatios Draziotis
+Eurobank Equities Investment Firm S.A., Research Division
+
+Yes. Sorry. Sorry about that, Basak, yes...
+
+Basak Kotler
+Former Investor Relations Director
+
+Let us answer one question before you ask another. We will make sure the operator will keep your line
+open until we exhaust your questions. Thank you.
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+So thank you, Stam. So in Russia, we see that signs of economic recovery are continuing. You know what,
+so far, we have not seen growth in NARTD market. Last year, it was a low single-digit negative. And the
+summer weather was, in particular, poor in Russia last year. Now all of that makes underlying conditions
+difficult to judge. Our volume, to remind you, last year was like minor 0.3 down, almost flat. And the
+volume momentum in our business has improved through the year, so we really think that volume can
+return to growth in 2018. As also inflation levels can come down to healthy levels, that will allow for better
+balance between volume and price/mix. Now commenting on FIFA World Cup: Rightly so, and we are
+very happy that this event is happening in one of our territories. Now the world cup as such gives us the
+opportunity and the assets do lots of brand building and in-store activation where we work closely with
+The Coca-Cola Company. Now we view these properties as long-term investments rather than a pure
+volume booster for the year of the event because, after all, you know that the event only lasts a month.
+So bottom line is that we do see that this event is going to make an impact in Russia, not only for this
+year where the impact might not be huge and is not going to be the sole driver of the growth in Russia.
+However, it will have a certain impact, for sure, but we also see that as an important impact for the years,
+for the next years to come. Thank you.
+
+Stamatios Draziotis
+Eurobank Equities Investment Firm S.A., Research Division
+
+That's very clear. Secondly, just on price/mix, which you are basically saying you expect to register a
+further improvement in 2018. If you could just comment on the drivers of that, namely pricing and mix;
+and just if you could just focus primarily on channel mix and where you expect improvements mainly in
+Established and Emerging markets, please.
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+Thanks. Now for price/mix outlook for 2018, well, first of all, in the Established, as you know, we've seen
+a good progress on the FX-neutral NSR per case expansion in '17 where we were up 0.7%, with even
+better second half. Now this has been driven by better promo effectiveness as inflation improves; positive
+package mix and category mix, which was aided by our RGM initiatives, which I talked about earlier, and
+negative channel mix. Now the outlook here in this segment, where we are seeing better momentum, is
+that some of our revenue growth management initiatives will play a role. And with a supportive macro
+backdrop, we think that we can maintain this improving trend and deliver a bit more FX-neutral NSR
+per case growth in '18. In the Developing, where we've seen a slowing down of FX-neutral NSR per case
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+expansion throughout 2017, and this was, as you might heard before, when we finalized our half 1 actions
+in Poland, this was driven by better category and package mix, also aided by our RGM initiatives. Here
+we had also worse channel mix. So the outlook, we do not expect this moderating trend in price/mix to
+continue. And we think that -- for 2018, we think we will see slightly better FX NSR per case. Lastly, in the
+Emerging, price/mix has moderated in the second half of '17, as we have cycled the price increase taken
+in Russia in Q2 of 2016. The majority of the increase has come from pricing in Nigeria. Positive category
+mix also helped us, while package mix has deteriorated. Outlook in this segment is that we will see a
+slowdown in the pace of NSR per case FX-neutral growth which is driven by a slowdown in Nigeria and
+Russia as we cycle the price increases taken in Nigeria and as we continue to experience a lower level of
+inflation in Russia. Now in particular to the channel mix impact that you asked, we do not expect that this
+channel mix is going to be better in the future. And it's going to be in the dynamic as it is, as we've seen it
+so far. Thank you.
+
+Stamatios Draziotis
+Eurobank Equities Investment Firm S.A., Research Division
+
+And my last question would be on your balance sheet and your -- if I can say, your re-leveraging options.
+Assuming -- yes, assuming there is no transformational M&A, which you obviously cannot comment on,
+I'm just wondering. What sort of leverage do you intend to target? Would you want to go to the high end
+of the previously guided range through a special dividend distribution, for example? Or do you intend to
+-- would you intend to keep some headroom, anyway, so that you can use it for bolt-on acquisitions in the
+future?
+
+Michalis Imellos
+Chief Financial Officer
+
+Stam, it's Michalis. It's too early really to say exactly where in the range we might consider going to. It
+will depend also on the timing; what other opportunities on bolt-on acquisitions, as you mentioned, exist
+at the time. So really there will be a decision we will be taking and considering as and when we reach that
+point.
+
+Operator
+
+And the next question is from Edward Mundy from Jefferies in London.
+
+Edward Brampton Mundy
+Jefferies LLC, Research Division
+
+My first question is around the EUR 30 million of adverse currency impact for 2018. Are you able to split
+up the difference in the translation and transaction within that?
+
+Michalis Imellos
+Chief Financial Officer
+
+Ed, it's Michalis. So yes, first of all, the EUR 30 million is based on the current level of spot rates for the
+major currencies. And looking at things historically, we have seen a significant hit from FX in the last
+couple of years before '17, I mean. So 2015, it was EUR 174 million. 2016, it was EUR 101 million. We had
+the positive impact in '17. I think now we are getting more towards a more normalized situation where we
+will have some normal currency depreciation. The EUR 30 million is driven primarily by 2 countries, and
+that's Nigeria and Russia. In Nigeria we have a stable situation, I would say, now with the currency. So
+the naira to the dollar being at around NGN 360, it generates the biggest, I would say, negative impact
+for 2018 but not so dramatic. It's the ruble which is interesting in the sense that the spot rate against the
+dollar is pretty much flat versus 2017. So from a transactional impact perspective, that generates probably
+a muted impact, whereas due to the strengthening of the euro against the dollar, the gross rate is very
+high. And therefore, the euro to the ruble is significantly weaker than last year, and that is going to have
+a bigger impact on translation. So overall, for this EUR 30 million next year, we'll see that potentially 2/3
+are going to be translational impact and 1/3 is going to be transactional, considering all the hedges that
+we have already in place and, as I said, the current spot rates. We are in a good place with regard to the
+coverage of ruble to the dollar, around 60%. We are already hedged at good rates, whereas euro to the
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+ruble, we are only 33%, exactly because the window has not been favorable due to the strength of the
+euro against the dollar.
+
+Edward Brampton Mundy
+Jefferies LLC, Research Division
+
+Great. My second question is looking at Slide 14, where you give a very helpful breakdown. If I do a
+similar of the margin bridge, if I do a similar analysis for 2018 with your starting margin of 9.5%, to that
+you should add the one-off costs of 0.7. It seems like the volumes should be at least as good, if not better,
+so you'll probably get another 50 bps. And from a revenue perspective, it sounds like it's going to be
+slightly weaker as the Emerging markets come off a little bit but assuming you may well get another 150
+bps. FX is broadly similar from an input cost perspective. And you just flagged that EUR 10 million of the
+EUR 30 million is transactional, for a sort of 15 bps. It does feel like you're going to be bashing through
+your 11% margin quite comfortably in 2018. Am I missing anything on that?
+
+Michalis Imellos
+Chief Financial Officer
+
+Okay, so first of all, let me start with the one-offs that you mentioned. With the exception of the bad debt
+provision in Croatia, all the rest are items that we expect to see also in 2018. For example, the revenue
+growth management investments, Zoran mentioned also earlier that we will continue to invest behind
+them because they support the accelerated growth in the top line. So this go hand in hand. We highlighted
+them in 2017 because we didn't have these investments in 2016 and they were relevant in the bridge
+so that you can understand the evolution of the margin. So that's one. So we will have a significant part
+of that built in the margin evolution also in '18. When it comes to volume and revenue, as Zoran was
+saying earlier, we are looking at potentially a rebalancing with some acceleration of the volume growth
+compared to '17 and some potentially small slowdown in the revenue per case currency-neutral growth
+compared to '17 again. So that means that, because there is 1 to 3 in terms of impact, in terms of the
+factors and the contributions in the EBIT margin growth, overall this impact will be a little bit weaker
+than the positive impact we saw in 2017. And then you have the input costs, which are still growing but
+potentially at half the pace than that in 2017, and FX based on the current spot rates being the EUR 30
+million impact. So with that -- and also, if you consider looking at it from a completely different angle, that
+the 120 basis points growth in 2017 incorporates what I would consider an exceptional positive impact
+from the ruble. And if you look at the combined effect of this positive FX impact from the ruble and the
+fact that we slowed down dramatically the pricing that we took in Russia compared to our original plans
+exactly because the currency was helping quite a lot, I would say that the combined impact, without this
+being extremely scientific, is probably around 50 basis points. So out of the 120, I will say that 50 basis
+points is, if you like, the exceptional performance of the ruble in 2017. So that gives you a little bit of
+guidance as to which way we expect a normal EBIT margin progression to be in 2018.
+
+Edward Brampton Mundy
+Jefferies LLC, Research Division
+
+Okay. And my final question is for Zoran. At the 2016 investor event, you presented on value growth, from
+recollection. And you say you're very fortunate to take over a business performing well. Where do you see
+the biggest opportunities for Coke Hellenic as we stand today?
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+Thank you, Ed. Well, there are a couple of things I would like to say on this question. And this gives
+me the opportunity just to say that I, first of all, feel very privileged and delighted to have taken over a
+business which is in excellent shape and has a growth momentum, as it is witnessed by the set of results
+that we are presenting today. Our strategy is clear and fully understood and endorsed by our people, who
+are actually driving its successful execution and implementation. Being part of the company for quite some
+time, I was also part of the team that has worked on the creation of our strategic plan. And I strongly
+believe our strategic choices are the right ones to help us drive sustainable growth. If I may just say that
+also the period ahead of us I see as a period of continuity and evolution. And like any successful company
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+that aspires to improve every single day, we will continue evolving our capacity and capability to deliver
+sustainable, profitable growth. And I feel quite optimistic and excited about the future because there are
+limitless possibilities that are ahead of us. We are evolving as a total beverage company. And that gives
+us the opportunity to provide and serve to consumers, shoppers a beverage range that satisfies the needs
+across full 24/7 during the day. In many, in a number of categories, we don't have a leading position. In a
+number of occasions, we are at a lower end, so there are lots of revenue pools out there that are ahead of
+us to tap into. And actually it's a matter of our prioritization and excitement how to channel it and smartly
+drive it forward because the opportunities are enormous. And that's why these are some of the top things
+that I would tell you where I see the opportunities to create value are.
+
+Operator
+
+And we have a question from Fernando Ferreira from Bank of America Merrill Lynch in London.
+
+Fernando Ferreira
+BofA Merrill Lynch, Research Division
+
+I have 2 questions, please. First one, on your very strong performance from your innovation, right, as you
+recall, do you have -- can you give us a number of what percentage of your growth is coming from your
+new products in the last 12 or 24 months?
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+Thank you, Fernando. Now very short answer is that a big majority of our growth is actually coming from
+a variety of innovations that we have done last year, whether that's various reformulations, new flavor
+variants, whether that's new packages. So all of that -- well, a big majority of our growth is driven by
+these innovations.
+
+Fernando Ferreira
+BofA Merrill Lynch, Research Division
+
+And the Energy segment and particularly Monster, how relevant is that of your sales today, that segment
+and the brand specifically?
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+Today, this part is around 1% of our total volume. We find it very important because, while it is 1% of the
+volume, it is 2% of the revenue. And that also shows importance of it for value creation. And that's one of
+the pillars in our strategy where we communicate how we drive value, so very relevant category. We are
+very passionate about it, happy with the portfolio range we have. And we only see that with this category
+we will be growing and driving more value in the years to come. Thank you.
+
+Fernando Ferreira
+BofA Merrill Lynch, Research Division
+
+Great. Maybe just one last question, if I may, going back to the margin discussion but thinking it about
+more from a regional perspective, right? I mean all of your margin expansion came from EM last year. And
+as you saw this unusual benefit, right, from FX, do you expect a more balanced margin expansion within
+your regions thinking about this year?
+
+Michalis Imellos
+Chief Financial Officer
+
+Yes, Fernando. It's Michalis. So indeed we saw in 2017 significantly all the margin expansion coming
+from the Emerging. That's very normal because, with Russia and Nigeria going through very challenging
+macro situation in the last 2 to 3 years, we had lost ground there, and also in some of the other emerging
+countries closely linked to the -- to particularly the Russian economy. So going forward, it's also normal to
+expect that this is the segment where we expect the lion's share of the margin expansion to come from.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+In Established we have already reached a level of margin which is above 10%, and we have stabilized
+quite well there. This is a good level of margin for this type of markets. And therefore, we will continue
+to work towards expansion of margin in Established, although we don't expect that we will see significant
+movements in this particular segment. Developing has a little bit more room to grow. We had also the
+bad debt provision that affected the performance in '17. So we do expect also developing to continue to
+contribute. However, Emerging will continue to be the lion's share of the growth.
+
+Operator
+
+And we have a question from Andrew Holland from Societe Generale, London.
+
+Andrew Holland
+Societe Generale Cross Asset Research
+
+I've got two, possibly three, so let's start off with the first one. Could you actually tell us how big this
+Croatian bad debt is? Because with the various clues you're giving us, I'm getting various, different,
+slightly conflicting numbers. So it would be quite helpful if you could just tell us how big that bad debt is,
+please.
+
+Michalis Imellos
+Chief Financial Officer
+
+[ Andy ], it's Michalis. I wouldn't like to give a figure. It's quite a sensitive piece of information, particularly
+for the local markets, so we will not be giving a specific number.
+
+Andrew Holland
+Societe Generale Cross Asset Research
+
+Okay. So does that suggest I heard it wrong when I thought I heard you say that it accounted for 40 basis
+points of margin erosion? Have I got that wrong?
+
+Michalis Imellos
+Chief Financial Officer
+
+40 basis points was the total OpEx one-off, so investments in revenue growth management, some
+other items that were going on and the bad debt provision. So it's not 40 basis points of the total group
+revenue.
+
+Andrew Holland
+Societe Generale Cross Asset Research
+
+Okay, that's clearer, although not quite there. Second question, actually arising from the last one: You
+say that the 10% margin you're getting in Established markets is a pretty good level. And your other
+European bottler competitor CCP looks like it's heading more for about a 13% margin across its equivalent
+territories, if we think of them in that way. So are you saying that you can't sort of move that 10% up
+further?
+
+Michalis Imellos
+Chief Financial Officer
+
+We can move the 10% further, not to the tune of 13% or those figures that you mentioned. We have
+some specific structural differences with the countries that you are mentioning and you are benchmarking
+against. It's completely different level of per capita consumption, completely different level of revenue
+per case as an absolute. It's -- and these 2 factors drive a much more efficient supply chain structure and
+overall cost. So we will -- as I said earlier, we will continue to grow Established margins but not to the
+tune of those countries that you just mentioned.
+
+Andrew Holland
+Societe Generale Cross Asset Research
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+Okay. And just a final one, just on pricing prospects for 2018 in Nigeria. I mean you say that the naira
+has sort of stabilized. I think it took a bit of a lurch down towards the end of 2017. Presumably your
+anticipated volume performance and pricing performance takes account of that, as it feels like you might
+need more pricing than perhaps you might have thought a few months ago in Nigeria if you're going to
+recover that latest currency devaluation.
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+Thank you, Andrew. So starting point, to say that from Q4 of '16 and then through January and then
+April price increases we have taken more than a 30% price increase. We said that inflation, which is our
+important compass when we make pricing decisions, is going to be mid-teens. We equally stay alert to
+constantly pulse the market and monitor dynamic competitively what is going on. And understanding
+that today we have quite some price premium versus the competition, we have certain thoughts what
+we want to do in the course of the year. It's still early to say. However, I can say that, over the years or
+beginning of January, we have done like a small, single-digit smart pricing in Nigeria, which shows that,
+whenever we see the opportunity, we react to it because we are committed to our value creation and not
+value destruction. And now in the course of the year, as I said, we have some thoughts. It's still early. I
+mentioned earlier on my previous answer that with our OBPPC strategy and a bigger package proliferation
+we see the opportunity to do a balanced way of driving volume as well as price/mix.
+
+Operator
+
+And we have a question from [ Peter Osowitz ] from [indiscernible] in London.
+
+Unknown Analyst
+
+Just starting with Russia and Nigeria, so the markets where we have seen the most of movement in the
+last years. Can you please give us a bit more color on how you have seen volume performance in those 2
+geographies? And how do you see 2018 starting, and how would you envisage for the full year?
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+Thank you, [ Piedro ]. So as we said, both for Russia and Nigeria we see and our outlook is that these
+2 countries will come back into a positive volume growth area. With the signs of economic recovery,
+we take that into account. That's an important element in both of the markets; on top of that, with all
+the initiatives, revenue growth management plans, marketing plans. Example is -- also is that why I
+talked earlier about FIFA World Cup importance for Russia. However, this doesn't play only a role in
+Russia itself because Nigeria is also a good example of a country where we make a good leverage of such
+property. One of the big passions of that country is football. Together with Coca-Cola Company, we are a
+proud sponsor of the national football team. And it is obvious that we will be leveraging that also in our
+marketing and activation calendar in the course of this year as we go forward. So also, another reason
+for confidence is that in both countries we have a level of innovation that we started doing last year and,
+especially this year, we will be doing more as a part of the overall umbrella in which and -- 2018 is going
+to be a strong innovation pipeline year for Coca-Cola Hellenic, probably strongest ever. And that's I believe
+and I hope that gives you more color on where we are sourcing our belief. Thank you.
+
+Unknown Analyst
+
+Have you seen any of this happening either in Q4 or in January and February looking at the -- how the
+market is performing now?
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+Yes. We mentioned earlier that we were very encouraged with Q4 performance of Russia. And that gave us
+also the signs and reasons for belief that Russia is going to have a good 2018. In Nigeria, realistically we
+have to be fair to say that, end of last year and Q1 of this year, we are cycling strong performance of last
+year, knowing that we are cycling that with a sizable price premium versus the market. That's why we see
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+that it's going to be a softer start but definitely with a strong positive outlook as we move forward in the
+year.
+
+Unknown Analyst
+
+Okay. And so in Russia and also to some extent in Nigeria, do you -- to -- in order for you to capture this
+growth, what's the level of CapEx or merchandising spend? Or do you need to do anything to capture this
+growth?
+
+Michalis Imellos
+Chief Financial Officer
+
+Yes. [ Piedro ], this is Michalis. So as we were saying earlier, we are accelerating our revenue-generating
+assets -- investment in those revenue-generating assets and both in Russia and in Nigeria. In Russia,
+there is more -- this is more towards accelerated placement of coolers. In Nigeria, we are looking not only
+the opportunities where we can increase capacity, particularly in PET lines, because the market is moving
+very quickly towards this part. And as we -- as you saw in 2017, we had a significant acceleration of the
+CapEx as percent of revenue, considering also that revenue is growing quite fast. And we will continue
+with further acceleration of CapEx as percent of revenue also in '18, driven by Russia and Nigeria.
+
+Unknown Analyst
+
+Yes, just following up on this: You mentioned coolers, but when I look at your cooler expense, I mean,
+they seem to be much lower in the second half of this year. So it seem that -- it seems like you have spent
+more in the first half than in 2016, while in second half your cooler expense was about 20%, 25% down.
+So help me reconcile this because it doesn't really -- it's not -- it doesn't really sound to be in line with
+your strategy of spending more for revenue-generating assets.
+
+Michalis Imellos
+Chief Financial Officer
+
+Yes, you can't look at the phasing within a year. It's really not indicative. You need to look at whole years
+only and because the phasing of orders and when exactly the payments are taking place is not indicative
+in terms of [indiscernible] by half years or quarters.
+
+Unknown Analyst
+
+Okay, so overall we should be looking at you spending more on coolers or on CapEx in general in 2018.
+Can you give us the -- roughly the CapEx guidance for whole 2018?
+
+Michalis Imellos
+Chief Financial Officer
+
+There is an acceleration. We had acceleration in 2017 overall from 5.3% to 5.8% in the total CapEx. And
+we will be north of 6%, as our expectation also in 2018.
+
+Unknown Analyst
+
+Okay. And lastly, to wrap up on Russia: How much of growth do we expect? I mean, should we -- because
+now you are about 15% below the 2014 peak in terms of volumes. So should we expect that you will be
+going back to 2014, 2015 levels? Or that will stabilize somewhere lower.
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+Thank you. So briefly: Our expectation is that Russia would be low to mid-single digit for the year.
+
+Unknown Analyst
+
+Okay. And do you see this -- if you go beyond this year, do you see this, that the volume is coming back to
+where they used to be at the peak? Or there are some reasons for them to be lower.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+Look, it takes -- the recovery, it takes a bit of time, especially because the recent crisis et cetera was not
+an easy one. So definitely we see that -- year by year, with current visibility that we have of Russia, it's
+that it is going to be continue growing and -- but it's just going to take -- it's going to be a paced growth.
+
+Unknown Analyst
+
+Okay. And just my last question was on the -- on sugar prices. You have mentioned that you managed to
+lock-in the 2015 prices in, but looking at sugar performance, we've had some high prices in 2016. Then
+2017 was much weaker. 2018 seems to be shaping up -- I'm talking about sugar, seems to be shaping up
+even lower than 2017. Can you discuss, like, how long your sugar prices are locked in now and whether
+you are going to benefit from the lower sugar prices? And maybe you can talk a bit about your sugar
+sourcing strategy.
+
+Michalis Imellos
+Chief Financial Officer
+
+Okay, so the view is exactly as you mentioned. For 2018, this low single-digit increase overall in the input
+cost is going to be driven by sugar, both the EU sugar and the world sugar. So specifically on the world
+sugar, to your question, we expect a high single-digit decline in 2018 compared to '17. And we have good
+visibility on that because we are fully covered in Russia, and we are more than 70% covered in Nigeria
+already. So we feel quite confident about this outlook. Same with EU sugar, where the abolition of the
+quota regime in the European Union and also the oversupply generally in the market has helped us to
+lock into contracts for 2018 and 2019, to that matter, at prices that are high single-digit down compared
+to 2017. So some strong benefits in the input costs expected from sugar. The flip side of this is in resin,
+where we expect a high single-digit increase which is driven both by the higher oil price environment
+and also the fact that the resin market is experiencing a tight demand situation, so an increased demand
+situation. So high single-digit increase. And just to conclude the picture in terms of 2018 input costs:
+When it comes to aluminium, for 2018 we are more than 50% covered already at good rates compared
+to '17, so even with the increased spot rate that we experience, we expect that, considering all these, the
+hedged, the non-hedged exposures, we will be flattish versus 2017. And all this drives in total the input
+cost per case currency neutral for '18 to low single-digit increase.
+
+Unknown Analyst
+
+Okay, so on the sugar front, do you expect to benefit from those lower contracts starting January? Or that
+will kick in later in the year.
+
+Michalis Imellos
+Chief Financial Officer
+
+Yes, starting January.
+
+Unknown Analyst
+
+Okay, perfect. And just to understand: I know that, of course, you don't disclose the exact number, but
+should we think about your contracted sugar prices somewhere around the current spot or just a little bit
+above those? I mean, the current spot state, there will be further benefits to you in 2019.
+
+Michalis Imellos
+Chief Financial Officer
+
+Without going into too much detail, let's stay at the level that the sugar costs that we will experience on a
+per-case basis currency neutral will be high single-digit down compared to the costs that we experienced
+as a group in 2017.
+
+Unknown Analyst
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+Okay, so that would look like there's a further benefit in 2019. Is that fair, assuming that the current spot
+persists.
+
+Basak Kotler
+Former Investor Relations Director
+
+[ Pietr ], I think this is getting into a lot of detail that we can best handle on the phone. Shall I give you a
+call after this analysts call? And we can look into the numbers you're wanting to get the detail on.
+
+Unknown Analyst
+
+That's okay. Let's do it.
+
+Operator
+
+And we have a question from Tristan van Strien from Redburn.
+
+Tristan van Strien
+
+A few from my side. The first one, just on your key accounts modern trade just looking at the year ahead,
+are there any risks for delisting that you see currently? And secondly, are you -- within that, are you able
+to fully implement your Easter programs in markets like Poland and Italy? Or is there anything that will
+prevent you from doing that at the moment?
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+Thank you, Tristan. We don't see anything on our radar screen which would show the risk of any delisting
+or as you referred to and equally also no obstacle in activating and executing our Easter plans across all of
+our markets, so we are heading in fully ready.
+
+Tristan van Strien
+
+Good stuff. Just secondly, in Nigeria, is it safe to assume you made a profit this year?
+
+Michalis Imellos
+Chief Financial Officer
+
+Tristan, as you know -- this is Michalis. We don't disclose profitability by market, but everything you heard,
+I hope, points to the fact that it was a good year in Nigeria.
+
+Tristan van Strien
+
+Got it. And just lastly, the -- all the revenue management initiatives seem to have really worked for you
+the last few years, but now I should say it's taken a few one-offs as you're making a few changes, so what
+exactly -- maybe give a bit more color. So what do you feel that needs to change going forward? And I
+assume the one-off costs are purely consultancy fees. Or is there anything more structural that needs a bit
+of investment behind your new RGM program?
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+This was a conscious choice and effort and approach to step up our capability, as we have recognized that
+it is something that we need to improve. And that's why, over the last 2 years, we started, we had a -- we
+started with a rollout in '17. We continued that in the course of '18. And as for any capability development,
+that means people, profiles, skills, tools, all of that requires investment to set it up and elevate it. We
+have also done with the expert help that has helped us through the process. So that has been what -- the
+background of what has been driving our investment. And as Michalis also reiterated earlier, we see that
+as an important investment for our future growth and how we fuel it. Thank you.
+
+Operator
+
+And the final question we have coming through is from Komal Dhillon from JPMorgan in London.
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+Komal Dhillon
+JP Morgan Chase & Co, Research Division
+
+Just 2 questions from me, please. The first one is a sort of follow-up on the revenue management
+strategy, just checking. So obviously you've had a very successful OBPPC strategy that you've deployed
+over many years, so I'm just curious to know what exactly the difference is with this new strategy; and
+also from that, an idea of how much incremental improvement we can expect on mix going forward. That's
+the first one, please.
+
+Zoran Bogdanovic
+CEO & Executive Director
+
+Thank you, Komal. The truth is revenue growth management has been always there and present;
+and as a part of it, our OBPPC. Now we also recognize that in every one of our markets we see the
+opportunities how we really evolve it, how we make it more sharp and specific to really address the
+prioritized opportunities. And a part of the RGM process and the way we do it is to recognize very
+concretely where we want to play in the market. And then second part is how we want to play it and how
+we then commercialize it, so that means that we might have paid more attention to specific occasions in
+certain territories in a new way, in a stepped-up way. Maybe we pay attention to occasions that we didn't
+pay attention to, so far. The -- for example, socializing away from home or socializing at home in some
+markets have been on a lower level or hasn't been part of the focus. Also, in some of the markets, as a
+conscious way going forward or what we started doing is paying more dedicated focus and drive behind
+single-serves, as we also see that in a number of our markets there is opportunity to do that. Now that
+requires new set of actions and initiatives. So I hope these are some of the examples that give you more
+flavor what that really means. When you say what is the exact impact, look, I can't put exact number on
+it, but it's an ingredient in the whole meal, if you will, which contributes to drive of our price and mix; and
+which has elements of category mix, package mix that we will drive. Of course, part of the RGM is also
+pricing, for which we are ready to take it whenever there is opportunity to do it. So we said that we see
+the opportunity that our price/mix improvement in the years is between 2% and 3% over years, and RGM
+is just an integral part of that. Thank you.
+
+Komal Dhillon
+JP Morgan Chase & Co, Research Division
+
+No, that's very helpful. And then just a second and last question from my side, on leverage. So obviously
+your balance sheet is quite ungeared now, 0.8x net debt-EBITDA. How should we be thinking about capital
+deployment and then the time line of that, please?
+
+Michalis Imellos
+Chief Financial Officer
+
+Yes, Komal, so as we have said in the past, the position hasn't changed. We obviously look for, first of all,
+to invest in the business. We are accelerating the level of CapEx investment behind revenue-generating
+activities and assets; from then on, bolt-on acquisitions for locally relevant brands in the stills area,
+basically Water and Juice. And we are very actively looking for such opportunities. Now you know we
+cannot do extensive buybacks because of the level of free float, so for us to optimize the balance sheet
+in the absence of any transformational M&A, it would be a special dividend. Now exactly the timing,
+we cannot comment right now. However, as and when the time comes, as I was saying earlier with an
+earlier question, we will assess where we are at that point. We have a range of 1.5x to 2x of net debt-
+to-comparable EBITDA gearing ratio, where we want to be in the long term. And therefore, with these
+parameters in mind and what potentially is the landscape of any potential bolt-on acquisitions, we will
+make a decision around a potential special dividend.
+
+Operator
+
+We have no further questions, so I'll hand you back to Mr. Zoran Bogdanovic to conclude the call. Thank
+you.
+
+Zoran Bogdanovic
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+CEO & Executive Director
+
+Thank you, operator.
+
+I want to thank you for joining us today and for all your questions that facilitated a good discussion, so
+thank you very much. I will leave you with the following thoughts: We are very pleased to be delivering
+well against our 2020 strategic plan. The progress we have made is a testament to the dedication
+of our people to a strategy they understand and drive. Looking forward, we are confident that the
+unique strengths of our business, combined with our proven strategy, position us well towards our 2020
+objectives.
+
+Thank you, and we look forward to speaking with you again. Thank you.
+
+Operator
+Ladies and gentlemen, thank you for joining today's conference. You may now replace your handsets.
+Thank you.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+COCA-COLA HBC AG FY 2017 EARNINGS CALL |  FEB 14, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+23
+
+

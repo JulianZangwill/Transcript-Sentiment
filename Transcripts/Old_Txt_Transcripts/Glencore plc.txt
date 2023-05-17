@@ -1,0 +1,1616 @@
+Glencore plc LSE:GLEN
+FY 2017 Earnings Call Transcripts
+Wednesday, February 21, 2018 8:00 AM GMT
+S&P Global Market Intelligence Estimates
+
+EPS Normalized 
+
+0.38
+
+CONSENSUS
+
+-FY 2017-
+
+ACTUAL
+
+0.38
+
+Revenue  (mm)
+
+201224.72
+
+205476.00
+
+Currency: USD
+Consensus as of  Feb-21-2018 7:55 AM GMT
+
+-FY 2018-
+
+SURPRISE
+
+CONSENSUS
+
+0.00
+
+2.11
+
+0.45
+
+234639.00
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+FY 2016
+
+FY 2017
+
+0.12
+
+0.38
+
+0.14
+
+0.38
+
+16.67 %
+
+0.00 %
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+15
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Ivan Glasenberg
+CEO & Director
+
+Paul Smith
+Former Head of Investor Relations
+
+Steven Kalmin
+Chief Financial Officer
+
+ANALYSTS
+
+Alon Olsha
+Macquarie Research
+
+Christopher LaFemina
+Jefferies LLC, Research Division
+
+Jason Robert Fairclough
+BofA Merrill Lynch, Research
+Division
+
+Tyler Anson Broda
+RBC Capital Markets, LLC,
+Research Division
+
+Liam Fitzpatrick
+Deutsche Bank AG, Research
+Division
+
+Menno Gerard Cornelis
+Sanderse
+Morgan Stanley, Research Division
+
+Myles Allsop
+UBS Investment Bank, Research
+Division
+
+Sergey Donskoy
+Societe Generale Cross Asset
+Research
+
+Sylvain Brunet
+Exane BNP Paribas, Research
+Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Presentation
+
+Paul Smith
+Former Head of Investor Relations
+
+Good morning, ladies and gentlemen, and welcome to Glencore's Preliminary Results for 2017. The format
+this morning will be, as usual, presentation by Ivan and Steve, and then followed immediately afterwards
+by questions and answers.
+
+So with that, over to Ivan.
+
+Ivan Glasenberg
+CEO & Director
+
+Okay. Okay, good morning. Thank you for coming this morning, and we're pleased to announce a pretty
+good set of results. And as you can see, it's the strongest results Glencore has produced, I think, since its
+inception, definitely since we've been a public company.
+
+You can see the adjusted EBITDA of the group is $14.8 billion, which is up 44%; and adjusted EBIT is $8.6
+billion, up 118% from 2016. Net income is $5.8 billion, which is up 319%. Funds from operation, $11.6
+billion, up 49%. And we're pleased that we will recommend a dividend for 2018, a distribution of $2.9
+billion, which is $0.20 per share payable in 2 tranches in May and September.
+
+Marketing. Once again, the [ crux period ], a differentiation of Glencore, performs very well again. And
+as we always said, at higher commodity prices, we're more towards the top end of the range. We always
+guide between $2.2 billion to $3.2 billion on the Marketing. And when markets are tighter, commodity
+price is higher, we're up towards the top end of the range. And as you can see, we got an EBIT of $3
+billion, which is up 3% from 2016. And like-for-like, because of adjustment for the ag business because
+we only account for 50% of the ag business during 2017 as opposed to 2016, is already 10% up.
+
+Strong performance across the board on the metals and minerals and the energy product business on the
+trading, up 28% and 9%, respectively. And as I said, the agri business was broadly consistent on a like-
+for-like basis in difficult market conditions. And as you can see, against our competitors who have had
+difficult years, the ag business performed very well.
+
+Strong point of Glencore is a strong unit cost, and our margin performance has naturally boosted the
+Industrial earnings, and Industrial EBITDA is up 60% to $11.5 billion. Our mine unit cost and margins
+are generally better than the previous year. And as you can see, our cost of production across the board
+on our various commodities is really at the low end of our competitors, et cetera. Really, Tier 1 assets
+performing very well on the cost side of the curve. And post credits, our copper is $0.87 per pound; zinc,
+negative $0.16 per pound; post credits, $0.10 per pound; ex the credit, nickel $0.191; and coal, we're
+realizing $32 margins. So exceptionally strong on the cost performance across the board, which once
+again proves we really have Tier 1 assets low cost and long reserves.
+
+Naturally, there were some emerging inflationary pressures and ForEx impacts across the board on the
+costs. However, we're fortunate these were more than offset by the higher by-product credits, which
+we're getting on the various commodities that we produce, and that has counteracted the inflationary cost
+pressure, which all miners are seeing across the board.
+
+As we've always said, Glencore has a conviction to create value through partnerships, M&A and organic
+reinvestment. We're not sitting on our hands if opportunities present themselves. We always will react.
+And if they make sense and they fit our business model, we'll look at them, but we do have strong criteria,
+investment criteria, whether we do go ahead with them.
+
+We've created conservative financial policies which underpin our balance sheet strength today and -- but
+also given us flexibility. And as you are aware, our net debt is now down at $10.7 billion. And we have set
+a range, we'd like the debt to stay within the $10 billion to $16 billion range. Even though we want to keep
+it 2:1 net debt maximum to EBITDA ratio, we will still want to keep it within that $10 billion to $16 billion
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+range, so it keeps it capped. Even if the EBITDA goes up, we will still not allow the debt to go above $16
+billion.
+
+If you just look historically, what we did during the year and improved opportunities presented themselves
+to us, and we invested $1.6 billion in capital-efficient growth. You saw we bought the Volcan stake, we
+bought the Mutanda stake. But along the way, we also did other partnership-type transactions. And that's
+a strength of Glencore because of our relationships across the board, our strong trading activities and our
+relationship with various parties around the board, we were able to do this type of partnership where we
+don't give up the entire asset. We form partnerships.
+
+We did the Trevali transaction where we merged our assets into Trevali, and we still hold a 25% stake and
+we have the marketing rights. We did the oil storage business with HNA, which is now HG Storage, and
+we own 49%, they own 51%. But we still utilize their storage tanks and we have the benefit of that. And
+we have a strong partner for future growth in those businesses. We formed BaseCore, our royalty stream
+business with Ontario Teachers, and we'll use that as another vehicle where we can grow our business.
+
+So we'll continue to look at these partnership-type operations, where we can grow our business together
+with partners and we can utilize the strength of them. We did in agricultural business the year before,
+we formed a joint venture with the 2 Canadian pension funds, and we use that as a vehicle to grow our
+business. So this is the strength of Glencore where we can form these type partnership opportunities to
+grow. Expansionary CapEx was $1 billion with a total CapEx of $4.2 billion.
+
+Safety, once again, an important feature of Glencore. We do employ 146,000 employees, so we have a
+large amount of employees as opposed to our peers. We do operate in difficult areas around the world and
+what we call our focus areas, where we really got to change the culture in those particular regions. And
+we did unfortunately have 9 fatalities during the year. That's a big improvement since 2016 where we had
+16 fatalities. But we -- it's the first year without a multiple fatality incident. We continue work in this area.
+The one area we did have a lot of success is African copper, where we only had 1 fatality in 2017, which is
+the lowest in history in one of these focus asset regions. And this is where we have spent a lot of work. It
+seems that we are achieving success there, but we still have a long way to go having 9 fatalities through
+the group.
+
+So that gives you an idea where we sit overall, our position of the company, and Steve will take you
+through more financial details. Thanks.
+
+Steven Kalmin
+Chief Financial Officer
+
+Thanks, Ivan. Good morning, good evening to those that are on the webcast or on the call as well. And
+I'd like to take you through Glencore's financial performance for 2017 as well as provide some forward
+illustrative guidance in respect to volume, costs and EBITDA generation in the business as well. All these
+points on the financial highlights page are otherwise addressed on the pages to come, so not going to
+dwell too much.
+
+In terms of that improving momentum and trajectory in Glencore, the $14.8 billion of EBITDA, it's quite
+interesting just to look at it in the 2 halves as well as we had during the year. So the first half of 2017
+was $6.7 billion, second half already was $8.1 billion of that $14.8 billion. So you can already see that
+trajectory in terms of margins, in terms of volumes, in terms of marketing performance, we're on the right
+track. And as we look forward, particularly on the Industrial side, we'll sort of show you what the capability
+of this business is from obviously '18 and beyond.
+
+If we move on to the next page, as Ivan mentioned, Marketing is starting to continuously hit its straps.
+It's done it over the last sort of couple of years. It's been a while since we've had a 3 in front of that
+number as well as the EBIT side, notwithstanding that we sold 50% of the agricultural business effective 1
+December 2016.
+
+So the sort of product's [ facing ] 3%, we just converted it and also like-for-like to show you that there's
+been underlying, at least in the metals and the energy side, we've seen some decent growth. But like-for-
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+like, had we still had 100% of agricultural this year, if you just double the $192 million, you would have
+seen a 10% improvement year-on-year there.
+
+Metals and minerals, as you can see, continues to be the engine room with sort of $2 billion. That
+does reflect the fact that -- underlying that sort of engine is many different facets and many different
+businesses and many different commodities. You've got very big-scale global franchises within that
+business across copper, across zinc, across aluminum, across nickel, increasingly iron ore, you've got the
+cobalt, you've got ferroalloys, you've got manganese. There's many facets of that particular business,
+some of which have been sort of contradicting at levels not seen in recent periods of time. So good
+performances generally across the board.
+
+Energy, also solid performances across both coal and oil, with meaningful contributions in that close to $1
+billion performance. Pleasingly, we've seen some volume kickers come through, having been a little bit
+more slow in terms of volume growth inasmuch as the market itself was sort of slow, our own suspension
+and curtailment of some facilities in zinc and copper, which we did through '15 and '16, ferroalloys, [ slow
+planks ], some of those things, to some extent. This year, if you look through the marketing attributes,
+you can see some good volume growth: copper, 14% up; zinc, 40% up; ferroalloys, 14%; and on the
+crude oil side, we saw 33% increase. Of course, transactions and partnerships like we had with Rosneft
+and the structure with the Qataris that was formed last year, some of the African business development
+opportunities that we've had as well across the board is contributing meaningfully on the volume side
+within oil.
+
+Agricultural side, it's not particularly material in the overall scheme of things, but just to sort of shine a
+little bit of a light on it, given the market dynamics and the general challenging environment, at the cash
+generation aspects of this business, at an EBITDA level, you actually saw year-on-year improvement. You
+can see a 7% there if we just double up 2016 to 2015. There was additional depreciation this year. So
+at the EBIT level, you can see that contraction of 26% because as part of the accounting for that 50%
+retention of that stake we had in December 2016, we effectively had to remeasure the historical base
+of the business to the same entry price that the Canadians bought in that business. So we have got an
+artificial extra depreciation charge noncash that's coming through like-for-like in the Marketing side. That's
+just a feature, a little bit of a weight that the business is going to bear relative to its historical costs. But
+on an EBITDA level, we've actually seen a 7%, which is quite pleasing in the context of that business as
+well.
+
+If we look then at the Marketing, just another page on it. You've seen that sort of $3 billion. We're
+maintaining the guidance, $2.2 billion to $3.2 billion, that is supposed to be an all-season guidance range.
+As we sit now in 2017, you would sort of -- there'd be an instinct to say we'll chop off the bottom and
+increase the bottom, but it is supposed to be there for all seasons. Memories are still fresh in terms of
+cycles that can happen in this industry. $2.2 billion to $3.2 billion, we're suggesting that based on current
+conditions, we should certainly be towards the upper end of that range as we look in 2018.
+
+And we've always pointed to a few factors that would get us to and that would lend support to that
+upper end of that range, all of which we can now put a tick next to those factors. We've said production
+volume growth, we've seen that come through, as I've said on the previous slide; tighter physical market
+conditions, we've seen that in many commodities; deployment of additional working capital, I'll show you
+a little bit of a slide and talk a little about RMI and higher interest rates, which is starting to come through
+in terms of some tightening cycles. All of that is factoring into attributes that will take us more towards the
+upper end.
+
+And this is a business that has consistently produced very high returns on equity, continues to do so,
+notwithstanding sort of discussions and debates around at some point barriers to entry, when do people
+want to come and grab that sort of -- I think we've created quite a unique franchise around high barriers
+to entry and ability to generate consistently high returns on equity in that business.
+
+If we just turn over to the Industrial side. As Ivan said, we're up 60% to $11.5 billion. We'll look at some
+cost and production numbers on the next few slides as well. As you would expect, given the scale and
+franchises we have, particularly in coal and some of the bigger metal businesses, that's where we've seen
+increases on that particular side. So clearly, higher commodity prices is the primary driver. There's no
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+denying that clearly, there's that leverage to that business because, of course, higher prices is going to
+have you -- what you take in one hand, you're going to give away a little bit on the other hand through
+some inflation as those very high commodity prices themselves are feeding through into some of your
+input costs. And we are a big consumer and procurer of the likes of diesel and explosives, and general CPI
+is going to work its way through the system, cost of construction materials, steel, developing projects, if
+you like as well.
+
+So that's the nature on the way down. We sort of say, while you're getting some sort of relief from lower
+cost inputs, now you're seeing some of that sort of stuff. But we'd still categorize it as fairly modest, as
+not particularly tight, as not something that is overly material in terms of the business. And we'll talk
+about that cost trajectory as we go through as well.
+
+Very strong EBITDA margins. We [ followed ] the 38%, that's a blend across the metals and mining
+business. Of course, there's highs and lows, depending on the structure of those markets. We've got
+copper and zinc at higher levels. I think ferroalloys and nickel might be slightly low, which brings the
+blend to 38%. And of course, prices has had a big factor. You can see on the waterfall chart, $6.3 billion
+of pricing variance that is made up in the copper/cobalt, which is where that commodity that more
+than doubled this year is manifested in terms of results, that was $1.9 billion; zinc, $1.1 billion of price
+variance; nickel, $0.3 billion; ferroalloys, $0.4 billion; coal, $2.5 billion; and other, $0.1 billion; so $6.3
+billion is clearly the big factor that's gone into those.
+
+As we'll work through some of the numbers on the next chapter on that graph on the top right, we would
+expect to be here through August and hopefully, in 12 months' time, on spot illustrative 2018 prices
+towards the end of January. And volume guidance, we're showing $16.8 billion of industrial EBITDA for
+2018 on an illustrative sense. That would be another 46% potential tick-up based on spot price at the
+moment and the volume guidance, which we'll talk about a little bit on the next page.
+
+The Industrial bridge, there were some negative factors, of course, on volume and cost volume, we -- it
+was primarily copper and coal, 8% down in copper. Factors that have been well-reported on and discussed
+during the ongoing production performance. We saw lower production through consumable and power
+available in Africa; Mutanda and Mopani, a little bit as well; Antapaccay, a little bit slower on that side;
+and coal, down 3%, primarily due to weather and strike-related actions. So that clearly is going to have
+a volume impact and the associated cost impacts. But you can see on a unit performance, it's still being
+very solid as we work our way through the system.
+
+If we then look at what our cost trajectory -- I think, Paul, if you can just go to Page 21, I think it's
+important to just look at volume, which is clearly a driver of that. It's in the appendix. But I think it's
+important not just to -- just to focus for a minute as well. Nothing has changed here in terms of volume
+and production guidance we gave at the investor update back in December last year. So the near-term
+volume pickup, which is going to have a factor in terms of both performance, EBITDA and value, is in near
+term, we've got copper, 1.31 up to 1.465, that's up 12% volume growth, primarily due to Katanga now
+coming on line with its first train; 150,000 tonne copper, 11,000 tonnes cobalt; performance is going --
+there's been a successful commissioning down there.
+
+We've also got material volume growth in cobalt, clearly, up 42% this year; 27% to 39%, given the pricing
+environment there, that's quite a material catalyst; that's primarily Katanga, 11,000, a little bit over at
+Mutanda and some of the other operations as well. And coal itself, if we look second from the bottom, up
+around 11%, from 120 to 134. You've got HVO that's baked in there, 49% share, which would be between
+7 million and 8 million tonnes on an annualized basis. We're assuming we're going to get about 9 months
+or so of that coming in, plus the restoring of normal operations post summer weather and strike-related
+actions during the course of 2017.
+
+Longer term, which will also feature into some of the modeling and thinking, so you've got more the 2017
+to 2020 production outlook at the bottom right, you can see copper, 25%; cobalt, 133%; zinc, 19%; lead,
+25%; nickel, 30%; ferrochrome, 6%; coal, 14%; and oil, 39%. So quite material volume growth across all
+the commodities. We went through this back in December. I'm not going to repeat it. But you can see the
+projects, and we did spend a bit of time on some of the projects, and we got a page on each of those to
+do with Zhairem in Kazakhstan, the [ iron ore ] on the nickel side, of course, the African business as well.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+So if we then jump back to the unit cost, which is clearly a factor as well. You can see some improvements
+generally in mine cost and margins across the businesses from '16 to '17 and continuing on through
+2018. Some of that, inflationary pressure; some of which, which is passive, I would regard as sort of good
+inflation because it's really getting offset through the price, and that's a function of just the CPI impact,
+the weaker U.S. dollar on the currencies that's coming through some of the diesel and fuel costs that's
+coming through. Nothing we can do about that. That's a factor. It's as good as we run the businesses, and
+it's good efficiency drivers. If you do, you're going to have that coming through. But as I said, you sort of
+get 3 in one hand and pay out 1 in the other hand.
+
+So copper, we're sort of -- we were flat unit costs. This is, as we've discussed, is a feature of Glencore's
+building blocks that we've given out the last few years. These are fully loaded, fully baked-in numbers
+from which to sort of mathematically calculate the volume tonnes price expectations you have for a full
+EBITDA. So it captures all the cash costs, all the ancillaries, all the royalties, all the freight costs, the
+TCRCs, the smelting businesses that we have within the business as well.
+
+So copper is -- was sort of steady year-on-year, clearly helped us. Some of the byproducts both in zinc
+and cobalt, we've seen quite a material downshift from $0.87 to $0.80. Katanga, of course, through
+volume and others, is a factor; byproducts is helping there. The only change we've done relative to
+December is that now Katanga, Mopani are part of this all-in unit cost blended calculation at the 1.5
+million tonnes or so we dug. We previously had it excluding those, given their ramp-up phase, and we had
+a placeholder, I think, of around 500 million, but that's fully in those numbers as well.
+
+The coal, the other big part of the business, now bases some Newcastle benchmarks pricing at the end
+of January. And our mix, we're looking at around a 37% margin there. You've got some cost increases.
+But again, it's really passive coming through, through royalty-related increases, which is based on the
+price itself. So that's just a flow-through as you add that to the prices as well. We should -- could maybe
+separately itemize them in the future as well just to show the linkage against that.
+
+You've got the higher diesel costs, you've got the currency movements. Clearly, there, you've seen quite
+big strength in rand, which is sort of a double-edged sword there. It's good in terms of what's happening
+down in the country, but the strength of the rand is clearly having a material impact down there in
+a market where it's not necessarily the price set like it is in ferrochrome. You'd expect ferrochrome
+potentially to be able to pass that additional cost benefit.
+
+So on nickel, also improving through byproducts and some increased volumes, which we'll see coming
+through in 2018. And zinc continues to power along, byproducts is a big factor there; lead and the various
+precious metal streams as well.
+
+So if we look at actuals and then later on, on the slide, you'll see [ later ] the spot generation using those
+volumes, you'll see a big shift. We've got copper, $4.4 billion was the EBITDA of Industrial 2017, going to
+$7.1 billion illustratively 2018; zinc goes $2.6 billion to $3.5 billion; nickel, $0.6 billion to $1 billion, which
+is a nice movement and starting to present itself in a more positive light; and coal, $3.9 billion up to about
+$5 billion as well.
+
+If we look on the next page, just to highlight the CapEx, nothing new beyond what was said at the
+investor update in December last year. We're looking at a $4.5 billion average CapEx 2018 to 2020 to
+deliver the sustained business and that growth that we were talking about on the previous slides. That
+was lifted up from the previous, about $4 billion, we gave the reasons back in December and highlighted
+the various projects that were part of that particular project. 2017 CapEx on the Industrial side was $4
+billion, which is bang in line with where we've been guiding throughout the year. So nothing to add there,
+unchanged from the December.
+
+Obviously, from a financial perspective, a nice slide to look at. And presiding over, my day job is getting
+very easy in this company, as you can see, very conservative capital structure, high liquidity levels,
+manageable maturity profiles, no debt maturing in terms of maturities more than about $3 billion. The
+shape of net funding and net debt from where it peaked in about 2013, '14, to where it is at the moment,
+we maintain our financial policies around commitment to strong BBB, Baa. I think we're on target with
+these metrics to get there. S&P, we're BBB with a positive outlook; Moody's at Baa2. I would suspect these
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+ratios would -- and trajectory and financial policies would be rerunning the numbers in the next month or
+so post the thing.
+
+Just to spend a couple of minutes just on RMI. You would have seen that go up the sort of $5 billion. If
+you looked at pricing movements during the course of 2017, from the start of the year to the end of the
+year, collectively, you would have to come up with a number that says it's not going to stay at '17. We've
+got prices in our core commodities. Copper was up 30% during the year, start to finish. Zinc, 30%; cobalt,
+130%; aluminum, 32%; nickel, 28%; lead, 24%; oil, about 25%. These are big movements. They all
+blend out to anywhere between 25% and 30%. RMI itself was up 30% during the year. So there's a very
+strong correlation between pricing and where we ended up the year.
+
+We've attributed and calculated RMI down to -- of that increase of around $5 billion. $3.5 billion would
+be passively attributable based on volumes in your core sort of supply chain that are working through the
+system at roughly 45 days. If you take the volumes, we even give the volumes in copper and nickel and
+everything that we do, take annual volumes, put 45 days or so as an average sort of conversion cycle
+across this new time of the movement, you're going to get to a number of sort of around $3.5 billion.
+
+In terms of RMI, that's reflecting the price environment at the end of December. It was around $1.5
+billion, which we would attribute to deploying some inventory funding around some attractive risk-
+adjusted opportunities that invariably happen in markets also from time to time. Some of the timing
+can also equally present themselves during a 31st of December period when you've got the industry
+itself is looking to do a little bit of housekeeping and you find some loose tonnes, and there's clearly
+an opportunity temporarily to go in there. The returns on equity from a Glencore business in terms of
+our core competencies, take that inventory, fund it for a few months and eventually generate some
+meaningful EBIT. There was some of this clearly contributing to that good marketing performance, a $3
+billion performance we were setting at the beginning of December and still sort of talking towards a $2.8
+billion. You've got all these positive effects that were coming, that we're hitting us towards the end of the
+year as we ultimately delivered at the $3 billion.
+
+If prices stay where they sort of are at the end of January, driving that $19.7 billion of spot EBITDA, we
+were generating about free cash flow towards the $10 billion, there'd be no reason and nor would we allow
+RMI to sort of go up from these levels. If anything, I think that's a cyclical cap. If prices go up, copper is
+[ $10,000 ], oil is [ $140 ], well, different story, all bets are off, you're going to see that, but our EBITDA
+will be $25 billion or so at that stage.
+
+So these are the factors we have out, that's a natural consequence. We've seen the reverse side of that as
+we've gone through the last couple of years. A couple of years ago, standing up here saying there's been
+a sort of a $5 billion release of working capital by the same factor in those business. So that free cash
+flow now is going to flow through. We're at these periods that reflect now the prices of the day. Even as
+we look towards -- this was a particular point at the end of December, as we closed at the end of January,
+we'd already reduced RMI by about $1.5 billion or so just from that 1 month really as we rolled out some
+of these opportunities that were there at the end of the year.
+
+If we go onto the next page, again a slide that would be reasonably familiar, the capital allocation slide
+and the cycle, the circle, it's more of a square now, as we've gone, Martin, thanks for squaring it up. 2017,
+those factors, Ivan alluded to some of those, we paid out the fixed distribution last year. We did $1.6
+billion acquisitions, made up of Mutanda, Volcan and the likes, a bit of Yancoal as well, that was part of
+the two-tiered transaction that we did with the purchase of HVO. We've also had to put $300 million into
+capital raising that [ they've done ], so we're still the proud holder of about 7% of Yancoal as well, which
+is nicely in the money at the moment. And our net debt, $4.8 billion of the free cash flow generation,
+aside from those few things we've done, has moved towards debt reduction, getting us down to the lower
+end of that $10 billion to $16 billion range.
+
+As I've always said, that would be a trigger getting through $10 billion, would be a trigger or catalyst in
+the absence of some other deployment opportunities that may present themselves. But irrespective of
+that, the numbers are just going to be big by virtue of applying the $1 billion and 25% of industrial free
+cash flow, that would be a catalyst to potentially materially increase the payout ratios beyond what they've
+been. And already now, it went from 25% to this 36%, the potential would be to materially increase. And
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+conceivably, it could be 100% payout ratios. There's no upper limit here in terms of we've seen other
+ones, say, 40% to 60%, or no more than 50%, whatever, could be 100%. Let's see how we sort of present
+themselves going forward.
+
+So we've got all the equity cash flows, bottom right, $7.7 billion, and it just flows itself around the circle
+as we've -- which is translated into those improved graphs around the debt trajectory, debt coverage
+ratios. Our net debt-to-EBITDA is now 0.7. It's going to be sort of -- it will be an M soon in terms of being
+able to mathematically calculate that ratio. Ivan's probably working out, $20 billion net debt x2, there's a
+lot of...
+
+Ivan Glasenberg
+CEO & Director
+
+[indiscernible] [ 16 ].
+
+Steven Kalmin
+Chief Financial Officer
+
+There's a lot of surplus capital, there's a lot of surplus capital that's currently being generated relative
+to financial targets as well. Clearly, there's an opportunity come the interim results in August to look at
+a top up of that distribution of the $0.20 we've come up with, given that financial strength and how we
+see the world at the moment. But we can take -- so August is always going to be our live date also in
+terms of looking at some of those distributions. As a sort of mechanical payout ratio as a percentage of
+net income, it's come out at 52%. But at the end of the day, you're paying distributions out of cash flow,
+not net income, which is how our approach tends to work, which is mathematically, if you want to look at
+that, and some people focus on it, it is a number out there.
+
+Just to close it out here, just to add a little bit of complexity to the team here and how we're looking
+at balance sheet and numbers. If we go to the next page, just to show you the Volcan, sort of the
+accounting mechanics and the treatment of this particular acquisition. As we said, as Ivan mentioned
+on the 9th of November, we were -- there was a tender process for us to secure a decent chunk of the
+voting shares, which we had already pre-agreements to almost go beyond the 50% as part of that tender.
+This -- the devoting Class A, we move from 21% to 63%. There's a huge nonvoting float within the
+Volcan continuing. So with all that, that the voting moving up to 60-odd percent, we still only have an
+ultimate economic interest in the business. It moved up from 7.7% to 23%. So it's still a relatively low
+economic participation. There's a big free float. It's a public company, as you all know, listed on the Lima
+Stock Exchange. It has all the checks and balances. It is not a Glencore entity for purposes of financial
+inclusion. They have their own structure that are ring-fenced. They need to fund themselves, and we'll be
+a participant for the foreseeable future in a financial sense through some dividends. Not too dissimilar, if
+you like, from Century Aluminum, in which we have the 50% stake with an equity accountant from our
+own business, and that's where you see it come in the numbers themselves.
+
+By virtue of having moved over the 50% threshold on the voting shares, under IFRS, we've had to
+consolidate the business into [ ours ]. And the financial impact, if you just look at that page on the right
+there, it has had the effect of having quite a material explosion in a couple areas of the balance sheet as
+well. So despite only putting $730-odd million towards the purchase of those shares, we've had to take
+in financially under IFRS $4.6 billion of property, plant and equipment, consolidate the whole lot. And you
+can see a very big $1.7 billion noncontrolling interest, which reflects the big 77% free float there.
+
+By virtue of the ring-fenced nature and because it was -- I mean, cash flow and EBITDA, there was
+nothing that came into Glencore's financials in 2017, we booked a bit of revenue, but EBITDA, net income
+was 0. Through the course of 2018, our current intention is, yes, we've got to IFRS consolidate, but we'll
+disaggregate that and present this business as if it's an associate. So just picking up our share of the 23%
+of that business through the net income, through the cash flows of that business. And you've seen we've
+made the adjustment then to the statutory net debt numbers. We've included our -- we would have been
+$703 million higher, but we've taken out the $703 million, which is the Volcan net debt that's found its
+way onto our balance sheet at the end of December. We're not doing this from any being clever or through
+magic. In fact, Volcan's -- it's a zinc business at the moment, and so that's generating a lot of cash. It has
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+$700 million of net debt, so for a while, it's going to continue. If we continue in that vein, this business it's
+going to be net debt free in a little while as well.
+
+So as a mathematical translation and contributing to our business, it could be -- it's just not appropriate
+for us to be bringing $350 million, $400 million worth of EBITDA into Glencore's business when we've got
+this 23% economic ownership. So that's where we're going to be in the foreseeable future. It's obviously a
+watching file in terms of whether there's some increases in terms of how the governance actually functions
+in that particular company as to whether it starts looking and feeling like a Glencore entity over time. At
+the moment, we're clearly integrating. We've got board representation. We're parachuting in people to
+help across various financial, technical and operational sides. We would hope that, that adds. It was clearly
+a synergy angle to this business and where we can work closely with this company. We have operations
+in Peru. We've been a commercial partner with these guys as well. But this again provides all the building
+blocks in how we've treated that and how we internally look at this business as well, which is how the
+financials are ultimately there to present to everyone.
+
+So with that, we will hand back to Ivan for some closing remarks. Thanks.
+
+Ivan Glasenberg
+CEO & Director
+
+Thanks, Steve. Okay. Now that we've all had an accounting exercise on Volcan, let's look at the overall
+business of Glencore.
+
+As you can see, I think we've got a great commodity mix. It's very compelling going forward. We believe
+we're in the right commodities. What we have not determined Tier 1 commodity mix, we just talk about
+Tier 1 assets. Now we can talk about Tier 1 commodities, which I believe is very important. We're the
+most exposed to mid- or late-cycle commodities, and it's clear that's the area we're moving into. So we're
+going into the mid-cycle commodities, copper, zinc, nickel, aluminum; and the late-cycle commodities,
+cobalt, thermal coal, agricultural products. We don't have the PGMs and diamonds, but we definitely have
+a compelling commodity mix.
+
+And breaking down the different commodities, if we look at where the markets are sitting, et cetera,
+copper is clearly is a looming supply challenge. We all know that demand for copper is going to go up,
+with some copper market today run about 23 million tonnes, if we get 2%, 3% growth around the world,
+depends on what happens in China, but you're talking about another 500,000 tonnes, 600,000 tonnes of
+copper is required per year.
+
+If you look at the supply, we all know there's been a massive underinvestment in new mines in copper.
+The only new mine that we see coming is in Panama, and that should come on stream. But besides that,
+there's been a total underinvestment in new copper mines. We all know the grade declines, which is
+occurring around the world. And we know the elevation of strike risks, which will occur in Chile, especially
+during this year. So the rest are supply disruptions, but no new supply is very relevant in copper. And if
+demand does grow to 500,000 tonnes, it will be an interesting outcome there.
+
+Cobalt is clearly electric vehicle story. We all know the studies that have been done on the growth of
+electric vehicles and where it will end up being. We've seen the investments of motor car companies are
+making in electric vehicles, and they will need battery supply, so the demand for electric vehicle is strong.
+It will require a lot of cobalt. And we all know the geographic -- or geological scarcity of cobalt. You can't
+mine pure cobalt, it's not like lithium. It's a byproduct mainly of copper and nickel around the world, and
+the bulk of it comes from the DRC. So we know the demand for cobalt and this is an alternative method of
+making batteries will be strong, and the supply is relatively constrained.
+
+Zinc, demand is increasing in emerging markets. We know that for galvanizing, and there's been an
+underinvestment in new zinc mines. The growth that we were expecting in China did not occur because
+of the environmental restrictions taking place at the zinc mines in China. So therefore, the big growth
+that people were thinking would come in zinc is not coming. And the demand grows once again. The
+commodity, we believe, there are supplier restraints.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Lead. The same applies to lead, with a robust battery and energy story dynamics. And once again, mainly
+also a byproduct of the zinc mines, underinvestments, and once again the environmental restrictions
+which are occurring in China.
+
+Nickel demand, once again, electric vehicle, batteries, critical alloy -- it's a critical alloy, austenitic stainless
+steel growth, et cetera, that's occurring in the year -- in the world. And once again, no new nickel mines
+being opened around the world, but -- which we're getting in Indonesia. You -- the pig iron production
+that's occurring, nickel pig iron occurring in Indonesia, but it's taking it time and not growing as fast as
+people expected, so limited supply coming in nickel.
+
+Sulphides are declining around the world, so therefore, we see it already there's a shortage. We're
+reducing the stockpiles around the world. And we believe there's going to be an undersupply once again
+during this year. And we're going to have to reduce the stockpiles around the world in order to feed the
+demand for nickel that's occurring around in the market. So once again, undersupply there.
+
+Thermal coal. I know that's not a loved commodity, but once again, it is parring the Asian growth and
+urbanization which is occurring in the emerging markets. Demand continues to grow in emerging markets.
+And once again, underinvestment in supply, you don't see new coal mines being built around the world.
+And where you do see the increase of new production of coal, it is occurring in Indonesia. However, in
+volume terms, in metric tonnes, it is growing; but in heating value, in fact, there's no growth because
+we're getting decline in calorific value being mined from these various mines. And the CV is reducing
+considerably. So really, when you see production increase, it's not really heating value increase which the
+world needs. So looks very good.
+
+Also, we see what's happening in China where they did restrict demand of coal being produced because of
+the pricing. We now have higher prices in China. They put a cap on around about RMB 750 that accounts,
+if you work back and do the adjustments on quality, it gets back to Australia around about $100 if they
+maintain the RMB 750 in China. So looking pretty strong in thermal coal. And one thing I emphasize,
+you've got to remember, there's no new mines being produced around the world, developed, besides
+in Indonesia, which is lower heating value. And you do have decline in production because the mines
+eventually will come to an end and they have a life of 20, 25 years, and some of them are soon coming to
+an end. So we see it in South Africa, we see it in various parts of the world, where you will have reduction
+of coal production occurring there.
+
+Okay, looking at the next slide. The business of Glencore, once again, resilient and proven cash-generative
+business. I talked about industrial Tier 1 assets and Tier 1 commodities. It's a new term that we've
+introduced. We always used to talk about Tier 1 assets, and I believe Tier 1 commodities is important, as I
+emphasized on the previous slide. Glencore's diversified by geography and commodity mix, you've seen it.
+We are today, and you saw the numbers, Steve showed the production numbers going forward, whereby
+copper will grow to 1.6 million tonnes; coal, 134 million tonnes; cobalt, 65,000 tonnes. So really, we are
+the major producer of cobalt in the world. Cobalt, zinc, nickel, we may a bit lower down, #3. Thermal coal,
+seaborne thermal coal, the largest in the world. So we're really a major producer of what I believe are the
+Tier 1 right commodities that the world is going to need going forward.
+
+And as I said before, these commodities have persistent industry supply challenges and robust underlying
+demand, which therefore deems well for the company. We have sustainable low costs. You saw the
+numbers, where our costs are going. And we're the byproduct creators, so we have low cost -- the lowest
+-- I believe the lowest cost in most of those commodities produced in the world. And we have long-life
+assets. There was always concerns, we don't have long-life assets and our reserve base is not as long as
+people expected. But you can see, we have long-life, low-cost assets and clearly, Tier 1 assets and Tier 1
+commodities.
+
+I don't need to talk much more about the Marketing. It's been proven that it is a high return on equity
+type business. It's unique. We're one of the few mining companies who have this alongside our production
+side business, which assists us in all part of the business. It helps us recognize asset opportunities for
+future growth. We know what is happening in the markets, and that gives us a lot of insight. And once
+again, it's resilient. And as we said, the $2.2 billion to $3.2 billion EBIT to the business, and that is very
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+defensive. As you can see in the slide on the right, it's resilient even when commodity prices fall, drop. It
+has been resilient and it is not linear to commodity prices.
+
+The big feature, as we said, at today's spot prices on coal, the forward curve, they act more towards the
+forward curve on the coal price, we will generate around about $19.7 billion of EBITDA, generate $9.6
+billion of free cash. And that's how we look for 2018. [ Post that out to ] 2019, as Steve indicated, with
+higher production figures that are occurring in 2019, that will even be higher than that level. So very
+cash-generative at current commodity prices and very high EBITDA going forward.
+
+So what is our outlook? I think I've summed up most of it in the discussion. And as I say, leading Tier 1
+commodities, once again, we have great assets. And the Tier 1 commodity outlook is underpinned by this
+limited supply. We don't see where the supply is coming from. And we believe the demand is there, the
+demand in China continues to grow, once the Chinese consume close to 50% of most of the commodities
+that we produce. What's happening in the electric vehicle industry, we're the best place for that out of all
+the large caps. We get the advantage what's going to happen in electric vehicles with the demand that's
+required for them in copper, cobalt and nickel.
+
+Cash-generative unique business model, as I said, Tier 1 Industrial assets, very low-cost producing, long-
+term life; Marketing, highly generative; and once again, emphasize how the EBITDA will look during this
+year at these current commodity prices and the free cash flow that is going to generate.
+
+We've always said we're able and willing and we wish to grow our business. We're not going to sit on our
+hands. We see a lot of opportunities because of the trading side of the business where we know what
+everyone -- what's happening in the business, we see what opportunities are around. And when they
+do come around, we will react on them. You just got to look last year, Volcan, because of our strong
+relationship with the people in Volcan, when the family was ready to sell, we knew about it and we were
+able to pounce and take advantage of that situation.
+
+We look at growth. We don't just look at growth for growth's sake. It's got to be cash flow-generative
+and we look at cash flow and we will look to grow our business, that's why we are more M&A rather
+than building Greenfields. You know my feeling about building new assets and Greenfields. You don't get
+the cash flow for a while. And eventually, when you do get it, you may have overspent it and it doesn't
+generate the returns you want.
+
+We've always said, we agree we -- I will cut back capacity, we think we're over supplying a market and
+we'll do the same on the other side, and we'll reactivate the idle capacity, as you saw we did with our
+zinc operations, when we believe it's appropriate. We have a lot of low cost Brownfield options that we
+can add to our existing business, bolt-on acquisitions. We always look at different synergies we can have
+with next door neighbors, as you saw with Hunter Valley, the opportunity occurred last year to purchase
+the Hunter Valley Operations. The main reason to purchase Hunter Valley, we have the mines next door,
+we all know about the synergies that exist there. So we're always looking for those opportunities. And if
+you look at our track record on investments, it's been pretty good in the past. So we'll continue to look
+opportunistically, see what opportunities come out there. There's no big situation to come where we want
+to grow just for growth's sake. We wait. If the opportunity presents itself, we will look at it, and provided
+that it's cash flow-generative and meets our high hurdle rates that we have within the company, we'll go
+forward with it. And as you can see, 2017 was a good example of which opportunities presented itself to
+us and we reacted on them. And they're very good cash generative assets we added to the group during
+2017.
+
+As Steve mentioned, we have a conservative financial policy today. Optimal net debt, $10 billion to $16
+billion. Net debt-to-EBITDA, less than 2x. Steve said, we want to have ourselves rated and he's not
+allowing me to have that big dividend, because as you can see, he's put the cap on the net debt at $16
+billion. And we'll maintain the dividend type policy, $1 billion on the marketing, a minimum 25% on the
+free cash flow from the industrial side of the business. And as you saw, this year, we delivered a 36% free
+cash flow. And as Steve says, later on in the year, we'll have a look at the balance sheet, and we'll see
+what we do, whether we increase it, or, what type of investment opportunities present themselves.
+So I think that gives you a summary how the group operates and how we intend looking at the future,
+looking very strong with the right commodities; very low-cost production, as you saw on the cost
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+production slides; growth going forward in those commodities. So I think we're well placed for the future.
+Thank you.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Question and Answer
+
+Paul Smith
+Former Head of Investor Relations
+
+Carry on to Q&A.
+
+Liam Fitzpatrick
+Deutsche Bank AG, Research Division
+
+It's Liam Fitzpatrick from Deutsche Bank. Two questions. Firstly, the obvious one on the DRC. Post the
+news, can you just give us an update on the situation timeline from here and so on? And also linked to
+that, have you seen any reaction from your cobalt customers to that news? And then separately on zinc,
+the market is very tight. So far, you've only restarted Lady Loretta. Is the 2018 volume guidance set in
+stone? Or is there potential for further restart as we go through the year?
+
+Ivan Glasenberg
+CEO & Director
+
+Yes, on the DRC is what you read. It's clear they wanted to change the mining code. We've seen the ideas
+that they got in the Mining Code. The industry have got together and believe there should be consultation
+with us, the mining industry. It's been sent to the President, from what we hear, I'm not sure, but what
+we're hearing, he has not signed it yet. Hopefully, it will be consultation and the mining industry and the
+DRC has got together to discuss this with him, and it's the wait-and-see situation, so we don't know much
+more than you hear in the press as well. How would the motor vehicle companies feel about it? It's a
+concern, I am sure. We haven't heard, but I'm sure they've got to look at it and monitor just like what
+we're doing, because it's going to create an investment in the country, of course, if the Code comes in at
+the way it's being drafted the way we see it. And yes, that will be a concern that can the world produce
+as much cobalt that it's going to need if the belief is that electric vehicles by the year 2030 will be 30% of
+the vehicles produced, you'll need a lot of cobalt for that. So what happens in the DRC is going to be very
+important going forward. On zinc, Steve...
+
+Steven Kalmin
+Chief Financial Officer
+
+I don't think anything into '18 now, Liam, because you've got some lag times on these sort of things as
+well. So I think the 2018 is largely baked in with the Lady Loretta restart through the first half of this year.
+And we said, what 100,000 tonnes so that sort of features in. Obviously, we sold the African assets to
+Trevali, which is why we are net-net flattish, but sort of like-for-like, we would have made about 100,000
+or so up and [ to me that's ] also going through some higher zinc areas. So the other areas is really
+Peru and some other Australian sort of options that will weigh up as time goes on. So I think, as we get
+towards our -- in May we'll do that Q1 production, that could be an opportunity to the extent that there's
+any material adjustments, we'd obviously do that. But as we stand at the moment, even we're holding the
+zinc production for 17 to 20.
+
+Sergey Donskoy
+Societe Generale Cross Asset Research
+
+Sergey Donskoy, SocGen. Two more questions on DRC, if I may. One, if you could provide some color on
+how the ramp-up of Katanga is progressing. And if you could provide any updated cash guidance, cash
+cost guidance. And second question on DRC, more generally, there are reports of political situation that's
+becoming less stable and some parts of the country are becoming less -- becoming more violent, maybe.
+What is the situation around your operations there? Do you see any risk of disruptions because of all this
+instability?
+
+Ivan Glasenberg
+CEO & Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Production...
+
+Steven Kalmin
+Chief Financial Officer
+
+I mean just in terms of Katanga, it's a separately listed company. So that we're obviously limited to what
+we can say beyond their own reporting requirements. They have their -- they'll be reporting their own
+full year results with 60-days Canada, so by the end of February they'll have their own results. So you'll
+need to go by their latest guidance which is still the 150, 300, 11,000 tonne cobalt this year 34 and being
+able to average around that period. They're under the same continuous obligations as anything, so if
+there's anything material to update beyond that, they would have done that already. So you can assume
+that, that's still the way it is in terms of their cost guidance. Again, we can't give specific cost guidance
+beyond what they may give as a standalone entity. But from what numbers are fed up, we've baked in
+their cost performance and numbers into our $0.80 as we look into 2000, but we're not able to go into
+more granularity on the Katanga entity and so. But in terms of news on the ground?
+
+Ivan Glasenberg
+CEO & Director
+
+Yes, news on the ground, you've got to remember, Katanga, we sit down in the Lubumbashi region, it's
+right down on the South, close to the Zambian border. We haven't seen disruptions over there. So there's
+no -- even when there have been further problems in the Northeast of the country, that's been -- it's
+happened there, very little happened down in the Lubumbashi area, so we haven't seen it for the moment.
+Now it's clear we cannot talk about the politics or what's going to happen there, so we just got to wait and
+see whether the elections take place at the end of the year.
+
+Jason Robert Fairclough
+BofA Merrill Lynch, Research Division
+
+Just 2 quick ones for me. First on dividend. So Ivan, last year, you're talking about $20 billion.
+
+Ivan Glasenberg
+CEO & Director
+
+Yes, screwed me.
+
+Steven Kalmin
+Chief Financial Officer
+
+It was always just a timing issue, that's all.
+
+Jason Robert Fairclough
+BofA Merrill Lynch, Research Division
+
+It just feels stingy, throw it out.
+
+Ivan Glasenberg
+CEO & Director
+
+Talk to my CFO.
+
+Jason Robert Fairclough
+BofA Merrill Lynch, Research Division
+
+Just the other one for me is on marketing. You did 3, 4 acquisitions last year. A lot of those seem to be
+designed to feed into marketing. So I'm surprised with Volcan, with the HVO operations that you're not
+raising the guidance band on those marketing earnings.
+
+Ivan Glasenberg
+CEO & Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Yes, look, for the dividend, as we said, we already said 2:1 net debt-to-EBITDA, that was where the joke
+occurred, where I said the earnings would be -- EBITDA almost probably be $15 billion, the $14 billion,
+$15 billion, whatever we said on this. So 2x could have allowed us to pay a $20 billion dividend, there was
+the joke. But now we have said we want the debt to run between $10 billion to $16 billion, net debt. We
+will still maintain the 2:1 net debt-to-EBITDA, so that gives you an idea. Yes, it could be stingy, because
+we will generate $10 billion free cash this year. We'll take the debt down to 0. But then you do have the
+dividends and you do have -- we've still got to pay for HVO, potentially, the Chevron assets in South
+Africa. So most probably net debt would be down to $5 billion unless we do nothing else. And if you work
+on Steve's 16 year, it does give you room, of course. But we've got to sit tight. We will wait and see what
+happens in August, what other M&A may or may not occur in the company and then Steve will have to
+review the dividend in August, you said.
+
+Steven Kalmin
+Chief Financial Officer
+
+Jason, it's also a matter of priorities. I mean we've set our sort of sequence of priorities. Let's get the debt
+down to the $10 billion, that's the catalyst to lift it. Let's get the BBB, the strong BBB sort of locked in.
+So you could sort of looking after your, obviously, the different sort of constituents of the structure. The
+cash is not going anywhere. I think we're as good as stewards of that cash for now in terms of internal
+holding on. We've got the opportunity in August then to come back and say the outlook, let's see the cash
+flow generation. Let's see the sort of opportunity set as well around what happens, if that's a more benign
+environment, which it is, difficult to buy assets today that meet one's return and you do generate that sort
+of cash flow, then the top up is, as I said, well and truly alive in the August period. The money is not going
+anywhere. We're currently, we're on a free cash flow yield, I don't know, 12.5%, 13%, 14%, whatever
+money, I mean the dividend yield is moving to 4%. That gap is now, we've gone through $10 billion, let's
+lock in the positioning around the structure. That gap has the potential to significantly narrow. And it's not
+a matter of years, this is live in a matter of sort of months.
+
+Ivan Glasenberg
+CEO & Director
+
+We'll know a lot more in August. Well have a look, is our $20 billion real? Is our free cash flow $10
+billion real? Do these commodity prices hold? And then we can assess it. Marketing. Why wouldn't we
+-- yes, look, let's see, we've got the Volcan, we've got the Hunter Valley, of course they would present
+opportunities, especially, Hunter Valley, the blending opportunities, et cetera, with our own tonnes to party
+tonnes, et cetera. And we just got to really get to grips with that and see what it does give us, we don't
+own it yet. We're just getting to grips with Volcan. And we'll see how it will affect that. I mean, we do
+adjust.
+
+Steven Kalmin
+Chief Financial Officer
+
+Yes, I think I mean the key thing is ultimately the scale of business, that would be at the time you sort
+of say you've got meaningful depreciation scale of business from 1 point to the next, is that the trigger
+then to take a 3 -- sort of a 2.2 up to 3.2? So you're starting to see signs of that scale improving, clearly
+in zinc, and we've always had baked in the organic side of the business. These were latent capacity that
+we had in Africa or in some of the [ schatten ] zinc, so that was never incremental. But just sort of Volcans
+and HVOs and you do Chevrons, and you had some of these things at some point. And let's see where the
+agricultural business goes. I'm sure there will be a question on that at some point, so I'm just preempting
+that sort of questions going to come at some point. If that business itself sort of changes a bit overtime
+and we keep 50%, where do we end up, does it do something, does it do nothing, I mean, obviously
+-- we're obviously alive to opportunities here that would be another sort of volume-scale catalyst to
+potentially move things up at some particular point in time. But for now, it's still a sensible range, given
+cyclicality in this business, but we're pointing towards the delivery in the upper end.
+
+Sylvain Brunet
+Exane BNP Paribas, Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Sylvain Brunet with Exane BNP Paribas. You talked about the ROE of marketing. In the past, we had the
+equity base to work out the numbers. Could you confirm we're talking probably more than 30% ROE as
+a guide? The second question on cobalt debottlenecking. Would there be other opportunities to add more
+as the one you've announced? Or was that more of a one-off, without requiring more CapEx? And lastly,
+perhaps, on the DRC. Of course, a moving situation there, but what would you say is an acceptable --
+would be an acceptable outcome for the mining court?
+
+Ivan Glasenberg
+CEO & Director
+
+Yes, firstly, the last question, I cannot comment what's acceptable. We've got to get into this negotiation.
+If the negotiation takes place, just like what's happening in South Africa where the new President has
+agreed that the mining industry will discuss the new code together with the Minister of Mines, I hope the
+same occurs in the DRC. And if it does happen, all of us as a group we'll get together with the Mining
+Minister and try find a resolution. Exactly what that is naturally, I cannot say today. And that's what we
+would all accept, we would have to get together and see what is reasonable to adjust. And if we do want
+to adjust, because we do have an agreement in place already. The other question, I think, was to you on
+the ROE, Steve, [ I can't ]...
+
+Steven Kalmin
+Chief Financial Officer
+
+30% plus, we haven't given a specific number on that. But you can -- I mean, you can see the sort of
+the marketing working capital and we've sort of historically had your 80%, 20% type we've shown on the
+dividend sheet at the back around the sort of earnings that sort of come from that. So certainly 30% plus
+comfortably on the marketing ROE this year.
+
+Ivan Glasenberg
+CEO & Director
+
+And on the cobalt, I think, what we set out and the growth of the cobalt taken to 65,000 tonnes was the
+figure. I think that's about it. I wouldn't expect that to expand much more.
+
+Steven Kalmin
+Chief Financial Officer
+
+Within our existing footprint.
+
+Ivan Glasenberg
+CEO & Director
+
+Yes, within our existing, if we buy something or something like that happens, that's different.
+
+Menno Gerard Cornelis Sanderse
+Morgan Stanley, Research Division
+
+It's Menno at Morgan Stanley. Three short ones. First you've surveyed the field out there, you see clearly
+no Greenfield, as you pointed out, but quite a bit of Brownfield, including your own. Is it starting to
+concern you a little bit in terms of the momentum that is all those Brownfield expansions are creating? So
+not only your own but also the others. Secondly, do you think as a company you are now too big in certain
+commodities to take a next step in terms of all M&A? Or do you think given the growth in the markets
+since the Xstrata deal, you now have sufficient room to act in all of those? And finally, on China, clearly
+environmental measures you mentioned a couple of times, they must have some positive outcomes also
+for your smelter fleet in the Rest of the World as they start clamping down. Is that business under earning
+at the moment within Glencore? Is there a big earning opportunities from these smelters going forward?
+
+Ivan Glasenberg
+CEO & Director
+
+The smelters are doing well. They definitely -- with China -- with the CapEx in China, certainly smelting in
+the West is not as bad as it used to be. So smelting is good. We also...
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Steven Kalmin
+Chief Financial Officer
+
+TC/RCs are so tight and others [ at the moment ].
+
+Ivan Glasenberg
+CEO & Director
+
+Yes, they're still tight TC/RCs, but the smelters give us good trading opportunities also and that's why
+we like the smelters having that advantage there. But going forward, let's see what happens with the
+shutdowns and how many smelters do really shut down in China. And let's see what happens in the TC/
+RCs going forward. The other one, are we too big in certain commodities that could we grow -- sorry,
+let's just go to your Brownfield story. Yes, we have some Brownfield opportunities, not -- they're good.
+We were not going to bring them on, unless, as we say, we will always look at the markets, we don't
+want to be the one to bring on capacity and push down markets. So we'll be conservative and ascertain
+when is the right time to bring them on. I wouldn't -- I don't believe the industry has massive Brownfield
+opportunities, I don't know where you see them, Menno. If you look at cobalt, they definitely don't have
+them. And if you look at copper, I don't know where it is, as well as, zinc no one has them. So there's
+not many Brownfield opportunities in these commodities. Of course, there are Brownfield opportunities
+in some of the other commodities, we see it in iron ore, et cetera. But I don't see those Brownfield
+opportunities that you talk about in these commodities. And that's what I'm saying, in most of these
+commodities there is limited supply. Yes, the third part of the question...
+
+Menno Gerard Cornelis Sanderse
+Morgan Stanley, Research Division
+
+Your own size, because the Xstrata deal somewhat big, are you now [ full ] enough to do [ other ones ]?
+
+Ivan Glasenberg
+CEO & Director
+
+We've always said, we will look opportunistically and ensure what happened in 2017, opportunities
+presented themselves to us. Now if you had told me this that the beginning of the year in 2017, would
+those opportunities come, were they there, we don't know. The opportunity occurred was Volcan because
+of our relationship with the family, et cetera, that came. Yes, Hunter Valley, I can't remember exactly
+when we did the deal. But yes, we're trying to do the deal, but it wasn't certain, we do it. We did a deal
+with the Chinese, eventually, after they were the winning bidder. So that opportunity came. Chevron
+opportunity came, you didn't know. So I don't know what's going to come going forward. Are we too big
+in certain commodities? What's big? As long as you don't have antitrust problems, there are certain mines
+where you can't grow because of antitrust. And then we'd have to assess it and see where the difficulties
+would occur. When we did buy Xstrata because of antitrust, the Chinese did -- we did have to dispose of
+Las Bambas...
+
+Steven Kalmin
+Chief Financial Officer
+
+And Nyrstar at the time.
+
+Ivan Glasenberg
+CEO & Director
+
+And the same with Nyrstar, when we had to give up certain amounts there. So yes, it could happen. But
+let's see. You've got to remember, copper we're still 1.6 million tonnes in a 23 million tonnes market.
+We've got, I think, we have room to grow, put it that way.
+
+Myles Allsop
+UBS Investment Bank, Research Division
+
+Myles Allsop, UBS. A couple of questions. First of all, could you talk about your ambitions in the agri
+space? So you're still as keen as ever to grow in the U.S. area? Obviously, there's some moving parts
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+there. And second, maybe going back to DRC, because no one seems to ask [ the question ] but what's
+your relationship with Gecamines like at the moment and this contract review, is that something we should
+be concerned about? And what comeback do you have if they do implement a new mining code as it is? Do
+you have to go through to the courts? Or what's plan B for you guys?
+
+Ivan Glasenberg
+CEO & Director
+
+Yes, yes, in the DRC, what is our relationship with Gecamines, it's a partner in Katanga. As you're aware,
+they still own 30% of Katanga.
+
+Steven Kalmin
+Chief Financial Officer
+
+25%.
+
+Ivan Glasenberg
+CEO & Director
+
+25%, sorry, 25% of Katanga. Still we are talking to them on the recapitalization. So we'll see where that
+gets to. We cannot comment much more than that. I mean, you saw on the Katanga board, not much
+more we can say about that. It is a separate company, as Steve said earlier. What can we do? Yes, you
+do have the process, go to the courts. Yes, we do have agreements in place and if the new mining code
+changes the existing agreement which is in place, there is an opportunity to go to court. Hopefully, we
+won't have to go there and I hope we will find a resolution. Now, this is similar to what happened in
+Australia with the mineral resource tax, which came in place. The mining industry got together and we
+eventually did have a discussion with the government and there was a solution for it. So I'm hoping that
+the same will occur here. But as you say, I cannot give you guarantees and we'll see where it ends up.
+
+Steven Kalmin
+Chief Financial Officer
+
+And ambitions in ag [ business ].
+
+Ivan Glasenberg
+CEO & Director
+
+Ambitions in ag, sorry I forgot that, trying to avoid that one. Ambitions in ag, we did set up ag business
+with the joint venture partners with the 2 Canadian pension funds. The idea is to grow that business
+and we continue look at opportunities. We have clearly said, we would like to grow in the states. But as
+we said earlier, it's not growth for growth's sake. It's going to make economic sense. The ag business is
+in a poor state. It does need consolidation. We'd like to be part of that consolidation. And we'll wait for
+opportunities, like the rest of our business, if and when they come.
+
+Alon Olsha
+Macquarie Research
+
+Alon Olsha, Macquarie. Just 3 questions, 2 related to costs. Cost inflation, obviously, establishing itself
+as a big theme now for those part of the cycle, certainly with your peers. Could you highlight areas
+in the business where you're feeling, I guess, the most acute cost pressures, what you're monitoring
+most closely. And just the second part of that question is, could you provide some of the assumptions
+underlying your cost guidance around some of the key byproduct prices and currencies? And then the third
+question is just on South Africa. New political dispensation there that's emerged, potentially very positive,
+still early days, but are you thinking potentially differently about South Africa? If things do develop in a
+positive direction, could you see yourselves reinvesting back in the country?
+
+Ivan Glasenberg
+CEO & Director
+
+Steve can talk about cost. I'll take the first part of the question, South Africa. Yes, it is positive. It looks
+we are all sitting positive with Cyril Ramaphosa coming in as the President. It should be good for the
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+country. Unfortunately, it's going to affect your cost because the rand has got stronger. So it has this
+win or -- win/loss on each side, but that is good for the country. So it does bode well for the country
+going forward. And so yes, we're happy to invest in South Africa. Even under the old regime, we still
+continue to believe South Africa would be okay as an investment opportunity. We did Chevron still under
+the old regime, so we've always happy to continue investing in South Africa. Of course, now you get
+more confident about the future with the new President. But we never pulled back out of South Africa and
+we continue to have big investments there with our coal, with our ferroalloys business over there and,
+hopefully, with oil refinery there and distribution units.
+
+Steven Kalmin
+Chief Financial Officer
+
+Alon, on the costs, for the cost guidance that was used, it was all the macros, all the assumptions at the
+end of January. So if you look at what all the prices were end of January currencies at the end of January,
+that sort of set the markup from both the byproduct and the currency factor and all the other cost inputs,
+frankly, of which probably the oil price as a factor into the pricing of diesel and all the other attributes sort
+of clearly coming in. So it's a fairly up-to-date number around those cost assumptions. I would say all the
+cost pressures that we're seeing is generally those passive currency and commodity flow-through which
+is having that inflationary side in terms of dollar costs. We're not seeing any other particularly notable
+rampant areas of -- and CPI linked, CPI is going up in some [ customer ]. Some of your agreements are
+linked to sort of CPI adjustments that might be in contract, things that might be in some of the wage
+agreements that you might have as well. But the fact although the commodity prices are higher, it's not
+a -- given the capital that's being sent or administered, there's sort of competition for labor and work
+and intensity in the sort of normal factors that would feed into it is nowhere near where things were back
+in the 2007, '08 sort of period as well where you are having to scramble around just to get basic sort of
+talent around in the technical or geological or other sort of fashion that you have as well. So I would --
+nothing particularly notable. It's 90% plus would be in just those passive sort of flow-throughs that would
+mathematically work through the system. We're not seeing anything that -- and individual countries, of
+course, to the extent that, I mean, Australia has obviously got energy. They've got high energy inflation
+down there because of some -- arguably some bad policy management around how they've managed sort
+of transitions and these things. So things like the refinery in Townsville, we have there had to go towards
+sort of getting a new long-term power agreement which could have been worse but it did -- it was quite a
+big increase because of what happened down there.
+
+Christopher LaFemina
+Jefferies LLC, Research Division
+
+Its Chris LaFemina from Jefferies. I have a question about your EBITDA waterfall chart on Exhibit 9 and
+unit cost on Exhibit 10. And also a question about the cycle. So first on the EBITDA waterfall chart. If we
+take 2016 EBITDA $7.2 billion, add the impact of price that gets to the $13.5 billion. But then you have $2
+billion of reductions due to cost inflation, et cetera, which is a little bit surprising when your unit costs in
+each of your segments other than coal are either flat or down. And when we think about our kind of 2018
+on spot prices, that $19.7 billion of EBITDA, are we expecting what portion of that increase from 2017
+to 2018 EBITDA is a function of price? And then what portion of it is a function of those other factors like
+volumes and costs actually being a tailwind for your revenue headwind? That's the first question. Does
+that make sense? Sorry. Second question on the cycle, maybe kind of related to what Jason was asking
+about projects. The fact that we're maybe entering a higher interest rate, higher inflationary environment,
+does that -- is there a danger here that mining companies begin to focus more on growth and less on
+capital returns? When we think about the benefit of 5% dividend yield, when interest rates are 0, that's
+great. When interest rates are 3%, 4%, suddenly there is maybe more an incentive to invest in growth
+rather than capital returns. And ultimately, do you think there is a risk here that higher interest rates,
+higher inflation is a catalyst to kill the cycle? Or is that not something that we really should be worrying
+about this point yet?
+
+Steven Kalmin
+Chief Financial Officer
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Okay, quite detailed questions there, Chris. We probably need a few hours to run through, if we want to
+get into the weeds of some of those questions. I mean 2017 was a period where we were still adjusting
+volumes to being in sort of containment and supply constraints around sort of looking to sort of accelerate
+markets getting to a more sort of tighter period. So we -- if you take ferrochrome and some of these
+things, you've seen if you look quarterly across our different volumes there, you've got a very volatile
+market, and from time to time you'd accelerate maintenance, you'll bring things forward, then you'll
+sort of turn things on. So we went through a period over the last couple of years across most of our
+commodities where some of that was clearly also focusing on optimizing around the book. So we had see
+-- we did see some -- there was some volume reductions as we went from '16 to '17, which did feed into
+that, some of which was planned, some of which was unplanned. I mean, these things happen from time
+to time in the industry, I'm pretty confident about our volume guidance this time around as being sort of
+more on the conservative end. So let's see how we deliver there and we'll come through in quarter 1. So
+the volume impact we have there was power issues down in Zambia, which that operation then lowered
+output for a while, which in turn had the flow on effect of reducing asset supply across the border into
+Mutanda, which then impacted some cobalt and some copper production down there. So you've seen quite
+a material impact through that supply chain come through. You've seen the strike impact over in Australia,
+I think we've quantified that across the New South Wales, one was relatively short, we still have one up
+at Oaky Creek, I think that was the best part of 6 million, 7 million tonnes at least. Some weather-related
+issues in Colombia, a few sort of gray things. So those I would say sort of popped it down to specific sort
+of '17 and now we are going copper, coal, cobalt in particular, you'll see that not acting as a tailwind. And
+the 2 of them work together when you have those volume reductions, you'll have some impact on your
+cost as well. What we've had to do also in Australia during periods we have some strike action like you're
+bringing in the temporary workforces and contractors and alike. So you're just keeping the lights on in
+the sensibly way ultimately, but that's incurring shorter terms and added cost to the business [ growth ].
+You've also got these other, which I would categorize as positive more passive cost impacts which would
+-- which we put into that cost line. Arguably, you can put net of pricing, some of the royalty adjustments,
+if you like, in coal as well. So we're paying higher royalties across Colombia, South Africa and Australia,
+they're feeding into our costs. They totally linked to that improvement in the coal price. Arguably, you
+can push that revenue linked over into as a net cost impact as opposed to some sort of headwind that
+you have. The increase in fuel cost, in [ passive ], in diesel and the weaker U.S. currencies which also
+contributed the sort of $322 million. I would also argue that, that's in the sort of that good consequential
+cyclical passive inputs that come through. So that should -- and obviously the byproduct helps in our
+business, and maybe we're more endowed in some of the byproducts, it's a function of pure geology on
+these things and you have it or you don't have it. And we happen to have a good portfolio mix across
+there which is sort of as we then march from '17 and hopefully moving up 46% you're going to see -- I
+don't think -- I mean, you shouldn't see other than that positive revenue linked inflation passive flow-
+through, I think you're going to see green, green, green as we sort of look towards that box in...
+
+Christopher LaFemina
+Jefferies LLC, Research Division
+
+So we're definitely $11.5 billion going to the $19.7 billion roughly what portion of that is in price, what
+portion of that is [indiscernible].
+
+Steven Kalmin
+Chief Financial Officer
+
+I can't give you specifics on that at the moment, but it's not going to look like this shape in terms of these
+things. It's going to have positive volume clearly. Cost is only going to be a function of inflation and those
+factors that come through. Byproducts, which we said, is the way that we've held our unit cost is going
+to come through the price line. The cobalts, the zincs, the leads, all these products and zinc and alike is
+going to come through price and not through the -- in terms of unit cost that's how the industry tends to
+report these things. Now we can report in a variety of ways, but that's how we look at these particular
+projects. And the quality of the cash generation from a Kazzinc, from a Katanga, from a Antamina, from all
+these other businesses that are contributing the significant byproducts. And then FX is going to be a bit of
+a tailwind from now, let's see what happens with the dollar.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Ivan Glasenberg
+CEO & Director
+
+And then on the other part of your question, the growth and higher interest rates. So high interest
+rate naturally proves inflation that we're going to high commodity prices, so that's the upside. So there
+maybe with higher commodity prices, yes, our competitors and everyone's going to look to grow and
+you will eventually have the Greenfield starting. The world's going to have to have it at some stage. If
+you believe what we've said earlier, where the demand growth copper going, 500,000 tonnes, et cetera,
+and what's going to happen in a lot of the commodities and the decline rates in a lot of the existing
+assets today, we're going to have to Greenfields some say. However, if you look at the various different
+-- firstly, everyone has been put on hold, you guys have -- investors have ensured that now it's all about
+cash versus return of cash to shareholders, which everyone is disciplined and is doing that today. And
+there's not a big rush to build new operations. And it's one of the first times I've seen in the industry
+where if you look across the industry, how many new mines are being built today in all commodities.
+We already talked about Panama, where else is the new mine coming onstream. That there are a few
+Brownfield opportunities, which we discussed earlier but not many. There's not many. Maybe in iron ore
+there is but in our commodities in copper, in zinc, in nickel, maybe there's stuff where people can expand
+down in Indonesia, et cetera, is nickel ore and nickel pig iron can be produced. Thermal coal, Indonesia
+is tougher, as I said earlier. So I don't know where you're going to get these big -- okay, Brownfield's
+not there. Big Greenfields? Not that many. Who owns those reserves? So it's getting tougher. And most
+these Greenfields are going to be in the more difficult countries. Look where you're going to go today.
+We're not going to the easy countries, you're not going Australia, you're not even going South Africa.
+There's [ empty ] Greenfields down there. So where do you have to go? You're going to go to DRC, yes,
+and you have Ivanhoe over there trying to develop Kamoa. You're going to go Mongolia. You're going to
+the tough -- you're going to Russia. There will be potentially growth in Russia when does [indiscernible]
+eventually get developed. But I don't see many of the big mining companies running to those areas today.
+So people are going to have that courage, but it's going to be difficult, because you're going to areas,
+limited infrastructure, harder to develop the large mines and more difficult regions. And with the mining
+code, potential of mining code is changing, as we're just experiencing in the DRC today. We don't have the
+same stability that you get in the better countries. So I don't see many people running to these Greenfield
+areas today. So it's going to get tougher.
+
+Tyler Anson Broda
+RBC Capital Markets, LLC, Research Division
+
+Tyler Broda from RBC. Just a quick one for me. Just on the coal portfolio mix, seeing the EBITDA
+reconciliation for spot, that it's a $16 impact at the end of January versus $10 at the full year. You
+mentioned the footnote is the hard coking coal and semi-soft as well as HVO, could you just talk about
+some of the dynamics going on there?
+
+Steven Kalmin
+Chief Financial Officer
+
+That's a mathematical -- thanks, Tyler, I mean, for us it's -- I mean, we're trying to give a sort of putting
+into right buckets, so everyone sort of can see a Newcastle price on their screen, but coal is hugely
+segmented across different qualities, different markets, different grades, different blends, different origins,
+some markets stronger, some markets weaker any particular times. So you've seen some of the premiums
+and discounts between certain types of coal. I mean, I'm not going to say record levels, but they're at
+much high levels than maybe would have been either expected or even historically been witnessed, you're
+seeing it in iron ore, you're seeing it in various other grade factors. So what we do, we could have just
+given you an average realization and we could be done, but we always like to start at a Newcastle, a
+benchmark price because that drives the significant part of our volume, but that doesn't necessarily drive
+the Colombian realizations, it doesn't drive all of the South African realizations, it doesn't drive all of
+the Australian realizations either. I mean, the thing that HVO is actually it does tend to take you more
+towards -- way more towards that market which is ours. So just a mathematical calculation, when we do
+all our numbers, run all our pricings at a particular point in time, we started at a Newcastle benchmark
+and then work our way. So the higher that number may come at any point in time, clearly it's reflecting
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+23
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+some of the indices and discounts between different origins and different realizations. And also the way
+what we do inside that number as well, we effectively treat the, because we're a small play in the Coking
+coal market, it's almost treated like a byproduct for the purpose of that buildup in EBITDA. So where
+you had the higher prices that we saw in towards last year when you saw what close to the high $300 or
+something in coking coal. Now we're in the sort of $200 or something in the semi-soft and that's been a
+very volatile market clearly as well. That the higher that is, it also mathematically narrows our discount
+there in terms of the byproduct, the sort of net realization if you apply it over the 130 or so tonnes. So it
+is a complicated overall buildup of cash generation given qualities and exposures and blends and at time,
+and it just reflects the byproduct of coking and the different quality at the particular point in time. And
+we'd look to -- that's why we do try and guide in that area as well we sort of can because it's not easy
+that's -- I mean, we obviously model it. We have all the drivers to be able to do that. It is the hardest
+one for you guys at the room and the marketplace itself to be able to at any point in time appreciating
+exactly what's happening across all the different blends and realizations. And some of it is lagging because
+you got pricing that might be quarterly. You've got some annual -- this sort of reflects also some of the
+realizations that we expect.
+
+Ivan Glasenberg
+CEO & Director
+
+And there's so many different brands of coal within the group, even just within South Africa, if you talk
+API4, that's a guideline, but then we got many different coals which don't trade at API4 and the discount
+to API4 and you're selling today into India 4,800 kilocal coal as opposed to API4, which is a much higher
+kilocal coal, so the discounts and the discounts vary from time to time. So that's the tough one to sort of
+get to the right number.
+
+Steven Kalmin
+Chief Financial Officer
+
+And we'll try and guide and update as regularly as makes sense because that is the one -- that one needs
+more of a steer around how things are developing in that market compared to the others much simpler.
+
+Tyler Anson Broda
+RBC Capital Markets, LLC, Research Division
+
+And just as a follow-up. There's no real correlation then between higher prices meaning a higher portfolio
+mix discount in thermal prices if they go up? It's just been a dynamic of how the market has moved into...
+
+Steven Kalmin
+Chief Financial Officer
+
+It's a dynamic relative to the gap between higher and lower pricing and what the coking coal impact is
+having in that particular mix as well [indiscernible].
+
+Myles Allsop
+UBS Investment Bank, Research Division
+
+It's Myles Allsop. Just on zinc. Could you just give us a sense as to how you see the market evolving over
+the next couple of years? Because we have got Johannesburg, Dugald River. New Century and yourselves
+ramping up. There's quite a lot of supply of fields, more than we've seen for the last 5, 10 years sort of
+coming into the market sort of outside China. And then just the recent starts of domestical produce in
+China seems to step up a bit. Do you think China has sort of addressed some of the environmental issues?
+And would your base case be that China keeps grinding down in terms of mine supply?
+
+Ivan Glasenberg
+CEO & Director
+
+Look, you've got to look at the zinc market was at 13 million tonnes, what is growth with the emerging
+markets and galvanizing which we spoke about. Assume it grows 3%, et cetera, so you do need more
+supply. Now the question is you talk about we've gone up. We haven't gone up much. What we're adding
+this year, okay, besides other things a 90,000 tonnes roundabout there, and we'll be cautious on the
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+24
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+balance. What else is coming up? You do have the one mine shutting in South Africa and the other mine
+coming on from Mutanda that will add a bit, but nothing big, because you do have the one shutting down,
+what's it called, Johannesburg. So there's not having Century, we talked about Century, let's see what
+happens with Century. And I don't want to talk about another company. But they are taking on old pit, I
+don't know the exact numbers they are talking, they're going to be producing, let's see what eventually
+happens there. You talk about China, look, commodity prices, zinc rallied last year, we got up to where
+we got 3,500, et cetera, and everyone was expecting Chinese production to increase, it didn't. It, in fact,
+decreased. So the environmental restrictions are taking its toll. Going forward, hard to predict, we're just
+starting, okay, we've hit Chinese New Year -- [ let's see ] post Chinese New Year, with high zinc prices do
+we expect them to continue to grow? Talk to our zinc guys, it's hard one to call anything that happens in
+Chinese more difficult call, but we don't see it right now.
+
+Paul Smith
+Former Head of Investor Relations
+
+Any more questions?
+
+Myles Allsop
+UBS Investment Bank, Research Division
+
+One quick question on hedging. Any thoughts about especially in the case of thermal coal where the
+forward curve is pretty robust right now, any thoughts about hedging future production there?
+
+Ivan Glasenberg
+CEO & Director
+
+Yes, look, we took a hedge a while ago when we -- when the balance sheet was in the [ top ] of shape
+it's in we wanted to [indiscernible] the cash flows there, derisking. We also sold a lot on index and we
+wanted to lock out the index. We do have fixed pricing today. We continue having fixed pricing. You don't
+see it on the hedging mark-to-market, the Japanese settlement is fixed pricing. Fortunately, you don't
+mark-to-market because you're selling actual physical coal, it's not the index. The other one was where
+we sold into Europe in a larger amount of coal sold on index and we wanted to hedge there. We continue
+to selling a large amount of coal on index. So I don't see anyone -- I don't -- we've no reason to hedge
+from a financial point of view. Where we see the market, we don't think it's necessary to hedge. So we're
+pretty relaxed, we don't have hedges right now. But we do have a lot of index sales and the opportune
+time may come where you may want to lock out some of those index sales, and then you will have your
+mark-to-market on hedge. But we have a lot of -- we will have, as we fix our Japanese pricing, we've done
+a certain amount, we will do more. I think it's toward April or whatever it is we will do our next pricing
+that will be locked in at a price. You won't see it, it will be announced as usual, but you won't see it on the
+mark-to-market on hedge. So these are bit of hedged coal in that type of area.
+
+Steven Kalmin
+Chief Financial Officer
+
+But the drivers that sort of led to that sort of hedging derisk decision back in it was in the middle of
+second quarter 2016 or so at that time are sort of completely different with where we are today.
+
+Ivan Glasenberg
+CEO & Director
+
+Yes. Different situation.
+
+Steven Kalmin
+Chief Financial Officer
+
+So if there's any other things, it's more likely to be short term or tactical sort of things that happened but
+nothing on the...
+
+Paul Smith
+Former Head of Investor Relations
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+25
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Okay. That completes the call. Thanks a lot.
+
+Ivan Glasenberg
+CEO & Director
+Thank you. Thank you very much.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+26
+
+GLENCORE PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+27
+
+

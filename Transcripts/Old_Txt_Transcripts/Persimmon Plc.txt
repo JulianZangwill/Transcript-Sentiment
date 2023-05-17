@@ -1,0 +1,1637 @@
+Persimmon Plc LSE:PSN
+FY 2017 Earnings Call Transcripts
+Tuesday, February 27, 2018 9:30 AM GMT
+S&P Global Market Intelligence Estimates
+
+CONSENSUS
+
+EPS Normalized 
+
+2.46
+
+Revenue  (mm)
+
+3423.49
+
+Currency: GBP
+Consensus as of  Feb-27-2018 8:45 AM GMT
+
+-FY 2017-
+
+ACTUAL
+
+2.46
+
+3422.30
+
+-FY 2018-
+
+SURPRISE
+
+CONSENSUS
+
+0.41
+
+(0.03 %)
+
+2.62
+
+3608.41
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+FY 2016
+
+FY 2017
+
+1.95
+
+2.46
+
+2.00
+
+2.46
+
+2.56 %
+
+0.41 %
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+13
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Jeffrey Fairburn
+Former Group CEO & Executive
+Director
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+ANALYSTS
+
+Aynsley Lammin
+Canaccord Genuity Corp.,
+Research Division
+
+Christopher James Millington
+Numis Securities Limited, Research
+Division
+
+Christopher Richard Fremantle
+Morgan Stanley, Research Division
+
+Clyde Lewis
+Peel Hunt LLP, Research Division
+
+Glynis Mary Johnson
+Deutsche Bank AG, Research
+Division
+
+Gregor Kuglitsch
+UBS Investment Bank, Research
+Division
+
+Jonathan Matthew Bell
+Barclays Bank PLC, Research
+Division
+
+Unknown Analyst
+
+William Jones
+Redburn (Europe) Limited,
+Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Presentation
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+All right. Good morning, everyone. We'll make a start. And welcome to the Persimmon 2017 Results
+Presentation.
+
+In the usual way, I intend to give you a brief overview followed by a detailed review of operations for the
+year. And our view of how things are looking going forward. Mike will then give you some details on the
+financials, and then we'll move through to Q&A after a summary.
+
+I am delighted to be able to focus this morning on the excellent performance of the business. The
+numbers speak for themselves. I think we're really pleased with the top line growth at 9% revenue,
+operating profits ahead by 24% to GBP 966 million and the excellent margin improvement, which we'll
+give you a bit more color on later on.
+
+And the strong cash generation that we produced during the year giving us a net closing position at
+the end of year of GBP 1.3 billion. And the combined effect of that, giving us a 51.5% return on capital
+employed figure for the year. And I think earnings per share also stands out in that respect to 26% in the
+year to 258p.
+
+The whole of the management team of Persimmon is very focused in the business, as you can imagine,
+on producing these results. And we're really pleased in the year to have exceeded 16,000 new homes,
+so good growth in the year. And we are maximizing our opportunity in a supportive market. The
+fundamentals are sound with excellent operating efficiency. And I think, it's a good start to the year with
+forward sales revenue standing at an increase 7.5% to over GBP 2 billion.
+
+Good free cash generation in 2017 over GBP 800 million, which was an 18% increase over the prior year.
+And this as -- the strong performance has enabled us to enhance the capital return further. And so today,
+we're very pleased to announce a commitment to additional payments of GBP 1.25 per annum in March
+or early April of each year for the next 3 years on top of running dividend of GBP 1.10, which will be paid
+in July. So that equates to more than GBP 725 million of the cash returned to shareholders for each of
+the next 3 years. On Friday, the executive team advised reductions to 2012 LTIP plan and our continued
+commitment to Persimmon for the future.
+
+So moving through to the review. I intend to give you an update on the strategy, an overview of the
+business operations for the year, the land bank, which has performed very well, current trading, the
+surplus capital position and then the outlook.
+
+So just to remind everybody of the strategy. The fundamental part of this were to grow the business to
+optimal scale in the marketplace, control the cost effectiveness and cost efficiency of the business, which
+I think we've done very well, strong investment and disciplined investment during the cycle at the right
+time, leading to a review of surplus capital and the return of that surplus cash to shareholders.
+
+So as we say, we've got strong operational fundamentals. We've got a good outlook position. We've been
+attempting to grow that over recent years, but we're pleased that we've managed to maintain that. We've
+improved the infrastructure in the business, so 6 new operating companies in the last 3 years. Nottingham
+opened at the beginning of 2017, which is now performing very strongly and quickly got up-to-speed.
+And we opened a new business near Ipswich and Suffolk at the beginning of this year. So expanding the
+network, given us opportunity to grow and maintain efficiency as we go forward. And we believe that the
+operating companies can operate very well at around 650 units per annum. But we've got the flex on that
+from 350 units. Of course, we can operate very efficiently.
+
+We've continue to target the more affordable end of the markets. Our average selling price is still at the
+lower end of the industry. And that is very much intentional. The lenders are very supportive of new home
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+building and there are some excellent mortgage rates. In fact, rates have continued to trend down slightly
+over the next 6 months.
+
+Demand remains very strong. And I'm also pleased to say that during the course of the year, customer
+care has shown good improvement, increasing the HBF score rating by nearly 5% during the course of the
+year.
+
+So looking at the issues in the business. As I mentioned, we worked really hard to meet the demand that
+we're seeing -- that we've seen during the course of the year, nearly 900 extra units legally completed
+to over 16,000 units. That really tight cost control, which Mike will explain in a bit more detail later, but
+we've concentrated on all aspects of the business to control that cost base and make sure that we can be
+as efficient as we possibly can, which is driving a very strong margin. As I say, operating margin actually
+up 340 basis points in 2017 and still showing some further improvement as we've gone into the second
+half of last year. So strong fundamentals and good investment in work in progress. We're pleased to have
+invested not over another GBP 100 million in work in progress, which gives us that platform to continue to
+grow the business.
+
+Looking at the regional performance. You can see the North has performed strongly with 7% completion
+growth in the year. Charles Church, similar pattern to previous years where we've reduced the volume
+of Charles Church properties given where we see the strength in the market and the position in all of
+our product in the market. But generally, a good picture right across the board. Partnerships, a strong
+improvement in volume during the course of the year, but that's largely down to the timing of sites as they
+come onstream during the course of the year. And I think you can see from that the plot count in terms
+of land bank, how well we're positioned across the group to continue to tread strongly with a sustainable
+business into the future.
+
+So let's have a look at the land. I think the key features for me are still a very good supportive land
+market. We were seeing excellent opportunities in the markets and we're keen to capture those. Our lower
+land costs are supporting further improvements in the margin. Again, Mike will give us a bit more detail on
+that later.
+
+And I think the strategic -- ex-strategic content in land bank is important and enables us to continue to
+drive further value in the business. So we're very happy with the shape of the land bank, nearly a 100,000
+plots. We replaced over 17,000 plots in the year and we invested quite strongly, over GBP 600 million
+invested into land during the course of the year, which is quite a sizable increase over the prior year. So
+there's a lot of good value embedded in the land bank to give us confidence for trading into the future for
+Persimmon.
+
+Strategic land is working well. We've got a really good team there. They are driving planning consents
+through the system. And with good conversion rates as you can see, over 8,200 plots converted in the
+year from 28 locations. The average size of the sites is increasing. Again, another feature of the system.
+Over 300 plots -- unit plots per site of those sites that we've pulled-through, in comparison to on the
+market sites of around about 2 in the plot per site. So that's a feature of the planning system at the
+moment. And actually is an issue for the industry in terms of delivery of volume going forward. We're
+producing more volume on the same number of sites, which does drive efficiency, but also is a bit limited
+in terms of opportunity in the market for buyers and for resource. So I think good that we've managed to
+acquire more strategic land in the year replacing the land that we brought through. And closing the year at
+over 16,000 acres still held in strategic land bank, so at a good, strong position for the future.
+
+I think you're looking at trading. We're encouraged by the start that we're seeing in 2018, albeit it was
+only 8 weeks of trading. We've seen sales rates up 7% over those first 8 weeks of the year, so that's
+encouraging, off a very similar number of outlets to the prior year. But that's just the start of the year.
+There's still a long way to go. But it does give us confidence to invest, to continue to invest in the work in
+progress. But we've mentioned before the challenges are in how we manage to respond through build, and
+we have a number of issues that are helping us to do that. But it is challenging.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Space4 is certainly seeing good increases during the course of the year, and producing good volumes for
+us both in house kits and also roof systems as well. And we expect to open around about of 100 new sites
+during the course of the first half of this year.
+
+So looking at that forward sales position, we've maintained that going forward. And as you can see, there
+is good revenue improvement year-on-year, and that gives us confidence to continue to move the business
+forward.
+
+I'd now like to turn to the return of surplus capital, which is obviously a big announcement today. And
+we're very pleased to be able to announce a significant increase to the capital return plan, once again.
+Last year, we made payments of GBP 1.35, and to-date, we've returned a total of nearly GBP 1.5 billion
+since we introduced the plan in 2012, which is significantly ahead of plan. So today, we're pleased to
+announce that we're now more than doubling the value that returning to shareholders over this planned
+period to GBP 13 per share, which as well as the running dividend of 110p per share paid in July each
+year, we're also paying for the next 3 years, GBP 1.25 in late March, early April of each year. So a total of
+GBP 2.35 per share per year or over GBP 700 million per year. We'll continue to review that on an annual
+basis, and we will report as usual going forward in that respect.
+
+And so how we're seeing the current market? The economy remains good. We're seeing good disciplined
+lending, good mortgage offers as I mentioned. And whilst the key challenges remain to us in terms of
+volume growth and construction, we see a supportive market and one which gives us confidence to
+continue to invest as we go forward.
+
+So the priorities for the business now is to continue to invest in our sales network, and as I say, we've
+got good sites coming forward. Increase the construction further, there is a challenge. We continue with
+our more traditional sort of site layout and the standardization of the house types is still delivering good
+results in terms of cost efficiency. And the investment in off-site manufacturing is important. We do
+anticipate further investment in Space4 as we go forward. We have our Brickworks factory now, which is
+working of 2 shifts and we expect to move to 3 shifts very shortly. So that will produce up to 2/3 of our
+volume of bricks going forward.
+
+And today, we're also announcing that we've committed to building a roof tile manufacturing facility on the
+same site just south of Doncaster. And we expect that to be constructed during the course of this year and
+delivering tiles to our sites during the course of next year. And again, that will be sized to about 2/3 of our
+requirement. So that's an important feature really, as we try as Persimmon to control our ability to deliver
+volume going forward to de-risk some of the supply issues that we've been seeing over the last few years.
+
+And also, the skills aspect is important. It is challenging. It's -- we continue to train, but it takes time
+to bring new skilled people through the system. So the incremental increases in production, we hope to
+continue to see as the industry continues to move forward.
+
+So that's it from me at the moment. I'd now like to pass to Mike for further financial review.
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+Thanks, Jeff. In the usual way, what we're going to look at is some key features of the trading. We'll look
+into the balance sheet in a bit more detail and the cash generation and returns. And I think it's important
+to perhaps just sort of track through the philosophy around the capital return and the levels of cash that
+the business, certainly the board consider as appropriate to hold, albeit that can change depending on
+where we perceive we are in the cycle. I wanted to comment on the LTIP unwind at the rear end of this
+section.
+
+So looking at the trading review. I think, I mean, Jeff has already touched on the highlights. I think
+that obviously, an outstanding element to the numbers is the gross margin level. And we'll see -- we'll
+have a look at that in a bit more detail in a second. And I think the growth of the business is all about
+growth, quality and cash generation. I think they're the three key headlines that we would like to try and
+emphasize in terms of the focus of what we're trying to deliver with the business for shareholders. It's all
+about appropriate growth, to sustainable market share in regional markets of the highest quality. Jeff is
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+manic about excellence in all areas. And I think that is something that we will continue to pursue. And the
+results of all that work will generate higher levels of free cash generation. And I think the margin level
+the businesses is delivering record all-time highs is part and parcel of that delivery together with the 25%
+increase in pretax profits.
+
+Looking at the operating profit improvement year-on-year. Again, touching on those key features. Volume
+increase is obviously important, its cash a generator in its own right. So to continue to grow each of our
+30 businesses now in those regional markets to sustainable scale is very important. Market conditions
+provide us with firm pricing conditions. We've seen some growth as you can see in the headline numbers
+in the private sale market, which is most encouraging in terms of where the tone of the market is.
+Obviously, we understand the secondhand market is -- it appears to be a little bit more challenged at
+this point with the lack of instructions coming through. But as always, pricing in terms of new build, I
+mean, we all realize that we're price takers, we're not price setters. That is one of the basic fundamental
+principles of being a house builder.
+
+And indeed, mortgage lenders, valuers will look for precedent in the market to set pricing of security
+values for those -- for the principal lenders in the market. So the lenders are always looking at the
+secondhand market for a lead in terms of pricing. And I think the tighter regulation around lending
+should support, hopefully, a more sustainable market moving further out in terms of the Bank of England
+supervision that we have with the MMR and other movements, other changes that have happened over
+recent years.
+
+You can see the contribution of the gross margin improvement coming through there to the year-on-
+year improvement. So why don't we now turn to looking that in a little bit more detail. 350 basis point
+increase in gross margin year-on-year to this record high of 31.3% for the business. That is delivered
+essentially through a combination of 3 things: it's what's happening to the top line. Obviously, if we can
+retain as much of our pricing gain as possible within the business, then obviously, that's to the benefit
+of shareholders in terms of adding value both to the margin and to the cash generation. We then have
+the land situation in terms of land recoveries that we're making against the legal completions that we
+take in any financial year. And then we've got the build, where the weight of money, if you will, is behind
+delivering the net gross profit per unit.
+
+So you can see there that we've been able to capture around about of GBP 6,500 per unit in additional
+price. We have incurred around about GBP 450 worth of additional land cost recovery in delivering those
+legal completions in the financial year compared with last year. And then interest -- the really interesting
+bit, I guess, is in the build and other directs, where we've seen a reduction in the build and other direct
+cost per unit of about just over GBP 3,250. So I think let's just think about that build area because it really
+is quite interesting. And you've heard us sort of touch on this before, in that it -- you've got to work very,
+very hard on many, many things to deliver this sort of performance.
+
+Now trying to sort of simplify in terms of communicating part of the story here is that as you guys realize
+our shop floor is our development sites. That's our factory floor. That's where all the activity, more or less
+happens in terms of development works and that's where the weight of money is directed in terms of our
+development processes and construction processes in developing sites, putting the infrastructure in and
+developing the units to hand over to our customers.
+
+So let's just set the scene, I mean -- so there's on-site works and offsite works. Okay? That's a sort of
+fundamental split of what's in the build and other direct costs. And when I talk about off-site costs, I'm
+thinking about sales and marketing, I'm thinking about maintenance, I'm thinking about professional fees.
+The usual sort of costs that a house builder will incur, but you can't go on to site and see it. You can't
+valuate basically. It's not a physical, it's not like bricks and mortar, you can't go on and touch it.
+
+So offsite works is a smaller proportion of the whole and for 2017, it was about GBP 8,500 per unit in
+terms of cost recoveries within that GBP 112,000. The remainder, about GBP 103,500 is our on-site costs,
+and I am sure that won't come as a surprise in terms of where the weight of money is in terms of opening
+up sites, doing all the ground works, putting the infrastructure in and getting the houses built.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Now so we got to split this year of sort of GBP 103,500 and GBP 8,500 in simple terms. Last year, so we
+can -- what I'm trying to just paint a picture of the movement year-on-year. Last year, our off-site costs
+pool was about GBP 109,500, so there's been about a GBP 1,000 reduction in off-site pool of costs. And
+the on-site last year was about GBP 105,800, so almost a GBP 106,000 last year, where we've seen a net
+reduction of just over GBP 2,000, so it's gone from GBP 103,500 to GBP 105,800. So just over GBP 2,000
+was the reduction in our on-site costs.
+
+Just attending to the off-site costs, which is perhaps a little bit simpler. The bulk of that continues to be
+the efficiencies that we're gaining through driving more volume through the business because obviously,
+an element of our offsite costs are fixed costs, in terms of our sales teams et cetera, et cetera. So the
+more volume that we sell from each and every site, our cost recoveries become more efficient. We are
+using digital reach to market in terms of sales lead generation and conversion, which again, makes our
+sales processes more efficient. And you can see over the page in your booklet, although I want to stay on
+18 at the moment, our sales and marketing costs of around about 1%, which I think is to me, going to be
+low watermark. I think we'd expect that to probably tick up from here as we move forward. But we're still
+exploring different techniques of digital support to our sales processes.
+
+And there's also some, I mean, for example, our health and safety routines are very, very strong. We've
+invested in our health and safety processes over the last few years. And again, that's a fixed cost. So
+we've got better efficiencies in recovering that cost. But also what it means is, for example, we're able
+to take a slightly different view on our insurances, contract works, public liability insurances, where we
+can -- we have the surety of our principal controls in this area. So we can reassess our insurance covers,
+which allows us to become more efficient in terms of covering that risk forward. So that also provides --
+if you translate that into pounds per plot legally completed, that could maybe GBP 50 a plot. It's just one
+example of one of the things that we're always looking to improve on. That adds value to the margin. And
+that's in the off-site pool.
+
+So off-site has dropped from by about GBP 1,000 year-on-year, which accounts for an element of that GBP
+3,250 drop overall. So we're left with this sort of just over GBP 2,000 in the on-site cost pool. Now it's
+important to remember that we are subject to build cost inflation. So that sort of GBP 2,000 position is a
+net position after incurring a certain amount of build cost.
+
+And now we've had the detail for the year, we would estimate our supply chain build cost pressure is
+around about 2.5% for '17. So if you back out that from the sort of GBP 2,100 net position, that would
+indicate the cost inflation accounts for about GBP 2,500 to GBP 2,400. And so that points to savings
+of about GBP 4,500 within this area. That's after -- you've got to -- it's a grossing up exercise. We've
+incurred a bit of build cost inflation, but we've also -- we worked very hard to generate other savings in
+the build cost area. So that's the really interesting bit. Where are these GBP 4,500 per unit? Where is it
+coming from? And if we have perhaps a couple of days to go through all the issues, then we'd covered the
+ground.
+
+I think a key thing for us that you can see in the overall numbers, for example, is how the geography
+flexes in terms of where our units being legally completed. And Jeff's already said the Northern patch of
+our business has done extremely well in 2017; around about 42% of our total legals have come from out
+of our Northern Persimmon patch compared with less than 40% last year. We've got a 25% increase in
+affordable delivery.
+
+Now if you think about the build cost that go into that product in those regions, then firstly, the further
+north you travel then labor cost gets a little bit more competitive, if you will, or a little lower. And that
+feeds into the overall position. Affordable products. We're very proud of our Westbury units. But it's a
+simpler product. It carries a low specification. So a 25% increase in that type of product lends itself to
+improvements in build cost overall for the group.
+
+Jeff, we've got standard house types and the coverage of that is increasing all the time, isn't it? In terms
+of the layouts that we're achieving on new sites. So that is also adding extra value as that comes through.
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Efficiency savings.
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+Yes. And efficiency saving on top. So there's a number of things. I mean, Space4, we've increased the
+throughput and the output from the Space4 factory to over 6,500 units combined of kits and the roof
+systems.
+
+You know that translates into GBP 150, GBP 200 per unit on the Space4 volume becoming more efficient
+within the factory. We pass that on to the building operations. Space4 isn't a profit center. It's a supplier
+to the house building operations. And Jeff is very keen to drive the cost efficiency in that manufacturing
+facility, which is then passed on to the house building businesses. And that translates into lower build
+costs.
+
+If you translate the GBP 150, GBP 200 per unit improvement on Space4 over say, 6,500 units to 16,000,
+well, that sort of maybe GBP 50, GBP 60 a plot. But all these little things add up, and you've got to
+keep on working very hard to deliver these operational gains. And this comes back to Jeff's mantra,
+operational excellence in every area. All adds up to deliver these sorts of performances. And that's why,
+Jeff mentioned Brickworks, mentioned tile works, these are further steps in that direction to support
+margin. We can't guarantee a further improvement in margin, but it's supportive of margin levels at
+these sorts of levels. Because obviously, no one knows what the future holds and as we can see, margin
+obviously, is the net result of a large number of drivers.
+
+So I hope that gives a bit of color around the build costs, the fact that we're being very focused on every
+element of what we're delivering. The intensity of scrutiny within the business through our evaluation
+processes is very disciplined. And being a large group, we've got procurement opportunities, but equally,
+we've got the benchmarking opportunity that we can compare best-in-breed of just, for example, skip
+hire. We know each business, how much each business spends on skip hire. And there'll be a question.
+Well, look if this business say over here can achieve that cost, well, what's the problem over here if it's
+higher? And the management team is very diligent on scrutinizing down to that sort of level to make
+sure that when you throw all the bits of the jigsaw together, you get this sort of picture, which is one of
+fantastic delivery. And as I say, record highs for Persimmon. Have I bored everybody to death on that
+now? I hope so.
+
+Operating margins. We managed to keep most of the gross margin improvement at the operating margin
+level as you can see. And its again, a function of discipline around the operating expenses. So I think the
+operating expense line continues to show the same sort of story.
+
+And looking at the balance sheet -- well Jeff's already touched on it. I mean Jeff's very proud about
+the quality that's embedded in the land bank, as we all are. I think the cost of revenue percentage is a
+manifestation of that. I think you guys all know that this is just but one dimension of margin delivery. It's
+an important dimension, but it complements the other development costs as we've already seen in terms
+of the margin structure. So again, please don't take this away in thinking, well, there's another 200 bps
+of margin to drop through next year because as you guys know, it doesn't work like that. The mix in the
+sales is different from the mix in the land bank for starter. And indeed, there's a lot of development costs,
+as we just examined, that have to be delivered in terms of delivering the margin as well.
+
+So there's all the offsite infrastructure works that are tied to Section 106 agreements and the like. All the
+planning gain items that have to be delivered in terms of constructing schools and amenity value in the
+local communities that again, we're very proud. But all that comes together to deliver our end margins.
+I think the one thing that we can say, when we look at the pipeline of our new sites, then it seems to us
+that at this point in time looking at spot pricing, if you will, then the margins in the future land and our
+expectations around delivering margins are similar to some improvements, some perhaps, possibility of
+improvement moving down the track from where we are today.
+
+We talked about margins plateauing off eventually. There's only so much you can squeeze out of the
+stone. We'll keep on squeezing. But it is being realistic margins are going to plateau off at some points.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+I mean, Jeff is very demanding. And he wants light to be shown into every dark corner to try and deliver
+a bit more value, if we can, and we'll continue to do that tirelessly. And so -- but I think the margin
+prognosis is positive at this point, we'd like to think that certainly we'll be delivering similar, if not touch a
+better moving forward for this year into next. But again, as I've said already, there's a lot of moving parts
+in this equation and we'll have to see what the future holds.
+
+And just touching on the balance sheet very briefly. I think land is key. Obviously, we've spent just over
+GBP 600 million on land through '17. The land credit is relevant to -- that's about GBP 270 million. So
+around about GBP 330 million going out on the front end cash cost on new land deals in the period. The
+land value is edged up net of recoveries just over GBP 2 billion at the end of '17 compared with the GBP
+1.95 billion more or less at the end of '16.
+
+Work in progress, as you know, we've been working very hard to try and put more money in the ground.
+Build is the key constraint within the business as Jeff's already touched on both. As you can see there,
+we've managed to put about GBP 100 million extra in the ground on work in progress, which is great in
+terms of supporting future delivery. But we are very keen on maintaining this higher level of asset turn
+because that speaks to the cash intensity of the business.
+
+And I think an absolute outstanding feature of these numbers is the return on average capital employed at
+51.5%. I think that's got to be an industry high ever, unless you tell me something different. I'm guessing,
+but it's a pretty high number. And I think this is delivering more from less, type mantra. We've delivered
+24% increase in operating profit, brought to GBP 966 million from average capital employed, which is 5%
+down on last year. It's about GBP 100 million down on last year, [ GBP 1,876 million ] on our numbers
+as being the average capital employed through '17. So I think that speaks volumes about the capital
+discipline in the business.
+
+Capital return, well, cash generation first. If we didn't have the cash generation, we'd have no capital
+return. And obviously, very strong cash generation in '17 of over GBP 800 million. As Jeff said, that's a
+key feature of the business. Cash generation, as we've talked about before is a combination of trading
+performance and balance sheet management. And you can see in the graph, it's all about at this point
+in the cycle, the combination of that growth quality cash generation comes through clearly, I think in
+that slide, where you've got the cash from operating activities going hand-in-hand with the underlying
+operating profit, which is your redline. They are almost identical. The delta there is your working capital
+piece, which is your balance sheet absorption or release, which is that thin slither of absorption of about
+GBP 20 million in '17.
+
+The record of the business you can see there is a powerful reminder of the cash generative nature of this
+business, which has been a permanent feature of Persimmon over the years, which allows us to look at
+capital return, the level of capital return in a positive fashion. I'd like to think that we are progressive in
+terms of our annual reviews, our continual reviews of the amounts of capital we do return. Jeff's already
+touched on the announcement today of increasing the capital return by committing to 3 specials; 125p per
+share over the next 3 years. But also the liquidity that we generate does give us other opportunities.
+
+And I think the -- I think it's worthwhile just very quickly touching through the philosophy around, how we
+deal with our capital -- excess capital that we generate. Firstly, we've got to attend to the working capital
+cycle in the business, whilst minimizing financial risk through the cycle, together with the reinvestment
+needs and assessing the reinvestment needs, not for now, but also in short term over the next 2 to 3
+years perhaps.
+
+We want the liquidity to invest in the business at the right time, in the right land, in the right locations.
+Amplitude -- so what's the amplitude of working capital cycle at the moment for us? I can hear the
+question going through your minds. And I guess that you've got to be looking at around GBP 400 million
+to GBP 450 million in terms of peak to trough in terms of working capital cycle. You then put on a bit
+of a war chest in terms of being able to support land investment. We've got huge amounts of strategic
+land in the pipeline that we need to be able to support bringing that through to deliver the value for our
+shareholders. So in our estimate, we'd say maybe GBP 300 million, GBP 350 million on top to give you a
+feel for at this point in the cycle where we believe an appropriate June, December, the peak of liquidity
+point in the annual cycle, as I signaled to, where perhaps the cash should be positioned as a minimum.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+The GBP 758,000 mark, I think, is reasonable position to take. So over and above that, we came into the
+year at GBP 900,000. So arguably, slightly longer that sort of position. But obviously, through this year,
+we've done exceedingly well in generating further cash, which has obviously been a real fill-it for the board
+to be able to assess the additional return. But over and above the working capital requirement and the
+reinvestment needs in terms of land or additional land opportunities, we then get into surplus capital, and
+that's what underwrites the GBP 1.10 longer-term commitment.
+
+And I am emphasizing words here because it's a way of just sort of structuring a hierarchy of capital
+deployment and allocation. So first column, cash, working capital cycle, reinvestment need. Second tier,
+surplus capital, underwrites the long-term GBP 1.10 a share. Have we got any cash here over and above,
+that's surplus capital? Well, we name that excess capital.
+
+So next tier, beyond that how much excess capital have we got? Well, that's then available for other
+corporate capital matters as we term it. First look on that is the specials. Obviously, there's the issue of
+net settling again to ensure that this is LTIP -- net settling the LTIP. This is ensuring that we remain fully
+aligned to the core of the strategy, which is capital discipline. Because the only other choice for settling
+the LTIP is to equity settle; the LTIP can issue more shares. Why would we do that? Why would we expand
+our equity base when we're trying to deliver more from less? As we said before, so it's entirely logical to
+look at, if we have excess capital, if we have the choice, if you will, if we've earned that choice, well, do
+we deploy a bit of cash there to prevent a further extension of the equity base?
+
+As being a preferable choice to expanding the equity base, which would be contradictory to the philosophy
+behind the strategy I believe. And I think the board has concluded that, that is the right choice to make
+for the 40% of the LTIP that has vested at December.
+
+And moving on to that, we've put a few numbers together on the next 2 slides just to clarify where we are
+at the end of all that in terms of share numbers. The number of shares that are issued -- that are likely to
+be issued drop to around about GBP 4 million for the 40% that vested at the end of December. And if the
+board decides to net settle -- and it still is an if, that decision has not yet been taken. Why hasn't it been
+taken? Well, there is still sort of a few months to get there probably on the back of the announcement on
+the capital returns for this year is likely the GBP 6.20 is likely to be paid by early July, that's the second-
+best. That triggers the second vesting event. If the board decides to net settle at that point, you can see
+that the share count drops or the number of shares that would issued will drop from 11.2 million to 5.4
+million as a result of that with cash going to HMRC on a net settle basis.
+
+At that point, I'll pass back to Jeff.
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+Thanks, Mike for that very comprehensive explanation. And so in summary, I think, just to recap on
+some things. We've enabled growth and scale. We've improved efficiency in the business which you can
+see through the build costs. We've grown that work in progress platform. We've enhanced the margin.
+We've shown good improvement in the year in customer care. We've invested in good quality land and we
+generated a strong free cash through the course of the year, whilst minimizing the risk to the business.
+
+And we've also, the combination of that is a substantial increase in the return to our shareholders. And I
+think it's fair to say, we've have had a good start to the year, so far 8 weeks trading, but there's still an
+awful a lot to do. So it's an encouraging start, but there's a long way to go. A lot of sites to get up and
+running. And we've got those challenges that we've already discussed.
+
+And I think all of this is really the combination of many years work that we've -- that I've put in through
+my obsessive behavior of ensuring that all of these things happen. But it really is only possible with a fully
+committed management team. So I think they've all done a fantastic job in that respect.
+
+And Persimmon is in great shape for the future. I think I would also like to refer to the notice that went
+out today about Nicholas Wrigley and his resignation from the board as of yesterday's date. And I would
+like to take the opportunity to thank Nicholas for his many years of excellent service to Persimmon. And
+we wish him very well in that respect.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Finally, I'd like to say that we thank everybody who has assisted us in the process, all of our subcontracts,
+supply chain and all the other stakeholders in the business who support us so well.
+And I would like now to open up to Q&A. I'm sure there's a few questions. So we'll get a microphone to
+individuals. You can tell us your name, your organization and we'll do our best to answer your questions.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Question and Answer
+
+Gregor Kuglitsch
+UBS Investment Bank, Research Division
+
+Gregor Kuglitsch from UBS. Can I just go back to the margin point, just to clarity? Obviously, the second
+half I think we were kind of just shy of 29%, I believe 28.8% it was. Is that the reference point when you
+think about the future, you're think about the second half, 28.8%. And I guess, what you were saying
+was flat to maybe up depending a little bit on market conditions just to clarify that statement. The second
+question is on...
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+Alright. Can we do this one at a time?
+
+Gregor Kuglitsch
+UBS Investment Bank, Research Division
+
+Yes. Maybe it's easier this way.
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+Because otherwise, we're going to lose track of it. Yes, I mean, as I said, there's a lot of moving parts.
+There's a lot of uncertainty in the market. There's a lot of headwinds out there. I think you're right as a
+reference point to cash forward, the second half margin is right to take that. Where we get to from there
+is, obviously, we're positive about future delivery. I think the balance sheet is in great. So the quality of
+the land bank is outstanding. And we have a very efficient operational team, our processes are continually
+being redefined to try and eek out more value. We can't guarantee an outturn. We're not really in the
+business of giving forecasts, publicly. But I think we can be positive and then would like to think the
+second half level is a benchmark there to be bettered. I think they're pretty good levels anyway. If it turns
+out just through '18 like '17, I'd take that, given the challenges that are out there. But that doesn't mean
+to say that we aren’t going to start trying to improve on it. So to be fair, to me, Gregor, I don't -- I can't
+really add anything further that.
+
+Gregor Kuglitsch
+UBS Investment Bank, Research Division
+
+It's fair enough. I guess, the bar was -- it's raised, the better you do, unfortunately.
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+Well, we'll always tried and do our best, yes.
+
+Gregor Kuglitsch
+UBS Investment Bank, Research Division
+
+Okay. Then the second question is on cash consumptions. So last year, I think you had said GBP 20 million
+of working capital consumption, which is obviously extremely low, considering the growth. I want to get
+a better sense of sort of how do you think about next few years if the business continues to grow, do you
+actually start thinking about net expansion of your capital, more with less kind of a support?
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Yes, exactly. I mean the key -- the 2 big drivers of that is the land and work in progress. I think that we'd
+love to carry more money in the ground, yes, from work in progress, wouldn't we? But build is immensely
+challenging, and perhaps we've not emphasized that enough.
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+It is. It's a bit a key feature, really, for us. We're working hard to bring the sites forward. But actually
+building the houses at scale. Okay, it seems a relatively small increase, 6% growth in terms of additional
+houses built in the year, but if you think of what 900 houses looks like, it's a lot extra. It's 1.5 operating
+income worth of extra houses, which is an awful lot in a year. So it continues to be challenging. We're
+pleased with the progress we've made. And we're happy that we have invested a bit more in the ground.
+So I think we're in reasonable shape there. But it continues to be incredibly challenging not, at least,
+because of those constraints in terms of availability in materials and labor.
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+I mean, a key feature of what we're trying to do on site is -- it's the share per build, isn't it, Jeff? It's
+getting ahead of where we think it's sensible to get ahead. Where we've got the confidence in terms of the
+rhythm of sales on particular sites, and we'll try and push ahead, won't we?
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+Yes.
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+So it's all about trying to get ahead in terms of what we're delivering to allow us to move the bill forward.
+Because it -- it can become inefficient as well, can't it?
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+Yes, I mean, if you look at the feature of the industry, it's that we have moved more towards the bigger
+sites. And those bigger sites, we're pushing the boundaries in terms of volume of houses being built per
+site. And it's a feature of the planning system, actually, which isn't helpful. We could do with more sites of
+smaller scale, I think, both from a sales perspective because it gives more choice for purchases in different
+localities, but it also gives your different pool of resource to pool from as well. And at operate sites at
+150 to 200 houses being built per year on a site is a significant operation. And I know there's a review
+underway at the moment by the government on that. But I'm pretty confident that they will arrive at the
+position that we understand, which is that it's extremely challenging. We're pushing the boundaries of
+that all the time. So we've -- we always want to open more sites, but as I say, we can really only follow
+the market in terms of what the planning system is delivering this bigger site. And it drives efficiency. So
+more houses built per site is an efficient operation. But there's an upper ceiling level to what can actually
+be achieved on those developments. So I think it's going to continue to be the main feature in terms of
+volume delivery going forward.
+
+Gregor Kuglitsch
+UBS Investment Bank, Research Division
+
+Then one final one, which is...
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+You're hogging the microphone.
+
+Gregor Kuglitsch
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+UBS Investment Bank, Research Division
+
+Do you get tax deductibility on the LTIP settlement? So the GBP 88 million, for example, do you...
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+There is no change to corporation tax treatment in terms of...
+
+Gregor Kuglitsch
+UBS Investment Bank, Research Division
+
+So it's not expensed?
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+Pardon?
+
+Gregor Kuglitsch
+UBS Investment Bank, Research Division
+
+It's not expensed.
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+No. I mean, the -- well, you're talking about 2 different things. You're about tax treatment and accounting
+treatment. But accounting treatment, I mean, in share-based payment, IFRS 2 dictates how we
+account the share-based payment, and there's no change in that regard. There's no change on the tax
+treatment here. So the decision to net settle and equity settle, there's no change. Except that there is an
+amendment coming through to IFRS 2, which has yet to be endorsed by the EU, which will -- I mean, we
+can talk about that afterwards.
+
+Jonathan Matthew Bell
+Barclays Bank PLC, Research Division
+
+Jon Bell from Barclays. Three from me, I think. Firstly, just on the net settlements issue, just to clarify on
+the accounting. So I think you've told us that GBP 88 million goes out in cash to HMRC.
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+Yes.
+
+Jonathan Matthew Bell
+Barclays Bank PLC, Research Division
+
+How are we going to see that in the income statement, in terms of which period and where it will appear?
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+Yes, I mean, the -- again, IFRS 2 accounting standard dictates that the charge that we've taken in terms
+of basically accruing for the cost of that obligation to the company has been charged through the last sort
+of 6 to 7 years. The cash payment would effectively be a reserve movement. And so one advantage of net
+settling is it is supportive of higher levels of return on equity, rather than equity settling. But also, there's
+the other advantage as I have touched on before, it's the discipline around the capital in the business, in
+that to expand the equity base when you got a choice not to, when a central pillar of your strategy is to
+keep your capital tight to deliver more from that, operationally. It would seem contradictory to expand
+your equity base at a time when you're trying to constrain your capital base through the additional capital
+return, which obviously, is a charge against your reserves by way of dividends.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Jonathan Matthew Bell
+Barclays Bank PLC, Research Division
+
+Sounds like a going to net settle but I'll let that one play out.
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+No, that -- this is -- I mean, that's the important point. I mean, there's a -- logic would suggest that, that
+is the case, Jon. But as you know that circumstances can change and as you know, circumstances in our
+market can change very quickly. We only need to look back to 2007, 2008 to be reminded of that. So I
+think it's judicious on behalf of the board to retain flexibility and optionality around that conclusion.
+
+Jonathan Matthew Bell
+Barclays Bank PLC, Research Division
+
+Okay, thanks. But my second question is just on Space4. You've hinted in the past that you could perhaps,
+roll that out -- I mean, are you any nearer launching a second site, maybe in the south of England, along
+those lines?
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+Yes, I think it's a real possibility. It's very supportive of what we're doing. And the current facility has got
+some additional capacity still to go. But I think that there is a logic to having some support to that, with it
+being a manufacturing facility that's so important to the business. And I think at this stage, we think that
+there is merit in further investment there. So we're starting to look at that. But it is only at a very early
+stage. And we haven't decided where would be the best location for that. It does depend on a number
+of factors. We do have sufficient land [ at Harworth ] to build a new operation there as well. So in the
+foremost of time, that may well happen, but it need not necessarily be the next opportunity. So we'll keep
+it under review. But certainly, it's working well for us.
+
+Jonathan Matthew Bell
+Barclays Bank PLC, Research Division
+
+And a finally one from me. You've told us that some of your cost recovery gains are volume related.
+And you're also telling us that the land market is continuing to be very kind. How should we think about
+volume growth from here with those things in mind on maybe a 3 or 4-year view?
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+I think the volume growth, Jon, really depends on outlet position. And as I mentioned, we're pushing the
+boundaries in terms of the output per outlet. So really, we see the next level of growth being delivered
+through further expansion of the infrastructure and outlet network to a large degree. I think there may
+be some marginal, incremental improvement on the basis of where we are at the moment. But really, any
+further substantial volume growth would be deliverable through a bigger network base. And we continue
+to invest in land. But as fast as we're bringing sites in, we're closing them. So it's a fast turnover at the
+moment, and we hope to continue to see further improvements in the planning regime, which should
+release more sites and possibly smaller sites. That point has been made. So we hope to continue to see
+that improved.
+
+William Jones
+Redburn (Europe) Limited, Research Division
+
+Will Jones from Redburn. Three as well, if I could, please. The first is just around the owned land bank
+length. I think it's 77,000 owned plots at the moment, which is, I think, about 4.8 years of supply against
+last year's completions, which I think is a recent high. And if you went back precrisis, we're in often
+in the 3- to 3.5-year tight range. And I appreciate there's bigger sites in there. But how much of that
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+issue accounts for the change in land bank length? And ultimately, where do you think that should settle,
+medium term?
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+Just to answer you, I think the key thing is the split of those owned plots. If you look at the element
+that we own and have detailed implementable planning consent, we've got about 52,600 plots, which is
+very similar to last year, which was 52,800. This is all disclosed, by the way, in the RNS. Where we've
+seen is -- where we've seen a bit of growth come through is in plots that we own, which are progressing
+towards detailed consent, where we got outstanding planning conditions, which to Jeff's earlier point,
+hopefully the changes that we're going to see coming through, the revised NPPF in March. If it does come
+through in March, hopefully we'll perhaps simplify things a little bit in that regard. So I think overall, yes,
+we've got great visibility in terms of the land in the pipeline. But as Jeff says, it's still pretty frustrating
+in getting onto site and allowing ourselves that opportunity. Because going back to the plots that we've
+got a detailed planning consent. It's pretty similar to where we were last year. So we -- to look at it at
+a slightly different way, we've only managed to replace the plots we've consumed in terms of the front
+end of our consented land bank. And obviously, we're working very hard to improve on that. But that sort
+of managed -- that sort of demonstrates the tension within that -- all those processes that allows that
+-- those plots to be released for development, actively, which -- I guess, everybody gets sick of house
+builders complaining, but it is a frustration. So when you talk about 4.5 years, it's not really. It's maybe 3
+or nearer 3, at least. And each of our businesses do need good visibility to plan their businesses properly.
+We're employing people. We're committing to sourcing everything that we need for a good number of
+months and years. So we do need that sort of visibility. Because all our supply chain depend on it as well.
+If we can only commit for 3 months' worth of provision of door kits or whatever it is, well that's all a bit
+stop-start and here we go again, we're into 2008, where's the work coming from. If we can give good solid
+commitments for 12 months, 2 years, then that will encourage the supply chain to invest more, which is
+part of the solution, as Jeff's already said, in delivering an industry that can perform in delivering more
+output.
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+I think, just another linked point to that, the size of the sites that I've been referring to, those tend to
+lead to more significant infrastructure having to be installed before you can actually access the housing
+and deliver regular completions off them. So there's a delay in that regard, and quite a significant form
+of investment as well. So the bigger the site tends to be the more complicated and time-consuming it is
+before you can actually start to get legal completions of those. Again, that's another important feature.
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+It's a very important point because you know we said, well, GBP 100 million extra in WIP. The bulk of that
+is in external infrastructure. Its' not sat on plots, you know, superstructures. It's off-site works, enabling
+works, as Jeff says. That -- we put a lot of money into opening up these larger sites to get on.
+
+William Jones
+Redburn (Europe) Limited, Research Division
+
+And so the second on land was just around the cost being added through this year. You've got couple of
+months under your belts and lots of strategic land visibility. Is there any reason to think the plot cost of
+land you buy this year will be materially different from 2017, do you think?
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+In terms of the fresh? The new inputs.
+
+William Jones
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Redburn (Europe) Limited, Research Division
+
+Yes, the new stuff this year. Yes.
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+I'm not aware of anything, Will, let's put it that way. I think it should be pretty similar, I would imagine.
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+I mean -- I suppose the only caveat to that would -- even if there's some lumpy strategic successes that
+we get through planning may influence things a little bit. But that's pretty unpredictable.
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+Keep it low, [indiscernible] to make a difference.
+
+William Jones
+Redburn (Europe) Limited, Research Division
+
+And for the last one, just -- I may have missed it in the statement, but an update on outlet numbers. Last
+year, it moved around quite a bit half on, half in. Just where we are and where we're expected to go.
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+I mean, last year, we are -- and it certainly took the year as a whole. It was 370% on average, which was
+very similar to the previous year, albeit was a completely reversed picture as you say, Will. Which it was
+quite -- it's almost a mirror image, if you will, in that regard. It's difficult again to predict in terms of how
+that's going to come through because we've already commented that we have got a lot of plots there that
+are waiting for detailed consent, which obviously, are going to deliver a good number of those sites. So I
+would hesitate predicting what the shape of that. All I would hope is that, your 370% mark, as an average
+for last year, is something that we will be able to match. I think that's where -- that's all really we can say,
+isn't it, really, in terms of -- I mean, we've got good visibility, as Jeff says, but -- and we're working very
+hard to get those up and running. But we're in the hands of planners to a degree.
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+We'll take one from Chris here, then we will move to the other side now.
+
+Christopher James Millington
+Numis Securities Limited, Research Division
+
+Chris Millington, Numis. I just want to ask about the average size of a unit and whether that's played into
+the reduction in build cost?
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+It's a good point.
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+Yes. I mean, actually, we have been pretty consistent over recent year in terms of the size and type of
+product that we're producing. So we're stuck to the game plan in that respect, and I think that's reflective
+really in our reselling price. But there's a marginal improvement, about 1.5%, I think, in reduction in size
+of unit from '16 to '17. So there's a bit of a factor there.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+That's on legal completion. Because obviously the 25% increase in affordable content influences that as
+well. So we're not saying our standard house types have changed, we're just saying that average size in
+the legal completion mix, there's a bit of benefit there in terms of build cost, if you will. But it's the same
+point, if you will, in terms of the mix I touched on earlier in northern geography, more affordable housing.
+It's within that -- those considerations, really, from a build cost perspective.
+
+Christopher James Millington
+Numis Securities Limited, Research Division
+
+Next one is just, really, just about down valuations.
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+The what, sorry?
+
+Christopher James Millington
+Numis Securities Limited, Research Division
+
+Down valuations. You kind of said you're always tested by the second-hand market. Any more of those
+creeping out at the moment now we've seen slightly softer house participation?
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+No, we do get -- we do get occasional down valuations. It's -- we are price takers. We're very realistic
+about that. But our teams are also keen to achieve the best price possible in the market for the product.
+That's part of being in the business. You try and get the best price for the product that you can. And that
+means that, at times, the lenders, valuers can take a different view based on precedent. And we do still
+see down -- not massive down valuations but that tension is there in the market.
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+And I wouldn't say there is any change there over recent times. We've not seen a change in that respect,
+so it's been fairly consistent.
+
+Christopher James Millington
+Numis Securities Limited, Research Division
+
+And the final one, just thoughts about any possible Help to Buy extension. I think one of your peers
+mentioned we might hear something soon. Just your thoughts on that.
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+Well, I mean the Help to Buy -- I mean, obviously, the government has put an indication of additional
+funding supports in there. The 2021 end date is still the end date, we believe. We've not heard -- and
+we've not heard any details that would inform us any -- with any -- to form a different view. I think just
+extending that, I think it's important that we do understand the government's policy in that regard, that
+sometime over the next few months. Because, obviously, it impinges on our appetite to invest. We are
+very mindful of that situation, currently, in all of the land replacement activity we do. And that's why it's
+important. I mean, Jeff pushes all the teams to do the best land deals that they can because that's our
+the first line of defense, if you think about it. It's a very a defensive position to take. Yes, it delivers and
+embeds more value in the business for the future if you've got a constant market. But if for whatever
+reason there is a change to the market conditions and a change to housing policy in that regard could
+cause changes. So as long as you've got high -- the highest quality land you can acquire on great terms
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+to start off with, well, you're still going to be in a pretty good position if that's gets diluted for whatever
+reason. So I think the closer you get to 2021 become more of an issue.
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+Yes, I mean, we make no bones about it. We're big supporters of the scheme because it allows customers
+to enter the housing market. And it's an investment for U.K. plc in that respect. And I think it's done
+exactly what it was intended to do. So we would like to see it extended, but we haven't heard any more
+news in that regard. But we do target particularly the first time -- our first-time mover markets, so that's
+why we're a strong user of it. But as to whether it will be continued beyond that time, I don't know. But I
+mean, it was preceded by other schemes from -- through both labor and the coalition government prior to
+Help to Buy. And I think it functions very well. And the lenders are very keen to support it as well. So yes,
+Mike's right. We make investment decisions on the basis of what we see in front of us. I think it affects
+the rate of sales. So I mean, if we Help to Buy was removed, you may see a slackening in of the rate sale,
+we would anticipate. So I think that's important. House builders have been a big driver of the economy.
+Jobs -- and from that point of view, it's worked very well, I think. And we can see that it has generated
+additional volume.
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+I think it's important to view that Help to Buy is investment. It's on the government's balance sheet as
+investment, GBP 8 billion or so. And it's generating a pretty decent return, or should be, for the taxpayer.
+So I think that all ways which round, that policy -- yes, it's part of demand, as Jeff says, and we all
+recognize that. But it is less than 3% of U.K. housing transactions since 2013. So yes, it's played its part.
+It was a necessary move by successive governments to try and support the housing market in a time
+when -- obviously, because of the financial crisis, mortgage lenders risk appetite changed dramatically. I
+mean that's on the record. So the government, firstly, looking to generate more growth in the domestic
+economy and, secondly, support customers. It's a customer support mechanism in allowing first-time
+buyers greater access at a time when the mortgage lenders were keen to lend at higher LTVs. I mean,
+everybody in the room knows that. So I think, as Jeff said, it's done what it was designed to do. The
+future -- what the future holds in that regard, well, we've always thought that as the mortgage market
+matures and the lenders' risk appetite develops to a level where higher LTV lending has an appropriate
+support from their balance sheet, then the Help to Buy requirement lessens, doesn't it? I mean, it's a
+dynamic situation. And really, the solution to Help to Buy is found in the mortgage market. That's where
+the solution should be found, in terms of supporting younger families to gain access to the housing
+market, should they want to make that choice.
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+Next question over there.
+
+Christopher Richard Fremantle
+Morgan Stanley, Research Division
+
+Chris Fremantle from Morgan Stanley. I know you've talked at length about the margin sustainability,
+or not. I'm just a little bit surprised by your comment that there wasn't another 200 basis points on the
+margin, given that you've got a plot cost to revenue ratio in the land bank, which is 3 percentage points
+below what you've put through the income statement today, or...
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+I don't think you should be surprised. I think the first reason for that is that the land bank is a large pool
+of plots, whereas the legal completions' only financial year is a smaller pool of plot. So mix is very, very
+important. As you know, our strategic land assets that we've been successful in bringing through into the
+consented land bank do offer higher returns. But these -- as Jeff said, these tend to be larger size. So the
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+proportion, for example, of strategic land-supported legal completions in the sales mix will always be lower
+than is in the consented land bank.
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+The good thing about that is, obviously, you've got more value into the future to support margin as you go
+forward.
+
+Christopher Richard Fremantle
+Morgan Stanley, Research Division
+
+Can I just ask a follow-up? And so the -- what you've bought this year, is the plot cost to sales of what
+you've bought this year about around what you have put through the income statement? Or is it higher, is
+it lower? Can you just give us a little bit of color?
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+I think the -- I mean, what I'd just caution you to getting too focused on plot cost of revenue percentage
+as being the sole reason for why margin can change. As I said earlier, plot costs, if you look at the
+numbers, plot cost is about 1/3 of the building of the direct costs. So yes, it's an important part of
+the equation, but it's not all of the equation. And as we've already referenced, we're putting a lot of
+money in the ground in terms of infrastructure works, et cetera, which complement the land -- just to
+paint a simpler example: we find a 10-acre site in the middle of Wales, which requires a lot of heavy in
+engineering and ground works to cut levels into the hillside. Now the plot costs to revenue ratio there
+might be 10%. So you look at that, if you got one-dimensional view, at what margin would be delivered
+from that, You say, "That is going to be a super margin." Because it's a 10% cost of revenue percentage.
+What you have to consider is the fact that all that engineering work and groundwork, cutting those levels
+into the hillside will, yes, be more expensive. So what you have to do is put every component to the cost
+base into place to deliver the gross margins. So I think the best way we can answer your question is that,
+when we look at the land that we have acquired and is coming through our pipeline to be acquired, the
+margin is pretty similar.
+
+Christopher Richard Fremantle
+Morgan Stanley, Research Division
+
+The overall margin?
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+The overall margin, yes.
+
+Christopher Richard Fremantle
+Morgan Stanley, Research Division
+
+So that's what we're driving now?
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+It's an indicator really, which is good indicator.
+
+Christopher Richard Fremantle
+Morgan Stanley, Research Division
+
+Fine. Okay. And then the second question was on the -- this land banking review. Are you expecting
+anything there that's slightly to impact the economics of your business? Anything you can say about what
+we should expect there and what it means to for you, might be?
+
+Jeffrey Fairburn
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Former Group CEO & Executive Director
+
+We don't expect that, Chris, thanks. I think the key point that's being looked at specifically at the moment,
+by Oliver Letwin, is the issue of is the industry building at suitably faster rate, given the demand in the
+market. So what he's we're looking at specifically is just really that point. Could you not build more
+housing more quickly? And this is quite a narrower sort of point actually. But I think it will come back to
+around all the other aspects that will then fall into that debate. So we're quite -- we haven't got anything
+to fear about a review about the use of land. It's been looked at extensively in the past. And there been
+some pretty comprehensive reviews. And on that particular narrow point from, as I've explained, you've
+got to look at when you would expect to start getting legal completions of the site. So on a big site, it
+can be quite a lot further into the process. And thereafter, how many completions per annum could be
+supported from a local workforce and/or the local demand requirement from a sales perspective. So we
+are quite confident about the outcome of that, from our perspective, but I think it will drive into a further
+debate going forward. So we'll see where that goes.
+
+Christopher Richard Fremantle
+Morgan Stanley, Research Division
+
+Right. But you're not expecting some sort of blanket policy response that this is going to...
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+I don't personally believe so, no.
+
+Clyde Lewis
+Peel Hunt LLP, Research Division
+
+Clyde Lewis at Peel Hunt. I've got 3, but I'll do the quick easy ones first. In terms of the land creditors, is
+this source of the high watermark relative to total land value? Should we all -- should we all be modeling...
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+I think it's very hard to predict, Clyde, in terms of the balance of upfront payments vis-à-vis deferred. I
+think one thing we would say is that the planning backdrop in land supply, land release backdrop. Yes,
+5-year plans in a lot of local authorities have yet to be completed. And hopefully, the revised NPPF that
+we'll see in March will provide further impetus to get us there. And I think that perhaps with a little bit
+more competition coming in for the land that is released. Because we have seen a bit more competition
+in one or two spots. Then the ability to defer may be crimped a bit, moving forward. But how all of that
+sort balances out, I think we -- I mean, from a financial point of view -- I mean, it's obviously a continuing
+debate in the business. None of us want to see a big refinancing wall coming towards us in the future. So
+GBP 500 million to GBP 600 million for us is fine with a nice amortizing tail on it. Because, basically, it's
+future refinancing requirement. Last year, as I say, we paid GBP 270 million of land creditor servicing, if
+you will, in that 12-month period, which is fine...
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+So it's turning over reasonably well. I think another important point is, there, that we do buy land usually
+on a subjective planning basis. So we only contract or complete on it -- complete, should I say, at the
+point we've got a suitable planning consent. And that's important from a land creditor perspective because
+a land credit is not created until that point. And really, it's -- the land creditors that we have that are
+generally in relation to the bigger size that last a lot longer to make them work from a return on capital
+perspective, rather than anything linked to planning permission per se. And I think that's an important
+point.
+
+Clyde Lewis
+Peel Hunt LLP, Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Second one I had was on standard house types. Where are you in terms of your percentage of total
+output? How do you see that moving in the next couple of years?
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+Yes, I think we're getting into the sort of top end of what is achievable. I would say we're about 75%
+to 80%. But we're meeting further challenges now across the U.K. where we're getting pushed back on
+various standards, again, being introduced by the individual local authorities, which is very unhelpful
+for the industry to continue to drive volumes forward. And we're having to adapt and change for local
+circumstances, which as I say is not, I don't think, in anybody's interest. So that's a bit of a challenge. If
+we've got standards that were introduced across the U.K., we develop house types to suit those standards
+as a whole. But if we've got individual situations developing, it becomes more difficult. But yes, we've
+probably reached the level of coverage in terms of standardization.
+
+Clyde Lewis
+Peel Hunt LLP, Research Division
+
+The last one I had was on, I suppose, the margin. The -- I think the average selling price, up 3.2%. You
+talked about the 1.5% smaller unit size. And I think, Mike, you talked about the geographic shift up north.
+And yet, in that margin bridge, you only showed, I think it was 0.8% of a benefit from HPI. I'm struggling
+to wrap all that together. That seems a low number for HPI as a benefit. Obviously, you have been working
+on the cost, and I am just wondering...
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+It's the pound. We were looking at it from a per unit basis, so it's the GBP per unit type approach that
+really drives the cash that delivers, also, the profit per unit, which is a very important dimension.
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+That's a good question. And I think you do, also, do get geographical differences within those locations. So
+even in the north, believe it or not, there's places that are expensive to buy houses. And so it does depend
+on where your sites are in that geographical location as well, driving that individual sort of plot number.
+
+Aynsley Lammin
+Canaccord Genuity Corp., Research Division
+
+Aynsley Lammin from Canaccord. Just 2 please. Obviously, you had a good start to the year. I just
+wondered if you changed any incentives as we enter into this year. And secondly, just wondered what your
+expectations took a bit more kind of trends and material cost and labor inflation for 2018?
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+I think, taking the first one from a sales incentive point, no real noticeable, Aynsley, at this point. As I
+say, the industry shifted quite a bit over recent years, where the harnessing digital technology -- it sounds
+quite a strange, a house builder talking about digital technology. But I think the industry is very keen
+to pursue the advantages that, that brings to our -- how our processes work. So long as it's probably
+thought through and well-designed, it can make us more efficient. And as again, as I say, Jeff is very
+keen to explore as many of those advantages and that potential as possible. And I think that is making
+-- is helping make our sales processes more efficient. And I think we're in transition, Jeff, on that, really,
+in terms of the cost of supporting our sales processes. It's a really interesting dynamic at the moment,
+where all the home finder engines that are on the Internet now. It's a -- I mean, they've been there for
+a while, but it seems to be the first -- becoming the first choice of customers in terms of looking for a
+new home, and indeed, then contacting the likes of Persimmon in terms of callback requests, brochure
+requests, meeting requests. We're now monitoring all those different contacting and inquiry types, and
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+23
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+we are seeing a very healthy position in the digital channel, to use a retailer's phrase perhaps, which is
+encouraging.
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+But you've got to continue to upgrade your platform. So we're constantly investing, reinvesting in websites
+and the optimization of search processes and so forth. So there's quite a lot of work done in that area.
+And I think there are other advantages to us going forward in terms of how we sell additional, what we
+call, finishing touches to customers, trying to upsell our product in that way. I think we're not always as
+quick as we could be to move with the market. So we do use Part Exchange and Home Change, and we
+keep revisiting these things. But there's not been any marketable -- mark-able change over at recent
+times at all anyway. And cost inflation, I would anticipate something similar to it last year. It's a bit difficult
+to call, but we are seeing pressures in that regard. And there are fewer and fewer suppliers of materials
+out there to the industry. But there are significant challenges as well in terms of volume, keeping up with
+the volume increase of the industry because the industry showed a significant increase in volume last year.
+So I think that will continue to be challenging but similar sort of level to last year maybe 3%, 3.5%-ish, I
+would say.
+
+Glynis Mary Johnson
+Deutsche Bank AG, Research Division
+
+Glynis Johnson, Deutsche Bank. I have 2, if I may. The first one is rather long. The strategic land
+conversion in 2017. Can you maybe give us a split freehold option? And then can you just give us a bit of
+color around the strategic intake that you've taken in? Is there a change in terms of north-south, freehold
+option, density that you're assuming on the sites?
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+Yes, I think the -- I mean, the intake is more about -- it's driven by our teams that, in our term, is land
+prospecting, in a way. It's sort of very plugged into the assessment of where housing need is and should
+be, catered for in all the regional markets. But then you've got the overlay of our existing positions, that
+we don't want to keep on tying up new options where we're -- we've got pretty good coverage already.
+And so it's very difficult to summarize that. But suffice to say that we're always trying to achieve a
+balanced portfolio in support of each of our 30 businesses. But it wouldn't be a surprise to you, Glynis, to
+find that some businesses are more are well catered for than others, in terms of strategic land backing
+that they've got at any point in time. And that's because it's input-outputs, isn't it? We're continually
+signing up new options at the same as getting successes out of the front end of it in terms of introducing
+ex-strategic sites into the consented land bank. So it's in the speed of -- it's not a smooth conveyer belt,
+in terms of tying up new option agreements and delivering the successes out the front end. So it's quite a
+dynamic position.
+
+Glynis Mary Johnson
+Deutsche Bank AG, Research Division
+
+Are you seeing competition step up though for that strategic land that you are intaking? Or are you finding
+it harder to get the freehold and seeing more options coming through? Are you seeing discount to market
+on options decreasing? You see, that's kind of color I was looking for.
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+Is very regional, actually, Glynis, and depending on who's operating in a particular area. It is quite
+competitive for strategic land, and there are various house builders and organizations, who can invest
+at the level required to -- for strategic land rather than buying land in the open market. So I think, they
+think it's better value. But the deal's got to be right. And we sometimes don't manage to compete on
+their terms because the deals, in our opinion, aren't engineered to, as I said, what we would want in the
+long term. And we've got such a good quality strategic land bank, that we don't want to deteriorate that.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+24
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+So we're quite choosy. And over the last few years, we've managed to find excellent opportunities in the
+short-term land with consented land at -- on the right deals. So it's just getting the balance right, really.
+We're constantly reviewing that on a region-by-region individual site basis. But I was pleased to have
+replaced the volume of strategic land within the year. I thought it was really a good conversion rate but
+also a good replacement rate. So I was pleasantly surprised actually in that regard. And then looking at
+the freehold option sort of basis. I think what we have delivered during the course of last year looks very
+positive actually on first glance, but I think you've then got to look at even the freehold land in terms of
+what -- if uplifts are payable to the land owners as well. So it's difficult to give you a good, an accurate
+picture. But certainly, we've brought through a significant -- probably nearly half of the strategic land was
+-- that we pull through was freehold in that year. So good.
+
+Glynis Mary Johnson
+Deutsche Bank AG, Research Division
+
+And the second question is slightly the Voldemort of the questions. Your LTIP, obviously, we saw changes
+to your LTIP the beginning of this week. There were 150 senior executives in the original one. Can you just
+remind us, clawbacks, holding periods, what's been put in place in order to have the extra succession for
+those obviously very important people in your organization?
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+Yes, obviously, a key consideration for us and everybody, to make sure everybody's motivated. There is
+1-year hold period on the 2012 LTIP, which Mike and myself extended on the second. That's for 3 years
+for ourselves. And then going forward, we've already got the approval last year of a new 2017 PSP, as it
+is called these days, scheme, which has already been implemented for new joiners or people have been
+promoted in the business since then. And the individuals who will conclude on the current LTIP will -- they
+will take up options under that new scheme once the existing ones concluded.
+
+Glynis Mary Johnson
+Deutsche Bank AG, Research Division
+
+And the scale of that 2017 PSP, just so we can put in comparison to what they'll take from the 2012 LTIP?
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+I don't know how you would describe the scheme.
+
+Michael Hugh Killoran
+Group Finance Director & Director
+
+No, it's a different type of scheme. It's a 3 -- it's like a more conventional 3-year performance period
+and a 2-year hold. So it's -- I think it's more conventional approach. So the 10-year 2012 LTIP is not
+replicated.
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+We found that too difficult. We've -- after that, we've got time for one more question, please. Over here?
+
+Unknown Analyst
+
+Just want to come back on Slide 18 on build cost and the margin influence. I realize you've sort of
+gone through in detail, but I remember you 6 months ago, you're saying that you can sort of derive the
+most efficient way to build. And you sort of decided on what the best way, sort of best practices are.
+But actually, it takes a while to sort of roll them out through your business. Are you seeing that sort of
+commentary still hold? And while you sort of make all of these positive comments here, we should still
+think about these not being employed everywhere. And actually, you have sort of ongoing margin tailwind
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+25
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+because of that. So while you sort of talk conservatively on the margin outlook, theoretically, all else
+equal, these things do provide you with ongoing support here.
+
+Jeffrey Fairburn
+Former Group CEO & Executive Director
+
+I think that's right. It's difficult to really express the extent of that. But it's a constant process, this, and a
+moving picture right across the country in all other businesses and the challenges that they've got at any
+one time. So we've got initiatives that we're rolling out all the time in the business to look at areas where
+we can make more efficiency serving. Because a lot of this is, is efficiency now, driving best practice right
+across the board. And that job will never be finished. We'll keep on at that. We'll keep challenging. And I
+think you're right. That will certainly help to mitigate some of the other cost increases that we are seeing
+going forward. It's a constant battle and journey.
+Thanks very much for joining us, everyone. Much appreciated. And we'll be back reporting to you again
+soon. Thanks, very much.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+26
+
+PERSIMMON PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+27
+
+

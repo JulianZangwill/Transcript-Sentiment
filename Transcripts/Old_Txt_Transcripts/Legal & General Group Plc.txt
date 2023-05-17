@@ -1,0 +1,1703 @@
+Legal & General Group Plc LSE:LGEN
+FY 2017 Earnings Call Transcripts
+Wednesday, March 07, 2018 9:30 AM GMT
+S&P Global Market Intelligence Estimates
+
+CONSENSUS
+
+EPS Normalized 
+
+0.25
+
+Revenue  (mm)
+
+8328.15
+
+Currency: GBP
+Consensus as of  Mar-07-2018 7:56 AM GMT
+
+-FY 2017-
+
+ACTUAL
+
+0.23
+
+6051.00
+
+-FY 2018-
+
+SURPRISE
+
+CONSENSUS
+
+(8.00 %)
+
+(27.34 %)
+
+0.25
+
+8994.40
+
+FY 2016
+
+FY 2017
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.21
+
+0.25
+
+0.22
+
+0.23
+
+4.76 %
+
+(8.00 %)
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+13
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Bernard Leigh Hickman
+Chief Executive Officer of Legal &
+General Insurance Division
+
+Chris J. Knight
+Chief Executive Officer of Legal &
+General Retirement - Retail
+
+Barrie James Cornes
+Panmure Gordon (UK) Limited,
+Research Division
+
+Kerrigan William Procter
+CEO of Legal & General Capital and
+Director
+
+Colm Kelly
+UBS Investment Bank, Research
+Division
+
+David Bracewell
+Redburn (Europe) Limited,
+Research Division
+
+Gordon Aitken
+RBC Capital Markets, LLC,
+Research Division
+
+Greig N. Paterson
+Keefe, Bruyette & Woods Limited,
+Research Division
+
+Jonathan Michael Hocking
+Morgan Stanley, Research Division
+
+Oliver George Nigel Steel
+Deutsche Bank AG, Research
+Division
+
+Ravi Tanna
+Goldman Sachs Group Inc.,
+Research Division
+
+Unknown Analyst
+
+Laura Doyle
+Former Head of Investor Relations
+
+Mark Zinkula
+CEO of Legal & General
+Investment Management and
+Director
+
+Michael Barrie
+Director of Fund Management
+
+Nigel David Wilson
+Group CEO & Director
+
+Simon Gadd
+Group Chief Risk Officer
+
+Stuart Jeffrey Davies
+Group CFO & Director
+
+ANALYSTS
+
+Andrew John Crean
+Autonomous Research LLP
+
+Andrew Sinclair
+BofA Merrill Lynch, Research
+Division
+
+Angel Parasotam Kansagra
+HSBC, Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+Presentation
+
+Nigel David Wilson
+Group CEO & Director
+
+Good morning, everyone. Welcome to our Annual Results Meeting for Full Year 2017. The usual
+housekeeping announcement first. There are no fire drills planned, please turn mobiles off and the
+standard disclaimers apply to forward-looking statements.
+
+2017 financial highlights were formidable. Operating profit up by 32% to GBP 2.06 billion. PBT also up by
+32% to GBP 2.09 billion. EPS up 50% to 31.87p and ROE of 25.6%.
+
+Our results do include the mortality reserve release at GBP 332 million for the full year. That is GBP 274
+million posttax. This led to an additional GBP 250 million of dividends from our LGAS entity to group,
+increasing remittances.
+
+There was a one-off boost to EPS from the reduction to the U.S. corporate tax rate which was positive
+for our U.S. Insurance business. Legal & General is strongly cash generative, with net release from our
+continuing operations also up 9% to GBP 1.4 billion. And we are structured to enable cash to flow easily
+up to group without trap cash [ of ] capital in subsidiaries. Remittances were at GBP 1.6 billion, up from
+GBP 1.1 billion for 2016.
+
+We're therefore confident in recommending a 7% increase in the full year dividend to 15.35p amid a
+terrific year. I would, of course, like to thank all of my colleagues and thanks particularly to Steve Ellis
+who's sitting in the second row here and the team in our lifetime mortgage business. In less than 2 years,
+they've created a market-leading business with a 30% -- plus market share. And it is based on Solihull,
+proving you can grow new entrepreneurial businesses in financial services outside of London, a model
+we've also replicated in Barnsley.
+
+This slide captures medium-term trends in our financial performance, showing consistent delivery of
+strong financial metrics. Our goal is to make our medium-term trends our long-term trends. Operating
+profit has grown [ back to ] 12%, net release by 9% and return on equity has grown from 14.9% to
+25.6%.
+
+Net release retained after payment of the dividend has averaged over GBP 500 million over the last 3
+years. You should also note that book value per share has also grown by 7% and grew 13% last year, so in
+2017, 7% DPS growth coupled with 13% increase in book value per share was over 20%.
+
+Although we have reported a 32p of earnings per share, if you take off the effects of the 2017 mortality
+release and the one-off change in the U.S. tax rates, we delivered a 23.1p of EPS and 9% growth on last
+year, which is in line of our stated long-term EPS ambition.
+
+We've been busy for several years at Legal & General shaping our company for the future, enabling us
+to focus on our core businesses, which can drive real earnings growth for shareholders and which are
+economically and socially useful in our chosen markets.
+
+This has included decluttering or disposing of subscale legacy of nonstrategic businesses. Our disposables
+include our old-fashioned businesses in the Netherlands, France, Germany, Egypt, Gulf, Bahrain, Ireland
+and our less successful acquisitions, Suffolk Life and Cofunds. Some of this is also being strategic with the
+most important [ latest stat ] being the sale of our Mature Savings business announced in December for
+GBP 650 million.
+
+We also secured an ongoing long-term investment management agreement for LGIM and with Swiss Re,
+we have a great partner for our long-standing customers.
+
+We have significantly reshaped the group over the past few years to a simple, focused, modern business
+model. This reshaping has allowed us to redefine our strategy. It is unchanged overall, straightforward
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+and consistent. But we've clarified and simplified what we do. The strategy is effective in 3 broad business
+areas: Investing and Annuities, Investment Management and Insurance.
+
+Our strategic purpose is unchanged: To improve the lives of our customers, to build a better society and in
+doing so create value for our shareholders. By aligning these interests, we create the inclusive capitalism
+of our annual report.
+
+Our divisional structure is retained, and I'm fortunate to have an outstanding leadership team, Laura,
+Chris, Cheryl, Mark, Kerrigan, Jackie and Bernie, who are all here today sitting in the front row. And we
+are delighted to have added Jeff Davies, Paul Miller and Emma Hardaker-Jones to our leadership team, as
+well as welcoming John Godfrey back from his sabbatical, advising the Prime Minister.
+
+Our strong collaboration across teams and the synergies between the divisions mean that we can
+collectively perform better than the sum of our parts. I will talk in more depth about the strategy later this
+morning once Jeff has taken you through the numbers.
+
+But the resulting 3 core business is focused on our core strengths, modern products, technology
+innovation and a footprint which is global for LGIM but to date, largely U.K. and U.S. for the rest of the
+group.
+
+Moreover, we deliver sustainable profitable growth and our strategy continues to be driven by 6 long-
+term growth drivers: aging demographics, globalizing asset markets, creating real assets, welfare reform,
+technological innovation and creating today's capital. All play a part in creating market conditions from
+which we can benefit. And they are more relevant today than ever. And in 2017, we demonstrated how we
+were able to use them for customers, for shareholders and for society.
+
+Strategy in the abstract can be elegant but execution is paramount. We are applied thinkers. This busy
+slide illustrates progress in areas where we are positioned to benefit from the growth drivers to become
+leaders in our chosen markets.
+
+Highlights include: LGIM approaching GBP 1 trillion of AUM, group-wide direct investments increasing
+44% to GBP 14.4 billion and we became the first company to achieve GBP 1 billion of lifetime mortgage
+advances in a year. As well as a GBP 463 billion solutions business with a 40% -- plus market share and as
+Mark will tell you, tremendous global growth opportunities.
+
+I'm also pleased to say that Bernie Hickman and Steve Griffiths did a great job in 2017 of turning around
+our underperforming group protection business, now profitable in H2 and beyond.
+
+Taken collectively, the simplified strategy and the excellent execution by a strong management team has
+delivered another terrific set of numbers.
+
+I'll now hand over to our CFO, Jeff Davies, who will take you through them in more detail. Jeff?
+
+Stuart Jeffrey Davies
+Group CFO & Director
+
+Thank you, and good morning, everyone. I'm going to run through the financials for the year, our dividend
+and capital position, before handing back to Nigel for more on the group strategy and Q&A.
+
+As Nigel has already said, it's been an outstanding year as the headline level, with operating profit from
+the continuing operations up 35%. This includes the recent changes we have made to our reserving for
+longevity but has been adjusted for the sale of our Mature Savings business. As we flagged at the half
+year, we reviewed our longevity improvements assumptions, and we moved to an adjusted version of the
+next actuarial table, CMI '15.
+
+This made the total release in the year GBP 332 million. Even without this prudent release, we grew
+operating profit from continuing operations by an impressive 12% as a result of our excellent execution
+and clear focused strategy.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+Our key divisions performed strongly in 2017, contributing to the 9% increase in net release from
+continuing operations. In line with half year, on top of the net release, there is now in total of GBP 250
+million additional dividend from the LGAS subsidiary in respect to the mortality release. When added
+together, this means the group generated GBP 1.7 billion total release, up 21% in 2016.
+
+On internal dividends, the cash remitted to group in respect to 2017's results was up 46% from last year
+at GBP 1.6 billion. We [ regrew ] our return on equity to 25.6%. Finally, at a high-level summary of our
+capital position, the group Solvency II net surplus generation was GBP 1.2 billion, up from GBP 1.1 billion
+last year, leading to a coverage ratio of 189%.
+
+This net surplus generation will continue to grow over time. As an additional point, our coverage ratio as of
+5th of March was an estimated 196%. Our dividend policy based on operating metrics remains unchanged.
+
+The board took into account the strong 2017 results, together with the medium-term underlying business
+prospects and has therefore announced a full year dividend of 15.35p, which is 7 -- up 7% from the
+previous year.
+
+Turning to the operating profits from our divisions, we saw good growth in many areas. Our institutional
+LGR business, which deals with the corporate pension scheme, grew 39% on a reported basis and after
+excluding the mortality release, it was a strong 10%.
+
+This was as a result of the larger opening position, together with a 7% growth in new business sales. Our
+retail LGR business grew 116% and a great 26% after excluding the mortality release.
+
+New distribution arrangements as the preferred provider of Annuities to Aegon and other DC platforms
+helped drive this. LGIM grew an impressive 9% on the back of record external inflows and strong asset
+performance, while maintaining discipline in its market-leading cost income ratio.
+
+LGC was up 6%, benefiting from returns from the division, GBP 3.8 billion traded asset portfolio and
+continued strong performance in the GBP 1.5 billion of direct investments.
+
+LGI contributed GBP 303 million, which was flat year-on-year with growth in its U.S. division offset by the
+previously reported adverse claims experienced in group protection and lower long-term lapses on older
+business in retail protection.
+
+And finally, GI contributed GBP 37 million, down GBP 15 million from 2016, predominantly due to the
+impact of increased costs from escape of water in line with industry experience as we reported at half
+year.
+
+We're happy to say, we've not seen a repeat of this in the second half. In terms of divisional performance,
+I'll start with LGR. We've already covered the 13% operating profit growth, even without the mortality
+releases. LGR's net release was up 16% to GBP 688 million, benefiting from a new business surplus
+increase of 13%. This was as a result of securing attractive spreads in direct investment whilst maintaining
+our discipline when pricing new business. We've also warehoused more DI than last year which we can
+now apply to new business in 2018.
+
+Our total Annuities of GBP 4.6 billion, with a new business value-add of 8.5%, was achieved through the
+regulatory capital strain of less than 4% which is within our target low to mid-single-digit range.
+
+For the mortality release, I want to illustrate how our change in assumptions in respect to future
+improvements drove the GBP 206 million that you see. As you know, at half year, we decided to release
+GBP 126 million of prudence in our reserves in light of the continuing higher number of actual deaths we
+experienced compared to expectations.
+
+On the back of further analysis of our own mortality experience and the trends we have been seeing,
+we've also decided to move to an adjusted version of the next actuarial model, CMI '15, for our longevity
+improvement assumptions.
+
+These adjustments are made to reflect how our annuitants differ from the broader population and apply
+some smoothing. As you can hopefully see from this illustrative graph, our model still anticipates the same
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+long-term improvement assumptions. Moving to CMI '15 simply assumes that you'll experience slightly
+lower improvements in getting there.
+
+You could see this is a minimal change in our total life expectancy assumption, illustrating the prudence
+of this release. Going forward, we will continue to scrutinize the likelihood of a sustained slowdown in
+mortality improvement of population data and that on our own book emerges and consider whether to
+make further changes to our best estimate assumptions. If we do choose to make assumption changes, it
+will be in stages and over several years.
+
+In the coming year, we will consider the appropriateness of moving to CMI '16. As an indication, simply
+moving mechanically to this table would have a similar sort of economic impact as a total release this year.
+
+This table breaks down the new business sales in LGR. We wrote GBP 3.4 billion of U.K. bulk annuities in
+2017, as demand remains strong with GBP 1.4 billion of this transferring from LGIM clients, giving further
+evidence of the unique breadth of pension derisking solutions we can offer clients.
+
+Additionally, we wrote a further 15 deals in the U.S., bringing the total business written there to over $1.6
+billion. Demand from U.K. pension plans remains substantial and the pipeline of transactions we are in
+active discussions with has risen to GBP 17 billion.
+
+The U.S.-defined benefit pensions market has similar potential, with the market growing year-on-year. We
+will continue with a measured approach as we look to expand. Our LGR Retail business had a particularly
+strong year with new Individual Annuity business up 78% due to the new distribution agreement and
+demand continuing to return to this market.
+
+Also in LGR Retail, our lifetime mortgage business wrote loans of just over GBP 1 billion. The market has
+a potential to grow rapidly with GBP 1.5 trillion of U.K. housing equity owned by the over 55s. We expect
+up to GBP 4 billion to be transacted in 2018, up from GBP 3.1 billion last year. And with our 33% market
+share and great distribution network, we are well placed to benefit from this growth.
+
+The asset portfolio backing our annuity liabilities has expanded its range and diversity in 2017 and
+remains defensive in nature. 20% of the portfolio is in sovereign-like assets and over 2/3 of it is A-rated or
+better.
+
+In addition, we continue to have a GBP 2.7 billion credit default reserve held against it. We now have
+17% of the portfolio in direct investments with stable income, often collateralized or secured on great
+counterparties. Overall, this is still less than we hold in sovereign, which is an opportunity to create further
+value.
+
+LGIM had a year of strong growth with record external net flows of GBP 43.5 billion, which is 5% of
+opening AUM and GBP 33 billion of this from international clients.
+
+Operating profit grew 9% to GBP 400 million, and we maintained a steady cost income ratio of 50% due
+to the scalable nature of our business model offset by continued investments in our growth strategy and
+increased regulatory costs.
+
+Positive flows across virtually all of our channels, regions and investment areas demonstrates the breadth
+of LGIM's business model. We continue to grow our U.K. DB business and remain the largest manager of
+assets in this market and the market-leading provider of LDI solutions.
+
+We are also the largest manager of DC assets in the U.K. with good growth in the past year and the
+market leader in workplace master trust. Our U.K. retail business is also growing rapidly with record net
+inflows of GBP 3 billion and ranking third in net flows for the second consecutive year.
+
+As I mentioned, nearly 3/4 of outflows last year came from international clients, with our international
+AUM at GBP 228 billion. Our U.S. business contributes significantly to this with assets of $189 billion
+across an expanding range of strategies of 350 clients.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+Our thought leadership in the U.S. DB market has [been to] increasingly implement LDI strategies and
+consistent strong performance in our range of active fixed income funds and now complemented by a
+more recently established index team and DC proposition.
+
+But it is not just the U.S. where we have seen success and see significant market potential. In Europe,
+we have GBP 12.6 billion of net inflows, and we now have GBP 44 billion in client assets. Our acquisition
+announced in November of Canvas, the ETF platform, will provide clients with access to one of the fastest-
+growing segments in asset management, broadening our geographical reach and product range.
+
+In the Gulf, we have GBP 3.6 billion of net inflows and now have GBP 36 billion of assets as we deepen
+our relationships in this region. We have established a distribution office in Tokyo, trading and fund
+management capabilities in Hong Kong and won our first Australian client. As well as broadening our U.K.
+footprint, our global brand is well recognized, and we have been winning mandates whilst we pursue a
+focused and disciplined expansion.
+
+LGC continues to grow assets and profits, as it diversifies the asset classes it invests in. Operating profit
+was up 6% and PBT at GBP 363 million, with strong performances from both the direct investment and
+traded portfolios.
+
+In the direct portfolio, a combination of asset disposals and sales of funds generated GBP 369 million of
+proceeds, exceeding the target of GBP 250 million for 2017. And importantly, our disposals during the year
+met our return expectations of at least 10% to 12% IRR.
+
+These sales proceeds were recycled as we invested or committed almost GBP 700 million into new
+investments, as well as into our existing portfolio, including new investments in Later Living as well as
+expanding our Build to Rent fund with LGIM.
+
+Our operating business investments also delivered strong results with 10% in NPR expanding rapidly and
+CALA delivering revenue of GBP 776 million, more than 3x the amount we'd achieved the year we acquired
+our share.
+
+In our housing portfolio, we will continue the expansion of our Build to Sell and Build to Rent offerings,
+and we have measured plans to develop businesses in the Later Living and affordable housing sector.
+
+We intend to grow the urban regeneration portfolio through further investments into existing projects and
+the regeneration of cities where we do not yet have a presence.
+
+For LGI, operating profits for the division as a whole was flat year-on-year. Within that result, U.S.
+protection grew 5% with good premium growth of 8% and favorable mortality experience.
+
+In U.K. Protection, our profits of GBP 209 million were impacted by the previously reported adverse claims
+experienced in group protection as well as some lower long term [ that was ] experienced on all the
+business in retail protection.
+
+The range of actions taken by group protection, including pricing at scheme renewals, has returned the
+business to profitability in the second half and we anticipate it will continue on this trajectory in the
+coming year.
+
+The margin across U.K. Protection remained robust in a competitive environment. Given 2017, our U.S.
+business launched a direct-to-consumer sales channel and work is ongoing to digitally transform the
+business.
+
+This will continue in 2018, with the launch of an application that provides an instant underwriting decision
+for more customers and digital collection of medical information to increase efficiency.
+
+As usual, LGI America has already paid its 2018 dividend. This year, it was $105 million, up from $100
+million paid last year.
+
+In GI, gross premiums increased 13% to GBP 369 million whilst maintaining our pricing discipline in a
+competitive market. 38% of our premium now comes from our direct channel.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+As [ the slide shows here ], our operating profit was affected predominantly by the impact of increased
+costs from escape of water claims in Q1. We took action to address this and saw improved claims
+experience in the second half, as can be seen by the 92% combined ratio.
+
+GI is now on 7 distribution agreements in the last 2 years with major U.K. financial institutions, several of
+which will commence in the first half of 2018, and we have diversified our proposition with our acquisition
+of pet insurance provider, Buddies. These factors combine to give good prospects for growth in 2018.
+
+On savings, the team did a great job in delivering the 2017 results amid a few distractions. As you are
+all aware, we announced the sale of our Mature Savings business to Swiss Re in December for GBP 650
+million, achieving a sale price of 1x Solvency II to our own funds. The profits of over GBP 400 million will
+be recognized when the Part 7 completes, which is targeted for mid-2019.
+
+Moving to our capital position. The group Solvency II surplus increased GBP 1.2 billion since the last
+year-end to GBP 6.9 billion. Our Solvency II coverage ratio, calculating our shareholder basis, increased
+to 189%, up from 171% last year. As I mentioned earlier, our coverage ratio as of 5th of March was
+estimated at 196%, reflecting increases in interest rates since the year-end.
+
+Our economic capital showed similar growth over the last year, as expected. We have expanded our usual
+Solvency II surplus bridge to explain the GBP 1.2 billion total movement over the year.
+
+As we guided, our operational surplus generation has increased to GBP 1.3 billion. The impact of the
+amortization of the opening transitional was broadly offset by the corresponding release in risk margin.
+The impacts of writing new business in the year was a very capital efficient strain of less than GBP 100
+million.
+
+Operating variances of GBP 0.4 billion, including the impacts of the change in our mortality assumptions,
+experience variances, changes to model calibration and management actions.
+
+These actions include changes to asset mix, matching adjustment optimization and hedging strategy. We
+also chose to strengthen our interest and inflation calibration which offset some of the benefits in the
+second half.
+
+Our market movement for the year were a net 0, with equity market rises offset by credit spread
+narrowing and small interest, inflation and FX changes.
+
+And similarly on Solvency II, our usual slide gives you our estimate of the present value of Solvency II
+surplus emergence from the key elements of the new business we wrote.
+
+As we have already noted, our margins continue to be resilient whilst maintaining pricing discipline. For a
+small strain of less than GBP 100 million, we have created GBP 564 million of value.
+
+So to conclude for me, even without the mortality releases or one-off U.S. tax benefits, our business
+produced excellent growth with an operating profit increase of 12% and an EPS growth of 9%. This is in
+line with our previous EPS guidance and an indication of our ongoing ambition.
+
+On longevity, we maintained our prudent and staged approach to the trends we are seeing, and will
+investigate to move to CMI '16 in light of our 2017 experience.
+
+All our businesses have great growth opportunities and are backed by a strong balance sheet and cash
+position whilst delivering excellent ROE.
+
+I will now hand back to Nigel to go into more detail on these growth opportunities.
+
+Nigel David Wilson
+Group CEO & Director
+
+Thank you, Jeff. Clearly, this has been another great year of delivery. I'm both very pleased for my
+colleagues. I'm very proud and privileged to be the CEO of Legal & General.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+Record annuity assets, record assets under management and record insurance premiums. But what is
+really exciting, as Jeff mentioned, is looking forward, how our reshaped business and focused businesses
+can address and build on so many global trends which are moving in our favor.
+
+Our strategy begins with our 6 long-term growth drivers which are highly relevant and drive continued
+growth here at Legal & General. To take on a few. The aging demographics, combined with tension and
+welfare reform is still leading to the significant DB to DC shift, which continues to gather pace.
+
+We now manage GBP 68 billion of DC assets, the largest manager in U.K. We're highly focused on the
+whole DB journey from LGIM -- LDI products to buy-ins and buyouts at LGR and providing the direct
+investment to deliver the returns expected by our policyholders and our shareholders.
+
+We're also actively growing in DC, both in the U.K. and so far in the U.S. Technological innovation drives
+so much today, but we at in Legal & General are more than keeping pace.
+
+Investing today's capital to provide a threefold benefit: solving customers' problems, building a better
+society and delivering strong returns for Legal & General shareholders.
+
+Inclusive capitalism means finding solutions that work for both Legal & General and for society. Having
+exited from some businesses, we can really concentrate our attention and energies on those that can
+make a real difference and deliver our unique model of inclusive capitalism. We did Investing and
+Annuities and will continue to drive our global leadership in pension derisking while investing policyholder
+and shareholder capital in direct investments to address the societal need in infrastructure and housing.
+
+And in Investment Management, we continue to build out our world-class international businesses. And we
+are addressing the U.K. Savings gap by growing our retail investments and Workplace Savings businesses.
+
+Finally, within insurance, we're seeking to harness technology to become a fully digital and data-enabled
+insurer, while addressing a clear customer need for financial protection. The numbers Jeff took you
+through show we are very capable capitalists, but what we do also meets real customer and real societal
+needs.
+
+Let me take you through each business area briefly. First, LGR, we're investing in Annuities. LGR
+Institutional is our largest business, and we continue to be really excited by its growth prospects. Our
+franchise, particularly including LGIM, gives us a differentiated ability to source attractive business.
+
+Our financial and brand strength allows us to remain disciplined in our pricing. Laura has picked up the
+reins and has promised me another great year in 2018.
+
+In LGR, Chris has terrific plans to further broaden our individual annuity franchise within this important
+area, delivering complete retirement solutions. Then on the investing side of the business, we have a
+unique capacity to source attractive and high-performing direct investments by LGIM, by LGC and by
+lifetime mortgages.
+
+LGC has 2 principal goals: first, it uses our strengths, including our existing businesses, network,
+brand and talent to invest our shareholder capital to maximize returns; secondly, it supports our other
+businesses by creating or unlocking debt-like instruments -- investments with great counterparties for LGR
+and by creating opportunities for LGIM and its clients.
+
+Recent examples include the urban regeneration project in Cardiff and ceding LGIM's build-to-rent fund.
+LGC invests in 4 principal areas: revenue generation, housing, SME finance and clean energy.
+
+LGC will take [ some ] investments, outright ownership or equity stakes, but only if they satisfy our return
+criteria and are consistent with our strategy. This is a unique capability, and we'll continue to evolve its --
+and accelerate its evolution under Kerrigan's new leadership. And I'd like to thank Kerrigan for taking on
+this exciting new challenge.
+
+LGIM is a business we have built for the future. Once rooted in U.K. DB pensions, LGIM's strategy today
+is focused on 3 things: broadening our investment capability, growing globally and expanding our U.K. DC
+and retail businesses to address the U.K. savings gap.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+We've expanded into the whitespace, huge multibillion-pound markets, such as global high-yield, multi-
+assets, real assets, factor-based investing. We have no legacy problems on the upside. And we're taking a
+global lead on ESG, more of our inclusive capitalism. Sacha Sadan and his team are leading the markets
+across the world.
+
+We plan to host a Capital Markets Day in June, focused on LGIM. So you can look forward to hearing more
+from Mark and his outstanding management team.
+
+Our insurance business goal is to be a fully digital and data-enabled insurer. Firstly, we're looking to use
+technology to improve operational effectiveness, reduce costs and improve customer outcomes, with
+extensive use of robotics, AI and big data.
+
+Secondly, we are digitizing and diversifying our distribution. For instance, SmartQuote for GI where we
+offer executable quotes after only 5 questions by using big data. And as Jeff mentioned, we are already
+winning partnership business because of it. Thirdly, insurance is where we innovate and explore alongside
+digital pioneers in fintech and insurtech.
+
+As Jeff said, GI delivered 13% growth in premiums in 2017 and indeed, Cheryl and her talented team are
+planning to make me even happier by achieving even more growth in 2018 and beyond.
+
+Although we have strong divisional accountability, collaboration and synergies enable us to deliver more
+than we ever could as individual businesses. It is a vital part of our firm's culture and a key positive
+differentiator. There are many, many examples of this. Providing institutional and corporate clients
+with consistent solutions across LGIM and LGR using assets sourced by LGIM and LGC, leveraging our
+workplace customer base to offer products from across the group and creating a single customer interface
+for over 10 million customers within My Account to provide access to retirement, savings and insurance
+solutions.
+
+The refocusing of our business puts growth in the U.S. [ to the fore ]. We have 3 excellent growing
+businesses with great management teams. LGIM has delivered strong growth in client numbers, including
+some of the largest U.S. DB and DC funds. LGR, with a strong pipeline in a market where only 4% of the
+$3.7 trillion of DB liabilities have transacted so far. LGI's U.S. term insurance business is well positioned
+for the many opportunities we see for increased digital deployment and more D2C activity.
+
+Now a few case studies for future [ growth ]. In 2017, we launched LGIM's Future World Fund to address
+the demand for better risk-adjusted returns alongside greater ESG impacts. With over $6 billion in the
+fund to date, we have a $100 billion ambition. And our build-to-rent fund is currently a GBP 1 billion
+business, ceded by LGC but it has also attracted investors from LGIM's global institutional clients.
+
+It is truly amazing that to date, we haven't created an institutional asset class in-housing in the U.K. We
+will change that. We see it as a GBP 10 billion opportunity, which taps into the demand we are seeing right
+across the U.K. for high-quality institutionally owned rental accommodations, a classic case of fixing a
+market failure and using our commercial strength to help tackle a societal problem.
+
+It's not just the millennials who face a housing shortage, but older people too. Legal & General is once
+again providing a solution to later life living.
+
+Digital or insurtech has become a watchword across our industry. It is also crucial to use data to improve
+the customer experience, which is what we do in GI through SmartQuote and SmartClaims. Five years
+ago, filling a digital slide was demanding. Today, we have multiple projects evolving at real pace and with
+real energy. We started a few years ago with 4 robots, known as the remotes. Now we have more than 50
+with many more being developed to massively increase efficiency in our operations, primarily in LGI.
+
+Our partnership with Slice Labs, like our work in parallel lending with SalaryFinance, addresses
+contemporary customer needs.
+
+So another great year, but we remain ambitious. We achieved 17% EPS growth in 2016 and 9% in 2017.
+So well placed and on track for our financial ambition to achieve 10% EPS growth from 2015 onwards.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+I feel like our business is in great shape. We are at a real inflection point. We have clear strategic goals we
+are delivering on. We have a great set of businesses, unencumbered by the legacy of the past, a globally
+trusted brand and a great team focused on our exciting growth opportunities.
+With that, let me open it up to Q&A.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+Question and Answer
+
+Nigel David Wilson
+Group CEO & Director
+
+Gosh. Oliver? Can we limit everybody to 3 questions at the most.
+
+Oliver George Nigel Steel
+Deutsche Bank AG, Research Division
+
+Oliver Steel, Deutsche Bank. Three questions. First of all, on cash, GBP 3.4 billion is what you're saying
+you've got at the moment. I don't think that includes anything yet from the Savings sale. So perhaps, you
+can talk about what it could be pro forma? But then I don't think what we've ever really sort of clarified
+is how much of that cash is actually excess and perhaps even also link it in with the solvency ratio now at
+196%, how much of that is excess? Second question is, what are you going to do with it? You've proved
+that a lot of your business is capital-light, even the annuities business is not facing that much strain and
+the sort of businesses you're in don't sort of sound as if they've got a lot of major acquisition opportunity
+[ if I omit the collar ], so what are you going to do with it? And then third question is, perhaps for Jeff, so
+you're saying the longevity release in 2018 will be the same as 2017. But you're...
+
+Stuart Jeffrey Davies
+Group CFO & Director
+
+[ Is that ] what I said.
+
+Oliver George Nigel Steel
+Deutsche Bank AG, Research Division
+
+Well, you can correct that. You've also said you're going to spread it over several years. So does that to
+imply that 2019 and 2020 are also going to be in the same area?
+
+Nigel David Wilson
+Group CEO & Director
+
+I'll get the first 2 and let Jeff left lots of breadcrumbs for people to follow there and it's interesting to
+watch people's faces as they were trying to figure out exactly what he was saying. But he believed in
+rehearsals was totally clear and fully [ understandable ]. But he was getting points of correction from
+Mark Zinkula, so it's on actuary and issues, which is the first time, so all that training that he's had to go
+through for several years are beginning to show a benefit. On the cash point, indeed, you're right. The
+GBP 650 million of cash that we received from the sale of Mature Savings isn't included in the GBP 3.4
+billion. We received that on the 2nd of January, and as Jeff mentioned, that will result in over GBP 400
+million of profit being credited to the P&L in 2019. There was some other cash we received, which was as
+part of the transfer and that's one of the footnotes, which Jeff might highlight, which where that goes to.
+On the whole issue of capital and what we're going to do with it, that's why I've got a great outstanding
+management team who're going to inundate me with brilliant ideas in the next few years. But you're
+right at the moment that we've created a very capital-light model, which is generating about GBP 0.5
+billion of extra cash per year that we're not actually using as a business. Hence, the cash balance keeps
+going up and up and up and with the disposals, it goes up even further. But because we got a 20-odd-
+percent return on equity, we have business models where we can deploy the capital truly efficiently. We
+have a huge amount of whitespace to expand into, and I alluded to a few of those areas. The rollout of
+Future World as a global brand is a key priority and one that Mark and I are massively enthused about
+on a personal level. We have a series of bolt-on acquisitions that we're thinking of making. Mark's been
+thinking of making one in America for a few years, and he's still thinking of it in 2018. I hope this year,
+he actually gets on and does one of them because we need a greater direct investment capability in the
+United States. We've still got further opportunities in Cheryl's business and in Chris's business. So we're
+not short of opportunities to deploy the capital, but we'll be very patient. We'll be very patient and very
+measured is the word that Jeff used. And yes, the Solvency II ratio is pretty close to 200%, but we like
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+having a particularly strong balance sheet, and we've never had targets for our Solvency II ratio. Now Jeff,
+can you ask -- answer that third tricky question?
+
+Stuart Jeffrey Davies
+Group CFO & Director
+
+Yes. It was all clear from the presentation, as Nigel says. Yes, so the longevity, we will look at CMI '16.
+We were waiting for our 2017 data to be fully developed. And as you note, we've even adjusted version
+of those tables. It was adjusted CMI '15. So what I talked about in the presentation was if you just
+mechanically plugged in CMI '16, you get an answer very similar to the total release that we had this year.
+But of course, we're not in a position today to say, we will just mechanically plug it in because we smooth
+out data to make sure there aren't blips in it. We look at our own portfolio. We look at our socioeconomic
+group against the underlying data. So that's the reason for the caveats around it. It's not as simple as
+saying we'll just move to that table. There's a lot of work to be done for that and understanding what's
+driving it and continuing to invest in understanding what's driving those. And then looking forward, yes,
+we still talk about the several years. Only last week, there was CMI '17 released and that showed the
+same sort of similar numbers. Again, you're talking small numbers, but you saw the 0.2 change in life
+expectancy. But that would, again, translates into the same sorts of releases if you continue to see it. So
+we need to see what comes out of our data, and we will continue to keep addressing it. But we see the
+trends, and we believe there is a medium- to long-term slowdown in mortality improvement in the short
+term.
+
+Nigel David Wilson
+Group CEO & Director
+
+2 actually points there. So both of our senior audit partners smiling that you've made the correct answer
+to the question on that, which will keep them both happy. I think the other point is I noticed 1 or 2 of the
+notes that came out this morning said the mortality release is one-off. I mean -- I think Jeff's trying to say
+that it's not one-off, it's for multiple years. And we're moving forward in a very measured way in terms of
+recognizing what's happening to longevity for the business. Andy thought he was getting there -- the mic
+there. That's what you get for being the broker, okay?
+
+Gordon Aitken
+RBC Capital Markets, LLC, Research Division
+
+Gordon Aitken from RBC. And first on mortality, so you have moved to an adjusted version of the tables
+and [ color ] your books different. Just wondering, how it is different? And what actually has been your
+-- the experience mortality -- experience of your new annuities versus the population? Your book would
+definitely be wealthier than the population. And you talked a bit about this. And I'm just wondering if
+you're holding -- because there's a bit of debate in the industry, actually it's about how that wealthier
+segment is moving. So I'm wonder if you're holding some prudence back here. And as far as the second
+question is on retail annuities. In the open market, you talked a bit about that as a proportion of the total
+annuity market. It was broadly 45% a year ago, and I'm wondering what it is now and how fast you think
+the open market will grow?
+
+Nigel David Wilson
+Group CEO & Director
+
+Yes. I'm going to let Chris answer the second question, and Jeff's going to have yet another go at
+answering the first question. Then, we'll give mic to you, Andy.
+
+Stuart Jeffrey Davies
+Group CFO & Director
+
+I mean, you're right in that we have a slightly higher average socioeconomic group within ours. And there
+is more uncertainty about how wealth is impacting future improvement developments. It's -- we just
+released the paper along with the panel that we sponsor and what we've seen in the past, but there is
+a question of do you get faster improvements if you have more wealth because you can invest in that?
+Or you already had earlier improvements and, therefore, it may be slower going forward? And so that
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+just gives us that little bit of extra prudence that we factor in. But in terms of underlying experience,
+there is nothing substantially different about what we've seen to date than what is coming through in the
+population data and pensioner data, et cetera. Chris?
+
+Chris J. Knight
+Chief Executive Officer of Legal & General Retirement - Retail
+
+Yes, thanks. Yes, we see the open market continuing to grow. The whole market grew modestly sort of
+in 2017 up again over the last 2 years, and we've seen 100,000 people coming to retirement every year
+going forward. With more DC money, rather than [ DP ] encumbered, we see that potential to grow. So it's
+up for us to make that market. I think the introduction of PS 17 12 is also going to have an impact. That
+happened last week. So we'll have to see what that does. But that essentially means that when anybody
+gets an annuity quote going forward, they will be presented with the best price in the market as well as
+-- the price -- immediate price as well. So that may well -- that -- we see that as being net positive for us
+over the long run.
+
+Nigel David Wilson
+Group CEO & Director
+
+Yes, one of the interest and intended consequences of George Osborne's pension freedom, so you're going
+to see a lot more inversion in pension solutions being offered by providers like ours -- like ourselves. And
+it was in fact creative destruction at work and one industry reduced in size massively and a lots of other
+new industries are emerging around it and they are pretty much trying to be market leaders in all those
+other areas. And so far, DC has been a huge success lifetime mortgage and later living are [ all new ], also
+doing incredibly well. Andy?
+
+Andrew Sinclair
+BofA Merrill Lynch, Research Division
+
+This is Andy Sinclair from BofA Merrill Lynch. Three questions for me, please. Firstly, on LGIM. Just wanted
+to if you could give us about -- thoughts on the pipeline of business coming into 2018 and also what you
+can think of for the longer term cost/income ratio for that business? Secondly, staying on LGIM, your
+recent ETF investment Canvas, just wondered do you feel that gives you everything that you need to
+compete in the ETF space? And how material can ETFs be for LGIM? And thirdly, on the dividend, you've
+pointed towards EPS growth of 10%, guided towards dividend growth of 7%. How do you feel about the
+divergence of these and can they increase in coverage over time?
+
+Nigel David Wilson
+Group CEO & Director
+
+Mark, you've got 2 questions to answer. I think this is the first time you've had 2 questions back-to-back.
+
+Mark Zinkula
+CEO of Legal & General Investment Management and Director
+
+All right. And thank you. So in regards to the pipeline, I think we are expecting to see a continuation of
+what we have over the past 2 to 3 years, which is continued positive net inflows pretty much across the
+board. You saw this past year, we've seen an increase in flows in every region, increase in flows in DC
+and retail, down slightly in DB, but again still positive in that we still expect to have continued single-
+digit profit growth for the foreseeable future in the DB market and well the other markets, obviously,
+where the growth potential is higher. We do have one, which we announced last year, but we do have one
+significant outflow the first part of this year, which is the ACCESS local authority pension pool which is [ a
+good example of ] outflows. So that's -- again, there will still be a lot of lumpiness in the DB part of the
+business, but again the underlying trends are still very favorable for a business model very broadly. In
+regards to the Canvas acquisition, so I think, yes, the timing is certainly right for us as we're expanding
+our retail business. As I pointed out earlier, we're doing very well. In the U.K., retail market now we're
+now expanding into Europe and ETFs are becoming increasingly popular in Europe for a variety of reasons,
+which I'll go into if you're interested in more detail. And we think we have the right partner. It's a great
+leadership team and actually, since we announced the acquisition in November, assets are already up
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+25% from the announcement date, and we'll continue to launch funds that would be expected, core funds,
+[ thematic ] funds, and ESG-related funds that would be expected from our brand.
+
+Nigel David Wilson
+Group CEO & Director
+
+Jeff, do you want to...
+
+Stuart Jeffrey Davies
+Group CFO & Director
+
+Yes, I mean the short answer was similar to the earlier one around, we'll continue to invest. It's not a
+conscious decision to improve coverage ratios or anything else. It's -- we think it's a sensible number,
+given where we stand. And we continue to review the position. The board will continue to review the
+position across a range of metrics. So there is a -- there was nothing magic about either of those. We
+genuinely believe that's our ambition around growth, and we think that's a sensible place to set the
+dividend at this stage.
+
+Nigel David Wilson
+Group CEO & Director
+
+Okay. Laura, do you want to?
+
+Ravi Tanna
+Goldman Sachs Group Inc., Research Division
+
+It's Ravi Tanna from Goldman Sachs. And 3 questions, please. The first one was just going back to the
+cash that was asked about earlier, the GBP 3.4 billion. I was wondering if you could give us any sense of
+how much of that's encumbered versus what's freely available? And also if you could perhaps give us a
+sense of where that sat, whether it's in LGF or elsewhere in the group? The second one was just on the
+annuity business. Obviously, very strong new business surplus, and you've referenced the contribution
+from direct investments and lifetime mortgages. There's a speech from the DRI last week referencing their
+scrutiny around use of matching adjustments, internally rated assets, and you've, obviously, talked about
+the scope to take that further. I was just wondering how -- if you could tell us a bit more about your risk
+appetite in that context, please. And then the third one was on LGC. Obviously, with the decision to set
+out of investments and crystallize cash, there's a trade-off with profits to a certain extent. I know some is
+being reinvested and recycled, but could you give us a sense of that trade off going forward, please?
+
+Nigel David Wilson
+Group CEO & Director
+
+Okay. On the cash, the cash at GBP 3.4 billion was the cash that was largely held in LGC, as you will see
+in the slide. It isn't actually the total cash absolutely across the [ whole ] group, which we didn't give. And
+there was GBP 650 million came in, in January in one tranche and GBP 170 million in another tranche.
+So we're long cash. I don't think we've ever given out the numbers as to what's encumbered and not
+encumbered given the model. Maybe, Simon, do you want to just talk a little bit about risk appetite in
+general and then the lifetime mortgage markets specifically? And Simon's our CRO. And then Kerrigan, can
+you answer the LGC question?
+
+Simon Gadd
+Group Chief Risk Officer
+
+So Simon, we presented before about all of our direct investments. We -- the primary aim is to make sure
+that they are a good match to our liabilities and make sure that all the risks underneath them are properly
+assessed. The matching adjustment process, which was referred to in the question, and I happened to get
+approval from the PRA to any asset that goes into that portfolio really ups the game in terms of making
+sure that there is really rigorous assessment of the risks, that the cash flows are as fixed as possible so
+that they are a good match for liabilities. And lifetime mortgages, we have to put into a structure to do
+that. But again, that's been rigorously assessed with the PRA, and I believe there's a continuing dialogue
+about that. We are very comfortable with the way we are currently reserving for and capitalizing against
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+the risks for that product. There's only -- there's a limit to how much ultimately we can have in direct
+investments back in annuities, but we're a long way away from that at the moment because of the liquid
+nature of those liabilities. So I think it's about 17% of the portfolio currently. We've got plenty more scope
+to increase that without encumbering any liquidity issues.
+
+Kerrigan William Procter
+CEO of Legal & General Capital and Director
+
+Great. Yes, just on the reinvestment and recycling of capital within LGC. We have a range of assets within
+LGC on the direct investment side. We have yielding assets, development assets, operational assets and
+then some -- a start-up area. And of course, some of those assets come to the end of their useful life with
+LGC and it makes sense to sell them [ owned ] things like part of our office developments in Cardiff urban
+regeneration. We sold those [ owned ] parts of Bracknell, moved on. And of course, we got really exciting
+reinvestment opportunity. So if things like some of the land we bought for our communities business
+where we're building out 3,000 houses and the exciting opportunity -- the really exciting opportunity in
+later living where we put GBP 100 million in, in 2017. So the net investment was positive. We expect to
+[ give you ] some guidance on the future. But we expect to put more of that into some of those really
+exciting opportunities in later living, for example. Some of the existing urban regeneration plans could
+be developed [ there ], and we're working with further cities, really exciting plans on clean energy where
+we've only just started. And we've got about GBP 100 million in, in a range of fintech, proptech and
+healthtech companies that's incredibly exciting we can curate and develop further. So it's going to be net
+positive, obviously, in a whole range of really exciting areas.
+
+Nigel David Wilson
+Group CEO & Director
+
+I think we took a very measured approach here as well, is that we wanted to do a proof-of-concept
+because we know what a cynical group of people we have in the room here -- with us today. So build it
+and sell it is part of it. And it was great to see in Cardiff that the -- there were 2 European investment
+firms who bought the assets and a Canadian firm who bought it in Bracknell. So it wasn't -- I'd love to
+say that was in the plan, but it wasn't in the plan. That actually these would have wide international
+institutional appeal, which is something we found to be unexpected, but actually beneficial to us as a
+company. Colm, just start.
+
+Colm Kelly
+UBS Investment Bank, Research Division
+
+Colm Kelly, UBS. Firstly, is on the margins. As mentioned earlier, the annuity margins and the new
+business margins are improving materially through the direct investment strategy. I supposed why --
+how do you see the trajectory in terms of margin expansion going forward? Is there more to go there? I
+know Kerrigan previously mentioned there was a bit of a ceiling in terms of how much lifetime mortgages
+could be used within the asset portfolio given the matching, the need to maintain matching. So maybe
+just some color on that. And also just why the, may be the Solvency II in your business margin has
+come down a little bit since the half year. Secondly, on LGIM, again, performing very well, on flows, on
+earnings, also the cash remittances are up, I think, for the first time since 2014, with a payout of 76%.
+So just thinking about how that progression and the payout from here, given it had come down a little bit
+prior to this year. Are we going to see continued growth in that cash remittance number? Or should we
+expect a little bit more held back for may be reinvestment or acquisitions in the -- [ as the management
+says, has ] alluded to earlier? And then finally on the subsidiary cash remittance, you provided enhanced
+disclosure on that, so thank you for that. I'm assuming the sale of [ closed ] funds and the proceeds have
+not been remitted from entities, and so may be is that flagged for reinvestment? And then finally, there's
+the other subsidiary remittances of GBP 120 million. So I was just wondering if you can provide a little
+bit more detail on where -- what is driving that? I think last year, the sale of Suffolk Life contributed to
+that number. I'm just looking at some of the subsidiaries underpinning it. I don't know if -- I don't think
+[ they ] have paid dividends [ that largely ] in the past prior [ rather than GRE ]. So just maybe a color on
+where exactly it's driven from it and can we expect continued growth in that number going forward?
+
+Nigel David Wilson
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+Group CEO & Director
+
+Okay. On the -- I'll just give -- while Jeff's thinking of a couple of the answers here, I'll give a bit of waffle
+to give Jeff some time. The -- on how we think about the portfolio. The thing we are trying to flag is we
+have over 20% in sovereigns and moving from sovereigns to [ new ] area to direct investments is -- or
+lifetime mortgages is a phenomenal trade for us and hugely value creating. We haven't really started
+on that. So there's a lot of backward optimization that if you want to talk to Laura and Chris about it
+afterwards very specifically on the actions we have taken and the size of the prize in that given area. But
+I don't know whether you want to add anything to that or take that very complicated last question or
+whether you want to take one off-line as to what the remittances are going to be, the mix of remittance.
+
+Stuart Jeffrey Davies
+Group CFO & Director
+
+Yes, I was going to say GBP 120 million remittance is probably the best way to [indiscernible] later on in
+that. But some of that is [ tidying up ]. Some of them is smaller entities, just paying [ a pence ], small
+amounts. I mean, obviously, the vast majority of remittance comes from LGIM, [ L gas ], et cetera. And
+that's where we're seeing good progress, good precedent around release of the longevity release and then
+the dividend payment on top of the underlying and then just trying to get more disclosure on the GBP 1.6
+billion paid up and what are we moving to group and where is that sitting. So that was the main thing
+around that.
+
+Colm Kelly
+UBS Investment Bank, Research Division
+
+[indiscernible]
+
+Stuart Jeffrey Davies
+Group CFO & Director
+
+Yes, that's small numbers. Start of '17, we would have doubled that. [ There's ] normal course of
+dividends as it was paid through. And we were pretty clear in the dividend strategy around what we pay
+through LGAS, et cetera. And just on -- adding on the annuity and new business margin, et cetera, I
+mean, it was sort of following up from the previous question as well. I mean, as Simon said we are 17%,
+4% lifetime mortgages of the total book. As an in force portfolio and overall, we believe there's plenty of
+headroom in that and that we could easily have 30 or the 40 [ as an answer to that ]. There's headroom
+there, which is a number of years of adding to that book. And as lifetime mortgage grows, we grow in new
+business, we grow the total book. We can allocate this DI that we [ would have added to the ] in force [ or
+through ] new business. We'll be disciplined in that. And because we have that optionality with in force,
+we can maintain the pricing discipline. So we're very focused on the right new business, added value, the
+right returns on economic capital and know we can apply to the in force if we need to.
+
+Colm Kelly
+UBS Investment Bank, Research Division
+
+[indiscernible]
+
+Nigel David Wilson
+Group CEO & Director
+
+Yes. I mean, I think [ in particular ] last year, some of you pay a huge amount of attention to this.
+Whereas, in fact, we [ usually round it ] to the nearest GBP 50 million in some of the internal stuff. And
+then you could [ model it at ] at 76% or 72% or 78%. We rarely do that. But we tried to demonstrate
+this year that there's a huge amount of remittances. And rest assured, there'll be a huge amount of
+remittances again this year because we hadn't realized the sensitivity of some of the elements to exactly
+making sure that we don't have trapped cash or trapped capital in the divisions. So we recognize we didn't
+succeed last year in convincing all of you. So [ it's a creed ], in particular. [ Kevin ], give me a touch of my
+color to remind me that, actually, this is part of the equity narrative. I will come back to you.
+
+David Bracewell
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+Redburn (Europe) Limited, Research Division
+
+It's David Bracewell, Redburn. Two questions. One on the workplace savings. There's going to be an
+increase to contribution rates this year also and after. I'm just wondering how that will [ you know ] affect
+your business -- I don't know what your average contribution level is for your current workplace [ flows ].
+So I'd just be interested to hear how that might impact the flows there. And the second question is on the
+risk margin for the annuity business. There's a good chance the PRA is going to maybe change the rules
+there, allow you to have some flexibility. Just wondering if they do relax the rules there, what you might
+do in terms of strategy. Would you reduce the reinsurance that you purchase? Or actually, you found that
+the reinsurance is so cheap you might keep that going forward?
+
+Nigel David Wilson
+Group CEO & Director
+
+They're both very good questions. There are all sorts of odd reasons which you're going [ afterwards ].
+But, Mike, why don't you explain why [indiscernible] are doing such a fantastic job in the DC space?
+
+Michael Barrie
+Director of Fund Management
+
+Yes. So in the workplace business, the contribution rates are [ scheduled ] to go up. Many of our clients
+or our customers are already adding 8% contribution or thereabouts. So we would expect there would be
+somewhat of an uptick, but we don't expect persistency to go down. The concern is when the contribution
+rates go up, obviously, that there might be some lapses. So in balance, net-net, slight positive for our
+business overall.
+
+Nigel David Wilson
+Group CEO & Director
+
+Actually, I love the answer to the next one, it depends. Yes, but it does depend. If there's a movement,
+it will come down to what is the cost of reinsurance versus how much of the risk margin is being reduced
+and the cost of capital trade-off. We've always said that it entirely depends how much any risk margin
+reduction would be, and we will then review. The reinsurance remains very good value for both parties.
+And we have a good supply. We have the 14, 15 on the panel that we can get reinsurance from. So we'll
+maintain to look at that, the operating model, obviously, with a focus as well on new business strain and
+managing that on a [ substitute ] basis. I'm sure we would continue to be capital efficient.
+
+Greig N. Paterson
+Keefe, Bruyette & Woods Limited, Research Division
+
+Greig Paterson, KBW. Two questions on your numbers. I was surprised at the jump in annuity margin,
+and I'm talking about on your new business release basis. You allocated 80% -- sorry, you reinsured 80%
+of longevity in the first half -- on the new business in the first half. What percentage did you reinsure in
+the second half? I'm trying to understand the change. And second point is in terms of direct investments,
+what percentage were allocated in the first half to new business -- or into new business as opposed to the
+second half? And then just finally, can you give us some guidance on where you see the sustainable tax
+rates going forward and operating [ now with ] -- post the U.S. changes?
+
+Nigel David Wilson
+Group CEO & Director
+
+Okay. I'll do a little bit on the first one, just by way of background. I think people also forget the individual
+annuity business we don't reinsure at all. The U.S. annuity business we don't reinsure at all. All the back
+book transactions we don't reinsure at all. It's only the U.K. PRT business. And so it's hard to do linear
+mathematics around those lots of changes in the mix. And it's really -- answering the preceding question,
+it's the ratio that we have in the U.K. PRT business which may well change going forward depending on
+what percentage [ is on those ]. And if you want to be really technical about this, Tim Stedman -- [ gave ]
+an incomprehensible answer to Jeff and I last night, which was, depends. And you can do the depends
+sensitivity with Tim afterwards. But [ you're on ].
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+Stuart Jeffrey Davies
+Group CFO & Director
+
+Yes, sure. I mean, in terms of first half to second half and percentage, I mean, it's very similar. The
+model hadn't -- didn't change. It's 80%, 85% range shown on the U.K. PRT. We look at each case on an
+individual basis, depends how much deferred and in-payment is in a transaction and what the pricing is,
+especially on deferred reinsurance where it's available. Both -- some of that drives that, but there isn't any
+conscious decision that we've made between first half, second half on that. In terms of [ certainty ], we
+don't -- we haven't been explicit on how much we're allocating to new business versus in-force. I mean,
+some of the useful metrics is we carried over more DI than we had the previous year, and so we could
+have allocated a lot more if we want to make them look better, and we effectively warehoused some of
+that. I think the other thing which has improved the most and significantly is obviously greater [ matter ]
+lifetime mortgages. If you're writing deferred and you have lifetime mortgages, that is a reasonable pickup
+on yield compared to any other assets we'd be sourcing at the very long tail, big impact, long-duration,
+high-yield pickup, so that has an impact on that. Tax rates...
+
+Greig N. Paterson
+Keefe, Bruyette & Woods Limited, Research Division
+
+What's the increase [indiscernible]?
+
+Stuart Jeffrey Davies
+Group CFO & Director
+
+No. No particular change. On tax rate, yes, the simple answer is it's -- at the group level, it's materially
+neutral on an ongoing basis. It was very much a one-off. There isn't much more for that -- to that, to be
+honest, given how big it is compared to the rest of the group.
+
+Nigel David Wilson
+Group CEO & Director
+
+Laura, do you want pick up the bits that Jeff missed out on what the -- how warehousing works, which I
+think a lot of you haven't fully covered and the -- what opportunities are in the DI space moving forward?
+
+Laura Doyle
+Former Head of Investor Relations
+
+Yes, sure. I mean, I think Jeff -- on Jeff's slide, he was very clear about the relative proportion of direct
+investment on lifetime mortgages in our portfolio, growing over the year as the size of our book grew.
+And the diversity point is a really key point throughout -- the direct investments have now made the flow
+business. Lifetime mortgages have been highlighted. The other one to highlight is the LGIM's Real Assets
+private placement business based in the U.K. and U.S. and as well as some of the other sources that we're
+working on with LGIM Real Assets, and really importantly, the opportunities we're unlocking through LGC.
+So we talked about Cardiff. Newcastle is another one. We did a really successful deal in Leeds, Headingley
+and on the back of work we've done in -- with LGC in Thorpe Park and looking forward to working with
+Kerrigan really with LGC to unlock further opportunities in the sectors we've chosen.
+
+Nigel David Wilson
+Group CEO & Director
+
+Yes, we don't think anybody else has this LGIM, LGC, LGR capability. And because we created huge
+amounts of optionality over the last 4 or 5 years in all these towns and cities across Britain, we will reap
+the benefits of that in future years. And Chris and the team are innovating hugely in the lifetime mortgage
+market, which is going to increase the flow of that business coming. Or -- and as Simon mentioned, we're
+well below our risk appetite at the moment. Jon? And we'll come back to this side.
+
+Jonathan Michael Hocking
+Morgan Stanley, Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+Jon Hocking, Morgan Stanley. I've got 3 questions on LGIM, please. Going back to the ETF points. Clearly,
+conventional wisdom is unless you're top 5 player in ETFs, you don't really make any money. It's a very
+crowded space. But I guess on the flip side, you guys are running at sort of 4, 5 bps expenses. So I was
+wondering whether we should think about ETFs differently for you given your expense base, is the first
+question. And the second was some of factor-based investing. Is this sort of a [ follow-on ] offer? And
+what capabilities do you have there? What capabilities do you have the need -- do you need to build
+rather? And then finally, you've got some 3 strategies which are pretty low-cost use of funds. You've got
+this classic index business, a passive business. You're going to have -- you have the ETF platform, and
+you're going to have [ comp ]. Is there a sort of issue here [ of some crowding ] and [ sort of to get it
+to market offer ]. You've been so well known in that sort of index space. You had to actually sort of pitch
+to institutional retail clients, and you've got some 3 things which should essentially do something very
+similar.
+
+Nigel David Wilson
+Group CEO & Director
+
+Yes. Well, Mark is thinking of answering the first 2. I think the key thing, we have such huge whitespace
+to go into. Mark and I have been on a few trips to America, to the Middle East and to the Far East. And
+what struck us is how well the residents would all talk to customers around there, and these values
+and behaviors of the firm are really highly regarded. And the colleagues have gone then and made it
+easy for us. As I said, when we went down, but the reception we've got is being absolutely outstanding.
+And now it's putting people on the ground. And as you said, we have much more equity narrative or
+narrative around the products and solutions that we have. And people -- we're getting demand pull in
+Australia. Somewhere haven't even visited, but we're winning mandates, Korea, Taiwan, Japan, for all
+areas where we're just beginning to put the infrastructure in. And so we've had demand pull ahead of the
+infrastructure. Mark, do you want to answer the 3 questions?
+
+Mark Zinkula
+CEO of Legal & General Investment Management and Director
+
+Yes, absolutely. No, the related questions are very good questions. Conceptually, thematically, what's
+happening is the index market, the passive market is still evolving. And it's from a product vehicle
+perspective as well as product design perspective. And so we still have a lot of demand in the core index
+space, but the market is evolving towards factor-based investing. So investing in different kinds of
+indices that the client needs, which we define as factor-based and some people call it smart beta, more
+thematically in the ESG space. You talked about the future wealth fund and so forth. And there's a blurring
+of the line of what's technically index or passive and what's a bit more than that. But this is the direction
+of travel, and we want to be, we are, I think, right now but it's early days, a market leader in developing
+products that are going to meet evolving investor demand. And it's part of this value proposition is just
+the strength of our corporate governance team, just the importance that's being placed, especially for
+an institutional investor [ that's in it ] over time [ plus ] the millennial crowd and wealth managers and
+so forth, that we are proper stewards in doing our part as one of the largest asset managers to hold
+companies accountable for a variety of ESG topics and some are higher priority than others for various
+clients. In regards to the ETF space, understand the conventional wisdom. I mean, keep in mind this is still
+very, very early days in the ETF market here. Vanguard was a late entrant in the U.S. back when the ETF
+market was evolving there. And we have a very strong index brand, a very strong passive brand. Yes, we
+have the scale, but we also have the brand. We're known to be in the space. ETFs are primarily a vehicle
+for index strategies, broadly speaking. So we do believe that we can enter the market, not starting as
+a top 5 provider, but grow rapidly over the next several years. And again, it is up to the strength of our
+scale and operating model and our brand, and it's still -- it's very early days in this market outside of U.S.,
+frankly, and the rest of the world. I think I covered all the questions.
+
+Nigel David Wilson
+Group CEO & Director
+
+Okay. We'll go here, then go and see Andrew.
+
+Barrie James Cornes
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+Panmure Gordon (UK) Limited, Research Division
+
+It's Barrie Cornes, Panmure Gordon. I've got a couple of questions. First of all, in terms of the lifetime
+mortgage market, I wonder if you could just give us a view in terms of the outlook and also maybe
+comments on any potential regulatory concerns, [ over the passage of] [indiscernible] early. And the
+second question I had was in respect to the credit default reserve, which I presume has got no drawdown
+during the year. I just wonder whether or not there's any chance of reserve release of that [ there ].
+
+Nigel David Wilson
+Group CEO & Director
+
+I addressed that question 5 years ago, Barrie. Why don't I just give you the same answer that we
+had 5 years ago. We almost never had to draw down on the default reserve. And [ apparently I've
+been ] studying it very carefully for the year-end. [ It's been ] switching on since -- we've had
+PricewaterhouseCoopers, I think, from the 175 years as our auditor. I think the original auditor was, in
+fact, Price all those years ago. But it's something that -- we're constantly active enough to see whether it's
+-- we have [ access ] approval [ stuff on the ] credit reform reserve. And Chris, do you want to talk about
+lifetime mortgages? And you should have -- we have Steve here today. And so if anybody's got a lot of
+detailed questions, then Steve will be around afterwards so he can answer them.
+
+Chris J. Knight
+Chief Executive Officer of Legal & General Retirement - Retail
+
+We're very positive about the lifetime mortgage market going forward. GBP 1.5 trillion of equity owned
+by the people in retirement. So -- but I think it's ripe for innovation. We actually really try our best to go
+way beyond the sort of regulatory compliance minimum to make sure the customer is getting really good
+value for money. For example, by making all our products flexible so people only borrow what they need
+to borrow when they set one up and then they can come back to us for future borrowings. We've not seen
+-- and I think probably because of our approach to compliance and distribution that we're not seeing a
+lot of early redemptions. That's not a big -- not even been a small issue really for us. Those of you who
+read the Sun, yesterday, you would have seen they helped us announce our property [ preferred ] lifetime
+mortgage. You see some people living in houses that are tiny, unsuitable for them, and we can help them
+fix the house up and make it livable rents, rent it all out and so forth. So whether it's -- so for separated,
+divorce being an issue, people living without children. It's a huge -- children, without children, there are 1
+million people over 60 living, aging without children. Why on earth would you not want to take a lifetime
+mortgage out of it? What are you waiting for, kind of thing. So I think there's tons of things that you can
+do to [ those ] mortgage there.
+
+Nigel David Wilson
+Group CEO & Director
+
+[indiscernible] legacy 25% conversion rate, you target probably [indiscernible] come in.
+
+Chris J. Knight
+Chief Executive Officer of Legal & General Retirement - Retail
+
+As you can see, we're quite passionate about that.
+
+Nigel David Wilson
+Group CEO & Director
+
+Yes. There's a [ simple test ] -- Chris, I'll just -- when you all read the Sun yesterday, which I thought was
+a...
+
+Chris J. Knight
+Chief Executive Officer of Legal & General Retirement - Retail
+
+Which I thought they didn't all read the Sun yesterday.
+
+Nigel David Wilson
+Group CEO & Director
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+So hopefully, you can have a copy of this.
+
+Unknown Analyst
+
+First one is a numbers question on the figure you show on slide -- the mortality basis slide, where you
+show the CMI '15 impact of 65 and 23.5. I'm just trying to remember what CMI unadjusted was. I think it
+was 22.8. And I was just wondering the margin versus what the population stuff is because, basically, the
+point is I'm trying to work out, a, what I'm looking at here, the 23.5, is this your base table bulk annuity
+rolled up with all your assumptions? And it sounds like you put an extra smoothing factor on top of the
+base CMI stuff because you talked about smoothing. So if you used a different smoothing, it just went to
+the CMI, which you can do. Or are you using the base CMI tables on top of your own population? And the
+second question is a more strategic one. So the 10% EPS growth sort of ambition thing, it's a bit hard for
+businesses largely kind of annuities. So maybe you could help us out as to how you're going to grow the
+earnings by 10% [ per annum ].
+
+Nigel David Wilson
+Group CEO & Director
+
+That was also a question we were asked 5 years ago. I think then, since then we've gone at slightly faster
+than 10%. Bernie, maybe you want to take the first question here.
+
+Bernard Leigh Hickman
+Chief Executive Officer of Legal & General Insurance Division
+
+The first is fairly straightforward. There was a big [ letters that were ] illustrative and very much what
+it is. [ And I would say ] investments on an IFRS basis. That is 1H that we chose to just show how
+we're changing the underlying. But yes, as we said earlier, we do apply smoothing [ to it ] -- we apply
+smoothing to our own data, we apply smoothing to how we bring the CMI tables in. And so they're all
+adjusted. And that's just as an indication of what the movement has been on an IFRS type basis, so
+estimate basis what's the -- it's the quantum change that's important, the 0.1 or the 0.2 rather than the
+absolute number.
+
+Nigel David Wilson
+Group CEO & Director
+
+I think on the EPS thing, we have a multitude of businesses now in the portfolio. At a personal level, I
+think they're all capable of growing at circa 10% per annum LGM, LGR -- 2 LGR businesses, LGC and
+GI. I think Bernie's got the most difficult task with the current portfolio to get 10% growth in the retail
+protection businesses. I think given the great work that Steven, the team did in 2017 in group protection,
+I'd be disappointed if we didn't get 10% growth in the group protection business. So when we come here
+next year, Steve will be standing proudly and telling you we didn't hit the [ track ] in 2018. Andrew?
+
+Andrew John Crean
+Autonomous Research LLP
+
+It's Andrew Crean, Autonomous. Could I ask 3 questions? On the protection side, could you just give us
+the numbers for what [ the case ] on retail protection was and whether you have got over the persistency
+problem now? Secondly, on [ actually mortgages ], is there a finite amount of appetite you've got for
+this? It's the one product which has got a cliff guaranty in it. It's very Continental European rather than
+U.K. TRA, I think in June, came out with some quite scary statistics, what would happen if housing fell
+25%, 30%. And then thirdly, what's the nature of the annuity pricing competition? You've got the normal
+BPA market, and then you've got this enormous life back book coming in. What is the pricing comparison
+between the 2? And is this the tail wagging the dog or the dog wagging the tail?
+
+Nigel David Wilson
+Group CEO & Director
+
+Yes. On -- we'll answer in reverse order. I think the -- both the customer business in the U.K., where
+we mentioned the GBP 17 billion, which is the highest, we usually have GBP 10 billion in the hopper.
+We've got GBP 17 billion in the hopper. It depends how much we convert in that. But there's an increase
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+23
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+in demand and supply in the U.K. at the moment. Certainly, that's going to work its way through the
+marketplace. And the point that I think Jeff and I were trying to get across was we have a lot of pricing
+discipline around that. So we're not going to chase any particular individual transaction because we have
+an ever increasing breadth of opportunities that we've been presented in the market. But we certainly
+have enough risk appetite, capital and direct investments to support a pretty high level of growth in 2018
+from the size of the back books that we've got. And I don't know whether Chris or Simon want to take the
+equity lease issue. Maybe Simon?
+
+Simon Gadd
+Group Chief Risk Officer
+
+Following up on that, the answer I gave earlier. So in total, the DI, we have an appetite threshold for.
+But lifetime mortgages, I want to use Jeff's answer about depends again, because it depends on the mix
+of that business, so it very much depends on how much your average loan-to-value is on that portfolio.
+We are very careful not to be aggressive on loan-to-value. We're trying to keep that down to as low as
+possible so that we've got the bandwidth to offset volatility in house prices. So as long as we keep that
+down, we'll have more capacity. Also, I think there was mention about a new product that we're launching
+in that space where effectively, the borrower pays the interest, carries [ upon the ] interest where their --
+effectively, you're are a lot more...
+
+Nigel David Wilson
+Group CEO & Director
+
+[ And we all know -- that was a rehearsal ].
+
+Simon Gadd
+Group Chief Risk Officer
+
+You're a lot more protective [ inside the quarter ] than we are in [ a time when ] there's a roll-up of
+interest. So yes, it would depend on the mix of business as to how much we can -- but we are very on top
+of being very prudent about our assumptions about future house price inflation.
+
+Nigel David Wilson
+Group CEO & Director
+
+So we have some very exciting new products coming. And you heard it first today in here. We're trying
+to figure out how to answer this question yesterday, and since Simon obviously didn't hear the answer,
+Bernie will answer the other question.
+
+Bernard Leigh Hickman
+Chief Executive Officer of Legal & General Insurance Division
+
+Yes. So on Page 32, we set out [indiscernible] and valuation assumptions. It says here, we haven't
+got a problem in persistency. We've actually got customers really happy with us. And we've got lower
+lapses, that's just in later durations, and on our level term business and the whole of life business. But
+the premiums stay level. The claims and quite a bit of our insurance premiums go up, and so it's just a
+mechanical fact. If we get people happy to stay with us, we actually make slightly less money, and so it's
+just a kind of minor impact. Just to give you a quantification on that. So [ we're talking, you know, ] like a
+level term -- long-term persistency rates, you were seeing that rate at 3.3% going to 3.1%. So it's quite a
+tiny change in lapses. And yes, we hope customers carry on wanting to give us premiums and remaining
+in force, and we'll be doing what we can to keep them happy. So yes, that's what's going on broadly with
+the lapses and the figures are in the pack.
+
+Nigel David Wilson
+Group CEO & Director
+
+The price of success. Last 2 questions. We'll try and finish by 11, okay?
+
+Unknown Analyst
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+24
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+Just 2 questions, please. If we see rates increase, presumably good follow [ up on ] bulk annuity demand,
+does it have any impact on the ability to source direct investments? Does it make that harder? And does
+that become an issue for you guys as bulk annuity demand presumably increases? And then secondly, as
+you're looking to replicate your U.K. model in the U.S., specifically in the PRT space, you've seen, I think,
+60% growth there this year. The markets outgrew, I think, 70%. Which areas -- how do your models differ
+right now? And specifically, if you could talk a little bit about infrastructure of direct investment sourcing
+differences and any plans that you have there going forward.
+
+Nigel David Wilson
+Group CEO & Director
+
+I'll let Laura pick up the second question there. On the first question, just in general, on DI, you're right
+in the sense that it will be terrific for us to see interest rates go up [indiscernible] even stronger than [ it
+is ] yesterday. But we don't see any sensitivity around that. I think there is just a huge demand for new
+assets across the U.K. and really across the U.S. and Europe. And we need to recognize how crappy their
+infrastructure is. [ I'm not going to give ourselves an efficient ] rating, [ which has ] now gone from C- to
+D+. So they're in a push, a push there. But also, in the U.K., the expression reviews is a sort of coalition
+of doers. There's lots of discussion that [ leavers and stayers ], but outside of London, it's all about who
+wants to do things. And we're finding pretty much across the country getting PRS schemes or housing
+schemes through a lot of regeneration projects, roads, et cetera, relatively straightforward. Probably the
+best environment we've had for 30 years. It's still a C+, but it's moving towards a B in terms of how much
+better it's getting here in the U.K. And Laura, do you want to...
+
+Laura Doyle
+Former Head of Investor Relations
+
+Yes. I mean, really, just expanding on some of the points I made earlier that we've organically grown
+great -- a great platform at the sourcing direct investments. [ Pretty ] quite different to our competitors
+because of the in-house capability we have through LGIM Real Assets and LGC. And really worth
+reiterating that we've -- I think we've really only just begun to scratch the surface of the opportunity
+that we have through LGC. We've been very, very [ cool ] about some of the things we've done in urban
+regeneration. And if you think about the other sectors that we've chosen to invest in, housing and clean
+energy, both of those have huge potential for the long-term financing and creating investments that will fit
+our annuity liabilities.
+
+Nigel David Wilson
+Group CEO & Director
+
+One of the key messages is this capability. And if you think Kerrigan's move from LGIM to LGR to LGC,
+Laura's move from LGR to LGC back to LGR, Chris has pretty much worked in every division right now, but
+Mark Zink, he just seems to sit at LGIM all of the time. Last question?
+
+Angel Parasotam Kansagra
+HSBC, Research Division
+
+Angel Kansagra from HSBC. Three questions, please. The first one is, you have given the split of cash
+remitted to the group from subsidiaries, which is welcome disclosure. Would you ever think of giving the
+split of operating capital generation by divisions? So -- because it's quite strong to see that the operating
+capital generation cash remittance comfortably cover the dividend, but to just see what the divisions are
+contributing, that would be useful. The second is on net capital strain. How much net capital strain have
+you seen from the U.K. PRT, in particular, if you give the split from that? And the third one is, I know you
+can't or you won't actually comment on political outcome, but if a labor government comes in, we are
+talking about nationalizing some of the industries. Have you thought of taking any action on your credit
+portfolio, in particular, utilities?
+
+Nigel David Wilson
+Group CEO & Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+25
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+I'll answer the third question, which is one of my specialist topics, but I'll let those really difficult first 2
+question pass to my colleague, Jeff Davies.
+
+Stuart Jeffrey Davies
+Group CFO & Director
+
+I'll do the third. You're talking the operating cash generation, you mean, on a [ 72 ] basis.
+
+Angel Parasotam Kansagra
+HSBC, Research Division
+
+The capital [indiscernible].
+
+Stuart Jeffrey Davies
+Group CFO & Director
+
+Yes. The issue with that is, of course, you've got to allocate the capital, so I think it would get a little bit
+messy. So it would be part of the issue of allocating it both between legal entities and divisions. You start
+to make so many assumptions that we probably wouldn't get it pass the auditor. So I think that's the
+issue. We will be as transparent as we can around this. So having said that, we haven't been explicit on
+the strain. But we do -- we say that's less than 4% for the PRT business, which is predominantly U.K. And
+so that gives you an indication. So that gives you the negative within rights of [ the ] other business like
+LGI, which creates positives and offsets and brings you back to the less than GBP 100 million number that
+we quoted, the total across the group.
+
+Nigel David Wilson
+Group CEO & Director
+
+On -- in the whole political situation right now, I've never met Corbyn, and I don't know him well. So it's
+difficult having an informed judgment on exactly what's going to happen. What we have seen is this is our
+experience with the local authorities across the U.K. And regardless of whether they're labor conservative,
+but it's [ back in ] Bristol, Birmingham, Bracknell, Cardiff, Leeds, Manchester, Newcastle, there's just a
+whole array of political people. And the labor mayors or the local politicians have been equally, equally
+enthusiastic about being involved with us. In respect of utilities, quite a lot of utilities are actually in
+America because the BBB rated American utilities. Yes, we have some exposure in the [indiscernible],
+but it's a more senior level. And if you want the exact numbers for that, then I'm sure Laura can provide
+those to you afterwards. We've looked at the portfolio, and we think we've got more portfolio adjustments
+that we need to make as a group in respect to the ongoing political climate. We're very happy with the
+diversified nature. I mean, the switch-out of sovereign into [ something ], that's kind of the biggest
+change in the stock, the various floor changes that Chris talk about, Laura talked about and Jeff talked
+about earlier, which we'll see over the next few years.
+By the way, I'd just like to say thank you for everybody for their interest in following Legal & General.
+Thanks once again to all my colleagues for great results in 2017. However, it's 2018 now. And my
+colleagues know well, I waited a whole day, a whole day before sending them out a memo as to what we
+needed to do for 2018 and beyond. And then enthusiastic response to that now is I congratulate them on
+that. So thank you.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+26
+
+LEGAL & GENERAL GROUP PLC FY 2017 EARNINGS CALL |  MAR 07, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+27
+
+

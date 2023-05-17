@@ -1,0 +1,1547 @@
+CRH plc ISE:CRG
+FY 2017 Earnings Call Transcripts
+Thursday, March 01, 2018 8:30 AM GMT
+S&P Global Market Intelligence Estimates
+
+EPS Normalized 
+
+1.63
+
+CONSENSUS
+
+-FY 2017-
+
+ACTUAL
+
+1.65
+
+-FY 2018-
+
+SURPRISE
+
+CONSENSUS
+
+1.23
+
+1.94
+
+Revenue  (mm)
+
+27605.28
+
+27563.00
+
+(0.15 %)
+
+27500.04
+
+Currency: EUR
+Consensus as of  Mar-01-2018 7:22 AM GMT
+
+FY 2016
+
+FY 2017
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.50
+
+1.63
+
+1.52
+
+1.65
+
+1.33 %
+
+1.23 %
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+15
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Albert Jude Manifold
+CEO & Executive Director
+
+David Dillon
+
+Finbarr Senan Murphy
+Finance Director & Executive
+Director
+
+Keith Haas
+Chief Executive Officer of
+Expanded Americas Building
+Products Group
+
+Ken McKnight
+
+Randy Lake
+Chief Executive Officer
+
+ANALYSTS
+
+Andrew Murphy
+BofA Merrill Lynch, Research
+Division
+
+John Fraser
+HSBC, Research Division
+
+Paul Barry Roger
+Exane BNP Paribas, Research
+Division
+
+Robert Gardiner
+Davy, Research Division
+
+Unknown Analyst
+
+William Jones
+Redburn (Europe) Limited,
+Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Presentation
+
+Albert Jude Manifold
+CEO & Executive Director
+
+Good morning, everybody. My name is Albert Manifold. I'm the Chief Executive of CRH, and I'm delighted
+to be here this morning with you in London to present our results for 2017, which were published here this
+morning.
+
+I'm joined here on stage by some of my executive team, who are going to take us through this over the
+next 45 minutes so. On my left, I've got Randy Lake and Keith Haas, who run our businesses in North
+America; besides them, Ken McKnight and David Dillon, who are looking after our businesses in Europe
+and Asia; and at the end, Senan Murphy, who is our CFO.
+
+So we're just going to give you some headlines as to what drove the numbers and what was behind our
+trading for the previous year. I also want to touch on some of the trading and the backdrop of the trading
+that was evident in our business in 2017 and how those trends are evolving into the current year. We're
+also going to touch a wee bit on some of the significant capital allocation decisions we made last year,
+some of the big acquisitions we made during the course of the year and explain the rationale behind
+those. And I also want to really just touch on perhaps maybe some changes to our business model that
+we've been working on over the last number of years and how they have affected our business in the last
+couple of years and how they will in the years going forward.
+
+And maybe first, I can turn to just some headline numbers about the business behind the results that
+were published here this morning. We have EUR 3.3 billion of EBITDA generated in our businesses, a good
+year for CRH. And for me, one of the most pleasing aspects about the results this year is yet again, for the
+fourth year in a row, seen the margins in our businesses and indeed, the returns in our businesses ahead,
+a good sign of the health of our business coming through and moving our business in the right direction.
+
+Very significant corporate activity, very active portfolio management. We disposed of a very significant
+business at the tail end of last year and spent over -- almost EUR 5 billion in acquiring businesses, and
+we'll talk a little bit about that. And underpinning all of that, as you would expect from CRH, a really solid
+performance on cash. EUR 2.2 billion of cash generated during the course of this year that left our net
+debt at the end of the year at a very solid 1.8x EBITDA, exactly what you would expect from CRH.
+
+So maybe that's the overall big-picture trading numbers and what's behind the numbers. I'm going to turn
+to Senan now, who'll take us through some of the financial highlights.
+
+Finbarr Senan Murphy
+Finance Director & Executive Director
+
+So you can see our financial highlights on this slide here speak for themselves. I think the important thing
+to point out is that all of our key metrics are moving ahead. We believe that the 3% organic growth that
+you see there in our EBITDA is actually a good performance in the current environment. Obviously, that's
+against the backdrop of challenging weather in many of our markets over the last year.
+
+For me, as the CFO, obviously, the metrics that are on here that are most pleasing and the ones that
+stand out is the continued progress that we're making on both margins and returns. Margins and returns
+are those key metrics that we all across CRH are focused on, and we're all looking to improve and to
+enhance and to grow. And to echo what Albert said earlier, this is the fourth consecutive year where we've
+now shown incremental progress on both margins and returns. I'm also pleased that we're increasing our
+dividends again this year. As you can see, we're proposing a dividend per share of EUR 0.68, which is a
+healthy 5% growth over last year and is consistent with our progressive dividend policy.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+So before I hand over to the guys to talk about their businesses, we just want to give some trading
+background. And Randy and Keith are going to initially take us through the U.S. business or the North
+American businesses, I should say, as to what they performed, how they performed last year. But I just
+want to give you some context in terms of the market backdrop we saw in our major markets there and
+what was the environment we worked within and how we see this business going forward.
+
+Well, last year, as no surprise to you who listen to these publications, you can hear was a very significantly
+interrupted year with regard to weather. And we had weather at a really tough time of the year for us in
+our busiest season in the midsummer, where we lost a significant number of down days with regards to
+particularly wet weather down south.
+
+However, against that backdrop, we still show -- saw a good growth in North American construction
+markets. In the United States, particularly that was driven by the infrastructure spend, a consistent
+delivery again in 2017. We have a FAST Act that underpins the federal spending for infrastructure going
+forward. That takes us out to about 2020. It seems to be growing at about 3% per annum CAGR all the
+way out, supported by solid state financials, and our business showed -- delivered along those lines last
+year, and we expect it to deliver along those lines in 2018.
+
+Residential and non-residential, again, solid growth coming forward. Not as fast as we would want, but
+consistent with the pace we saw in 2016 and before. And again, in the United States, those trends seem
+to be continuing in the current year.
+
+And in Canada, a big business for us, a good solid economic performance by the Canadian economy in
+2017, with GDP growth about 3% ahead of the previous year. And in particular, in the residential sector,
+we saw residential starts up by about 10%. And that gave us a great backdrop against which to deliver in
+our businesses.
+
+So maybe at first, I'll turn to Randy first, who'll take us through our Materials businesses, and then Keith
+will talk about the Products and Distribution businesses in the U.S.
+
+Randy Lake
+Chief Executive Officer
+
+We're well-pleased with the performance in the Materials business in 2017, where we saw both volumes
+and prices move ahead in all lines of business despite some of the weather disruptions that Albert alluded
+to. I think it's important to realize that 2/3 of our profitability is generated in the third quarter of the year.
+And in Florida and Texas, in particular, we lost 30% of our working days. And so even besides that, the
+team has delivered an exceptional performance.
+
+As an operating guy, certainly, I'm well-pleased with the margin performance. We've returned to peak
+margins despite our volumes being 25% below peak volumes. And so the folks and the teams delivered
+both operational and commercial excellence and really drove our operating leverage to 21%, so a
+tremendous performance by the team. As you know, we have a pretty significant construction business in
+North America, and that's really the window for us into the future, really gives us a 6- to 9-month view in
+terms of what work will be coming forward.
+
+And as I look today at our backlogs, very pleased to see both volumes, but more importantly the margins
+in that backlog moving forward. And so that is a real good indicator, at least from an infrastructure
+standpoint, it is the stability of that economic function.
+
+Keith Haas
+Chief Executive Officer of Expanded Americas Building Products Group
+
+In the Americas Products business, we had another good year of progress in 2017. Our group is
+underpinned by the residential and nonresidential building construction markets. In U.S. and Canada, as
+Albert mentioned, they remain favorable. The residential market's probably a little bit stronger than the
+non-res, but both remain in good shape with positive outlook going forward.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+That said, like Randy's business, we were quite affected by unfavorable weather patterns, primarily in the
+second quarter, which is important to us, therefore, limited our gains on the top line to 1% like-for-like
+growth.
+
+Against that backdrop, our business has performed quite well and delivered significant profit growth. In
+particular, I'd want to point out the performance of a business we acquired in 2015 called C.R. Laurence,
+which is part of our BuildingEnvelope platform, which, as the biggest acquisition ever done in the products
+space in CRH, continues to perform well and deliver ahead of expectations.
+
+You take that portfolio change together with just a strong focus on commercial discipline and cost
+management, and we continue to push our business ahead with margins that, while not quite back to
+peak, are approaching peak levels that we achieved about a decade ago in a market environment where
+volumes are much lower than they were back at those peak times.
+
+Looking at our Distribution business, a business we divested early this year and had been announced late
+last year, maybe a couple of things to note before we move on. In the final year of ownership by CRH, our
+Distribution business known as Allied had a very good year of trading, and we were gratified to see how it
+finished up with us.
+
+But I think more importantly, we will realize significant proceeds from the sale, about USD 2.6 billion,
+which will be reallocated into higher-growth regions of North America and into businesses with a stronger
+margin profile and a longer development pipeline. And Randy, a little bit later on in the presentation, will
+give some detail about how those proceeds are being reallocated.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+Thanks, Keith. Before I pass it over to my colleagues, who'll take you through some of the detail of how
+the European businesses performed, let me just again give you some sense of the backdrop of how we
+saw that the markets evolving and the backdrop against which we traded in our businesses.
+
+It's clear that, of course, as we all know, Europe is in a different place in terms of the recovery cycle. I
+think it's probably about 5 or 6 years behind the recovery cycle in the U.S. But the momentum we saw in
+our markets in 2016 continued to gain pace in our major markets through 2017. And it was encouraging
+to see the recovery taking shape in some big countries for us, some big markets that deliver for us such
+as Belgium, the Netherlands, France, Finland, Poland, Germany started to come through and continue to
+come through during the year. And we expect that pace to continue all the way through.
+
+We had some disappointments. Switzerland for us continues to disappoint. We've got some challenges
+there, and I'm sure we'll chat about that later on. But I want to talk specifically about the U.K. here
+because it's a big country for us. It makes up about 10% of our EBITDA. And there's been a lot of
+commentary about how activity levels have been, particularly in construction here in the United Kingdom.
+
+Well, in line with everybody else, we have seen a slowdown here in commercial activity, particularly in
+the Southeast, particularly inside the M25. However, our business is not just about the commercial sector
+inside the M25. We are broadly spread, truly national business through big companies such as Tarmac
+and our big cement businesses throughout the whole nation. And we are very significantly exposed to the
+public purse and public infrastructures funding in particular.
+
+And what we have started to see at last is the enabling work is taking place for some of the big, high-
+profile projects coming through. And whatever we've seen as a slowdown in commercial here in the
+Southeast, it has been offset by an increased spend on public infrastructure. And that, combined with
+a fairly resilient residential market, has meant last year, in 2017, our businesses in the U.K. have been
+broadly stable. And we expect that situation to be sustained in the current year.
+
+So maybe now what I'll do is ask Ken first to take us through the Materials business in Europe and see
+how this business performed, and then David will take us through Lightside and Distribution.
+
+Ken McKnight
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Okay, sure. Just looking at 2017, what we did see was a continuation of the economic recovery that had
+really begun the year before. And for us, that translates into higher volumes you see on our cement
+business. And it's good now to see pricing now following.
+
+So against that backdrop, our real focus in 2017 was driving performance. And even though we did have
+some energy input cost headwinds, with good commercial discipline, we can then see, as you see on the
+slide there, we could still expand our margins. So a couple of months into this year, even though it's early
+days, we are confident and optimistic we can move on in pricing again right across our business in 2018.
+
+David Dillon
+
+In Europe Lightside, we performed well across our major markets in 2017, with like-for-like sales up 4%.
+For me, though, it was really a year of focus on performance where we drove an increase in both our
+margins and our returns. We also saw the benefit of our portfolio realignment of recent years. Like Ken
+said, I think we started the year well. We're optimistic about the year ahead with positive dynamics in our
+key markets.
+
+In Europe Distribution, again strong performances across our major markets in 2017, particularly in the
+Netherlands and in Germany. As Albert said, Switzerland remained challenging for us, but we've been
+very focus on cost reduction, cost control in that market, but also improving the business for the medium
+term. And I have to say, overall, despite Switzerland, we had a good operational performance in Europe
+Distribution in 2017. We maintained our margins and indeed grew our profits and our returns. And for
+2018, again, we see positive trends in our key markets.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+Thanks, guys. So if that's how the European markets evolved, let me talk to you about Asia myself. And
+just to remind you, our businesses in Asia are primarily about our investments in the Philippines, where
+we are the #2 cement producer through Republic Cement, and that's our primary investment there. And
+I have to say that 2017 has been a very disappointing year for us. The market took a wee bit of a step
+back, primarily as a result of public infrastructure spending taking a step back at the first year of the new
+administration. Actually, the private market in residential and nonresidential was quite strong. However,
+against that backdrop, we really got caught in a perfect storm within the Philippines.
+
+First and foremost, we saw increased imports coming in from Southeast Asia, which impacts upon the
+competitive activity in the marketplace. That was further heightened by the fact that with the new capacity
+having brought on stream in our main markets in Luzon, which again heightened competitive activity. And
+thirdly, we were hit with very significant cost increases in fuel cost coming up from Australia with coal
+coming into our businesses there, not only there but also in India. And again, against that backdrop, at a
+competitive environment, we were in no position to pass on those cost increases to our customers. So a
+disappointing performance in 2017.
+
+We've been working hard through the year to try and see how we can address that. I think we've put in
+place the building blocks that will sow the seeds for success in the future. And we can see a way that this
+business will be built back up to being the business that it was. There's nothing fundamentally wrong with
+the Philippines. It's just hit a speed bump, and that's what emerging markets are about. We may not see
+it manifest itself in the bottom line in 2018, but our general sense is we're doing the right things, and we
+should see this business stabilize and recover from 2019 and beyond to what it was in the past
+
+Two other businesses we show on the screen. They are both equity counter investments in China and
+India. I put them there just to talk about the markets. But whilst volumes were back a wee bit in China
+with the government initiatives in terms of cutting back on capacity, prices increased and sales were
+ahead, as were profits. And in India, whilst volumes and prices moved ahead, those cost increases I refer
+to impact negatively in a small, small way with regards to profitability.
+
+So if that's how all our individual component parts of our business has traded for last year, maybe I can
+now turn to Senan who could take us through on how that comes together from a group perspective.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Finbarr Senan Murphy
+Finance Director & Executive Director
+
+Yes. So what I'd like to do now is really consolidate the trading update stories that you heard from each of
+my colleagues into a group picture.
+
+And starting with our sales and with our EBITDA. What you can see on this slide is the growth in both
+sales and EBITDA over the last year. As you would expect, there's a number of key components behind
+that growth. And really, I want to highlight just a few of them and single them out for further discussion.
+
+I'm going to start again with the organic growth in both our Americas and European businesses. Strong
+organic growth over the last year. I think that's best reflected in operating leverage. And all of our
+businesses in the Americas and in Europe have delivered a very strong operating leverage over the last
+year. You can actually see it here on the slide and compare the growth in EBITDA versus the growth in
+sales, and you can see that comes out of the 23% operating leverage for those group of businesses.
+
+The other key highlight that is worth mentioning is the impact of currency translation on our financial
+performance. As you know, we make a lot of profits in dollars and also in sterling. And over the last 12
+months, both of those currencies have weakened compared to the euro, which is our reporting currency.
+And you can see the impact of that on both our sales performance and our EBITDA performance here.
+
+I'd also like to mention the impact of U.S. tax reform on our business. As you're aware, corporate tax
+rates in the U.S. have reduced. We're a large taxpayer in the U.S. And as a result of that, we have had a
+benefit to our business on the post-tax earnings line and also on our earnings per share.
+
+In 2017, what you can see in our earnings per share is benefits coming through in the form of deferred
+tax. We were able to reduce our deferred tax liability by EUR 450 million this year with a onetime benefit,
+which has obviously boosted our earnings per share. And as we go into 2018, we see the benefit of that
+reduced tax rate coming through in our group effective tax rate. So our group effective tax rate today
+is currently -- the underlying rate today is at 27%. And next year, that goes down to 24% as a result of
+reduced tax rates in the U.S.
+
+And obviously, what I'd like to do next is take that earnings and talk about how it converts into cash. And
+speaking about our cash performance, as the CFO, of course, you'd expect me to say that I think the cash
+metric is the most important one we have around the group. And it may surprise you, but personally, I
+track this on a daily basis.
+
+When we look at our cash performance, as I expected, we've managed to convert 70% of our EBITDA into
+cash this year. And as a result, we've generated another EUR 2.2 billion of cash from operations this year.
+That strong conversion is a real testament of the quality of our earnings across the group.
+
+Our working capital balances as a percentage of sales remain healthy. In fact, they're in line with last year.
+And if you recall in 2016, we talked about that metric hitting record levels. And we've managed to match
+that again this year.
+
+And then finally, I'd like to call out the fact that our treasury and our tax colleagues around the group have
+worked hard over the last year to deliver good savings for us across the group, which again helps our cash
+position. What I'd like to do now is talk about how that cash impacts upon our debt levels.
+
+So let's move on to talk about our debt position. You can see on this chart here our net debt movement
+over the last year. On the left-hand side, we opened the year with EUR 5.3 billion of debt, and there are
+many moving parts throughout the year. That cash from operations that I've talked about on the last slide
+has obviously reduced our debt. We've invested capital and capital expenditure in our businesses across
+the group. We've obviously spent money on development activities over the last year. And we've paid cash
+out to our shareholders in the form of dividends. And when you look at all that moving parts together, it
+ends up with a position where we closed out 2017 with a net debt of just under EUR 5.8 billion and a net
+debt-to-EBITDA ratio of just under 1.8x.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Now what that doesn't reflect is 2 significant transactions that we announced during 2017 that hadn't
+closed at the end of '17. The first one is Allied, which has closed in January of this year, as Keith
+mentioned in his conversation. And the second one, which is on my radar, is the fact that we need to write
+a large check for Ash Grove in the coming weeks, and that's due to close by the end of this month. So
+if you look at the impact of those 2 deals on our pro forma net debt position, it increases our pro forma
+net debt to EUR 6.4 billion. And what's most important about that EUR 6.4 billion is that is well within our
+comfort levels at CRH.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+I must say, I like this slide a lot, and we use it a lot when we talk to our own people internally about our
+businesses because it gives you a great sense of the story of CRH and what we do. The EUR 2.2 billion of
+cash conversion is reflected as 70% conversion of our EBITDA, the profits we generated -- again, the cash
+we generated and the profits we generated within our businesses.
+
+And then I look at the portfolio working, the divestments, and both -- they're shown on both sides of
+the debt over there. Again, working our portfolio for capital allocations, what we do is an embedded part
+of what we do in CRH. And then also the investments within our businesses and also the acquisitions,
+building our business for the future. And yet having done all of that activity, we still see our balance sheet
+in good shape within the norms of what you'd expect from CRH.
+
+It also gives us great options as a company for growth having that capacity within our balance sheet.
+And we were very active last year in terms of looking growth -- looking for growth in new platforms
+and complementing our existing businesses. We spent almost EUR 5 billion on deals around the world.
+The largest portion of that was, of course, in North America as we increased our footprint in cement,
+aggregates and concrete across the higher-growth states. We also expanded a very significant platform for
+us in lime in Europe, which we believe will be a great growth platform for us for the next 20 years.
+
+And you shouldn't forget, we spent over EUR 700 million on 30 deals, almost every week doing a deal,
+which is absolutely the bread and butter of CRH, the bolt-ons where we create value for our businesses.
+And all of this is a constant focus on looking on where we can best allocate our capital for higher margins
+and higher returns and to create value for our shareholders.
+
+So what I'd like now to do is ask my colleagues to take you through the rationale for why they proposed
+these deals. They are not my deals. They're the deals of the business, and what was behind their thought
+process as they build the business going forward. So first, I'm going to ask Ken to take us through the Fels
+deal in terms of building out our European lime platform, and then I'm going to come back and talk about
+the U.S.
+
+Ken McKnight
+
+Okay. The acquisition of Fels actually makes CRH the #2 lime player in Europe with a combined lime
+EBITDA of about EUR 120 million. So a very substantial business. And as we integrate Fels into CRH this
+year, what really excites us is, as Albert said, this gives us the opportunity to create a lime platform of
+scale.
+
+Lime, in many ways, is very similar to cement. We know cement very well. We know how to quarry
+limestone. We know the production process. But I think the thing to note about lime is it has got many --
+it's a very versatile product. It's got many end-users and end markets.
+
+We've actually been in lime for over 50 years, and we always find it to be a very attractive industry, a
+very broad customer base. And it does give us opportunities to create significant value. When we actually
+look at the assets that we bought with Fels, geographically, they are a very good fit for our existing lime
+businesses in Ireland, in Poland and in the U.K.
+
+And as we establish this new lime platform, of course, we will develop it both organically and through
+M&A. This actually is my last year in CRH. I'll be retiring at the end of this year. And if I look back maybe
+over 20-odd years to a deal we did in Poland, where we bought a minority stake in the business back then,
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+and it reflects on how that was really grown on mushrooms into the very strong East European platform
+we have today. Well, we have similar ambitions for our lime platform as we build it out over the coming
+years.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+Yes, look, a very exciting platform for us, very much a typical CRH, fits with a knowledge that we have in
+existing operations in Poland, U.K. and Ireland, and a great growth platform in the years ahead. And we'll
+watch that space with great anticipation.
+
+I now want to talk in general about what was behind our strategy of developing our businesses in North
+America before I ask Randy to take us through the rationale for the bigger deals that we did out there,
+particularly in cement and aggregates.
+
+Quite some time ago, we took a view that we want to strategically realign our businesses more towards
+the higher-growth states and regions in North America. Our business traditionally had built up from the
+Northeast and across the Midwest. We had a very strong base and still a fantastic business for us.
+
+But it was clear to us with population growth and demographic shifts that actually, the southern parts of
+the United States have seen the largest population growth. And we wanted to position ourselves there
+because that's where construction was going to be. And we targeted 3 specific areas for us, the smile
+states: Florida, Texas and the Northwest, starting in Utah, Colorado and swinging all the way up into
+Washington State. And anybody who may be a student of CRH, and we all are ourselves, would have seen
+how we have over the years developed and rolled out a fairly consistent acquisition model to build up
+pretty strong positions in all 3 of those territories.
+
+And now with the acquisitions that we did last year, in Florida, through Suwannee Cement and the
+related assets there, we have established a really strong position where we are the single largest building
+materials player in all of Florida, one of the highest growth states in North America.
+
+In Texas, the addition of the cement facilities that come with Ash Grove give us a great fit with our
+existing downstream businesses and our aggregates businesses in Florida, a great position to be in. And
+particularly in the Northwest, we had a strong footprint in Utah and Colorado, and now adding those
+businesses, that gives us a great growth opportunity there, which Randy is going to take you through.
+
+But it wasn't just about those states. If you just look at the map there, we had already had a very strong
+position in the Midwest, which was really the foundation and bedrock of Ash Grove. And the businesses
+that we've acquired with them are now a seamless fit with our businesses that we will think will create
+value for our shareholders going forward.
+
+So to take you through the rationale behind the deals and how we see those deals developing, I'll ask
+Randy to take you through that in the next couple of moments.
+
+Randy Lake
+Chief Executive Officer
+
+Yes, Albert, well, certainly, we are excited about the acquisitions and certainly the opportunity to build a
+platform in cement. But I think one of the things you may lose in the headline numbers is really the large
+aggregate business that had been acquired both in Florida through Suwannee as well as Ash Grove.
+
+We've picked up 13 million tonnes of cement -- or 13 million tonnes of aggregate sales and over 1.5
+billion tonnes of reserves. So a very significant aggregate business that we look to build upon through our
+readymixed and downstream asphalt businesses.
+
+But as Albert and Keith indicated, it was really a strategic move to reallocate the proceeds from Allied into
+higher-growth markets. And now we can say we're the #1 player in Florida, Texas and the Northwest. I
+think in particular, though, if you pull out and talk about Florida and Texas, they accounted for 20% of the
+overall U.S. construction spend in 2017. And so that's underpinned, though, through population growth in
+those particular areas that are twice the level of the U.S. in total.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+So a significant platform, all the right kind of components there to build upon as we look into the future.
+Certainly, there are significant self-supply and downstream opportunities. I'll talk about those in just a
+moment. But when I look at that map, really to me, I look at 20 years of development activity. For us to
+apply the CRH model that has been so keen to our success in the local and regional acquisitions, we see
+20 years of those downstream opportunities as we look forward.
+
+Albert talked about the Midwest. And certainly, having a #1 cement position is exciting. And I think here,
+the old adage that a picture is worth a thousand words. All right. Just look at the map there and see the
+current CRH platform of business combined with Ash Grove and really, the overlapping and complementary
+markets that, that creates, expands our aggregate business in this particular market by 50%. And we are
+now, by far and away, the largest integrated player in the Midwest. And so a really solid base in terms of
+earnings generation for the years to come.
+
+As you look -- as we look at any acquisition, the integration of those acquisitions are critically important.
+And I would just pay attention, maybe to call out 2 things in particular on this slide, really the idea behind
+the vertical integration benefits. So the creation of a cement platform, complemented by additional
+aggregate positions, really gives us a platform for growth to build that downstream consumption.
+Certainly, it complements a lot of our existing readymixed businesses, but we can build from there. It
+complements our asphalt businesses, but we can build from there. But it's about that pull-through volume
+that's critically important in highly capitalized intensive businesses. So certainly, an opportunity for us
+there.
+
+When we look at self-supply opportunities, we are the largest consumer of cement in North America and
+the largest consumer of aggregates. And so this gives us really enhanced purchasing options as well as
+some of those logistical things that we'll look at in terms of self-supply alternatives.
+
+But it's those 2 pieces, in particular, I think, that are most important as we look to generating the
+synergies of these deals. And at the end of last year, we announced roughly $80 million of opportunity
+with Ash Grove in terms of synergies. And while that deal has yet to close, we're more inside the fence
+now -- line now than we were several months back. And so we're confident coming forward and saying we
+have north of $100 million of synergy opportunities within Ash Grove.
+
+You look at the Florida business, and we talked about Suwannee Cement, but they have a substantial
+readymixed business, prestige as well as an aggregate company in Florida. And we've identified north of
+$20 million of synergies with those businesses. So all told, north of $120 million of synergies really creates
+a tremendous platform for us for the future.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+Thanks, Randy. I think that sets us up very well, as Randy says, for almost the next decade in terms of
+value creation through the integration of those businesses with our existing businesses, but also some
+very interesting growth platforms as we go forward.
+
+I now want to take a moment with my colleagues just to talk to you about some of the changes that have
+been going on in our business for the past number of years and that will continue to go on in future years
+and how it impacts upon the results that we're producing and published here this morning.
+
+Some time ago, we took a view that it just simply was not good enough anymore to be a simple basic
+producer of basic materials for the construction industry. Our customers wanted more. In fact, our
+customers needed more. So over a period of time, through strategically focused acquisitions, through
+portfolio review and allocating and reallocating money into different product areas and into different
+regions, we have evolved and are continuing to evolve into a manufacturer and supplier of an integrated
+and interrelated range of materials, products and services that can better serve our customers' needs and
+allow us capture more value for our company along the whole supply chain.
+
+And that changing business model has been fundamental to delivering the improved results we have seen
+there, the very significant increase in profitability, but more importantly, margins and returns has been
+delivered by that new business model that has been evolving in CRH for the past number of years.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+And to better explain that, I want to ask 3 of my colleagues, David from a European perspective; and
+Keith and Randy from a U.S. perspective, to explain how in their businesses this model has changed how
+they are doing business. David?
+
+David Dillon
+
+Yes, in Europe, we've delivered very significant top line growth over the last 4 years. But if you look at it,
+we effectively bought all of that growth because with the range of transforming acquisitions that people
+know about, Lafarge-Holcim, now Fels, and so on. But really, there's been very little market growth in
+general in Europe, very limited market recovery across our main markets.
+
+But over the past 4 years here in CRH, we've been managing the portfolio, focusing on the good
+businesses, cycling out some of the less good. But really, it's the relentless focus in performance across
+our businesses, across a wide range of European businesses that have delivered a significant increase in
+our margins.
+
+And one of the hardest numbers to shift, though, on that page is returns and RONA. And especially, as
+you all know, it's especially hard in the first years after large acquisitions. But again, one of the things I'm
+most proud of as part of the European leadership team with Ken is how we've managed to shift returns
+over the past 4 years. Again, managing the portfolio, improving the business, shifting the business.
+
+And again, as Ken said, over the last 20 years, we've built out a Poland business from a very small base
+to being a very large business in Eastern Europe. And through the new acquisitions that we've assembled
+over the last couple of years, we've got a range of platforms for growth, which I'm very excited about for
+the next 10 and 20 years through bolt-ons and through improving the business.
+
+Keith Haas
+Chief Executive Officer of Expanded Americas Building Products Group
+
+As we look at building a better business in Americas Products, maybe a little context setting would be
+useful. We organized our business around product platforms. We have 3 main ones, 2 of which I just kind
+of want to highlight here today.
+
+First would be our Architectural Products platform, a business we call APG. The second would be our
+BuildingEnvelope platform, a business we call OBE, Oldcastle BuildingEnvelope. And these 2 platforms
+account for about 80% of the profit generated from Americas Products division.
+
+Now I've been in the Americas Products for nearly 20 years and have seen a tremendous change and
+tremendous transformation in how these businesses are shaped in what they do over that period of time.
+
+Maybe looking at APG as an example. If you go back 10, 20 years, as we were forming this business,
+it was really built around making a pretty small range of simple products, concrete pavers, basically.
+And these would be relatively commodity products that you would use to perhaps build a patio on your
+backyard or a sidewalk around from the back to the front of your house.
+
+And we -- our strategy at that time had been to build out a geographic footprint to be able to serve
+markets across the United States and then eventually Canada in a limited range of products. But we
+had to adapt our business model to the way that construction and consumer tastes were changing. A
+large market that's developed over the last sort of 20 years in North America is around outdoor living,
+expanding your house into your yard. But to fully avail ourselves of the opportunities, we had to have a
+vastly different product portfolio, so through product development and product introductions as well as a
+strategic acquisitions.
+
+In addition to concrete pavers, we now offer value-added hardscapes, masonry products, decorative lawn
+and garden products, and now composite decking, which allows us to have a full range of products to
+satisfy customer needs to execute our strategy within APG, which we call own the backyard.
+
+And similarly, looking at a similar-sized business, BuildingEnvelope, in 2007, this business was basically
+about cutting and shipping to small contractors what we call tempered glass, which is heat-treated
+glass. And again, that was a nice business for us. We built out a geographic footprint across all of North
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+America in this relatively narrow range of products, but that left a lot of untapped opportunity for the
+entire BuildingEnvelope. And so through a number of acquisitions, culminated in CRL, which I spoke
+about earlier, was done about 2.5 years ago, we now are the only provider of the full range of products,
+either metal, glass or hardware to enclose the entire BuildingEnvelope so that the contract leisure, the
+professional who specializes in installing these products, can buy everything from CRH. And he can
+buy everything from CRH to do his job on schedule. And at a profitability level, that allows him to be
+successful.
+
+Now while we've had some market tailwinds over the last 4 years, if you look at how we've transformed
+our business, that's played a bigger role than the market in the doubling of profits that we've had in a
+relatively slow growth environment and the dramatic improvement that we've had in both margins and
+returns, which go back again are near-peak levels in a market environment which is drastically different
+than what we experienced back in the bubble times of 2007.
+
+Randy Lake
+Chief Executive Officer
+
+David and Keith gave you a couple of great examples of how they have transformed their business. And
+we certainly have transformed ours within the materials sector in North America.
+
+The old adage is the only way that we actually created value was taking big rocks and turning them into
+small rocks. We've kind of moved beyond that. We've really spent a significant amount of time in the
+last 4 or 5 years engaged with our largest customer segment, which, as Albert indicated, 55% of our
+revenues are derived in the infrastructure space, so government agencies, listening to what they needed
+and desired from a supplier and provider of services.
+
+That led to a very aggressive development of a variety of value-added products. So if we talk about value
+added, it's taking aggregate, coating that with bitumen and creating asphalt. We take aggregate as the
+fundamental element into creating and producing cement. And aggregate has a core foundational element
+in readymixed concrete and other concrete-related products, whether that be culverts, piping, bridges.
+And you take all of those products and then deliver them through a construction services group.
+
+And as you do that over time, you develop competency and then confidence to be able to guarantee the
+performance of that roadway or infrastructure project. And that's a competitive advantage in what is
+traditionally a low-bid environment. And so as we say here, that move from rock to road has really led us
+to peak earnings, peak margins in an environment where volumes again are 25% below peak. And so as
+we stand back now and look at it, we would be the largest manufacturer, supplier and paver of anyone in
+North America.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+So you start to see there how our strategy is being executed within our businesses and how it has
+transformed and changed those businesses. But just reflect on what my colleagues spoke about. In
+Europe, David referred to the fact that the markets didn't help us. The market in Europe has been flat for
+the last 7 years. It hasn't moved at all. We spent a significant amount of money on acquisitions. And yet,
+in that time, we increased our returns, almost doubled our returns. And our margins have increased as
+well. Something else has happened because the market didn't bail us out.
+
+So then go to the U.S. And in the U.S., Keith referred to the fact we have had some slow growth. We've
+had growth in the U.S. markets for sure, and in Randy's market, the Materials business as well. But
+it hasn't been that fantastic. And yet, in both of our businesses, Keith's businesses almost doubled its
+profitability over those 4 short years. He's only 1% below the peak of his margins and yet, his market --
+his main market, the residential market in the U.S. is only 60% of the peak that drove those margins.
+Randy's back at peak, and his volumes are 25% below the peak.
+
+Something has shifted. Something has changed. It's not the market. It's the unique business model that
+we have now within CRH. It is no longer enough to be a sole producer of simple basic building materials.
+Our customers and markets need more, and we are uniquely positioned to offer that breadth of products
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+and that breadth of capabilities. No other company can offer that. And we believe that gives us a great
+position to serve our customers' markets in the years ahead and gives us a sustainable competitive
+advantage that will drive superior returns for our businesses, for our shareholders in the years ahead.
+
+And now I want to talk about 2018 and how we see the year rolling out ahead of us in terms of our
+businesses and the volumes and the activity levels. We have talked about it during the presentation this
+morning.
+
+If I can turn to our biggest market first, the Americas. That pace of growth that we saw in 2016 and '17
+appears to be evident in the early part of 2018. Randy referred to the fact that backlogs and margins of
+those backlogs are ahead. That's hugely a healthy sign of our business. We have a window for about 6 to
+9 months. It looks to be in pretty robust shape as we go forward.
+
+In Europe, the momentum in the recovery has been taking -- increasing in pace during the course of
+2017. Pricing is starting to pick up across our main Heavyside markets as well. And we're optimistic for
+a good delivery across our European business in Lightside and indeed, Distribution as well. So we think
+European businesses are in good shape.
+
+Asia will still be a challenge for us this year. But at last, we're starting to put the building blocks in place,
+and it's not that significant in the overall number for CRH. So overall, our aspirations, our belief is that we
+will see improved performance in our businesses in the key metrics, and 2016 will again represent -- 2018
+will again represent another year of growth for CRH.
+
+So with that, I want to move on to the question-and-answer part of the presentation. Initially, we're going
+to take questions from the guys in the room here. And if I can ask you, please, just to give your name and
+the name of your institution before the question. I'm going to move down the wires as well and take some
+questions that come in down the wires as well towards the end of the morning.
+I myself and my colleagues will do what we can to answer your questions the best we can.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Question and Answer
+
+Albert Jude Manifold
+CEO & Executive Director
+
+So first, we have Paul.
+
+Paul Barry Roger
+Exane BNP Paribas, Research Division
+
+It's Paul Roger from Exane. I think 3 questions. The first one, European pricing. Can you quantify the sort
+of magnitude of the price increases you have put into on the Heavyside? And also, just looking at your
+appendix, it looks like quite a few prices in Europe were either flat or slightly down last year. So obviously,
+this marks a turning point. I guess the question is, what gives you confidence that, that will actually
+happen? The second one, maybe on the guidance. You talked about progress. Presumably, you're referring
+to reported EBITDA growth. Won't you say a bit about the approach you might make in terms of organic
+EBITDA? I mean, presumably, you've got 3% last year. The U.S. base is easy. European momentum seems
+to be gathering. So are you confident you can beat that this year? And then maybe a final question maybe
+for Randy. Can you comment on the price-cost dynamics in the U.S. asphalt business?
+
+Albert Jude Manifold
+CEO & Executive Director
+
+Okay, Paul. There are 3 questions there. I'll look -- take the first one myself with regard to European
+cement and where we see cement pricing is going. I'll touch on the guidance and then I'll go to Senan
+on that one and then again we've got Randy who will comment on the terms of the dynamics in pricing
+within asphalt. And with regard to the pricing in Europe last year, overall in our pricing and I presume
+you're talking about Heavyside cement pricing in Europe, broadly speaking, across all our markets, we
+saw about a 2% increase over the previous year, which given where we were coming from, actually we
+were quite satisfied with. And you referred to a number of countries where we've shown in the back of the
+appendices of the presentation, that's also available on the website. Last year, in our 13 European cement
+markets, we had price increases that were either flat or up in 10 of those markets. That equivalent figure
+1 year ago was 5. So that shows progress again, and I expect that figure to increase above 10 in 2018.
+So the trend is right. Go back to the attitude that we've always said here within CRH. Volumes have to
+recover first before pricing comes back. And we saw this in North America in 2011, 2012. When volumes
+start to slowly recover, then pricing came back, and then you've seen how pricing is strong coming back to
+the markets. The general sense we have across Europe, particularly on the back of a slightly inflationary
+cost environment that we've seen in 2017 and 2018, all manufacturers of heavyside materials need to get
+those price increases. And I a sense a real determination and [indiscernible] -- the jaw is out to ensure
+that those cost increases are passed on and recovered within the business. So while we're optimistic this
+year, it's too early in the season to put a dimension on that as well, but I do think it's going to be better
+and more rolled out across more countries. And with regards to the organic growth potential that we're
+seeing, we think we will see in our businesses going forward. Remember, what we saw last year was
+significantly impacted by weather patterns in North America. And whilst -- I mean, weather at this time
+of the year doesn't really matter because activity levels are so low. If you lose, as Randy referred to, 1/3
+of your days in 2 big states for us, Texas and Florida at your peak season, it hurts you more than losing 4
+weeks in February. So it's the question of last year was what was the true underlying rate, and that's an
+important one, which Randy will go through with that. But maybe I'll just ask Senan just to comment in
+terms of where you see organic growth this year?
+
+Finbarr Senan Murphy
+Finance Director & Executive Director
+
+I think if you look back to '17, as Albert mentioned, if you break it apart, the Americas organic growth
+was 5% for the year. And then, obviously, as Albert mentioned, that would have had some disruptions
+from weather in parts of that business. Our European business, on a combined basis, actually delivered
+a 5% organic growth as well, which was actually a good finish to the year and sets us up well going into
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+'18. Asia, we mentioned was down significantly last year, which brings the overall average for the group
+down to 3% organic growth. And while we see stability hopefully starting to come back into that market,
+I think it will take a few years before you'll see our financial performance recover from where we were
+in the second half of '17. So I would look at the second half of '17 as being a guidance as to what you
+should expect maybe in terms of run rates for '18 for that business. That's the organic side. I guess, when
+you mentioned EBITDA, it's just worth just looking at the picture in total in the terms of this development
+activity that has happened. And obviously, the main items that comes out of our 2018 performance is the
+contribution from our Allied business. And then what goes in, obviously, is the contributions from the Ash
+Groves and the Fels and the Suwannees that we talked about there, including the synergies that Randy
+talked about. And then currency, obviously, is the great unknown in that equation.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+I hope that's clear, Paul. So if I can also just before I ask Randy to talk about in terms of the dynamics
+within asphalt. Just for everybody in the room and for those watching there on the wires, just to be aware,
+obviously our asphalt business significantly interacts with our aggregates business. As we've consistently
+said over the years, we far more prefer to sell volume than just pass on a price increase in coating stone
+with expensive bitumen. And of course, we have natural breaks within the system. We've got escalators
+within our business. There's natural bid, time and work as well, which deals with price fluctuations. But
+Randy, maybe you might talk about the overall dynamics.
+
+Randy Lake
+Chief Executive Officer
+
+I guess I was just building on that, I would say and Senan referred to kind of energy prices moving up
+5% or 6%, and we would certainly see that taking place in the energy or the bitumen arena. For us, as
+Albert alluded to, we have really 3 ways by which we hedge that. One way is certainly through the state
+escalations that are in place with the DOTs, right? There's formulas in place to address movement in
+energy prices. So that's about 1/3 of our business. Another 1/3 is actually dealt with through physical
+hedging, where we have terminals across North America where we buy material this time of the year. We
+also compensate for some of that through the blending capabilities we have to make specific mixes by --
+on a state-by-state basis. And then roughly, you got 20% to 25% that would be, I guess, exposed. But
+we manage that through our winter fill process. So for us, I think we feel very comfortable in the way we
+manage the energy, understand kind of the elevation in some of those costs but have mechanisms that
+have been proven over time to kind of be able to pass that forward. And I think the market dynamics
+would allow for that. So our expectation at least, as Albert said, we sell asphalt as a means to deliver
+profitability in our aggregate business. But we feel good about margin expansion for asphalt as we look at
+'18.
+
+Unknown Analyst
+
+Can I ask a question on energy costs in the wider sense? If you could remind us where you are in terms
+of the absolute bill? What kind of inflation you saw last year and perhaps how you see that shaking out
+as best as you can perhaps into 2018? Because obviously the pricing is going up. But obviously, there's
+a cost price dynamic, and I think you've kind of flagged that you didn't recover in asphalt in the U.S., in
+asphalt in the U.K. I think generally in European cement, there was a bit of a gross margin hit. So I want
+to understand if you think the cost price spread is starting to at least stabilize or even turn positive? That's
+the first question. Second question is on M&A. Can you give us sort of a sense on how you think about
+that going into the new year? Obviously, you've got a couple of -- well, one big deal to still close. And
+I suppose from an internal perspective, when you benchmark M&A, what do you benchmark against? I
+mean, does your own stock ever come into consideration when you look at multiples that are out there for
+new deals? Obviously, with your stock trading where it is today?
+
+Albert Jude Manifold
+CEO & Executive Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Okay, 2 questions. I'll let Senan talk about the energy cost may be. But if I take the M&A question upfront
+just in terms of our thoughts on M&A for the current year and also in terms of how we look at capital
+allocation in the broader sense, which is really behind your question. And with regard to M&A, obviously,
+last year was a very significant year for capital expenditure. And some of those deals are closed, and one
+of the big ones has closed. It closes over the next couple of weeks. Our focus is now and will be for the
+next coming months is to focus on integrating that business along with the other businesses we acquired
+and delivering value and delivering on the synergies that Randy referred to and he can refer to within
+his businesses. That's the key focus for us as we go through this year. I have to say they are familiar
+businesses in familiar territories. They're not the most difficult businesses to integrate. We actually know
+them very well for many, many years, and we've had an interesting dialogue and a good dialogue with
+them over the months of actually acquiring the businesses. So we'll hit the road running. I would expect
+on the back of a good progress shown in our core businesses over quarter 1 and quarter 2 and good
+progress on the integration. I'd be disappointed if we didn't have good progress in integration by the half-
+year. That with the cash we're generating now into the second half of the year, we will be back looking
+at further progress in the whole acquisition front as well. We have the capacity internally to deal with it.
+It's just making sure that the businesses are settled down, integrated well, our business is running well.
+And we have lots of opportunities, our pipeline is quite full. [indiscernible] was out there, and we've got a
+fairly well-oiled machine now. I think we will return to looking at further development at the back end of
+the year. But only if all the other factors come through with regard to that. With regard to your broader
+question in terms of capital allocation, do we look at our stock price? Or do we look at how we look at
+broader sense? We are here to create value for our shareholders, full stop. That's why we're here. We
+believe that looking at how the returns can be generated and the investments we make wherever they
+may come from. We actually believe looking at the opportunities we have in front of us with regards to
+acquisitions and internal investments, we actually believe that at this moment in time, it's best for us to
+focus on that. I don't see that changing anytime soon. Now if for an extended period of time, we saw that
+we were denied opportunities, we saw other opportunities to create value, we would, of course, consider
+that because that's the overall principle there. But it's not on our agenda for the short term. There are
+short-term fluctuations in stock prices around the world. But from our point of view, we're looking at
+building our business, building out the synergies and building out the footprint that delivers long-term
+value for our shareholders. Senan...
+
+Finbarr Senan Murphy
+Finance Director & Executive Director
+
+Just on input cost. And obviously, you asked specifically about energy. The energy price inflation that
+we absorbed across the business last year was a 10% increase. So that brings our energy cost as a
+percentage of sales across the group up to 8% for the year just closed. As we look out to [ 2017 ] in
+terms of where we see energy cost going, we obviously anticipate that to go up probably by another 5%
+to 6%. So that includes obviously the comments that Randy made about bitumen. It includes comments
+that Albert made earlier about the coal cost in the Philippines and all that across the business is all
+incorporated in that. While on the topic of input cost, what I'd say is obviously, the other one to bear
+in mind is labor. Labor cost for us as a percentage of sales is about 20% across the group. And in both
+North America and in Europe, we've seen labor inflation in the range of about 3% over the last year, and
+probably anticipate a similar level of inflation going into '18. What I would say about all of that in total
+is that if you look at that rising input costs in the last year, we've managed to absorb that and still grow
+our margins in all of our divisions with the exception of the Philippines, which is obviously something we
+mentioned earlier. So there is an ability to be able to take that and to be able to pass it through or to be
+able to offset that through other efficiencies and other performance measures across the group.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+[indiscernible] in the front.
+
+Robert Gardiner
+Davy, Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Robert Gardiner from Davy. You showed an interesting slide there, Albert, in terms of repositioning the
+business in several places Europe, OBE and that kind of integration value add. I'm just wondering what
+else you kind of have in mind? Or what are the divisions, markets or regions where you can do the same,
+you can kind of build out that integrated platform over a period of time and contributed that kind of
+growth in the RONA you've delivered. And then one maybe just for Randy. I'd just be interested to know
+the extent to which your pricing discussions around things like cement are changing with the deals that
+you announced like are you seeing an impact already in terms of those discussions? Or how's that kind of
+panning out for you at this stage?
+
+Albert Jude Manifold
+CEO & Executive Director
+
+Thanks, Bob. I'll let Randy deal at the end with the question with regard to pricing dynamics in those
+markets that you referred to. I think with the model that we've set out, it's been enacted, it's been
+working within CRH for quite some time as my colleagues talked about. The great thing about that is
+it's focused on the end-use markets. It's focused on the customers, as to what the customer wants. We
+look at, as Keith explained in his OBE model, what [indiscernible] want in the marketplace. He bought a
+full range of products, and we backed out of that and said, what can we do to help service that? And we
+focus very much on how we service the customer, how we interact with the customer to make that whole
+idea of [ constantly ] working with us as simple and as easy for him and for us to make the most profit in
+doing that. The great thing about it actually it's a simple concept that's replicable across a whole range of
+businesses, but you have to have A, some knowledge in the Downstream concept and also a capability to
+work those concepts in the marketplace. This is way beyond a vertical integration. This is about looking
+at your customer markets and saying, how can I help his -- make his life easier? And how can I do it on
+a broader basis? We see it being replicable in so many different ways. For instance, what's not known in
+the [indiscernible] and you will see it during the course of next year is the APG business that Randy -- that
+Keith talks about in terms of North America. That's been such a successful model for us. In Europe now,
+we just launched the same new concept here in Europe. What we did have was we had a paving business,
+which was largely a commodity business, which actually was just vertically integrated with our cement
+business. It was a way of selling cement, commodity paving products. But we've seen the advantage of
+how that can be advanced in North America, and we've set up a division now, which David is now running
+across Europe. Where we currently are the largest manufacturer of pavers across Europe. We just happen
+to do so as a route to sell cement. Imagine if we actually [indiscernible] down to ourselves and actually
+used it to sell pavers and all the associated products that go with it. I look at our cement businesses.
+What we have figured out is actually, of course you can sell cement through the readymixed business
+that we have there. But actually, when you look at the way construction is going and look in this fine city
+here, how construction has changed over the last 10 years. The products that cement is processed and
+cured into have been changing before our very eyes. It's becoming more regulated, more specified from
+an engineering and from a regulatory point of view, and that pushes the product back to us. Our best
+businesses that we process cement into are some of our Precast businesses in North America and indeed
+our Precast businesses in Europe. So modular construction, regulated construction, construction that's
+specified, we are then have a knowledge and understanding through our strong Precast businesses to
+work that not only to refer to the integrated model but a model that help service our customers because
+different types of cement, different types of aggregates are used for different applications. And what we
+look to do is to start putting that in place in some situations as we do across a number of our businesses
+in Europe. So it's replicable across our biggest businesses, and it's a business model that can be executed
+time and time and time again across our business. And you'll see this coming through the business in the
+years ahead. Maybe on pricing, Randy, you might have something?
+
+Randy Lake
+Chief Executive Officer
+
+Yes, I think your question was around what have the conversations been like. Well, we haven't really -- we
+haven't closed the Ash Grove deal. So I'd say the conversations haven't really been had yet at this point in
+time. I guess my -- the clearer answer I can give you is in Florida, where the Suwannee cement business
+is we're call it 90 days into running that business. I think our strategy has been and continues to be a
+significant amount of the quantity of cements that come out of this place actually fulfill our own needs in
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+terms of our readymixed business. And so what I think as I indicated both in Ash Grove and Suwannee,
+where the opportunity rest is really on the logistical side. It's expensive product to move. Logistics is an
+expensive part of the cement product itself. So it's maximizing those opportunities, which I think most
+people would understand completely, kind of maintain the structure of the market. But for us, it's about
+logistics and maximizing and optimizing that cost base into our readymixed business. So it's early days to
+tell you exactly how that conversation reveals itself. But we would look at opportunities obviously because
+of supply and procurement opportunities.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+It's not the question you asked, but it's an interesting point, which develops in the point that Paul asked
+earlier on about European cement pricing. I recall standing on this stage maybe 5 years ago, and the
+question was will you get price increases in North America in cement? Remember those questions? Now
+we just ask what is the price increase. That's where we are in Europe. We're now establishing the principle
+of price increases again, and now we'll be having a conversation in a few years' time what is the price
+increases in Europe, not are you going to get them. Things move in cycles. Volumes have to come back
+first, and Europe will start to see that momentum come through, in the U.S. it's well established now at
+this stage, which gives us confidence as we look forward with our European business, particularly on the
+Heavyside.
+
+William Jones
+Redburn (Europe) Limited, Research Division
+
+Will Jones from Redburn. Two if I could, please. First, just on U.S. aggregates. I think the heritage pricing
+was plus 6% in the end for the year. And I think it's plus 5% at the 9-month stage. So perhaps you could
+talk about that? And how do we think about that into '18? Because I assume there was some help to it
+from the fact that volumes were flat in terms of customer budgets. So just, I guess, thoughts on U.S.
+aggregates pricing for '18. And then secondly, just around the regional growth picture in the U.S. Could
+you just give us a bit of a run-through about how that might be differing particularly with reference to the
+Northeast where there's some talk of that being a slightly slower market?
+
+Albert Jude Manifold
+CEO & Executive Director
+
+Okay, I'm actually going to ask both of our U.S. colleagues. Because they both service different ends
+of the market. Keith looks after res and nonres primarily. And obviously, Randy's exposed to res and
+infrastructure. But maybe just generally speaking, maybe, Keith, you might just take us through it first in
+terms of the regional growth trends, and then, I'll let Randy, talk about that and the pricing at the end.
+
+Keith Haas
+Chief Executive Officer of Expanded Americas Building Products Group
+
+Yes, sure. I think as we talked a little bit about in the presentation, we continue to see probably stronger
+new build growth in the south or the smile states as Albert talked about it. You have Florida and Texas
+would lead that, but it's also very strong in Georgia, the Carolinas through the Southwest, California and
+the Pacific Northwest. A little bit impacted in the last year by unfavorable weather. First, it was a rainy
+spring, and then we had hurricanes came through which, obviously, tend to impact the south more than
+the other regions of the country. What we have seen is the beginnings of a little bit of recovery, a firmer
+recovery in the Midwest. So we, in the products business, we have and in distribution, which has since
+been divested, have a pretty strong presence in those areas. So I'd kind of call it not nearly as robust a
+growth but growth in those parts of the country. The Northeast has some challenges. Some states have
+good financing. Some states don't have good financing, and we've kind of been hit or miss, I'd say, in the
+Northeast. But just like the infrastructure in the Northeast, the building stock, the built environment in the
+Northeast and the Midwest is robust. And therefore, it moves into a phase of repair and improvements.
+That underpins a lot of our business there, which is the revitalization of the building stock there in those
+parts of the country. So we're pretty comfortable with how it goes. We're driven more by new construction
+in the South and the West, but also a firm underpinning in terms of repair and remodel and improvements
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+in the Midwest and the Northeast. We've seen those trends for a long period of time, didn't see much
+change in that other than the impacts of weather in 2017, and I would expect it to be broadly similar as
+we move forward.
+
+Randy Lake
+Chief Executive Officer
+
+And just kind of building on that, we -- from infrastructure standpoint, we -- it would model kind of the
+growth rates. Obviously, you can see from our investment profile now, we're beginning to really reinforce
+Florida, Texas, Utah, Idaho and up into the Northwest. Those have been and I think will continue to be
+solid growth markets for us. And actually, when you talk about aggregate prices, it follows that, right?
+I think the one nice thing about aggregate business is that even in the most difficult of time, we saw
+advancement in pricing. So that's 6% overall, but would vary dramatically by region. So I would say
+higher performance in those states I just called out. In the Northeast, we have a very large presence,
+Northeast and the Midwest in terms of our aggregate position. And what's nice about those positions is
+that just the total population of those areas. While maybe certainly not growing as fast as some of the
+southern states, are very consistent. But the infrastructure needs are overwhelming. So they will continue
+to need to reinforce the current infrastructure, expand as well as improve. And so we see those as being
+very, very steady markets, and pricing will move along as well. So as we look into '18, I think we've called
+out kind of in that kind of 3% to 5% range as well in terms of pricing dependent upon what region you
+are.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+I'm just conscious of the fact that the weather was particularly bad this year. We have over 900 people
+dialed in and watching this, and I've got a ton of questions they need to ask on the line as well. So I'm
+going to take maybe 1 or 2 questions from the room.
+
+John Fraser
+HSBC, Research Division
+
+It's John Fraser-Andrews, HSBC. My first question is can you talk us through the buckets, the main
+buckets of U.S. infrastructure spending, how you see the FAST Act, general state spending, ballot
+initiatives? So where's the money coming from this year that you've alluded to in your statement? The
+second question is regarding operating efficiencies, which have been very good in 2017 in the Heavyside
+businesses on both sides of the Atlantic. My question there is are there further operating efficiencies to
+come in those businesses outside of the acquisition integration? So is there more to come on that side?
+
+Albert Jude Manifold
+CEO & Executive Director
+
+Well, I want to talk just -- I'll let Randy deal with in terms of actual funding, where it's coming from, from
+a U.S. perspective. He has a far better picture on that than I do. Just on an overall comment on operating
+efficiencies, what I would say about that is we -- one of the slides we spoke today about the importance of
+performance. The bedrock of our business is that we must be excellent in what we do. Nickels and pennies
+are the lifeblood to us, and we fight every day for that penny. So in every way, we are looking to try and
+see how we can maximize that for our shareholders. That may be on commercial initiatives or it may be
+on operating initiatives. Embedded within our business, within every business that my colleagues run, is
+the process of continuous improvement with specific performance indicators that drive those businesses
+on. Now it would take me a day to explain to you or my colleagues a day to explain to you how each of
+their businesses are doing that. But it has been behind the increase in the margins that they have seen in
+their businesses. We are way beyond where we should be at this point in the recovery cycle. Something
+else has happened within our businesses, John. It's not just the market. It's not just the business model.
+It's fighting every day and improving our businesses. So if I want to take a specific business such as what
+Randy is working on, I look at the likes of warm mix asphalt, I look at recycled asphalt, I look at in terms
+of how we work out our logistics and in terms of how we take or draw our stone out on quarries, how we
+deliver to our customers. There are so many ways. There is no silver bullet but it goes on and on every
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+day, and it's what you would expect from somebody like CRH because we do stand on our toes in terms of
+say we are good performers in what we do. So what I want to do now maybe just to pass it over to Randy.
+You might just talk about the funding scenario in the U.S. in terms of where the money is coming from for
+the next few years.
+
+Randy Lake
+Chief Executive Officer
+
+Yes. So I think underpinned and Albert talked about it early on, underpinning the investment is really
+the federal spend, and that's north of $40 billion across the country. And that's underpinned by the FAST
+Act which runs through 2020. I think what has -- what was favorable about that 2 years ago when it was
+put into law was that it provided stability for the states. So they were able to look at that and say, I can
+make a longer-term investment knowing that the federal government portion of their funding would be
+there. And the states actually raised more money than that in terms of their contribution to the overall
+infrastructure. But those are the 2 major buckets. What has been interesting -- so that's underpinned,
+right? And that's kind of a 3% plus or minus moving forward ahead on an annual basis. What has been
+interesting is that over the last 3 years, and I'll get the numbers wrong by 1 or 2 here. I think it's 27
+states have had a ballot initiative to raise infrastructure funding, right? That all passed. And you look at
+the total number of actual local ballot initiatives, it's north of 200 ballot initiatives, and 85% of those have
+passed. Because there's a general understanding from the consumer that their lives are better off with an
+improved infrastructure, right? Whether it's maintenance on their vehicle, whether it's just time in their
+lives they regain. So there is momentum there. So -- and there's a lot of conversation obviously now from
+the President about what could be, and that's great. We like the conversation, but we deal with what we
+know today, which is a solid advancement year-over-year in terms of overall investment with active states
+taking a bigger part and lead in those investments.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+And take one more question from the room, please, because I've got I say a lot of questions. Yes?
+
+Andrew Murphy
+BofA Merrill Lynch, Research Division
+
+Andy Murphy from Bank of America Merrill Lynch. One question is really sort of in 2 parts. I'm just looking
+at potential CapEx in the Philippines, you mentioned it before as a way of expanding the business and
+perhaps beating off some of the competition that's coming in. Just wondering whether you could update
+us on that and general thoughts around that? And just general on CapEx at the group level, could you just
+give us a steer on the outlook for '18 and '19 in terms of absolute spending?
+
+Albert Jude Manifold
+CEO & Executive Director
+
+Thanks, Andy. Maybe, Senan, you might just take the overall group perspective. But I might ask Ken to
+comment on the specifics...
+
+Finbarr Senan Murphy
+Finance Director & Executive Director
+
+The specifics in the Philippines, yes.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+The specifics for Philippines and what the rationale is behind that.
+
+Finbarr Senan Murphy
+Finance Director & Executive Director
+
+See, to put the numbers around it before I pass it across to Ken. CapEx across the group last year, we
+closed out at 104% depreciation, which was in line with what we would have expected or we would have
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+guided. And I would say before you take into account the Philippines spend next year, I would expect our
+number to be somewhere in that range again as a percentage of depreciation, recognizing obviously we'll
+have new businesses in our portfolio like Ash Grove next year. So you need to take that into account in
+terms of looking at the absolute amount of CapEx. Philippines, specifically over the next 12 to 18 months,
+we're talking about a spend of about 120 million, 125 million to do the first phase of that expansion. Ken,
+you can maybe update in terms of the expansion and obviously, what it supports and what it does for us.
+
+Ken McKnight
+
+That is really phase 1. What we're doing in phase 1 in the Philippines is really debottlenecking our plants
+in Luzon and Metro Manila, where we're the market leader. By doing that, these are all very strong
+returning projects. What that does, it displaces very expensive import, clinker, which is what we do at the
+moment. So I think it would run Phase 1, which is really that 125-odd million or so over the next couple of
+years. That probably adds about 700,000, 750,000 tonnes of locally sourced and produced clinker that will
+displace expensive imports.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+Thanks, Ken. I'm going to move down the wires now because we have a lot of questions, and I have
+to say half the questions that are here. I'm going to try and bucket them in here is to do with potential
+infrastructure stimulus coming from the U.S.
+
+And we don't have a particular view in this. What we do with regard to infrastructure is exactly how
+Randy spoke. We know what's it in front of us with regards to the FAST Act. There is no other program
+or stimulus in place at this moment in time. We like to see the discourse that's taking place on Capitol
+Hill because we believe that bipartisan discussion actually will help stimulate a broader discussion with
+regard to U.S. infrastructure spend going forward. And anybody who's been to North America knows it
+very well, particularly at the United States, my colleagues have referred to is there is significant need for
+infrastructure spend going forward as that economy builds. And remember, 30 million people arrive in the
+United States every 10 years. They need to live in houses. They need to go to school. They need hospitals.
+They need stores. They need roads to drive on. That's what is needed to drive the future growth, let alone
+repair what's there. So significantly needed, but all we're dealing with at this moment in time is what's in
+front of us. And just if I can just deal with maybe some other themes because I don't want to get focused
+on U.S. infrastructure.
+
+And just back to you, Ken, again. Excuse me. Just a question -- just maybe just update us in terms
+of volume and price trends in the Eastern European markets, which are very important for us and our
+European businesses.
+
+Ken McKnight
+
+I mentioned actually the East Europe platform a bit earlier on. And maybe just to reflect on what we have
+there. We have very good market positions and they sweep down through Poland, Ukraine into north
+Danube which is Slovakia and Romania, Serbia and Hungary. In all of those markets, so a good market
+position. Markets are growing. Every one of those we expect volumes to increase by varying degrees and
+so good pricing. One country I would pick out actually out of all that basket there would be Romania.
+Romania actually came with us as part of the assets we got from Lafarge-Holcim a couple of years back.
+Very good country, good market structure. Bit of political instability at the moment, but we think that will
+wash through over the next couple of years. But really, what's going to be a very -- I think the country to
+look out for in terms of if you're tracking CRH look at Romania and look at our business there. I think we
+have very fine business and something we can build a typical CRH model going forward.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+And volumes and pricing moving ahead in the next few years?
+
+Ken McKnight
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Yes, hopefully.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+Okay, good. Let's put that in your budget next year. Okay, just if I move away from infrastructure in
+the U.S. focus maybe. Keith, just a question. Your own thoughts, you're very exposed to residential and
+nonresidential. Where you do see res and nonres in the overall cycle? And where do you see it going
+forward?
+
+Keith Haas
+Chief Executive Officer of Expanded Americas Building Products Group
+
+Yes. I think it's obviously been a number of years of expansion in those markets. I think someone said
+about business cycles, they don't die of old age, they die of imbalance. And we don't really see that at
+the moment in either the res or the nonres market. Nonres recovered faster, and it's probably closer to
+kind of normalized levels. But the U.S. economy continues to grow, maybe even a little bit of a pickup in
+the rate of growth is predicted. And job creation has remained very robust or -- and stable at kind of in
+that 150,000 to 200,000 jobs every year. And so that drives demand for the nonresidential sector whether
+that's commercial space or office space, retail or whatnot. And in the res sector, you could debate I think
+on what's the long-term rate that's needed for U.S. housing. It might be 1.4, it might be 1.5. Last year,
+we got all the way back to 1.2. So I think we're still under potential there. You mentioned, Albert, 30
+million people every 10 years that requires quite a bit of housing. And we went way down, and we're on
+our way back up, but I still think that the U.S. housing market is underserved. And so I don't think it's a
+question of have we reached peak levels, which I don't think we have. I think it's really about the pace of
+growth going forward. And given the fact that we are getting near full employment in the United States.
+And indeed, it's improving in Canada as well that I think what we'll see is continued slow growth in those
+markets. And that probably could be mid- to low single digit for the next 2 or 3 years, and we'll just see
+where we go from there.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+Okay, thank you. And question really, I suppose, for you, David. It's actually obviously from the
+Netherlands. I see a lot of commentary in the local press about the potential disposal of DIY in the
+Netherlands. What's your thoughts in distribution and how it sits within the European businesses?
+
+David Dillon
+
+We don't comment on any individual deals in CRH. I think, I mean, what we're constantly doing in CRH
+I think is looking at our overall portfolio all the time, continually looking at capital allocation. And I think
+what we have in distribution generally I think is we have very fine business in the Netherlands itself
+anyway in builders merchants. If you look across our geographies and the type of businesses we have,
+both builders merchants and our SHAP platform as well. This has grown quite well over the last couple
+of years. It did very well through the recession. And if you look ahead, we've got the option to acquire
+SAMSE in France. And just to remind people about SAMSE. SAMSE is we own a minority of SAMSE. It's
+a large distribution business in France. France has been a country that's turned the corner over the last
+18 months. And we have the option to acquire a majority in that business over the next 3 years, very
+exciting. It would make us #2 in that market. And again in Germany, we did 2 bolt-ons within the year in
+2017 as well in our builders merchants business there. So we've got room for growth, I think, in general.
+And I think what comes in and out I think as part of our normal daily business here, where we can create
+value for the shareholder.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+And just on distribution theme, we sold our Allied Distribution business in North America last year and a
+question really, I guess, for you, Keith, I suppose to some extent. Just are we a less balanced business
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+23
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+now? I suppose it's a North American question. Are we less balanced business in North America now
+without Allied in our portfolio?
+
+Keith Haas
+Chief Executive Officer of Expanded Americas Building Products Group
+
+Yes. Well, I'll take that maybe in 3 parts. So I think when we look at balance, we look at it in 3 ways. One
+would be kind of the end markets we serve, and that would kind of think about res, nonres at least from
+the products and distribution side. The sale of Allied actually doesn't change that mix really materially.
+So it was very similar to the businesses that remain within the portfolio. Then if you think about type
+of use between new and RMI. Again, Allied very much matched the portfolio that we have existing. So
+it really doesn't move the balance there much at all, which is good because we like the balance that we
+have. And, I guess, finally would be the geographic mix, where you want to kind of not be tied to any one
+particular geography. And I would say there, it has slightly shifted kind of as we talked about earlier in
+that Allied probably was a bit stronger in the Northeast and in the Midwest than the broader portfolio in
+North America. And so it has shifted in very small terms our business toward the South and to the West,
+which I think is probably overall a good thing in terms of the growth rate that we see going forward. So in
+summary, not much.
+
+Albert Jude Manifold
+CEO & Executive Director
+
+Okay. I think officially, I got about 20 seconds left. But I'm going to squeeze in one more question, Senan.
+Just a question on dividend. Your 5% dividend increase, where do you see that going? And what's your
+view on dividend cover going forward, please?
+
+Finbarr Senan Murphy
+Finance Director & Executive Director
+
+Sure, yes. So dividends, again a positive story this year in terms of increase by 5% on top of the 4%
+increase last year. And obviously, bear in mind the fact that for the previous 8 years, we had held our
+dividend constant despite the downturn. So obviously, recognizing dividend is very important to our
+shareholders. We closed out 2017 with a dividend cover of 2.4x if I take out 2 exceptional items that
+were recorded in our earnings per share, the Swiss pension gain and deferred tax I talked about earlier.
+So I mean, the policy is that as long as we continue to grow our earnings per share, we'll continue to
+progress our dividends. And that's what I'd expect to see. And at the same time, what we continue to do
+is obviously build our cover so that we're well protected as we go forward, and we are able to ensure that
+dividends can continue to be paid, and we can continue to progress them going forward.
+
+Albert Jude Manifold
+CEO & Executive Director
+Thanks, Senan. We've come right up against the clock, and I'm afraid at this stage, I just want to take this
+time to thank you all for your time, the brave souls who came out this morning in this inclement weather
+to be in this room here this morning and also to those of you down the wires for taking the time to listen
+to our presentation. And we will next talk to market when we update the market with our Annual General
+Meeting at the end of April. Until then, if you have any questions or queries, of course, we have a very
+active Investor Relations department. All the information and contact details are on our website. So if
+you have any questions or queries, if you could please contact Frank and his team through that medium.
+Thank you very much for your time this morning, and have a good day. Thank you.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+24
+
+CRH PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+25
+
+

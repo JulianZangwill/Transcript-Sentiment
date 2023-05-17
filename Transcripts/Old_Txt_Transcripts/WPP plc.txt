@@ -1,0 +1,2109 @@
+WPP plc LSE:WPP
+FY 2017 Earnings Call Transcripts
+Thursday, March 01, 2018 9:30 AM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2017-
+
+-FQ1 2018-
+
+-FY 2017-
+
+-FY 2018-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+SURPRISE
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1.21
+
+1.20
+
+(0.83 %)
+
+1.20
+
+4273.00
+
+4212.80
+
+(1.41 %)
+
+3599.00
+
+9.20
+
+15279.74
+
+15265.40
+
+(0.09 %)
+
+15458.42
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: GBP
+Consensus as of  Mar-01-2018 9:12 AM GMT
+
+FY 2017
+
+CONSENSUS
+
+1.21
+
+ACTUAL
+
+1.20
+
+SURPRISE
+
+(0.83 %)
+
+- EPS NORMALIZED  -
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+18
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Adam Smith
+
+Carla C. Hendra
+Vice Chairman, Chairwoman
+of Ogilvy Global Strategy &
+Innovative Practice & Chairman of
+Ogilvyred
+
+Matthew John Walker
+Crédit Suisse AG, Research Division
+
+Patrick Thomas Wellington
+Morgan Stanley, Research Division
+
+Richard Eary
+UBS Investment Bank, Research
+Division
+
+Simon Baker
+Societe Generale Cross Asset
+Research
+
+Thomas A Singlehurst
+Citigroup Inc, Research Division
+
+Irwin Gotlieb
+Former Chairman
+
+Mark Read
+CEO & Executive Director
+
+Martin S. Sorrell
+Founder
+
+Paul W. G. Richardson
+CFO & Executive Director
+
+ANALYSTS
+
+Adrien de Saint Hilaire
+BofA Merrill Lynch, Research
+Division
+
+Christopher Anton Giles Collett
+Deutsche Bank AG, Research
+Division
+
+Ian Richard Whittaker
+Liberum Capital Limited, Research
+Division
+
+Julien Roch
+Barclays Bank PLC, Research
+Division
+
+Lisa Yang
+Goldman Sachs Group Inc.,
+Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Presentation
+
+Martin S. Sorrell
+Founder
+
+Good morning, everybody. So welcome to our 2017 preliminary results. As usual, we've got an extensive
+presentation for you. We are going to cover the results. Paul is going to cover the results for 2017 in
+summary, then Adam Smith, as usual, will look at this year and next year. We'll then cover what we
+believe are the most commonly asked questions about the industry and ourselves, and then maybe some
+uncommonly asked questions as well. We'll talk about our structural response to those issues, and then
+outlook and conclusions.
+
+And we're joined by Mark Read here in London, who leads Wunderman. I think we have Carla Hendra in
+New York at some unearthly time, who is part of Ogilvy, Ogilvy consulting, based in New York; and Irwin
+Gotlieb, who I think is on the West Coast, so slightly better for him, but not much better, obviously, who is
+Chairman of GroupM. So we have a group of people, 2 on the phone and the 4 of us here. So firstly, over
+to Paul.
+
+Paul W. G. Richardson
+CFO & Executive Director
+
+Okay, thank you, Martin. So I will cover around half an hour, just the results for 2017.
+
+Just before I start, there are some definitional changes we've had to make, and actually, it's footnoted on
+the bottom of Page 1, where instead of the term net sales, we are using revenues less pass-through costs.
+It's calculated in exactly the same way. It is just a preferred definition of the same measure. So I'll just
+say that before we start.
+
+So on a reported billings basis, we were up 0.6% at GBP 55.5 billion, down 3.9% on constant currency,
+and down 5.4% on a like-for-like basis. On a revenue basis, our reported revenues are up 6.1%, at GBP
+15.265 billion, up 1.6% on a constant currency basis and down 0.3% on a like-for-like basis. Revenue less
+pass-through costs, not easy to say and is exactly the same as net sales, was up 6% on a reported basis,
+1.4% on a constant currency basis and down 0.9% for the year on a like-for-like basis.
+
+Reported headline EBITDA was up 4.7% at GBP 2.534 billion and up 1.2% on a constant currency basis.
+
+Reported headline PBIT was up 4.9% at GBP 2.267 billion, up 1.5% on a constant currency basis and
+reported revenues less pass-through costs margin was 17.3%, down 0.1 margin points from the 17.4%
+reported last year, but was flat on a constant currency basis because when you adjusted last year's 17.4%
+at current exchange rates, you did get to 17.3% and was flat on a like-for-like basis. It was in line with
+our revised forecast in the second half of last year.
+
+Headline diluted earnings per share were up 6.4% at 120.4p and up 2.7% on a constant currency basis.
+And dividends per share of 60p, i.e., approximately a 50% payout ratio, was up 6%, in line with our target
+of a 50% payout.
+
+Our net debt on a constant currency basis was up GBP 584 million to just over GBP 5.1 billion, reflecting
+significant net acquisition spend in the back end of 2016, specifically Triad, where we did spend GBP 300
+million in November 2016 that didn't have an effect on the '16 average but obviously had a full year effect
+on the '17 average. Share buybacks and dividends, in line or greater than last year, and average net debt
+therefore coming in at 2x EBITDA, which is the top end of our 1.5x to 2x range. Our share buybacks of
+GBP 504 million or 2.5% of share capital was up from the 2% purchased last year and our target each
+year is to purchase or repurchase between 2% and 3% of shares, considerably more than dilution, which
+is 1% or less each year.
+
+Net new business billings at GBP 6.3 billion in the year continued the good overall performance seen in the
+first 9 months and was leading positions in the net new business tables for last year.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Return on equity was up strongly, at just under 17% or at 16.9% to be precise, up from 16.2% a year
+ago. And compared to a similar weighted average cost of capital to last year, just lower at 6.3%.
+
+So turning now to some of the headline performance versus consensus, we were slightly light versus
+consensus on the full year revenues less pass-through costs at down 0.9%. That did lead to about GBP
+50 million behind consensus on the revenues. That flowed through to the PBIT numbers. The finance cost,
+we did actually achieve exactly the same interest cost and finance costs as last year, slightly better than
+consensus. And at the PBT level, our PBT of GBP 2.093 billion was slightly [ high in ] consensus of GBP
+2.109 billion. With a benefit of slightly less minority interest and good share buybacks having an effect on
+the shares in issue, the diluted EPS of -- at 120.4p was very much in line with consensus of 119.8p. As I
+mentioned, the margins, on a constant currency basis, was flat with last year, but down 0.1 on a reported
+basis.
+
+So again, a summary of some of the headline numbers. Revenues, GBP 15.265 billion on a constant
+currency basis up 1.6%. Revenues less pass-through costs, about GBP 2 billion less at around GBP 13.140
+billion. Margins, I've mentioned; EBITDA, I've mentioned. Tax rate has gone up, principally due to the
+changes in the U.K. tax legislation. You'll see later we are taking a tax credit for the U.S.A., but in fact, the
+change in corporate tax rates is having a negligible effect on our U.S. taxable or taxes paid in future years.
+
+Overall then, the diluted earnings per share of 120.4p and a dividend paid of 60p for 2017. Average net
+debt I discussed, and headcount actually throughout the year was down, both on average, 1.5% and on
+the closing headcount, down 1.7% compared to a year ago.
+
+So in terms of the revenue growth, this is the bridge from last year. On a like-for-like basis, revenues were
+down 0.3%. Acquisitions added 1.9%. Foreign exchange added 4.5%. So overall, revenues were up 6.1%.
+For revenues less pass-through costs, previously known as net sales, started the year at GBP 12.4 billion,
+was a decline on an organic basis or like-for-like basis, was minus 0.9%. Acquisitions throughout the year
+added 2.3% to revenues, less pass-through costs and foreign exchange added 4.6%. So overall, revenues
+less pass-through costs for the year grew from GBP 12.4 billion to GBP 13.1 billion.
+
+In terms of foreign exchange, we've had 2 years where it has been a benefit to the group's results. So in
+2016, it was approximately a 10% benefit to revenues and revenue less pass-through costs. In the first 3
+quarters, it was a benefit of this year. And in the final quarter, it was a headwind of around 3% to 3.5%.
+But overall for the year, it was a benefit of around 4.5% to revenues, and 4.6% to revenues less pass-
+through costs. Taking the current exchange rates and looking out at 2018, we are expecting around a 4%
+headwind or minus 4% impact on foreign exchange to the 2018 results.
+
+So the second change, which I'll come on to is the way we are presenting the very top of our profit and
+loss account on a statutory basis only. There is a slide to explain, but what you'll see here now is revenues
+of GBP 15.265 billion and what is called cost of services of GBP 12 billion, which are those costs directly
+attributable to generating that revenue. So a very strict definition. This leads to a gross profit number of
+GBP 3.175 billion. And then in general and admin costs, which on average are around 7% of revenues, we
+have to show separately. The operating profit of GBP 1.908 billion is a statutory operating profit. You see
+the strong improvement to the income from associates coming through in 2017. And on balance, my view
+is that in 2018, that will not be significantly different, given what we know about 2018 and our associates.
+
+On PBIT, we're looking at on a statutory basis of GBP 2.22 billion. On the finance cost, there is a schedule
+in the leave-behind that breaks out the finance cost and all the various changes to financial instruments
+that we have to put through in that particular line as well, explained in detail for you.
+
+Tax, as you see there, there's a credit of around GBP 206 million compared to the prior year. That's a
+credit on deferred tax liabilities, because our future liabilities under U.S. GAAP are now measured at 21%
+as opposed to 35%. It has led to a one-off credit to the tax charges here. I'd say in underlying terms, I'm
+not expecting the change in U.S. tax legislation to make a material difference to the group's tax rate.
+
+So in a statutory reported basis, you have reported diluted earnings per share of 142p, up nearly 27%
+compared to a year ago.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+So the change in the format or the presentation of the P&L, we've had -- we've moved from a nature of
+expense, which is the right-hand side of the page, or the old format, where we showed revenues less
+direct costs or pass-through costs, which were, as we previously explained, those costs directly associated
+where we act as principal on media buying and the pass-through costs of market research, where we
+came out with a subtotal of net sales. And then we had the other operating costs, leading to an operating
+profit for the year and PBT.
+
+You can see on the left-hand side, the new display that we'll follow going forward, which is called a
+functional approach to the nature of the P&L. But actually, all the numbers are identical at the operating
+profit and the PBT level. So it's just a reclassification of costs between direct and operating in the old
+format, between those and cost of services and general admin in the new format. Purely presentational,
+no other changes.
+
+So in every other respect, either revenue less pass-through costs, i.e., the net sales number, is the same;
+headline PBIT is the same; the margin is the same. What you have below and broken out for you is in the
+headline G&A, you have what are called the underlying cost of general and administration, which is around
+6.7% of revenues of the group, and other items, like intangibles, goodwill and exceptionals, get dumped
+into that GBP 1.267 billion number. Again, we have a slide in a second on exceptionals. So that's a change,
+format only, nothing material.
+
+So in terms of the headline income statement, this is how we will continue to display it, very similar to
+how we displayed it in the past. So revenues of GBP 15.265 billion on a constant currency basis growing
+by 6.1%. Revenues less pass-through costs, previously known as net sales, of GBP 13.140 billion.
+Operating profit, GBP 2.154 billion, was down 0.5% on a constant currency basis and the PBIT level at
+GBP 2.267 billion, constant currency PBIT was up 1.5%.
+
+Finance costs were flat with last year. Taxes were up from 21% to 22%, leading to profits after tax on
+a constant currency basis of GBP 1.633 billion, up 4% on a reported basis and up 0.5% on a constant
+currency basis. Non-controlling interests were slightly lower. Therefore, profits attributable to shareowners
+grew at 1.1%, and then with the benefit of the share buybacks, diluted EPS grew at 2.7% to 120.4p.
+
+So in terms of exceptionals, we had gain on disposal of investments and subsidiaries at Asatsu, and again,
+you will see in the footnotes, of the GBP 129 million, the principal gain related to Asatsu, which is a gain of
+GBP 92 million. And in addition, we had a gain on Infoscout and others. That in total was GBP 129 million.
+We have taken some investment write-downs, the principal one being comScore, again identified in the
+back at around just over GBP 50 million. And then we have had some restructuring charges taken 2017,
+in total of GBP 57 million, broken out in the footnotes, were predominantly comprised of severance of
+GBP 34 million and IT costs, including the impacts of the cyber attack, of around GBP 13 million in total
+for 2017. So net-net, at the subsidiary level, there is an exceptional loss of GBP 24 million, there was a
+further GBP 1 million exceptional loss in associates, so at the group level, it was GBP 25 million.
+
+Looking at currency and how we would have performed if we were in the various currencies. So looking
+at the second column, the revenue less pass-through costs, the like-for-like growth was minus 0.9%.
+Acquisitions added 2.3%, and therefore, on a constant currency basis, growth was 1.4%. Foreign
+exchange added 4.6% to revenues less pass-through costs and around 3.7% to headline EPS for the
+group. So overall, our reported numbers in sterling showed growth of 6%. If we were a dollar-reporting
+company, our overall reported growth in revenues less pass-through costs would've been 1.6%. If we
+were a euro-reporting company, our growth in revenues would have been minus 0.7%. And if we were a
+company reporting in yen, our growth would've been 4.8%.
+
+Turning now to the performance by discipline of the business, showing both the revenues, GBP 15.265
+billion and the revenues less pass-through costs, both on a reported constant currency and like-for-like
+basis. I will focus on the like-for-like performance on revenues less pass-through costs. And I just want
+to remind you of the shape of how 2017 performed in terms of quarter-by-quarter, then I'll give you the
+specifics about how the half year was compared to the full year.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+So in 2017, the first quarter, the like-for-like growth in revenues less pass-through costs was plus 0.8%.
+The second quarter was disappointing, it was down 1.7%. So the first half of this year, we reported
+revenues less pass-through costs on like-for-like basis of down 0.5%.
+
+The second half has been harder. So quarter 3, we saw revenues less pass-through costs down 1.1%,
+and quarter 4, disappointingly, we saw revenues less pass-through costs down 1.3%. So the second half
+revenues were down 1.2%, which actually is in line with where we are in January 2018.
+
+So overall for the year, our full year revenues are down 0.9%, not seeing a pickup in quarter 4 that we
+had hoped for.
+
+Now turning to advertising and media investment management, which is representing 47% of the group,
+and on a full year basis, had like-for-like net sales or revenues less pass-through costs, decline of 2.3%,
+slightly higher than the half 1 like-for-like decline of 1.7%.
+
+In data investment management, which represents 18% of the business revenues, we saw a decline in the
+first half of 1.9%, but an improvement overall and on a full year basis, the decline was 1.3%.
+
+In public relations and public affairs, we saw a full year performance of plus 0.2%, slightly lower than the
+rate of growth we saw in the first half, where the growth was 1.8%.
+
+And in brand consulting, health and wellness and specialist communications, which represents just under
+28% of the business, we saw a full year revenue less pass-through costs of plus 1%, very similar to that
+achieved at the half year of plus 1.1%. So overall, for the group, the first half we were down 0.5% and on
+a full year basis, we were down 0.9%.
+
+Turning to do exactly the same analysis by geography. So in North America, which represents 36% of
+the business, saw overall revenues less pass-through costs decline 3.2% overall for the year, slightly
+higher than the half 1 rate of minus 2.2%. The United Kingdom continued to perform well, it is 13% of
+the business, on a full year basis, it had a revenue less pass-through costs growth of 4.8%, having been
+growing at 3.8% in the first half. In Western Continental Europe, it is just under 21% of the business, we
+saw flat growth overall for the region, for the full year, very similar to what we saw in the first half, where
+we were down minus 0.3%. And similarly, in Asia Pacific, Latin America, Africa and Middle East and Central
+and Eastern Europe, 30% of the business, we saw revenues down 0.8%, similar to what they were down
+in the first half this year, minus 0.3%.
+
+So turning now to one of the comparisons we make, and we can only really do this on a revenue basis,
+as opposed to the revenues less pass-through costs. So it is somewhat distorted. But I think there, you
+can see a consistent trend when you add the 2 half years, the half 1 '16 and the half 1 '17 combined, in
+our case, on revenues of 4%; the half 2s of '16 and '17, when combined, show revenue growth of 1.5%.
+You can see the trend across the industry of softening growth and somewhat patchy growth of some of
+our competitors. So there is a general trend compared to the '15 and '16 run rate and the '16 and '17 run
+rate, of softening of the revenues.
+
+In terms of margin performance of the business, it is still a strong margin business overall. And looking
+at the advertising and media investment management business, which is just 49% of the profits of the
+group, margins were flat at 19% at the full year, similar to where they were at the half year, where they
+were flat at 15.3%. So we do have a very strong second half. We met the profitability we were hoping for
+in terms of margin in the second half of the year. The data investment management business, our second-
+strongest margin business, did see a margin decline at the half year of 0.5 margin points and that has
+continued to flow through into full year results, the margin is going from 17.6% to 17.1%, representing
+15% of the business.
+
+Public relations and public affairs, 8% of the business, traditionally a good margin business as well, it did
+have a slightly softer second half and the margins overall for the discipline were down from 16.7% to
+16.1%.
+
+In brand consulting, health and wellness and specialist communications, overall margins were down 0.1%
+to 15.3% versus 15.4% a year ago and a fairly mixed performance within some of that division.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+In terms of geographies now, again, our strongest margin region is North America. It saw a margin
+improvement despite the decline in revenues less pass-through costs, improving the margin from 19.4%
+to 19.5%. The U.K., on the back of the strong performance, has seen an improvement in margin from
+16.5% to 16.6%. Western Continental Europe of basically flat revenues, saw margins held or down 0.1
+margin points from 14.5% to 14.4%. And Asia Pacific, Latin America, Africa and Middle East and Central
+and Eastern Europe, I think probably the region where we were most disappointed with the quarter 4
+performance, we did see a margin decline of 0.5 margin points from 17.2% to 16.7%.
+
+And talking about how we did perform in the fourth quarter versus the full year. Here's an analysis of our
+subregions, on a revenue basis first, followed by a revenue less pass-through costs. So revenues can be
+distorting, as I mentioned here. So in revenue terms, we had a strong -- a better fourth quarter in North
+America of plus 1.6% despite a difficult year. On a revenue basis, which is affected by those pass-through
+costs, we had a good performance in the U.K. and Latin America. But overall for the year, on a full year
+basis, mature markets were down 0.5% and fast-growth markets flat. I think on a meaningful basis, the
+revenue less pass-through costs, you see here where the fourth quarter performed well and where the
+full year basis performed in trend. And there is disappointment across our North American business in
+the fourth quarter on net sales. Latin America, which had, had a good year, was still up, but marginally at
+3.6%. And then we're basically flat in Western Continental Europe, down in Central and Eastern Europe in
+the fourth quarter and down in Asia Pacific. But overall, we were down 0.9% in the mature markets and
+down 0.8% in the fast-growth markets for the year.
+
+Looking at some of the major markets or the top 6 markets for the year, representing 68% of the
+revenues. Overall, they were down 1% on revenues and down 1.4% on revenues less pass-through costs.
+U.S.A., you can see here, the change from growth in '15 to '16, to a decline in 2017. U.K. has continued
+the good growth. Greater China is actually slightly better than we were at the 9-month stage, where we
+were down minus 4.6%, but it's not as good as we'd hoped in the final quarter and it was down 3.2%
+on the full year. Germany has had a fairly tough year all year, partly through client losses, and we were
+basically flat after 9 months; we are down 1.3% on a full year basis.
+
+AUNZ, we're basically down, but you will see in the reported numbers from the public company, which had
+a good margin performance and a relatively low-digit but solid EPS performance in WPP AUNZ, reported
+earlier this week. And in France, actually, we've seen some modest improvement continue this year versus
+last year and before.
+
+In the BRICs, as we mentioned, Greater China, somewhat disappointing compared to what we'd hoped for,
+but down 3%. India, definitely affected by GST and demonetization, had a very strong first half. We were
+up 6% to 7% after 9 months, but had a softer fourth quarter. Brazil returned from decline to growth in
+'17 versus '16. And Russia is a bit mixed by quarter, to be quite frank with you, and that portrays a sort of
+mixed quarter-on-quarter performance in Russia.
+
+So overall, here's a summary of our -- the trade estimates of major new business wins throughout 2017.
+As I mentioned previously, media tends to dominate the absolute billings numbers. And what we've shown
+here is all the wins and the accounts, those which are shaded have come through in quarter 4 and then
+you see a number of transfer wins coming through in the fourth quarter, actually, to -- sizable wins of GBP
+400 million for media coming -- Mediacom coming, one in Europe, one in North America. And if I turn
+the page, smaller wins, but some very significant, so the very significant win, Australia, of the Victorian
+government, again for Mediacom. And actually, they have picked up and expanded their relationship with
+AB InBev in Latin America in the fourth quarter.
+
+And now turning to losses, but unfortunately, we were not able to hold on to the business in the U.S.A.,
+Australia, India and that has slightly dominated the loss in the fourth quarter.
+
+So the wins and losses in the fourth quarter were fairly evenly balanced. And as we go through our
+numbers, so this is our internal estimates of business performance, it's a very credible number of GBP 6.3
+billion compared to the GBP 6.7 billion last year, but we were strong for the first 3 quarters, but somewhat
+soft or neutral in quarter 4 on the new business.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Account wins since January 1. Three wins coming through, not major in scale in terms of billings, but
+all very meaningful: NAFTA is in North America, which includes U.S.A., Canada and Mexico, just for
+clarification; and 2 global wins, 1 for Bose, 1 for Adobe.
+
+Turning now to cash. We have to start the cash flow we have done traditionally using the statutory
+profit as opposed to the headline profit, so it is slightly distorting, and I can take people through what
+the differences are, if necessary. But the key measure is whatever we generate in operating profit, we
+generate in cash after depreciation and non-cash compensation, interest paid and taxes. So still a very
+strong flow-through of cash generated versus the operating profit. In terms of uses of cash, we are
+continuing to up the level of capital expenditure, partly on property through the co-locations and partly
+through the software applications we're developing using third-party resources, which in certain cases, we
+do amortize over a 3-year period. So there is considerable expenditure and development going on in that
+side. On acquisitions overall, there is a major change this year. So last year, we spent in total GBP 697
+million. Net initial payments were quite significant at GBP 605 million, earn-outs less so at GBP 92 million.
+This year, you'll see in more detail our spend on new acquisitions actually was GBP 326 million, but we had
+disposals where we realized proceeds of GBP 296 million. So overall, a net spend of GBP 30 million. With
+the earn-outs going through of GBP 200 million, it meant that actually, our acquisition payments net-net
+were about GBP 400 million less than the year before.
+
+With that, net kind of -- net cash inflow before distributions of GBP 1.3 billion compared to GBP 888
+million last year, we basically distributed GBP 1.2 billion through dividends of GBP 752 million and share
+buybacks of GBP 504 million, leaving a net cash generation for the year of GBP 55 million versus last year
+of minus GBP 156 million.
+
+So in terms of -- the currency has had a negative effect on the balance sheet loss; it has a positive effect
+on the earnings. So on a reported basis, the average net debt is around GBP 800 million higher at GBP
+5.1 billion versus GBP 4.3 billion reported. However, if you were to take the 2016 numbers and adjust
+them into 2017 rates, the difference is GBP 584 million, i.e., GBP 5.1 billion versus GBP 4.5 billion, or
+13% different. We were better at the end of the year, not simply because, but predominantly because we
+received GBP 250 million from the sale of our stake in ADK around the 15th of December. That will have
+a significant benefit on the average net debt in 2018. It also has impacted and benefited the net debt
+number at the end of the year, which is traditionally strong compared to the average. So our coverage
+ratios are strong at 13x interest and average net debt-to-EBITDA, as I mentioned, is at 2x and the trend
+of around GBP 4.5 billion is GBP 300 million to GBP 400 million worse, but in line with the 10% to 7%
+difference compared to a year ago, after the first 7 weeks of this year.
+
+So if we look at where we are on our range, and we do use the average, which is, I think, the fairest
+and most appropriate measure of our average net debt-to-EBITDA is at 2x. If I was to use the year-end
+number, it's at 1.77x. This is the top of the range we prefer to stay within.
+
+And in terms of maturities, just one maturity coming up in the near future, a Eurobond, EUR 252 million,
+and the bank revolver below is actually an AUNZ facility of AUD 520 million coming up in March '19. But
+our average coupon is around 3% and average maturity profile is 9.5 years.
+
+So in terms of where we were with our uses of free cash flow, as I explained before, in terms of net
+acquisition spend or even gross acquisition spend, we kept within the GBP 300 million to GBP 400 million,
+spending GBP 326 million. But through the proceeds of disposals, the cash flow for the year had a net
+outflow of GBP 30 million only compared to GBP 605 million the year before. Share buybacks, mid-range
+of our 2% to 3% per annum, at 2.5%. Dividend increase in line with the growth of EPS and therefore, the
+50% payout ratio maintained for 2017.
+
+And with that, I happily hand over to Adam.
+
+Adam Smith
+
+Thanks, Paul. Right. I'm just going to run through our current forecast for ad expenditure, that's a total
+tonnage of ad investment worldwide. We publish this forecast in December. We do it twice a year. The next
+one will be out, I think, by the end of June.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+So we think that the outturn in 2017 was 3.1% total growth in global ad investment and this had come
+down a shade from the prior year, from 4.4%, which we'd had an improving global outlook, but with fixed
+investment looking sluggish and we were sort of neutral on Trump. So by mid-year, we pulled back to this
+3% figure, with a bit of a downgrade in China and weakness emerging in some categories. And since then,
+China has obviously stabilized and the macro has improved, but sort of the micros around advertising
+pricing power and sales volumes are still under pressure.
+
+So we came into 2018 expecting 4.3% growth, which has been stable despite what one might argue more
+supportive indicators across business and consumer and trade. Geographically, China and Japan are now
+strong and then the Eurozone is accelerating. Worries might include wages rising at the expense of profits
+and the commodities cycle, which was certainly warming up when we made this forecast.
+
+The relationship of GDP to advertising throughout this recovery cycle measured advertising intensity,
+that is the share of advertising in the global economy has fallen from 0.75 to 0.70. And the growth in
+advertising is lagging nominal GDP, on average about 1 percentage point.
+
+We saw this convergence, where the lines touch, in 2016, despite personal care falling 5% worldwide,
+quite a headwind low at time, and the other staples and categories offset this, implying that the
+divergence which we see again in 2017 was rather more general. And I remember back in August, at this
+event, we were pointing out that 25 of WPP's top 60 clients were down in the first half. So I wondered
+whether we might be under-measuring advertising expenditure to explain this gap, and I was looking at
+the cost of how much working media expense goes in what we call tech tax, how much advertisers are
+spending now to support and analyze their digital revenue, and we've been doing a little bit more work on
+that now, and we've come out on an average of 19% on display -- digital display advertising, 19% of the
+budget, wherever you may choose to take it from, is going on technology. And there's also a little sliver
+going, which generally has to support search, in the order of about 2% of the working media investment.
+Now those would probably put $20 billion back into the digital measured ad spend, if we were doing it that
+way. The other issue is under-measurement in some countries of digital, which is certainly the case. India
+and Brazil are 2 examples of that. But even allowing for that, conservatively, might add another GBP 10
+billion, we are not going to close this gap. So it must be from other causes and perhaps including a sort of
+compression of legacy ad budgets and some sustained diversion of brand support into promotion.
+
+The shape of the advertising recovery since 2009 in real terms looks like this. And the biggest influence
+is probably the shift of advertising investment from countries which have a relatively heavy advertising
+intensity to faster-growth markets, which only have a rather lighter intensity. Those figures are about
+0.8% of the economy in developed markets, and in the faster-growth markets, about 0.6%. So the old
+or the mature world, which is currently 65% of the measured ad economy, by the end of last year, had
+recovered from at this base point of 2009, to index at 107. It is losing share point of advertising dollars
+at the rate of about 1 percentage point a year to the faster-growth markets. But the top line here, the
+orange one, is the faster-growth market, which really has been faster growing, currently indexing at 150
+relative to 2009. Putting a little bit more detail into these numbers, I wanted to pick out Japan, where we
+can see that one effect of Abenomics has been to lift Japan above the developed market average for a
+good part of this recovery, and Japan is still 8% of measured global advertising, so it carries a bit of heft.
+The Eurozone has shrunk 1/4 in real terms since 2009. Yes, it's accelerating now, but it is hampered by
+actually, the lowest advertising intensity in the world, which is 0.43%, part of which arises from the fact
+it lacks, what I would call, digital density. Only 30% of its ad investment is currently going into digital,
+versus the global average of 36%.
+
+Now if we look at the main contributors to the growth we expect in 2018. What I notice is the growth
+has become more simultaneous from last year, we saw 13 countries plus the Gulf states collectively
+going negative. This year, we only have 6 markets expected to go negative, which also means we are
+reducing our dependence slightly on this group of markets. The U.S. remains resistant to all macro
+encouragements, it would seem, with advertisers remaining focused on reducing expense, increasing
+efficiency, scrutinizing digital. China has steadied. In 2017, the government's priority was to curb financial
+risk, which included apparently successfully conducting heat away in the real estate market from the
+bigger cities into the smaller. But demand for consumer goods is becalmed, household income has been
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+slowing since 2012 and GroupM finds that the propensity to try new products, and Kantar also, the
+propensity to try new products, has fallen markedly.
+
+Auto sales growth is slowing in China and briefly went negative in 2017, although the premium end of that
+market remains healthy.
+
+So one effect of rebalancing away from exports and investments has helped the percentage of retail sales
+in the Chinese economy to rise steadily into the higher 40s now. Argentina appears among this group the
+result, the dividend of political stability and an appreciating peso.
+
+India is seeing past the disruption of reforms, although there are echoes of China's moderation demand
+for CPG and auto. But generally, urbanization and rising wages support strong consumer growth there,
+and therefore, the ad outlook. One interesting thing that India raised was the, what you might call the
+channel shift, the demand of CPG through online outlets as opposed to offline, which is something also
+China highlighted.
+
+The U.K. market is driven, really, entirely by performance-minded digital advertising. And as a footnote,
+I would mention Russia, which is growing strongly but not big enough to break into this list quite. Brazil's
+ad recovery and economic recovery generally is postponed to beyond our forecast horizon of this year, as
+austerity bears down on the massive population.
+
+This I thought was a coincidence worthy of remarking on. The apparent correlation of digital advertising
+investment and the volume of e-commerce, which is currently at a ratio of 8%, so 8% digital advertising
+relative to e-commerce. And if one were to assume that, that ratio holds, then it would imply 14% growth
+in e-commerce, our digital forecast would imply a 14% growth in e-commerce in 2018. Well, we've just
+finished specifically forecasting that figure and we've come to 15% in a report we'll be publishing I hope
+in March. E-commerce, the volume of e-commerce grew 17% in 2017, in line with our forecast, taking it
+past USD 2 trillion. We're now heading for USD 2.5 trillion in 2018, which would represent about 10% of
+all retail. In China, 16%, and obviously, something more like 100% of all growth in retail.
+
+The average Internet shopper in 2018 will, we think, spend just a shade under $1,000. That's a 10%
+increase on the spend in 2017, which was itself a 10% increase on 2016. And what I found interesting
+about those 2 figures is for the first time, that's substantially faster than the growth in Internet
+penetration, which is about 5% in the 40 countries that we monitor.
+
+Byron Sharp is telling us that big brands are not dying, but may be wasting money on unproven new
+media. But against this, obviously, we have plenty of real-world evidence of nimble online challenges,
+flexitarians and picky millennials delighting at the infinite shelves of online. And why should there be one
+truth?
+
+In November 2017, Procter & Gamble said it spent close to 1/3 of its budget on digital, but in some
+markets, 50%, and on some brands, 100%. We might also see a new kink in the product life cycle, as
+web endemics find limits to what they can sell in the digital domain. SocGen came out with an interesting
+figure, that there might be a sales ceiling of between $100 and $150 billion before such brands would
+have to seek reach outside the direct-to-consumer channels to grow sales. In other words, to buy fame
+elsewhere. And I certainly notice that the web-endemic companies which use TV in the U.K. are all
+household names. Published ROI results, the few that one sees, suggests that advertising outcomes on
+digital media may be more polarized than they are in traditional media, which suggests possibly a need
+for management and perhaps scrutiny of the media mix. There's also inflation occurring in digital media,
+which is also polarized. We have at the top of the purchase funnel, across the world, video prices warming
+up in digital as advertisers try and improve viewability scores, essentially quality of audience. And at the
+bottom of the funnel, we see inflation in cost per click, as the old problem of last-click economics tends to
+cause advertisers to bid for -- all to bid on the same audience, which is something GDPR may exacerbate,
+but that might come up later, of course.
+
+Anyway, I will just move on to the question posed: How big can digital get?
+
+Well, what I've done here is rank the world's advertising markets according to their digital advertising
+intensity, put them into quarters.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+And so in 2018, we have the topmost slice, which for the top quartile of the most heavy digital investors,
+putting a 48% share of advertising budget in digital and they collectively represent about 30% of global
+advertising. So one might look for points of resistance among this group. And China, GroupM China, put it
+well. It says that pure online or pure offline bonus is almost gone. The best opportunity is in combination.
+GroupM China calls this Internet-plus and it's usually just part of a wider retail reform, shortening of time
+to market and integrating omnichannel better.
+
+So moving to the next quartile down, where digital occupies 30% of advertising investment, this
+represents half of the global ad economy. In the lower quartiles, the 20% -- the 12% and 21%, the main
+problem is under-measurement in India, where you measure large advertisers' online spend; and Korea
+and Brazil, only measure desktop, for instance. So I conclude from this that unless something happens to
+stop it, then digital global share has a momentum that would reach 50% of global advertising, which at
+the current rate would take about 7 years. Now one must always caveat these with the qualification that
+digital is becoming a more blurred definition and there's quite a bit of TV money in there now, which is
+masquerading as digital. So where might this share come from?
+
+TV's growth in 2018, about 2.2%. Its share isn't shifting very much. It's losing about 1 point a year to
+digital media essentially, but without China, it's stable. TV hours remain healthy. We've just done another
+check on TV hours as part of our annual interactions suite. And the viewing hours remain stable. And we
+also asked our markets to estimate what share of video traditional incumbents were taking, because this
+is something that is generally not measured. And the figure is averaging about 75% of total video time.
+And they estimate also that the, what I call the disruptors', share of video time is about 19%, and that's
+something I'm going to try and generate comparisons on in future years. But essentially, what's happening
+with the media day is what's been happening for a long time, is that online, the online day is stretching
+and that's the main dynamic within the market.
+
+However, where might share come from in this loose definition of digital TV and so on? Out of home is
+becoming more versatile, and therefore, I think more resilient. It's adaptable now for weather and day-
+part and geo-targeting in its -- in addition to its established virtues, which of course include freedom from
+editorial context. So it's growing share in 2018, 6.3% of measured advertising, we think, the highest it's
+been since 1993 and the only medium growing share other than digital.
+
+So one possible scenario is that if digital is to make its way to 50% share, we get 1/3 coming out of TV,
+1/3 coming out of print and 1/3 coming out of what you might call the gray TV market. But having said
+that, the importance of addressability at scale in safe and salient media is as important as ever. And
+so TV content is going to be part of that story, even if it's called digital, and TV with the most diffused
+distribution has the youngest profile.
+
+So that wraps it up. And as I say, we will be revisiting these forecasts in June. Thanks very much.
+
+Martin S. Sorrell
+Founder
+
+Thank you. We are sort of turning this into a sort of Investors Day or half an Investors Day. I thought it
+would just be worthwhile running through some of the most commonly asked questions by yourselves and
+others. And we tried to boil it down to 5.
+
+The first is, just picking up on some of the things that Adam was talking about, the digital companies
+such as Google, Facebook, Amazon, Alibaba and Tencent, to name probably the most prominent in our
+context, are they going direct? Secondly, are consultancies eating our digital lunch? Thirdly, are ZBB
+models, activists and private equity driving down marketing costs? Fourthly, are clients increasingly in-
+housing marketing activities? And fifth and last, are innovation and branding still important? So we'll try
+and address all of these in a limited period of time.
+
+The first in relation to the big search social companies, such as Google and Facebook and Amazon and e-
+commerce companies like Amazon, Alibaba and Tencent, are they going direct? Well, if you look at -- this
+is an analysis of our media portfolio into segments. And for the first time, Google and Facebook in 2017,
+the year that's just closed, closed as the top 2 media destinations for us, Google and Facebook together
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+accounting for about $7 billion out of about $75 billion of media spend, remembering, and we talked about
+this last year, that the long tail constitutes something like 70% of -- to our knowledge, 70% of Google and
+Facebook's volume.
+
+The third group, grouping and obviously, there's a lot of flux in relation to this group, the 21st Century
+Fox, News Corp, Sky nexus, and depending on where that ends up, if it does end up elsewhere, either at
+Comcast or Disney or a mixture of both, those would be really, the third, fourth and fifth destinations. And
+then you see a number of other more traditional media companies until we get down to number 12, 13,
+14, 15, 18 and 19: Twitter, Tencent, Oath, Amazon, Snap and Alibaba. And just for reflection, we look at
+the top media earners in 2012, only Google really, of those, was prominent 5 years ago.
+
+In that connection, a lot of people say we've talked about Google and Facebook as frenemies and then
+friendlier frenemies and partners more recently, and I think that's demonstrated by this quote from
+Philip Schindler, who is Chief Business Officer at Google. This was at a Crédit Suisse conference in
+November of last year: "We don't want to disintermediate advertising agencies. We're actually working
+very, very closely with agencies all over the world. It's important to understand that we see ourselves
+as a supplier of technologies, and we would like agencies to actually apply our technologies and smartly
+use our technology. We see agencies as trusted advisors to the customers and clients." And just to put a
+little bit of flesh on those bones, here are 4 examples, and there'll be some more examples in the data
+area, of where we work very closely with Google, and I'll come on to Facebook and others in a second,
+where we work very closely with Google on partnerships and partnering with them in addressing some
+of the client opportunities and challenges that we have jointly. Firstly, the SWARM creative partnership,
+this creative forum that brings us and Google much more closely together across the world. Secondly,
+Geode, is a business transformation operation where we marry our marketing services expertise with
+Google's engineering and technology. Starkiller, which gives us world-class digital media through we're
+implementing search capabilities that Essence have developed and redefined, and for Google Media
+Lab, as best practice across the whole of GroupM. And then last but not least, the initiative on the Next
+Billion Consumers. Everybody's focused on cost, the real opportunities, obviously for our clients, are the
+next billion consumers, who are not going to come from Western Europe or the U.S. They are going to
+come from Asia and Latin America and Africa and the Middle East and Central and Eastern Europe and
+we are focusing with Google on that, too. With Facebook, we have the Creative Ambassadors Program.
+It's a joint initiative that we developed exclusively and specifically with them for our creative and digital
+agencies. With Amazon, we've focused on leading the way in providing a unified approach with Amazon,
+connecting media and e-commerce capabilities in both organizations and Mark maybe can talk a little bit
+more about that in connection with what's happening with MindShare and POSSIBLE and also Wunderman
+Commerce, which is located in Seattle, where Amazon HQ is currently based, although they will be adding
+to their HQs in the U.S. in short order. Alibaba, we have a unique strategic relationship, which combines
+GroupM's platform, its data capability, with Alibaba's Uni Marketing products. And then with Tencent, we've
+announced the launch of the China Social Marketing Lab, which is a specialist platform to build platforms
+and campaigns for Tencent and ourselves.
+
+In addition to that, on the data end, there's a whole host, there are 6 key relationships with partners,
+with Google, with Facebook, with Amazon, with Crossix, with Mobilewalla and Spotify, where we are using
+our data and their data to try and develop unique and unprecedented insights. And in addition to that,
+we're building our relationships with our marketing technology partners, with Adobe, with Salesforce,
+with Oracle, with Sitecore, with Acquia and with Marketo. And you can see that we are building those
+relationships at fairly rapid rates and our agencies are being named, for example, Mirum WPP itself have
+been named as leading marketing technology partners with Adobe and Acquia, last year and into this year
+as well.
+
+In addition to that, we're using our data insights, the [m]Platform at GroupM, to develop a single source
+of truth for media activity. That involves optimizing and reporting, analyzing, planning, execution and
+unifying and identifying data for targeting purposes through the media. And you can see that we're
+building individual profiles, connecting multiple data points through Zipline and implementing that through
+[m]Platform's axis, our investment in AppNexus and our relationships with Google and with Facebook.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+The second question people talk about generally is are consultancies eating our digital lunch? And again,
+we provided you with the data that we provided at the third quarter to try and demonstrate where the
+digital revenue and gravity really is in comparison to the competition, not just the direct competition,
+but the consultancy competition as well. And we've updated the win-losses ratios that we gave you for
+the first time, at the end of the first 9 months. This is really is a basis of surveys that we conduct with
+all our agencies as to where we come head-to-head with the consulting or the digital arms of the major
+consulting companies, such as Accenture or Deloitte and you can see there, the win-loss ratios are not
+significant in the realm of things overall, but in terms of establishing trends, a win-to-loss ratio of about
+50-to-30. There are about 80 examples there not awarded, a small number, announced number of about
+80 projects, involving about $115 million of revenue, the most significant of which was an automotive
+win for us in Europe in the fourth -- the fourth quarter. So significant activity in terms of -- or significant
+success in the amount of activity that takes place with the consulting companies.
+
+In addition of that, there's a lot of debate and discussion as to whether we are involved heavily in digital
+transformation. And these are just some specific examples in the automotive sector, the financial services
+sector, FMCG, pharmaceutical, personal care and drugs, retail, travel and airline and telecommunications,
+where we're significantly involved, units of WPP are significantly involved in digital transformation with
+clients.
+
+The third question was really -- these sort of 5 questions break into 2 fundamental areas: 1 long
+term about technological disruption, which is affecting production, affecting marketing and affecting
+distribution; and then the short term, about the particularly the emphasis on cost, and we've been
+through this with you before, but we have disruptors. We do have activist investors, we do have zero-
+based budgeters, who are putting very significant emphasis on short-term cost management, and I have
+to point out that the activist investors, to be fair to them, there are several, but the most prominent
+probably being Dan Loeb and Nelson Peltz, who do emphasize that what they are interested in is
+innovation and branding. But in that context, it is having a significant impact on the patterns of growth.
+And if you look at the leading CPG clients, these are leading WPP CPG clients, and look what's been
+happening to price -- organic growth, price and volume. The trends are quite significant. We are really
+seeing volume growth at very low levels, some improvement in Q3 and Q4 over '17, but mild. Obviously,
+very limited pricing power in a low-inflation environment and organic growth picking up a little bit, but at
+significant low levels. And on the right-hand side of this slide, slide 61, you can see what's been happening
+with 2 of the most prominent ZBB companies, which clearly shows that whilst margins have increased
+quite significantly, volume is a problem and that's starting to have an impact, perhaps as interest rate
+starts to rise, on stock price and market capitalization. So there is this issue, I think in the longer term.
+Most people who -- and it has to be admitted, these are people who have been in packaged goods
+companies for long periods of time, believe that as volumes come under pressure and there's a lack of
+volume growth, increased investment in 2 things: Innovation and branding. You can't have innovation
+without branding, but you can't have the branding without the innovation. They go two in lockstep, so you
+need innovation and branding to make things work.
+
+And in that context, just want to emphasize that when you look at, for example, at the S&P 500, where
+you're getting the growth, we're talking a lot about synchronous economic growth post-Davos, the
+optimism of Davos was very significant in a historical context this year, but most of that growth, whether
+it's a 3% GDP growth or near to 3% as it was last year, or 4% as it looks like it will be this year, with the
+general sort of flip up in growth. Most of the growth seems to be coming in 2 sectors: 1 is in tech; and the
+other, to a lesser extent, is pharma. And you have this valuation discrepancy, that you have information
+technology and these are the updated figures from figures that we showed you before, the information
+technology S&P 500 growing at just under 10%, their price earnings multiple are about 19x. Consumer
+staples have come back again in terms of valuation, down about 6%, as you see '18 over '17, as opposed
+to tech moving up by 1/3. But it's still 3% average growth, and a P/E of just under 18%. So there is that
+dichotomy or paradox.
+
+And the problem of volumes is exacerbated by what Adam highlighted in terms of the different shares of
+retail channels. Hyper and supermarkets have by far the greatest share, just over 50%, but the lowest
+growth. Discounters have a share of about 6%, growing at 5%; convenience, 5% share, growing at
+4%; e-commerce, 5% share currently, but growing at 26%. And you see what's happening globally to
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+the traditional trade, with about 26% share and only growing at 3%. So you have multiple channels,
+omnichannel growth -- development planning programs, obviously, is critically important, but with very
+significantly different growth rates.
+
+The fourth area that people focus on is the in-housing and marketing activities. And it is a mixed picture
+on this. Hogarth, we've announced today that Hogarth will be, which is our production management
+platform, digital production management platform, which is growing very significantly in the last 3 to 4
+years, it's tripled its revenues over that period of time with a number of very significant clients. Hogarth
+is now being rolled out across the whole of our enterprise. So it's a good example of the in-housing
+phenomenon not taking hold and we're seeing production management being increasingly out-housed.
+And we are seeing programmatic and performance agencies continuing to grow. Xaxis is gaining traction.
+It has over 4,000 clients, as effectiveness and efficiency becomes critical. And there is an issue here,
+there are the demands for improved performance and cost management and in a model like Xaxis, we
+are seeing greater traction as divisions of companies, categories of companies, are looking for improved
+performance and better yields in terms of online management. And that's reinforced by performance
+agencies such as we have with plista and Essence in digital media, media planning and buying.
+
+The third point here is that we do cooperate, there's sort of feeling that it's either/or. We do cooperate
+with clients on building in-house facilities. We've cooperated with them in content studios with media
+investment management, with data with the data investment management and in content studios through
+our public relation agencies as well. And we participate in building and supporting those data, studio and
+programmatic capabilities. And recent examples, recent data as we put it here, do indicate that in-house
+programmatic and content studios may be going out-house as much as in-house, and there is, it's true,
+some to-ing and fro-ing in both areas. But the trend is not clearly defined. It's certainly not clearly defined
+as in-house.
+
+And the final point to make in relation to these trends, is that we have developed specific ZBB marketing
+models which are much more agile, much more responsive, much more cost effective and agile to deal
+with the ZBB phenomenon.
+
+In terms of innovation and branding, whatever we say about the environment and the technological
+disruption and the short-term pressure on costs, the general environment, the new normal, where that
+GDP growth is at 3% or 4%, is really basically low GDP growth in the sense of subtrend to what we saw
+pre-Lehman. There is little or no inflation, I know it's the issue that people are preoccupied, certainly, from
+a market part of view and interest rate point of view, but basically, it's very limited inflation, at least to
+date since Lehman. And therefore, clients have very little pricing power and they're still very focused on
+costs. Tenures are short term in terms of management. And if you look at what's actually happening, so
+the distribution of earnings, it's still, we are seeing, and this is the S&P 500, we're still seeing dividends
+and buybacks and distributions to shareholders being close to, if not over, 100% of earnings. So again,
+management is distributing back to shareholders virtually all the earnings and that obviously has an
+impact on investment.
+
+And on this question of investment in brands and indeed, in innovation, there's clear evidence, not our
+evidence, but evidence in this case from Morgan Stanley Research in November of last year, that investors
+in marketing do better than cutters. They've analyzed -- Morgan Stanley analyzed A&P spend and it is
+A&P spend. I mean, we're -- we don't know the distribution often between advertising, which is brand-
+building, and promotion which is around -- that's the P -- which is around price, but analyzing 40 global
+FMCG companies. Morgan Stanley have been consistent -- or come to the view that these 40 brands
+have been consistently increasing brand -- those that have been increasing, consistently increasing brand
+investment, have an average 50% faster growth rate than peers that haven't. And the secondary point,
+which is equally or maybe even more important, is not only does A&P spend boosts sales, it also builds
+barriers to entry, which allows FMCG companies to earn returns far in excess of their cost of capital and
+ultimately drives valuation. This is going to become critically important as Amazon, in particular, and
+Alibaba and Tencent as well, start to build their platforms, and particularly Amazon, according to some
+estimates, the advertising platform last year was up to about $2.5 billion, $3 billion, so it's a tiddler in
+relation to Google and Facebook, who were at $100 billion and $40 billion, respectively. But it is growing
+very rapidly. And of course, in search, Kantar has already pointed out that 55% of product searches in
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+America are generated through Amazon in one way or another. So the threat to Google or the challenge
+to Google from Amazon is going to become more and more important and Amazon, of course, with voice-
+activated devices, is going to be an increasingly important phenomenon. So building brands through
+innovation and through branding becomes critically important.
+
+And our own data, we've updated the data that we have been in the habit of giving you for the last couple
+of years, this is data where we value brands globally and regionally, latest in Italy and in France, clearly
+shows that the top 10 brands, for example over the last few years, have out -- clearly outperformed the
+S&P 500 by 60% and the MSCI by, which is probably the real comparison index, by over 3x over the
+last 10 or 11 years. So clear evidence that investment in A&P works in terms of long-term sales growth,
+building the moat and in terms of value for shareholders.
+
+Now given this, there's no good moaning about this, for all the analysis, what do we do in response? And
+this is where it's critically important. So there are 4 things that we're doing. And I don't think this is a
+different direction to what we've been doing over the last 5, 6, 7, 8 years. We have been certainly going
+in the direction of integrating our offer more effectively. But because of the things that we've just gone
+through just now and these questions that are being asked, one way or another, some of them long term
+and more structural and some of them short term and therefore more cyclical, we have to do, in our view,
+4 things: Simplify our verticals, and Mark is here and he can give you a view of what's been happening
+at Wunderman and that's been significant in terms of a number of brands that we've consolidated with
+Wunderman. But we've been doing it at Ogilvy; we've been doing it at GroupM; we've been doing it in
+our public relations operations this week with Burson and Cohn & Wolfe, and prior to that, with Finsbury;
+in brand consulting; in health and wellness; and last but not least, in our digital operation. So the first is
+to simplify the verticals. The second is stronger client coordination, which we've been in the forefront of
+doing across the group. We have 50, 51 client leaders cover about 1/3 of our business, integrating our
+offer across clients throughout the group.
+
+Thirdly, appointing country managers and subregional leaders to try and integrate at a country level,
+but also to respond to the local or regional piranha, some call them piranha, the West tends to call them
+piranha, the Chinese tend to call them gladiator brands, that are building at a local level. So we've made
+recent appointments in Taiwan, in France, in the U.K. and Brazil, that are just 4 more examples of where
+we are focusing on country management.
+
+And finally, horizontalizing, for want of a better word, certain function systems and platforms. I mentioned
+Hogarth already in terms of digital production, but it may well be that we'll start to do more of that at an
+enterprise-wide level not just in digital production, but in digital transformation, e-commerce and shopper.
+And that leads you to a structure with our functional, let's call them 7 functional areas, that's advertising,
+media, data, brand consulting, public relations, health and wellness and specialist communications, which
+is basically our digital capabilities. Those are the functional areas of the business. And the horizontals are
+the production management platform that I mentioned, which is built around Hogarth. And then you'll
+see the hatch line around digital transformation, e-commerce and shopper. The further development will
+be the horizontalizing, if you like, of our digital capabilities as a platform or system or function across the
+whole of the enterprise. There are, of course, the shared services we've had that we've been in the habit
+developing. And core tech in the IT area is a good example of the initiatives we're taking there. But in
+talent, in finance property, procurement, information technology and indeed in practices, we're building
+and have built horizontal connections.
+
+Just on the right-hand side of that Slide, Slide 72, we focus on some of the client P&Ls that's part of the
+51 client P&Ls and the country P&Ls that we've been building.
+
+So finally, in terms of outlook and conclusions. Reported revenue and revenue less pass-through costs,
+growth last year was 6%. Like-for-like revenue less pass-through cost was just under minus 1%. Reported
+margin was down 0.1 margin points, but flat in terms of constant currency in like-for-like. Reported
+headline diluted EPS growth was at 120.4p was up over 6%.
+
+Return on equity was up to 16.9%, against a slightly lower WACC, weighted average cost of capital, of
+6.3%. Dividend was increased to 60p, up 6%, which represents a 50% payout ratio. Average net debt-
+to-EBITDA ratio was 2x at the top of our 1.5x to 2x range. The tailwind -- the ForEx tailwind reduces and
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+becomes a headwind from Q4 of 2017, plus 14%. Q1 is plus 10%. Q2 is plus 2%. Q3 was minus 3%. And
+Q4, 4.5% for the full year coming at the end of 2018.
+
+Net new business is good GBP 6.3 billion and continues the performance that we've seen in the first 9
+months, and a leading position in the net new business tables. A slow start to 2018. When you view the
+January figure, revenues were flat. Revenue less pass-through costs were down by just over 1%, but
+above budget. And there's a focus, as I've said, on the simplification of structure, including the verticals,
+client and country management an enterprise-wide alignment of our digital systems, our platforms and
+our capabilities.
+
+In terms of the financial model, we made a significant change here. We've talked about -- always talked
+about organic revenue and revenue less pass-through cost growth of 0 to 5%, in line with market growth.
+Margin improvement of 0 to 0.3 margin points, given the flatness that we see in the top line in 2017,
+certainly in the last 3 quarters of 2017, and 0 to 0.3 margin points or more before currency movements.
+And that depends, as I've said, on revenue less pass-through cost growth and staff cost to revenues less
+pass-through costs ratio improvement of 0.2 margin points or more. So that's the staff cost to revenue --
+or revenue less pass-through cost reciprocal to overall margin.
+
+We continue to use our substantial cash flow to enhance EPS through acquisitions and share buybacks
+and debt reductions. The balance remains the same at GBP 300 million to GBP 400 million on acquisitions.
+Share buybacks at 2% to 3%, and a payout ratio of 50%. If you do the calculations of that, if you
+assumed, for example, flat revenues, flat margins, 2% to 3% buybacks and acquisitions for about 1%
+to 2% revenue gains, we're talking about the low end of the 5% to 10% EPS growth. If you make more
+extravagant assumptions about revenue growth or margin improvement, you get, obviously, a result that's
+closer to the upper end of that range. So instead of the 10% to 15% that we saw in previous years as
+being the model, we now see it at 5% to 10% EPS growth.
+
+Now if I -- in terms of the budgets, there've been a number of questions before we started about the
+budgets for 2018. We encouraged, if that's the right word, our operating companies to budget extremely
+conservatively. Obviously, we're sort of embarrassed by what happened in the last 3 quarters of the
+year, where we were overoptimistic or we accepted overoptimistic forecasts on the top line. And we're
+budgeting flat like-for-like revenue and revenue less pass-through cost growth for the whole of 2018, but
+with a slower first half and a stronger second half. And that reflects, to some extent, the comparators,
+remembering that Q1 of '17 was the strongest quarter of that flat 2017 year. We're also budgeting a flat
+constant currency operating margin to revenue less pass-through costs, and we're budgeting acquisitions
+that add about 2% to 3% to revenue and revenue less pass-through costs through the year.
+
+At current exchange rates, the full year currency impact is 4%, a 4% decrease to revenue and revenue
+less pass-through cost. And our prime focus is going to be on growing revenue and revenue less pass-
+through costs faster than the industry average, driven by leading position in horizontality and integrating
+our offer, the faster-grow markets and digital and the creative and effectiveness position that we have
+and the new business with strategically targeted acquisitions. We're going to meet that operating margin
+objective by managing our absolute costs and increasing the flexibility to adapt our cost structure to these
+significant market changes that we tried to go through in this presentation.
+We've included in your takeaway some of the history and other data. You can see that all in the leave-
+behind you have. So we'll now open it up for questions. We'll start at the front and we'll work all the way
+back.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Question and Answer
+
+Martin S. Sorrell
+Founder
+
+Ian, yes?
+
+Ian Richard Whittaker
+Liberum Capital Limited, Research Division
+
+It's Ian Whittaker from Liberum. Three questions, please. I think it was Interpublic, who mentioned sort of
+on their call, that in terms of net new business wins, they gave a very specific sort of statement that, that
+would drive organic revenue growth in 2018. You've obviously had a very strong organic -- sorry, the net
+new business wins will drive stated organic revenue growth. You've obviously had a very strong 2017 in
+terms of net new business wins. They've been concentrating the first 9 months, so there shouldn't really
+be any timing issues. Sort of in terms of why that net new business wins is not translating into organic
+revenue growth into 2018, could you just outline sort of what's happening there? The second thing is just
+in terms of the targets. The longer-term target used to be, as you said, 10% to 15% earnings growth
+per annum. I think sort of without being flippant, that was always something that was seen as it were a
+sort of way in the future and sort of people didn't have them in their forecasts. But sort of why have you
+actually taken it down to 5% to 10% now? So what has been the specific trigger? And what would you
+say to people that would say that the fact that you have taken down your earnings growth target in the
+longer term would suggest that actually you do think there are structural impacts coming through and
+they are impacting your business? And the third thing is just in terms of the sort of 2018. So virtually, all
+your peers have said that the second half of the year will be stronger than the first half. Now sort of if you
+look at your comps, they are easily in the second half, but you haven't given that in your statement. So
+just wondering, sort of it may be implicitly in there because you said January's sort of down. But sort of
+can you make a statement now that you would expect sort of the position to actually pick up in the second
+half of the year and things will be second half weighted?
+
+Martin S. Sorrell
+Founder
+
+Well, I'll give a go, and then Paul can respond as well. On net new business -- well, let me just try and
+answer all 3 questions in 1 way. So we do our budgets bottom-up. Well, I'll put it like this. The budgets
+came in with some degree of revenue growth for -- on a bottom-up basis for 2018. Given what we saw --
+and I alluded to this in the presentation or the formal part of it. Given what we saw in the -- particularly
+in the last 9 months of 2017, we didn't think it would be appropriate for us to accept those budgets as is,
+and we basically went back and said in the course of the iterative process that we do. We went back and
+said we don't -- it's not we don't believe it, but we think that given what we saw in -- and irrespective of
+the new business, Ian. We think that's been too optimistic in the environment that we saw in 2017. And
+indeed, we gave you a figure for the first month of 2018. I don't know whether anybody else has as well,
+but we didn't see as -- revenues were flat. But what we used to call net sales, revenue less pass-through
+costs were down 1.2%. So it wasn't -- January is a small month of the year. But if that's indicative, we just
+felt that it was best to be cautious. So we said to the operating companies "Take down your top line." And
+that, of course -- again, because in the last 9 months of last year, if you look at headcount for last year,
+we were down about 1.5%, if I remember rightly, on headcount. So you would normally expect that to
+exhibit some significant restraint on the staff costs to revenue ratio, but it didn't. Why? Probably because
+the most easy explanation for it will be an expansion in freelance. I mean, if you're doing new business,
+there will be more freelance costs. There will be more temporary costs as a result. You can explain it that
+way. But you put all that lot together and you say given what's happening in the marketplace and given
+-- it's invidious to talk about specific clients, and they don't want us to talk about individual clients. But
+you've seen enough public announcements on what's been happening to agency costs to know that there
+is pressure in the system. So it really answers your net new business question. I think it's just -- maybe
+it's once bitten twice shy. But why -- not the impact in net new business. I mean, if you went back a year,
+we had some -- we had 2 big losses to deal with, which, actually, our businesses have done a very good
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+job in picking up new business not on the scale of those 2, some wins approaching that scale, but basically
+filled the gap and gave us a little bit more room to maneuver. But you take that on the model, that 10%
+to 15% to the 5% to 10%, again, given that -- and it may well be cyclical, right, given that situation. We
+think it's the sensible thing to do to take down people's expectations. I mean, we couldn't have left it at
+10% to 15%, in which case you'll be sitting there with an even bigger grin on your face, saying, "How can
+you get there?" So I think it was a more realistic view about what could take place. The other thing is --
+and so -- and then on the second half, we are indicating, I had to say a few seconds ago, it will be, in our
+view, if we look at the budgets, a better second half. So I think it sort of accommodates all 3. Do you want
+to add anything, Paul?
+
+Paul W. G. Richardson
+CFO & Executive Director
+
+Yes. I mean, I'd say on new business also, what the trade report is obviously the -- mainly media wins or
+losses because of scale. And one of the businesses I think we do see a significant pickup in performance
+is the media business, quite frankly. So within our view of 2018, we are expecting an improved media
+business. And I think the other reason why, to a certain degree, we're cautious, we've had a number of
+budgets in over the years where we've seen a very strong third quarter. And quite frankly, it hasn't panned
+out. And yes, it's difficult to be absolutely precise in January about what new business you're going to win
+in quarter 3. So we really have wanted them to not put on the costs in expectation of winning it, in the
+knowledge that if, say, if it doesn't come in, we're in the right cost base. So I think partly, it's the caution
+around what we're trying to achieve. And a lot of the adjustment, to be fair, that we wanted businesses to
+make was in quarter 3 and quarter 4, or quarter 3 particularly. So that, to my mind, is the main thing. The
+second thing in my mind is we are looking, in our case, I think a pretty strong performance will bounce
+back in our Asia Pacific, Latin America, Africa and Middle Eastern market, which turns to be very, very solid
+for us, very good. I think on balance, a disappointment to us in how they -- what they achieved in 2017.
+So one of the core drivers for our improved performance in '18, the balance is our faster-growing markets.
+They tend to be a little bit back end weighted in terms of when their revenues flow through. So those are
+the 2 reasons why I think there's caution around -- and why the budgets have come out where they've
+come out.
+
+Martin S. Sorrell
+Founder
+
+Yes, just we'll move back. Tom?
+
+Thomas A Singlehurst
+Citigroup Inc, Research Division
+
+Tom from Citigroup. 3 questions as well. I apologize. Fourth quarter, I think I'm right in saying that
+you'd commented that October and November were sort of okay. I don't know what okay means, but
+it's -- the numbers suggest that December was a lot weak, and I was just wondering whether that's --
+whether there was a budget flush or whether it's specific to certain activities or certain advertisers. Second
+question, I think in the past, you've mentioned the growth rates of the top 20 clients, whether you can
+either give us that number or at least directionally indicate whether the big clients are spending at a faster
+or slower rate than the group average. And then final question, one -- actually, specifically with P&G.
+Obviously, you talked about reducing sort of overall agency spend, but they've also talked about reducing
+the amount of spend with agencies of record and then leaving more of the budget left for sort of ad hoc
+project-based work. I'm just trying to get a sense of whether that's a good or a bad thing if it develops
+into a trend more broadly for WPP.
+
+Martin S. Sorrell
+Founder
+
+Okay. When you say budget flush, that indicates to me people flushing out. You mean the reverse budget
+flush? Okay. Well, I think David would say probably December was not the usual December. I'm trying
+to think back to December '16. I think December '16 was not as strong as probably we would see in
+December of '15 or '14, would you? Yes. So Dave is nodding on that. So I think you -- the pattern was
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+December '16 probably was not as strong as we've seen. We tended to see surges in the fourth quarter.
+Other people refer to them as not budget flushes, but project-driven quarters, which, yes, I wouldn't say
+that we see Q4 as being more project-driven than any other quarter. So I -- was there anything -- reverse
+budget flushes, that would seem to suggest that the pressures that we saw had more of an impact in that
+final quarter, in that final month than historically. On the top clients, I think it's fair to say that the top
+20 clients probably were down further than the group average if you looked at revenue and revenue less
+pass-through cost. I think that show you -- you can check the number, Paul. I think that's the case.
+
+Paul W. G. Richardson
+CFO & Executive Director
+
+Yes. Not so easy to check on the spot, but yes, I would agree with you. And I think if I look at the top 30,
+it's fairly evenly balanced between those that are growing and those that are declining.
+
+Martin S. Sorrell
+Founder
+
+And then it's wrong for us to comment on specific clients. But despite the pressure, I think P&G
+commented specifically on the number of agencies they had and that they had consolidated down
+the number of agencies to 2,500, I think was the figure that they close it, and that's not a dissimilar
+situation to other situations. So there is an opportunity for us as clients to consolidate their agency
+roster. It depends on which way they consolidate it, obviously. But talking about it generically, there is an
+opportunity for us if they consolidate for us to carve out a greater share despite the fact that the top line
+may be coming down. Do you want to add anything more on that, Paul?
+
+Paul W. G. Richardson
+CFO & Executive Director
+
+No.
+
+Martin S. Sorrell
+Founder
+
+No? Okay. Is that right, Tom?
+
+Thomas A Singlehurst
+Citigroup Inc, Research Division
+
+Yes.
+
+Martin S. Sorrell
+Founder
+
+Okay?
+
+Adrien de Saint Hilaire
+BofA Merrill Lynch, Research Division
+
+It's Adrien from Bank of America Merrill Lynch. So a few questions, please. First of all, on margin, a bit
+of a short-term question and long-term question. So for 2018, you're talking about a flat margin I think
+in 2017. So you were up -- well, I mean, you were flat or down 10 basis points reported, but that was
+assisted by associates. Of course, in 2018 you don't have that benefit of associates. Incentives in '17
+were already quite low. You've got wage inflation in the U.S. So what makes you confident that you can
+deliver that? And in the long run, I mean, I know accounting differs from one company to the other, but
+your margins are quite significantly higher than others. So why do you think you can stick to the 17.5%.
+So that's first topic. Second topic on consultancies margin. You said that you had won over most of the
+pitches. But I mean, I can see that they've won a few recently, Maserati, the Vatican and so on. Would you
+expect more pitches to involve consultancies in '18 versus '17? And then lastly, I mean, usually we have
+a bit of a slide around Xaxis, the revenue growth, billings growth. Can we have a bit of an update on that
+and your outlook for Xaxis?
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Martin S. Sorrell
+Founder
+
+Okay. Do you want to talk about margins?
+
+Paul W. G. Richardson
+CFO & Executive Director
+
+Yes. So on associates, I think one thing you should have a look is the majority of our associates are in
+Asia Pacific and Latin America, over half of them. So actually, I'm not as negative as the Street seems
+to be on what our associate income will be in 2018. In fact, I think it'd be very solid despite what has
+happened because some of our strong contributors are not names that you're familiar with and actually
+have done very well. So in that sense, it's going to be a much more steady-state to the associate income
+in 2018. In terms of margins and bonuses, I think it was one of the questions, yes, there was a reduction
+in bonuses last year. It was down about 13%. But the good news is we have built most of that back in to
+the budget for 2018. And so the margin performance or the performance of the underlying business is
+going to be what counts in terms of the underlying management of revenues versus staff cost, as simple
+as that. So those factors that we've had, let's say pressure in '17, are accounted for in '18 and would say
+that associates is more even. I'll give you a flavor of Xaxis if I -- if you allow me a second to get some
+pages out in front of me. If I recall the slides from a year ago, we said we had billings of around GBP 1.1
+billion and good sort of mid- to high digit-single figure growth for the business. We did say it was weak in
+the U.S.A. That has continued throughout the year for Xaxis. It's ended up with mid- to single high-digit
+growth, specifically through very strong performance in Asia Pacific and Latin America and good sort of, I'd
+call, B-plus performance in Europe, quite frankly. So the revenues and billings have grown on a combined
+basis to about GBP 1.4 billion. And then in '18, we're looking at close to double-digit growth. Return to
+growth in the U.S.A., and strong -- and continuing strong performance in Asia Pacific and Latin America.
+Billings in total, we're hoping to be around GBP 1.5 billion. And as we mentioned in the press release,
+we've gone from around 3,300 clients signed up to over 4,000. So I think it is gaining momentum. It's
+solid and is a good performer for the group.
+
+Martin S. Sorrell
+Founder
+
+On your Vatican and Maserati, I think we work for the Vatican, too, and I think we work for Maserati, too.
+So I wouldn't comment further. And I think this speaks for itself. I draw your attention -- we can't say it's
+confidential on the top 2, but I draw your attention to the first one, which you might be surprised if you
+knew what it was. Okay. Yes, Patrick?
+
+Patrick Thomas Wellington
+Morgan Stanley, Research Division
+
+Patrick Wellington at Morgan Stanley. A couple of quick ones. The buyback doesn't get a mention in your
+outlook. Are you going to carry on with the 2% to 3% buyback? That's good. Secondly, market research
+has again underperformed the group and on organic revenue terms. Normally, you answer this by saying
+it's there to support advertising and media investment management, which, however, has been the worst
+performer of the group this year. So where are we on market research. And there's been some talk of
+maybe disposing or partnering parts of market research. Is that still part of your plans?
+
+Martin S. Sorrell
+Founder
+
+The mention of the disposal or parts of market research, what we call data investment management.
+
+Patrick Thomas Wellington
+Morgan Stanley, Research Division
+
+But in Europe, you've sometimes talked about maybe partnering parts of that business in Europe.
+Partnering.
+
+Martin S. Sorrell
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Founder
+
+Partnering? I thought you said disposal.
+
+Patrick Thomas Wellington
+Morgan Stanley, Research Division
+
+Or disposal. You tell me.
+
+Martin S. Sorrell
+Founder
+
+Okay. So going back, buybacks, we'll continue it at that level. Data, we've always talked about linkage,
+Patrick, not to the advertising business so much, but to the media business. And we think it is critical. I
+think when we were asked I think in the third quarter whether we would dispose -- I think it was either
+you or somebody else asked whether we would dispose of the data investment management business, I
+said we would not dispose of it. So sell it outright. If you could find some way with the data business, to
+answer your question head on, by making it more effective, we would seek that out or develop it. But we
+think it's extremely important. And again, just sort of back up for a minute. If you said to me, "What are
+the big things that we see going on where differentiation counts?" It would be the in-house production,
+outhouse production. That area where Hogarth is in, we've seen very rapid growth. We see very rapid
+growth, obviously, in digital and digital media. And the last area that we've seen significant growth has
+been the marriage of data with media, and we've alluded that -- to that in the presentation as well. So I
+think disengaging from data in the way that you're suggesting, or your question is suggesting, is -- would
+probably be weakening. And I think the fundamental premise that you started with, which is it links to
+the advertising and media business, it's -- what's happening in the advertising and media business is the
+traditional creative business is where the pressure is. The media business, all parts of the business have
+some -- have pressure in some way, shape or form, but I would say less on the media business than the
+advertising. So I think it's very important to maintain that connection.
+
+Patrick Thomas Wellington
+Morgan Stanley, Research Division
+
+And finally, just on forwards announcement at the end of last year. Is that a risk or an opportunity for
+WPP? Were you dismayed or pleased to see that announcement?
+
+Martin S. Sorrell
+Founder
+
+It could be both.
+
+Patrick Thomas Wellington
+Morgan Stanley, Research Division
+
+And do feel free to say more.
+
+Martin S. Sorrell
+Founder
+
+I wish I could be free to say more, but I can't be free to say more for obvious reasons, okay? Yes, go
+ahead.
+
+Christopher Anton Giles Collett
+Deutsche Bank AG, Research Division
+
+Chris Collett from Deutsche. A couple of questions. One was just to go back to billings. So obviously, it's
+a big focus within WPP. And looking at your account wins, I'm just wondering, are you perhaps focusing
+in the wrong place or putting too much emphasis on new account wins since we can see they're not really
+driving growth? Perhaps you're focusing too much on winning new clients rather than extracting -- sorry,
+extracting may not be the right word -- working more closely with your existing customers to get more
+growth out of the customers that you have. And then related to that, a lot of talk about the upcoming
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Mediapalooza 2. Do you think you're in a position to win more? Or are you going to be an incumbent in
+more of the business there? And then lastly, would you like to just give us an indication of what the media
+business did underline? Perhaps maybe stripping out account losses in the year, how did that business
+perform?
+
+Martin S. Sorrell
+Founder
+
+We could -- we wouldn't give you a separation between the advertising and media. I think we gave you
+enough detail for that. But I don't think we could strip it out in the way you're suggesting anyway. I
+mean, I don't think you could strip out -- quite difficult to do that. On the existing billings or billings point,
+focusing on the existing business is a critical part of it as well, and I wouldn't disagree with the comment.
+In the net new business figure -- and it's a net figure, not a gross figure. In the net new business figure,
+you would find a significant number of existing client wins as well. So if you went through each of the new
+business wins or losses, you would come up with the existing clients to a very significant degree. So they
+would reflect the existing business activity. But the drift of your question, if you look at what's happened
+in terms of revenues as a proportion of billings, or revenues less pass-through costs as a proportion of
+the business, that's increased. So using the word extraction is probably inappropriate. But that rate, if
+you like, has improved actually in the course of 2017 despite the, say, the least mediocre performance.
+Mediapalooza, I mean, there is increased media activity, and Paul's mentioned that most of the new
+business activity is media-driven. But on Mediapalooza, I don't think it's enormously stronger than we've
+seen on a fairly consistent basis. And you had a figure, Paul
+
+Paul W. G. Richardson
+CFO & Executive Director
+
+Yes. So the 3-year-ago Mediapalooza, when everything was said and done, was media or billings changed
+the volume of around $21 billion. Actually, in a normal year, media changes hand at around a volume
+of $18 billion. So it wasn't a double what a normal year was at the end of the day. It was a significant
+because there are a number of major accounts, household names in the U.K., U.S.A. in particular.
+
+Martin S. Sorrell
+Founder
+
+I mean, of the major public reviews, we're involved in Mars, where we do planning; in Shell; and in HSBC.
+Those, I think, are the major, major ones out there. Then there are other opportunities. I think Microsoft is
+one, and I'm trying to remember there was another one as well. But the level of activity in new -- I would
+say the more important point is not -- isn't in comparison to Mediapalooza. But the significant amount of
+new business activity or retention activity is around the media area. Creative has taken a backseat I think.
+I mean, Mark, do you want to comment on new business activities from a digital perspective?
+
+Mark Read
+CEO & Executive Director
+
+I mean, I think there's a tremendous amount of digitally driven new business activity, a lot driven by
+companies looking at how they reorganize their tech stack, how they work with Adobe, Salesforce, other
+partners. And I think increasingly, you see, I think particularly in the media review, desire for integration
+of media with -- I mean, the creative work but maybe less the creative work than with the client's data
+and its technology stack. So you really get a single view of the customer across all of your marketing
+activities.
+
+Martin S. Sorrell
+Founder
+
+Okay. Irwin, you're on the line from I think Los Angeles. Do you want to comment? As we got you up in
+the middle of the night, we must use you.
+
+Irwin Gotlieb
+Former Chairman
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+23
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+So to the early part of the question, there's no doubt that we apply more focus to plugging any leaks in
+our bucket than we do on filling it from the top. That's just good common sense. On extraction rates,
+the good news for us is that the media landscape continues to increase in complexity. And complexity is
+-- contributes to our extraction rate because compared to 10, 15 years ago when digital was a smaller
+component, our extraction rates today are significantly higher. That's the good news. The other point
+I would make is that when we win a piece of business, we go in with a defined scope. And history has
+shown that, that scope gets added to over time. And both of those things I think address the heart of the
+question that you asked.
+
+Martin S. Sorrell
+Founder
+
+Okay. Yes?
+
+Simon Baker
+Societe Generale Cross Asset Research
+
+Simon Baker, Soc Gen. Three questions, please. You've taken a haircut to your operational budgets. Could
+you give us a sense as to whether that's normal? How often, perhaps, over the last 20 years or so that
+you've done that? Secondly, on the accelerated strategic focus, how should we think about that? Is it just
+about sort of better effectiveness internally? Or are there financial implications, restructuring charge, for
+example? And thirdly, this might be a question for Mark, if I may. But we've got Facebook deemphasizing
+its ad load. The implication there is you got more cost per thousand inflation as a component. I know it's
+an auction process, but the majority of its 30% revenue growth perhaps this year comes from that. If
+we acknowledge Facebook's got an 8.5% market share globally in the ad market now, is it more a price
+maker? Does it affect relative pricing for cost per thousand elsewhere? Are you seeing any of that come
+through?
+
+Martin S. Sorrell
+Founder
+
+Mark, do you want -- yes, Adam.
+
+Mark Read
+CEO & Executive Director
+
+I think it's more Adam question than a Mark question.
+
+Adam Smith
+
+The changes in news feed are certainly identified as a potential source of inflation. But equally, they will
+encourage us to seek out alternatives, and so I'm not sure that it makes sense to talk of sort of price
+leadership in markets which are so automated. The U.K. market is essentially dark now. It's sort of 80%
+automated. So one will look for alternatives. And when you're doing that, it's better not to do it with the
+pure objective of trying to optimize cost. I can see problems going down that route. It's about optimizing
+quality, which we generally mean viewability now, which we regard as an opportunity. When we can
+improve the value of viewability, we like to do it at a lower cost than that value is.
+
+Mark Read
+CEO & Executive Director
+
+I mean, I'd add that Facebook is Facebook and Instagram and WhatsApp today. And as I understand it,
+the ad load on Facebook is declining in response to something -- you said a decline in usage. I think you'll
+see ad load on Instagram increasing. And then looking very aggressively at how WhatsApp can be used as
+a business tool, like WeChat will be used in the U.S. So I think you see a shift in overall pattern of spend.
+
+Martin S. Sorrell
+Founder
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+24
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+On the operating budget, I think if you went back and looked at the last 33 years, you go back to '91 to
+-- then 2001 to -- and '09 will be the 3 big pressure points -- cyclical pressure points that we had. I can't
+recall that we were as aggressive on the top line. David can -- both shaking their heads, meaning that
+we've -- this is probably the most aggressive we've been. And I think it is probably for the past few years.
+And it's because I think of the experience in 9 months. Your second question on financial?
+
+Simon Baker
+Societe Generale Cross Asset Research
+
+[indiscernible]
+
+Martin S. Sorrell
+Founder
+
+Implications?
+
+Simon Baker
+Societe Generale Cross Asset Research
+
+It was whether there are financial implications, restructuring charges, cost savings we should think about.
+
+Martin S. Sorrell
+Founder
+
+They're organizational chiefly. There'll be some restructuring expenses but within the context of what we
+normally do. No biggie abnormal restructuring expense. Yes, we've got out of order here. Yes?
+
+Matthew John Walker
+Crédit Suisse AG, Research Division
+
+It's Matthew Walker from Crédit Suisse. 2 questions please. The first is, I guess, going sort of structural
+versus cyclical, you could call it as sort of Michael to Auteur scale, Michael being it's all cyclical, there's no
+structural problems, Auteur being like more like well, there are structural problems, quite a lot, but we've
+got a plan to deal with it. Where would you put yourselves in that scale? Because I'm not sure based on
+the explanation you've given today, how much of the stuff you think is structural versus cyclical?
+
+Martin S. Sorrell
+Founder
+
+It's an impossible question to answer. You go to either end of the spectrum probably with the spend
+depending on what your vested interest is. The answer, I think is it's both, all right? If you look at the
+CPG stuff, that clearly to some extent is cyclical. If you look at the technological disruption stuff, it's
+clearly structural in the sense that it's affecting everything. I mean, is there a client that you can take a
+look? Carla, it's a little bit saner for you, it's only 6:23 in the morning. But maybe, you can talk a little
+bit about the structural stuff that you see from a consulting point of view? Because Ogilvy Consulting is
+doing a lot of digital transformation consulting. I mean, is there a company that you have come across
+or that Ogilvy is aware of where you've seen in the context of WPP that isn't going through some form of
+transformational production, marketing, distribution challenge?
+
+Carla C. Hendra
+Vice Chairman, Chairwoman of Ogilvy Global Strategy & Innovative Practice & Chairman of Ogilvyred
+
+No. I mean, there's no company unless they are on another planet. We sort of look at them as being in 3
+buckets. They are either quite invested in moving up the digital maturity curve and they've been creating
+business value for some time, by competing with disrupters and doing well. There's some who are kind
+of in the middle, they might spend a lot and might try a lot of things but they're not necessarily getting
+the digital ROI that they want, or they need to get to compete better. And then there's quite a few who
+are still stuck at the starting line, who are legacy companies that have a lot of baggage, they have a lot
+of expense in their data systems and the things that are hard to change. And all of them need advice.
+So this is one of the reasons why we've seen the big consultancies trying to move in to what might have
+been considered our terms, but they are certainly in the advisory business too. I think the difference is
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+25
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+in the way we approach things is that today, in low growth, not too many boards want to take on tens of
+millions, hundreds of millions of transformation expense to do big IT implementation projects. They're
+quite careful about that. So there is a big space around being agile and using all of the WPP capabilities
+to come up with more pragmatic, more practical proof of concept in digital trends that lets companies get
+somewhere and demonstrate that there is a return, and that there is an innovation that's worth a brand
+investing in. And one of the reasons and the ways that we do it a little differently is by understanding
+brands and understanding customers and customer experience on a much more definitive level, because
+we have been dealing with that through all of our lives because we have the data around how customers
+behave and even how they think. We can do it with a more insightful touch. And so there is a tremendous
+opportunity for us for growth to help the C-suite from the very top of the company right through to CMO,
+chief digital officers, CTO, CIO and certainly, the innovation groups to manage digital transformation and
+then follow on from that the execution services that many of the WPP companies are delivering.
+
+Martin S. Sorrell
+Founder
+
+I think the answer is we would respond to both and our vested interest is we believe we have assets that
+can do both. So you pay your money and take your choice. But I think we -- and there's got to be some
+cyclical stuff here and there's got to be some structural stuff.
+
+Matthew John Walker
+Crédit Suisse AG, Research Division
+
+Got us to talk about Sapient's 15%, 16% to revenues, they're expanding, they define this business
+transformation. If you were to dot the same definition in terms of business transformation or digital
+transformation or whatever, however you describe that, what proportion of your revenues come from that
+now and where do you want -- where do you think it should go to?
+
+Martin S. Sorrell
+Founder
+
+Well, we -- impossible to log. You look at our digital capabilities, it's about 42%. It's gone up about
+what, 200 basis points in the last year or 300? So digital, but just to your point, and if you've got 15% in
+transformation, you got 85% that isn't. What do you do about that? And it's the tail wagging the dog. So
+the issue, and it's exactly the same issue as anybody who has a "legacy" business, you have to manage
+the legacy business at the same time or change the engines on the airplane at the same time as you're
+flying. So -- I hear what you say, but if you've got growth coming from business transformation and Mark,
+you comment on what you see in -- Wunderman is in the forefront of our digital transformation as one of
+the agencies.
+
+Mark Read
+CEO & Executive Director
+
+To some extent, I prefer not to think about cyclical versus structural but how you position the business
+for growth. Because it's kind of very hard to split down what's [ waging ]. When you get times of cyclical
+pressure, the structural things tend to happen more quickly, right? You got an activist investor breathing
+down your neck. You examine where you're spending your money more forensically than you used to and
+you may shift more or less quickly. So I think that we're really in a business of positioning the business
+for growth. We -- Wunderman, we don't send clients many invoices called digital transformation, yet we
+worked with Microsoft for 12 years and they used to spend 20% of the budget on digital. Today they
+spend 80% of their budget on digital. I'd argue, that's what we've achieved with them or GSK. We've been
+working for the last 3 years on a similar shift. Now there are clients where we are directly engaged in
+much more digitally transformation-led project. So we have business in Spain called The Cocktail; they
+rebuilt BBVA's mobile banking application. It's now the #1 mobile banking application. To be honest, I
+think it's a bit grand to call that a digital transformation project, but effectively, that's what it is. So we
+work with Sainsbury's through one in e-commerce. We're building Sainsbury's e-commerce platform, and
+not just the website but literally going how they pick the product in-store, how they schedule the vans,
+how they integrate the order management system into the line of availability to store level, how when
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+26
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+you arrive at the website, it determines which of the delivery stocks you find available. So I think we can
+work on those complex transformation projects in a lead program management role, so we're currently
+replatforming an online retailer from this in-house systems to IBM WebSphere Commerce. I think it's 45
+different websites they own around the world, and this is, I think, the #1 luxury online retailer. And that
+involves a digital transformation. It's a project of that nature. So I think there is substantial amounts of
+that going on but it's very hard to say in Wunderman's more than GBP 1 billion of revenue, what will you
+call transformation, what will you call just what we do for clients, I think.
+
+Martin S. Sorrell
+Founder
+
+Yes, and owing to that point as you put up 57 again, I mean, there is clearly a difficulty that the
+consultants have in estimating what their digital transformation revenues are. It's very difficult to isolate
+it. You can talk about what your digital activities are as a whole, but the nature of them is a very, very
+different dynamic.
+
+Julien Roch
+Barclays Bank PLC, Research Division
+
+Julien Roch from Barclays. You guiding to 0 topline, 0 margin improvement, which shouldn't come as a
+surprise because you've been saying that for a couple of months in public forum. However, today you've
+been pretty much Doctor Gloom while in previous forum, you said that, that was the budget but you were
+hoping for 1% to 2% growth there. So can we see a bit Mr. Bright Side or has it been snowed under?
+That's my first question.
+
+Martin S. Sorrell
+Founder
+
+I think with flat top line and with flat margins.
+
+Julien Roch
+Barclays Bank PLC, Research Division
+
+Okay. The second question...
+
+Martin S. Sorrell
+Founder
+
+I think we said that the budgets were coming in about 1% to 2% growth, to be fair. The bottom up was
+coming at that level but we prefer to focus on flat.
+
+Julien Roch
+Barclays Bank PLC, Research Division
+
+The second question is on Mediapalooza again. So you said that you didn't think it would be different this
+year, but your competitors disagree. They think it will be big. So specifically, have Amex, Vodafone or
+Nestle called a media review? That is my second question.
+
+Martin S. Sorrell
+Founder
+
+I'm not aware of those at all. Nestle has reviews in countries on a fairly consistent basis.
+
+Julien Roch
+Barclays Bank PLC, Research Division
+
+And the third question is on your...
+
+Martin S. Sorrell
+Founder
+
+[indiscernible] Nestle, if I remember rightly, in France at the moment, where we are not the incumbent.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+27
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Julien Roch
+Barclays Bank PLC, Research Division
+
+And then the last question is on your structural response. One of them is simplifying your verticals, and
+you give a couple of examples like Ogilvy with next chapter. All those merger of agencies, what kind of
+percentage of revenue that represents? Is it something kind of marginal where you're merging 5% of your
+revenue? Or is it something really structural where you're merging 25% of your revenue?
+
+Martin S. Sorrell
+Founder
+
+Well, I'm just trying to get that list up there. Actually, it's very significant because you take Kantar, you
+take Ogilvy and you know yourself we don't break out Ogilvy separately. But you take -- just take Kantar
+for a minute. You are talking about 20%, 25% of the revenue base on its own without going any further.
+So we are talking about significant realignment of our office.
+
+Julien Roch
+Barclays Bank PLC, Research Division
+
+But you're just not merging the whole of Kantar, you're just merging part of Kantar, it's not the whole
+division.
+
+Martin S. Sorrell
+Founder
+
+No. In every country, Kantar has come together, right? So instead of having TNS, Millward Brown as global
+verticals, if I can put it that way, they are brought together with one leader for Kantar in each country.
+I mean, these are prototypes effectively and the same thing is true of Ogilvy. These are prototypes for
+where WPP as a whole would go. So the it's the same type of approach. But on a micro -- less of a macro
+basis on a micro basis. So if you take -- you take WPP health and wellness, that was 3 separate brands.
+I think we give a published figure that being $500 million of revenue, okay? Or actually it was 4, because
+we had medical, [ far ] professional Barton Media buying, planning and buying also included. So you are
+talking about significant parts of the group. These are not sort of ephemeral parts. I mean, Wunderman
+itself is over $1 billion in revenue, and that's brought in -- do you want to comment on?
+
+Mark Read
+CEO & Executive Director
+
+If you look at where we are today, we're I think 65% bigger than we were 3 years ago, not by organic
+growth alone but by consolidation of the business. So we kind of -- and we operate a model which I'd say
+is 2 brands, 1 company. And that can evolve over time as well. And the benefit is that we give each of
+those companies access to the data, to the technology, to the delivery centers that we have inside the
+group, so you get both some reduction in overhead that's not going to be driven by reduction overhead.
+It's really about access to expertise.
+
+Martin S. Sorrell
+Founder
+
+Carla, do you want to comment on Ogilvy and the next chapter?
+
+Carla C. Hendra
+Vice Chairman, Chairwoman of Ogilvy Global Strategy & Innovative Practice & Chairman of Ogilvyred
+
+Yes. I think the strategy that we've been developing, which is really moving quickly into execution is to
+become one Ogilvy as a brand and as a face to our client to still have the deep, deep capability expertise
+in areas like digital, certainly some of the things like PR and influence that have been important growth
+areas for us. So we will still have those capabilities, but we will go to market as Ogilvy, losing the Mather.
+And it will allow us to simplify what we do for clients, which they've been asking for, in no uncertain terms.
+They would like to be able to come in through a single door, get whatever the best talent is for the job
+at hand, have a sort of plug-and-play approach to resourcing and allocation. And by doing that, it should
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+28
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+also be more efficient and allow us to take some of the duplicate overhead costs out, which we're doing
+right now. So it has both a quality of service, quality of output, improvement to the client and it also has
+an efficiency goal. We want to be able to create brands at every -- and make them better at every level,
+in any channel across any time for us and we basically talk to clients about the long term and being able
+to build their brands, and Martin showed the staff fund that people invest in brands financially do better
+in the long -- even in the mid- and the long term. We want to be able to build the kind of programs that
+every single business has to build to do to be on the intimacy level with their customers today, that means
+heavy data, heavy digital and delivering quarterly results, whether it's in users or sales or however the
+metrics work. And then very importantly, we want to be able to deliver pulse and the content and brand
+information and knowledge that has to come out every single minute of the day and the way the world
+works now. So we have developed a new operating system that we have recognized around that platform,
+brand platform brands, program and brand pulse time horizon, and we've now articulated and aligned all
+the capabilities underneath that. We're building out a toolset and we're taking all of our top 20 markets
+through the ability to deliver that to clients. And it's driven by demand, by the largest clients as well as
+midsized and small. We have to be able to pick the pieces that a client needs first and most and apply the
+talent. So we think that's going to make quite a big difference in 2018 and beyond.
+
+Martin S. Sorrell
+Founder
+
+Yes, so just to answer your question head on, it's affecting and taking Wavemaker on its own; that's not
+GroupM. It's affecting at least, I would say, 40% to 50% of our revenue base, just that list simplifying our
+verticals. Irwin, do you want to add a little bit from a GroupM perspective?
+
+Irwin Gotlieb
+Former Chairman
+
+Sure. So I mean, we've done quite a bit of centralization within GroupM for quite a number of years.
+It's quite an obvious thing to do in the media sector. But just to give you examples of the more recent
+activity, we now operate local market with -- all the major markets have a local market head who has
+P&L control, single financial structure at the market level for all of the agencies. That housekeeping and
+overhead related, but another example would be mPLATFORMs, which is very, very practice related.
+Obviously, we can't develop and pay for 4 or 5 individual agency technology and data stacks, so that has
+to be centralized. As we scale, the value of that data increases. We used to talk about trading leverage
+in terms of dollars spent. Today, it's just as important to have data volume and touch point volume. The
+more cookies you plant, the more data you get back. We have thousands of data APIs that only need to
+be done once instead of 4 or 5 times across our agency. And there was an earlier question about trading
+leverage. And yes, of course, Gail gives us some level of trading leverage. But it's important to understand
+that as the world moves to biddable media, data provides a level of knowledge asymmetry that gives
+you an advantage in the trading environment because it is our job to know something about the avail,
+the impressions that becomes available that the seller doesn't know about. And we have to connect
+the dots between our client needs and our knowledge of the individual profile in a way that gives us a
+bidding advantage. So all of those things point to the value of centralization, both from -- both from the
+standpoint of just economies of scale as well as the benefits that those central capabilities provide [ deck
+1 ].
+
+Martin S. Sorrell
+Founder
+
+Okay. All right, Julien?
+
+Lisa Yang
+Goldman Sachs Group Inc., Research Division
+
+Lisa Yang from Goldman Sachs. My first question is on your outlook. You said that you're planning
+extremely conservatively. So when your peers are talking about 2% to 3% growth, and I think someone
+is even talking about mid-single-digit growth, do you think you are being too optimistic? And do you see
+any headwinds specific to WPP that means you might underperform your peers in 2018? Second question
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+29
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+is on your -- the FX impact on margin. Do you expect any impact at all this year given the headwind on
+the top line? And the last one is on your working capital. There was enough for GBP 500 million in '17.
+Just wondering what the drivers is reflecting greater pressure on payment terms and how we should think
+about 2018?
+
+Martin S. Sorrell
+Founder
+
+Do you want to cover the last 2 and I'll try and cover the first? I mean, it's very difficult for me to
+comment on that because I don't know the basis on which they've done it. Theoretically, as we said in
+the release, there are sort of 3 reasons, the mini-quadrennial reasons why this year should be a better
+year and I think, Adam, you are indicating that this year will be a better year than last year from --
+even if there is a disconnect in mature markets to GDP growth for ad spending for whatever reason. So
+the Olympics, which were successful, the World Cup and the midterm congressional should harden the
+markets a little bit. You can try and estimate it. I think people talk about 50 basis points. Historically,
+people have talked about 50 basis points for a mini-quadrennial and 100 basis points for a maxi in a
+Summer Olympics, et cetera. Do you want to add anything more on that, Adam?
+
+Adam Smith
+
+No, I don't think so really, Martin.
+
+Paul W. G. Richardson
+CFO & Executive Director
+
+On margin, we are not anticipating any impact of the current exchange rates on the reported versus
+constant currency margin, which should be good. The first year that won't happen. On working capital,
+it is complicated. So in the back of the accounts, you've got the split out between what I called trade
+working capital, which last year was an improvement of GBP 180 million and this year was a deterioration
+of GBP 261 million, to be precise. And so yes, we did give back some of that improvement we had last
+year. The other element in your GBP 500-plus million is what I call nontrade, and that things unfortunately
+like the bonus revision that we have to make each year is obviously GBP 40 million less than it was a year
+ago. It is -- we have some various pension obligations, it happens to be the obligations on the pension are
+lower than they were a year ago. So between pensions, NIC, bonuses, that is all the nontrade impact on
+the provision change, but they actually want to call true underlying working capital as measured by trade
+receivables, trade payables, has deteriorated but really given back that improvement we made a year ago
+of GBP 180 million to an outflow GBP 261 million. Again, it's a point-to-point 31st of December to 31st of
+December position. We were very pleased actually with the cash generation the final quarter we made this
+year. And if you remember in September, there was a significant difference to the average debt and the
+point-to-point in September of about GBP 1 billion and that has come down to the tune of around GBP 500
+million. So I don't deny, there is some pressure on trade working capital, but we've actually done a pretty
+good job overall.
+
+Martin S. Sorrell
+Founder
+
+Yes, over there?
+
+Richard Eary
+UBS Investment Bank, Research Division
+
+It's Richard Eary from UBS. Three questions. The first one just comes in terms of sort of harbor on about
+the budget process. But there's a sort of slide on the deck on Page 76 that looks at revenues by industry.
+I don't know whether you can just give us a feel in terms of which industries you think you're going to
+perform better and which for industry you think is going to perform worse within that sort of flat budget
+process so we get a sense of which clients, where you think the weakness may stem from? That's the first
+question.
+
+Martin S. Sorrell
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+30
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Founder
+
+6, but we'll try and find it, go on.
+
+Richard Eary
+UBS Investment Bank, Research Division
+
+The second question just comes to the new sort of earnings number. You said 5% at the lower end,
+assuming sort of flat margins, flat revenues with 2% to 3% coming from M&A and 2% to 3% coming from
+buybacks. How much comfort have you got on that M&A? Because that's obviously only 50% of the growth
+assuming flat-on-flat, so maybe some color on that. And then the just the last question, going back in
+terms of the timing of, let's say, revenue growth through '18, you talked about 8 first half being down,
+second half being up. Can you just expand on that a little bit? I mean, obviously first half revenues were
+minus 0.5, second quarter down minus 0.7 -- 1.7. That was the weakest quarter of the year last year. So
+maybe just to elaborate why you think you're guiding down on the first half?
+
+Martin S. Sorrell
+Founder
+
+Well, I think the answer to the last question is that's what we see. I mean, whatever the absolutes were,
+and the absolutes were higher on the bottom of basis and we took them down, we maintained a similar,
+similar pattern and that's what the pattern was. Paul referred to earlier that Q3 growth, we've seen it over
+the last, I think, 3 or 4 years. The Q3 growth always seems to be stronger, seems to come down, and then
+we seem to get more in Q4 than we were projecting in the original budgets. So the pattern is a little bit
+odd. So the answer to that question about first half versus second half is it reflects the pattern that we got
+in the bottom-up budgets, but with a blanket reduction pushed down on the top part.
+
+On M&A, there is a considerable amount of activity still on the M&A front is what I would call in the small
+to medium-size activity levels. Valuations, I think we highlighted in the statement particularly in the U.S.
+in digital, continue to be on the high side. Capital is a little bit more expensive than it was before and
+therefore, maybe valuations are correcting a little bit, but there's still in, particularly in the digital area, on
+the strong side. Do you want to comment at all on the first one?
+
+Paul W. G. Richardson
+CFO & Executive Director
+
+The quote actually we used on the outlook page on page 76 was the prime focus is to grow our revenues
+and profits, sorry, revenues less pass-through cost faster than the industry average. We were referring
+to the advertising industry average per se. That is actually the goal, the outlook, the ambition. Obviously,
+one can look the slide at the back on Page 87 and look at our industry mix in terms of the client
+categories, which actually has not changed that dramatically over the years. And obviously, we will have a
+strong chance of growing with those industries themselves are growing strongly. It's kind of as simple as
+that. The better waiting we have to the faster growing industries, the better opportunity we have to grow
+faster than our competitors and our peers. And it's really that logical or that simple.
+
+Martin S. Sorrell
+Founder
+
+I think this is the slide that you're referring to, is it? I would say packaged goods is going to continue to
+be under sort of continuous review. I would say healthcare, also more opportunities, so it will be better
+than the average, maybe financial services as well, technology. And telecommunications actually, I think
+there's a little bit more opportunity there. So that's where I pick out, just looking at this distribution,
+telecommunications, technology, on the plus side, government also on the plus side, a little bit on oil
+actually as well, maybe a little bit of financial services. I think packaged goods continues to be, because
+of what you see and hear, tends to be under continuous review. Now having said that, you look at Q4,
+there's a little bit more volume there. There is a little bit more price. If we get some inflation, it might be
+very different. Auto, obviously, a number of the auto manufacturers are going through continuous review
+of their smart mobility strategies. And so I think that's going to be under continuous review in 2018. So
+that's where I would place the emphasis.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+31
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Adam Smith
+
+There's quite an overlap areas in digital that are working the data hardest. Principally, there's sectors we
+should own there, consumer relationships which are the telcos, the banks, and the automobile companies,
+too, are emerging there.
+
+Martin S. Sorrell
+Founder
+
+Just one thing on the top 30, they have -- I just checked it, when Paul was answering the question, the
+top 30 were lower than the average. So I think, I can't remember who it was who asked the question, just
+to make that quite clear.
+Okay. Any others? Okay, thank you very much, indeed. We're all here if you want to ask any further
+questions.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+32
+
+WPP PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+33
+
+

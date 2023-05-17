@@ -1,0 +1,1403 @@
+RELX PLC LSE:REL
+FY 2017 Earnings Call Transcripts
+Thursday, February 15, 2018 9:00 AM GMT
+S&P Global Market Intelligence Estimates
+
+CONSENSUS
+
+EPS Normalized 
+
+0.81
+
+Revenue  (mm)
+
+7446.31
+
+Currency: GBP
+Consensus as of  Feb-15-2018 8:10 AM GMT
+
+-FY 2017-
+
+ACTUAL
+
+0.80
+
+7355.00
+
+-FY 2018-
+
+SURPRISE
+
+CONSENSUS
+
+(1.23 %)
+
+(1.23 %)
+
+0.85
+
+7648.09
+
+FY 2016
+
+FY 2017
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.71
+
+0.81
+
+0.72
+
+0.80
+
+1.41 %
+
+(1.23 %)
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+10
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Anthony John Habgood
+Non-Executive Chairman
+
+Erik Engstrom
+CEO & Executive Director
+
+Nicholas Lawrence Luff
+CFO & Executive Director
+
+ANALYSTS
+
+Adam Ian Berlin
+UBS Investment Bank, Research
+Division
+
+Christopher Anton Giles Collett
+Deutsche Bank AG, Research
+Division
+
+Ian Richard Whittaker
+Liberum Capital Limited, Research
+Division
+
+Katherine Tait
+Goldman Sachs Group Inc.,
+Research Division
+
+Matthew John Walker
+Crédit Suisse AG, Research
+Division
+
+Nicholas Michael Edward
+Dempsey
+Barclays Bank PLC, Research
+Division
+
+Patrick Thomas Wellington
+Morgan Stanley, Research Division
+
+Richard Eary
+UBS Investment Bank, Research
+Division
+
+Ruchi Malaiya
+BofA Merrill Lynch, Research
+Division
+
+Sami Kassab
+Exane BNP Paribas, Research
+Division
+
+Steven Craig Thomas Liechti
+Investec Bank plc, Research
+Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+Presentation
+
+Anthony John Habgood
+Non-Executive Chairman
+
+So good morning, everyone, and welcome to RELX's 2017 results presentation. Thank you very much for
+coming in. And for those of you on our webcast, thank you for dialing in.
+
+You will have seen we've had a pretty busy few months, so there is quite a lot today to talk through.
+
+Firstly, and most important, I'm pleased to be able to report that we've had another good year with
+trading continuing to be on track across all of our 4 businesses. Overall, we had good growth in underlying
+revenue and adjusted operating profit. In sterling, adjusted earnings per share was up 12%, and in euros,
+up 5%. And we're proposing a dividend increase of 10% in sterling and 6% in euros.
+
+Secondly, we announced today that we're proposing a set of measures that will further simplify our
+corporate structure into a single parent company, RELX PLC, after 25 years as a dual-listed corporation.
+We believe that our dual listing no longer serves any purpose, and that this is a natural next step for RELX
+Group, removing unnecessary complexity and increasing transparency. For the avoidance of doubt, there
+will be no changes to the locations of RELX Group or its 4 business areas, and there'll be no impact on
+the economic interests of any shareholders in PLC or NV. And there will be no change in our corporate
+strategy.
+
+Thirdly, you will, I'm sure, also all have noticed that since the year-end, we've announced the intention to
+acquire ThreatMetrix for GBP 580 million. I believe this acquisition is a great fit with our very successful
+fast-growing risk business, and we're hoping to complete that acquisition next week.
+
+In the meantime, we also announced the GBP 700 million buyback program for 2018, and we continue to
+refresh our boards. In September, we welcomed Suzanne Wood as a nonexecutive director. Suzanne is a
+U.S. citizen, Group Finance Director of Ashtead Group and brings extensive board experience from both
+sides of the Atlantic. She is proving to be a strong addition to our boards.
+
+So we've got lots happening, and I will now hand over to Erik and Nick, who will take you through the
+results presentation and the proposed simplification of our corporate structure.
+
+Erik Engstrom
+CEO & Executive Director
+
+Well, thank you, Anthony. Good morning, everybody. Thank you for coming and for taking the time
+to be here today. As you've probably seen from our press release this morning, our positive financial
+performance continued throughout 2017 with underlying revenue growth across all 4 business areas and
+with underlying profit growth ahead of underlying revenue growth. We continued to make good progress
+on our #1 strategic priority, the organic development of increasingly sophisticated analytics and decision
+tools. And this morning, we also announced the further simplification of our corporate structure.
+
+In 2017, our underlying revenue growth was 4%, underlying adjusted operating profit growth was 6% and
+earnings per share growth at constant currencies was 7%.
+
+Our overall financial performance was consistent with recent trends across our 4 key financial metrics:
+underlying revenue growth, underlying adjusted operating profit growth, adjusted earnings per share
+and return on invested capital. All 4 business areas again delivered underlying revenue growth as well as
+underlying operating profit growth. So let's look at the results for each business area.
+
+Our STM business grew 2%, in line with prior year, with key business trends remaining positive. In
+STM primary research, which represents just over half of the division's revenues when you include
+both subscription and transactional revenues, we continued to enhance customer value by building out
+broader content sets, more sophisticated analytics and evolving our technology platforms. So far in 2018,
+subscription renewals are in line with recent years. The percentage of renewals that have been completed
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+as of today is the same as the average percentage by the middle of February over the past 5 years,
+and the built-in growth rates in the renewed contracts are also at the same level. New sets of research
+subscriptions have started the year well ahead of mid-February 2017.
+
+In total, we now have well over 5,000 institutional customers globally that have contracts for a broad
+collection of subscription journals, a number that continued to increase by a few hundred institutions
+during 2017, in line with historical trends.
+
+The number of articles that we published under a fee-for-article open access model continued to grow
+double digits, and our market share under this model has now doubled over the past 4 years.
+
+Databases and tools, which represent just over 20% of Elsevier revenues, continued to drive growth in
+the mid to high single digits across market segments. Scopists added a few hundred new institutional
+customers last year and is now also approaching 5,000 total customers.
+
+Electronic reference, which represents just under 10%, had a mixed year. Print books, which now
+represent around 10% of Elsevier's revenues, saw sales declines and return rates back at historical levels
+in 2017.
+
+And print pharma promotion, which represent less than 5%, declined in line with historical trends after
+stronger 2016.
+
+Going forward, our customer environment remains largely unchanged. Overall, we expect another year of
+modest underlying revenue growth, with underlying profit growth continuing to exceed underlying revenue
+growth.
+
+Risk & Business Analytics grew 8% and revenue growth remains strong across all key segments.
+
+In Insurance, which represents about 40% of the division's revenues, growth was driven by enhanced
+analytics, extension of data sets and by further expansion in adjacent verticals. The market environment
+returned to historical trends in the fourth quarter after having been not quite as favorable earlier in the
+year. So far in 2018, the Insurance market environment has remained in line with historical trends.
+
+In Business Services, which represents around 30% of the division's revenues, growth was driven
+by further development of analytics across the financial and corporate sectors in a positive market
+environment. So far in 2018, the market environment for Business Services is in line with historical trends,
+and we have recently announced the acquisition of ThreatMetrix, a leader in the digital identity space.
+When combined with our own strengths in physical identity attributes, this acquisition will enable us to
+offer a unique and comprehensive approach to fraud and identity risk management.
+
+While this acquisition is larger than average for us, it's a good illustration of our approach to acquisitions.
+We are acquiring a company that we already know through partnership, and we have already learned how
+the integration of our respective products adds value to our customers.
+
+The government and health care segment, which represents less than 10% of division, continued to drive
+strong growth by developing more sophisticated analytics.
+
+And Data Services, which represents just over 20% of divisional revenues, continues to drive strong
+growth across all industries through organic development.
+
+During 2017, we disposed of additional magazines and services assets, reducing print to less than 3%
+of the division's revenues. Going forward, the fundamental growth drivers of Risk & Business Analytics
+remain strong. We continue to expect underlying profit growth to broadly match underlying revenue
+growth.
+
+Legal revenue growth of 2% was in line with the prior year. Underlying profit growth was strong. The
+margin increase reflects organic process improvements in decommissioning on systems, largely offset
+by portfolio effects and final exit from a joint venture. Overall, continued growth in online revenues was
+partially offset by further print declines.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+U.S. and European markets remain stable, while other international markets continued to grow well. The
+rollout of new platform releases continued across our U.S. and international markets with broader data
+sets and a continued expansion of early-stage legal analytics. In early 2018, the migration of U.S. Legal
+customers' usage to Lexis Advance is now substantially complete.
+
+Going forward, trends in our major customer markets are unchanged, continuing to limit the scope for
+underlying revenue growth. We expect underlying profit growth to remain strong.
+
+Exhibitions' underlying revenue growth accelerated to 6%, up from 5% in the prior year. The slight
+acceleration in revenue growth reflects our continued pursuit of organic growth opportunities, including
+launching 36 new events. We also completed 5 small acquisitions and piloted several data analytics
+opportunities.
+
+Europe, which represents around 40% of revenues, continued to see good revenue growth. The U.S.,
+which represents around 20%, continued to see differentiated growth rates by industry sector. Japan and
+China grew strongly. And while Brazil remained weak, most other markets continued to grow strongly.
+
+Going forward, we expect underlying revenue growth trends to continue, and we expect cycling-in effects
+to increase the reported revenue growth rate by around 4 to 5 percentage points this year.
+
+Our strategic direction is unchanged. It is still to be a company that delivers improved outcomes to
+professional and business customers across industries, with our #1 priority being the organic development
+of increasingly sophisticated information-based analytics and decision tools that drive higher value for our
+customers.
+
+In addition to our organic development-driven growth strategy, we continue to reshape our portfolio
+through selective acquisitions and selective disposals. 2017 was an unusually light acquisition year,
+with only 8 transactions completed for GBP 123 million. But in January, we announced the agreement
+to acquire ThreatMetrix for GBP 580 million. 2017 was a more active disposal year with 17 transactions
+completed.
+
+We announced this morning that we're proposing a set of measures that will further simplify our corporate
+structure, moving from the current dual parent holding company structure to a single parent.
+
+Our corporate structure has evolved over time, and this simplification follows the significant measures
+that were complete in 2015. We believe that this is the natural next step for RELX, removing complexity
+that no longer serves any purpose and increasing transparency. There'll be no change to the locations of
+activities or staffing levels of RELX Group or its 4 business areas as a result of these measures. There is no
+change to our strategy, and we expect the simplification to be cost and profit neutral for RELX Group, both
+before and after tax.
+
+And I will now hand over to Nicholas, our CFO, who will talk you through our results and our corporate
+structure simplification in more detail. I'll be back afterwards for a quick wrap-up and our usual Q&A.
+
+Nicholas Lawrence Luff
+CFO & Executive Director
+
+Thank you, Erik. Good morning, everyone. Let me start by expanding on the financial highlights. As Erik
+said, underlying revenue growth of 4% was maintained in 2017. Growth in underlying adjusted operating
+profit was ahead of revenue growth at 6%, resulting in a margin improvement of 40 basis points.
+
+Growth in earnings per share at constant currencies was 7%, ahead of profit growth, reflecting a lower
+interest charge, a slightly lower effective tax rate and the impact of the share buyback program, all partly
+offset by a drag from disposals.
+
+Return on invested capital improved to 13.1%. Cash conversion was again strong at 96%. Leverage was
+2.2x EBITDA adjusted for pension and leases, in line with the prior year. The equalized full year dividends,
+up 10% for the PLC in sterling and up 6% for the NV in euros. 2017 share buybacks totaled GBP 700
+million.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+Turning to the income statement. 4% underlying revenue growth gave us 2% constant currency growth,
+the result of disposals and acquisitions are cycling out, more than offsetting the contribution from
+acquisitions. Sterling was weaker on average in 2017 compared with 2016, the effect of which was to
+benefit sterling reported revenue growth by 5%, giving the total growth of 7%. Adjusted operating profit
+increased by 6% on an underlying basis. After portfolio effects, constant currency profit growth was 3%.
+The sterling figure was then boosted by currency again by 5%, resulting an 8% overall growth to get total
+operating profit of GBP 2.3 billion and delivering the improved margin of 31.1%.
+
+The interest charge reduced, a result of lower average interest rates. The average rate paid in gross debt
+was 3.2%, 0.6 percentage points lower than the prior year.
+
+The tax rate on adjusted profit declined slightly to 22.5%, resulting in adjusted net profit just over GBP
+1.6 billion, up 10%.
+
+Reported net profit was up significantly, which is under GBP 1.7 billion, a result of an exceptional noncash
+tax credit of GBP 346 million, arising from U.S. tax reforms.
+
+Going forward, we assess the impact of tax change in U.S. and other relevant jurisdictions to be a small
+net positive for RELX Group, although not significant to the adjusted effective tax rate or to cash taxes
+paid.
+
+The average share count was down by 2% due to the share buyback, converting 5% constant currency
+net profit growth to 7% constant currency earnings per share growth. The year-on-year weakness of the
+pound bended adjusted earnings per share, and sterling was up 12% to 81p. Conversely, growth of the
+euro strength resulted in a slightly lower euro denominated EPS growth of 5% to EUR 0.923. Reported
+earnings per share were inflated by the exceptional tax credit I just talked about.
+
+In terms of the business areas, you can see how all 4 areas contributed to the overall revenue
+performance, with the Risk & Business Analytics and Exhibitions continuing to deliver strong underlying
+growth. Disposals were a drag on overall growth, in particular for Risk, where we continue to divest assets
+to do the favorable strategy. Cycling decreased Exhibitions' revenue growth by 6 percentage points.
+
+With the pound weaker on average against both the dollar and the euro, currency movements boosted
+sterling-reported revenues in all 4 business areas by around 5%.
+
+The growth in underlying adjusted operating profit was driven by strong performances from Risks, up
+8%, and from Legal, up 11%. Legal profit growth was significantly ahead of revenue growth, reflecting
+efficiencies within the business and the decommissioning of legacy infrastructure.
+
+STM wholesale had underlying profit growth above revenue growth.
+
+Exhibitions profit growth reflected the cycling out of the [ pioneer] events.
+
+With more disposal activity in 2017, portfolio effects were a drag on profit growth, most notably in Legal.
+In sterling, currency movements were positive for all 4 business areas having 5% to 6% of operating
+profit in each case.
+
+The group continued to make progress in improving margins, adding 40 basis points to reach 31.1%
+overall. STM's margin was flat on a reported basis with underlying improvements offset by portfolio
+effects. Risk margins are up 60 basis points, in that case, helped by portfolio changes.
+
+Despite a significant drag from disposals, Legal improved margins by 40 basis points, a result of
+underlying profit growth being well ahead of underlying revenue growth. Exhibitions margins were flat in a
+cycling-out year.
+
+I've highlighted the different currency effects as we've gone go through the results. Our principal
+currencies are mainly U.S. dollar and the euro, with hedging delaying and smoothing the impact of
+exchange movements. FX rates will, of course, move from today's levels, but sterling is currently stronger
+against the dollar by around 7% and broadly unchanged against the euro compared to its average level
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+in 2017. If current rates were sustained, the currency impact on adjusted EPS growth relative to constant
+currencies will be negative by a mid-single-digit percentage in both sterling and euros.
+
+Most of our invested capital is in U.S. dollars, and capital employed the average FX rates increased
+accordingly with the currency impact being similar to the impact on profits.
+
+Underlying profit growth did drive higher returns, but that was partly offset by portfolio changes, giving a
+net 10 basis point improvement in return on invested capital to 13.1%.
+
+Turning to cash flow. Capex was GBP 354 million, equivalent to 5% of revenue. Capital conversion was
+again strong at 96%. Cash interest was down slightly while cash taxes increased, driven by increased
+profitability and exchange rate movements. Total free cash flow was GBP 1.5 billion.
+
+Here's how we used that free cash flow. Spending on acquisitions was GBP 123 million, dividend payment
+is GBP 762 million and the share buyback was GBP 700 million.
+
+From year-end to year-end, currency translation effects were broadly neutral, leaving net debt almost
+unchanged at GBP 4.7 billion. Leverage, which we calculate in U.S. dollar was 1.9x or 2.2x when you
+adjust for pensions and leases. The adjusted ratio was in line with the prior year despite the prior year
+having been flattened by currency movements.
+
+You're familiar with how we think about priorities with the use of cash, and they haven't changed. And
+you know that the acquisition spend is one of the variables in there. Spend was low last year, as Erik
+mentioned, GBP 123 million, but we will have the ThreatMetrix deal this year. So the averages hardly
+move much if you look over a longer period.
+
+So continuing with the aim to maintain leverage in or around the 2.1 to 2.5x range that we've been in, we
+continue to have capacity for share buybacks. We have announced a further GBP 700 million of buybacks
+for 2018, with GBP 100 million of this having already been deployed.
+
+Next, I want to briefly highlight the impact of changes in accounting status that will apply for 2018. There
+are 3 of these standards we're already adopting this year, albeit the effect of one of them, IFRS 9, will
+be trivial. The 2 that will have an impact for IFRS 15, which all companies will be adopting this year; and
+IFRS 16, which we are adopting a year earlier than mandated.
+
+IFRS 15 relates to revenue recognition. Whilst there's some cumulative balance sheet effect, there's only a
+small impact on the full year income statement.
+
+IFRS 16 requires all leases every 12 months to be capitalized on the balance sheet. Our leases are almost
+all property leases. And based on 2017 year-end numbers, we'll be adding GBP 325 million of net lease
+liabilities into our net debt. Of course, our headline net debt-to-EBITDA ratio of 2.2x already takes account
+of operating leases in the calculation, so there is no impact on our quoted leverage.
+
+Taking all the changes together, there is no impact on revenue or profit growth rates. Full year operating
+profit is unchanged, but there is a small impact on interest, which flows through to adjusted earnings per
+share. In the appendices, you'll find tables setting out expected restated H1 and full year 2017 numbers,
+which will become the comparators when we start reporting on 2018 numbers in July.
+
+Finally, I'd like to give you a little more detail on the corporate structure simplification Erik talked about
+earlier. The simplification will be implemented through a cross-border merger between the 2 parent
+companies, RELX PLC and RELX NV, with RELX PLC being the continuing entity whereas NV shareholders
+will receive 1 new RELX PLC share in exchange for each RELX NV share that they hold. Slide shows the
+expected time line for the simplification. From announcement today, we expect the merger documentation
+to be sent to shareholders during Q2. The shareholder meeting is to vote on the simplification towards the
+end of that quarter. The simplification is subject to certain conditions, including approval by both RELX PLC
+shareholders with a 75% majority and RELX NV shareholders with a 50% majority. Following shareholder
+approval, U.K. court approval will be sought in Q3, with the merger becoming effective around September.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+The simplification will not create any changes on RELX PLC shareholders and there will be continuity for
+our NV shareholders. The table sets out the current position for PLC and NV shares and how that will
+change following the simplification.
+
+Existing RELX PLC shareholders will continue to see their shares listed in London with dividends paid in
+sterling. The ADRs will continue to be listed in New York. Existing RELX NV shareholders will see their NV
+shares replaced by PLC shares, but those PLC shares will be listed in Amsterdam with a default position
+seeing dividends being paid in euros. Of course, all shareholders will have the ability to switch their PLC
+shares between markets, trading in London or Amsterdam. RELX PLC shares will continue to be included
+in the FTSE 100 Index with a share count that will roughly double. We expect RELX PLC to replace RELX
+NV in the AEX Amsterdam Index and RELX PLC shares to continue to be included in the STOXX Europe 600
+index and other relevant pan-European indices.
+
+With that, I will hand you back to Erik.
+
+Erik Engstrom
+CEO & Executive Director
+
+Thank you, Nick. So just to summarize what we have covered this morning. During 2017, our positive
+financial performance continued, and we made further strategic and operational progress. Going forward,
+key business trends in the early part of 2018 are consistent with 2017, and we're confident that by
+continuing to execute on our strategy, we will deliver another year of underlying growth in revenue and
+adjusted operating profit, together with growth in adjusted earnings per share on a constant currency
+basis.
+And with that, I think we're ready to go to questions.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+Question and Answer
+
+Erik Engstrom
+CEO & Executive Director
+
+Okay. Maybe today we'll start over here. Start over there.
+
+Nicholas Michael Edward Dempsey
+Barclays Bank PLC, Research Division
+
+This is Nick Dempsey from Barclays. Three questions, please. So first one, let's get straight into Germany.
+Can you talk about specifically how you plan to account for revenues from German institutions in the
+project deal consortium this year? So in other words, will you make assumptions through the year about
+what you might receive once the deal is done? Or will you assume no revenues from those guys all year
+until you get a deal? So how are you going to account for it? Second question, on STM on margins, you're
+talking about underlying profit growth being ahead of underlying revenue growth. If we assume the FX
+continues where it is, would you see any margin improvement in that division on a reported basis? And
+lastly, at Legal, with the drag from selling Martindale-Hubbell Associate, probably be less in 2018, could
+we expect more margin improvement year-on-year from Legal in '18 than '17?
+
+Erik Engstrom
+CEO & Executive Director
+
+Okay. Well, I think that I am going to ask Nick actually to address all of those 3. Are you ready?
+
+Nicholas Lawrence Luff
+CFO & Executive Director
+
+I thought you might. So revenue recognition, just to be clear, and we won't talk about any individual
+customer across, but just to be clear how it works, apart from some December, January cost of judgment
+that we've always had to make, all revenue were recognized in STM in the full year comes from signed
+contracts with customers. Just to be absolutely clear on that. There is some judgment we have to make
+during the year. For example, if a contract is commercially agreed but not formally signed during the
+year, then you have to exercise some judgment as you go through half year, in third quarter and so on.
+But for the full year, apart from those kind of issues, all the revenue recognized is from signed customer
+contracts. We will, of course, in 2018 be adopting IFRS 15, which is even more clear cut. And even during
+the year, you only recognize -- in IFRS 15, you only recognize revenue from signed contracts. I hope that's
+clear. The second question is on STM margins and the FX impact. As ever, there are lots of moving parts
+with currencies. You will have seen in this analysis in the appendices that shows the currency impact in
+2017. Actually, there's net nil. There was no currency either from the hedging year-over-year or in the FX
+rates overall. Clearly, the hedging -- the way the pound has moved and the euro has moved, the hedging
+has been a little bit of a drag the last couple of years that eases off we roll through those contracts. But
+again, we said, of course, the dollar is now getting a little weaker again as you all have seen. So there are
+lots of moving parts, and I -- as ever, I will not give a forecast as to what the net FX impact is going to be
+when we get through the year. The third question was on Legal margins and drag from Martindale-Hubbell.
+You're absolutely right. Of course, the Martindale-Hubbell joint venture has now come to an end. There
+was some contribution in '17, they're relatively modest mostly in the first half, which will, of course, go
+away. So that will still be there in the year-on-year drag. If you look at the numbers for Legal though in
+2017, you'll see it's not the only drag from disposal, we have disposal another -- we mentioned it in the
+release, some other print assets and some service businesses that's come out of there. So there will still
+be a bit of a drag from disposals in 2018 in Legal.
+
+Erik Engstrom
+CEO & Executive Director
+
+Okay. Let's continue over here.
+
+Katherine Tait
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+Goldman Sachs Group Inc., Research Division
+
+Katherine Tait from Goldman Sachs. A couple of questions for me. Just coming back on the STM margins,
+I think you noted that the underlying business actually saw margin improvement, which was then offset
+by the sort of changes to the portfolio. Can you talk a bit about going forward, do you expect continued
+portfolio changes that could depress margins further or certainly hold back some of the operational
+improvements that you're seeing? And how we should sort of think about that going forward? Secondly,
+within insurance in Risk & Business Analytics. You talk about growth in some of the adjacencies around
+sort of autos. Can you talk about how much those various areas make up now within your insurance
+business and also how you're seeing the penetration of those versus where the sort of opportunity set
+is? And then finally on ThreatMetrix, if you could just give a little bit of color in terms of the -- you've
+talked about making continued investments in that business and therefore unlikely to sort of contribute to
+earnings accretion this year. Can you just give a bit more color about what those investments are likely to
+be?
+
+Erik Engstrom
+CEO & Executive Director
+
+Okay. Well, I'm going to ask Nick to take the first one and then I'll come back and talk about the others.
+
+Nicholas Lawrence Luff
+CFO & Executive Director
+
+So when I see our margins going forward, clearly it depends what comes into the portfolio or may get out
+of the portfolio. It is typically true. Of course, if we are buying fast-growing businesses that perhaps on all
+of that mature, they would tend to be a drag on the margin. And then on the disposal side, it will depend
+what we sell. Sometimes we do sell relatively high margin, but low growth already declining bits of the
+portfolio. So it will depend.
+
+Erik Engstrom
+CEO & Executive Director
+
+Okay. So insurance adjacencies. Well, the rule of thumb we've done before for Insurance, broadly
+speaking, is -- and these are not exact numbers, but broadly, we say that in the -- if you look at our
+overall Insurance business, roughly 40% of Risk, we talk about that as saying that a portion of that then,
+of course, it's international, which we've talked about. And then in the U.S., where order of magnitude sort
+of 20%, 25% of what we're doing is not what you would consider traditional auto revenues, and that's
+the scale of it roughly. And it has been growing marginally faster than the core of the other business,
+of course, because they're from a lower base. So on an overall basis, they're contributing well to the
+business and to the growth, and we see them continuing to grow. Not much ahead of the rest, but
+perhaps a little bit, right. So at this point, then we don't know what will happen in each one of those
+market segments going forward. So I'm again not going to make a forecast for future growth rates, but
+you look at -- we don't think we're anywhere near the saturation point in those, let's put it that way. So
+I don't see that this would -- this is something that's limited in the short term. ThreatMetrix, the way we
+look at this is this is a very well-established company in this segment, but we see significant opportunities
+in this segment going forward because we have so much history ourselves in physical biological identities
+of individuals, and now we are combining this with their sort of leadership in digital and device identities.
+And we think and we've seen that, that adds significant value to customer sets that we already serve.
+And we're going to continue to expand that value by continuing to broaden out the product suite and do
+integrated services and to build out our sales efforts. So that's why we think in the first year of ownership,
+we don't think this is going to have a material impact on the overall profit picture, if you look at it that
+way, that's the way we think about it in the first year. Want to keep going?
+
+Ian Richard Whittaker
+Liberum Capital Limited, Research Division
+
+This is Ian Whittaker from Liberum. Two questions, please. First of all, just if you look at the sort of overall
+group sort of underlying revenue growth, it has sort of accelerated over the years up to 4% and so forth.
+Just wondering in terms of your views sort of what gets it to accelerate further after that 5% and beyond,
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+are there any particular areas that you think will drive this? Would it be sort of just a weighting of the
+revenues that you get more from Risk and then we'll have a natural sort of calculation effects? Does Legal
+gets a little bit better or so on? So your thought might be quite interesting. And then second of all, I
+think, just in terms of ThreatMetrix, you mentioned the point that in terms the acquisition type, it fits into
+the profile, it's a business you already know, you already worked with and so forth. Maybe just for our
+benefit, could you sort of highlight sort of any areas the business where you particular sort of have sort
+of relationships in terms of sort of other partners sort of is there any sort of division, which is particularly
+sort of you've got similar sort of relationships so that they have with ThreatMetrix or sort of just generally
+across the whole group?
+
+Erik Engstrom
+CEO & Executive Director
+
+Okay. Okay, yes. The overall growth of the company, the way we think of it overall is that at any given
+point in time our growth rate is going to be impacted by, to some extent, what it is we do, right. And
+that's how we add value to our customers, and that's where we spend all our time focusing on. On the
+other hand, any one -- any growth rate in any one market in any one time period is also going to depend
+on the environment we're selling into, general economic environment, the customer, the health of the
+customer segments we're selling into and so on, and we don't try to give specific forecast for the second
+part. We spend all of our time focusing on how it is we add value to our own customer in our segments.
+And we believe that the way we will drive further growth in each one of our segments is identical, which
+is that we are spending most of our time internally focusing on how can we take existing content sets,
+additional data sets, how can we integrate those and leverage those with analytical tools on top, predictive
+analytics and decision tools so that we shift further and further from information lookup to integrated
+decision-making tools where we can track, measure ideally and increase the value we provide to the
+customer at that decision point. And the closer we get to those decision point and the more that we can
+quantify the increased value from that decision, the higher value we're providing to them. And if you
+focus on the increased value to the customer, it shouldn't be a surprise that we then assume that they
+will want more of that service and use more of it and somehow we will capture a portion of that value.
+So that's how we think about growth driving, growth acceleration across all our customer sets. Then, of
+course, we still have a little bit here and there or what I call sort of traditional drag. That's going smaller
+and smaller, whether that is fueled printings here or books and magazines here and there, but they're
+becoming smaller and smaller, and therefore that's not our main strategic focus. Our main strategic focus
+is add customer value and drive accelerated growth that way. The second question was on ThreatMetrix.
+The way -- you asked where do we see the combination having real value?
+
+Ian Richard Whittaker
+Liberum Capital Limited, Research Division
+
+Sorry, it wasn't so much that. It was just -- so when you talked about the acquisition, you said you'd
+acquire -- sorry, you said you'd acquire it because it sort of fits to the profile in terms of its business you
+already knew. So what we're saying just for our sort of our benefit, I just wondered if there's any sort
+of other partnership sort of similar that you have in the business to what you have ThreatMetrix to just
+identify for us.
+
+Erik Engstrom
+CEO & Executive Director
+
+I'm sorry, I misunderstood. I thought you meant what ThreatMetrix do. No, no, we have small
+partnerships around the business everywhere, and in particular in the risk business, we have lots of
+licenses and partnership agreements with different data sets, different providers, so content or sometimes
+distribution partners. We have that, of course, primarily in the U.S., which is where these businesses
+originated, but also in different parts of the world. So we constantly get to know lots of these companies
+that have data sets or distribution or an integration opportunity. And we, as you know, do very few
+acquisitions on [indiscernible]. It's really when we see that this really add significant -- significantly
+more value when you can offer them in combination. And for ThreatMetrix, that's the case across
+financial services industries, many different subsegments, of course, also in different places where the
+identity of an individual is important and you can link it to the device or the digital identity in terms of
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+online transactions also or accounts, online transaction accounts opening and so on in a nonfinancial
+[indiscernible], okay? Okay, let's keep going. Yes?
+
+Adam Ian Berlin
+UBS Investment Bank, Research Division
+
+It's Adam Berlin from UBS. Three questions if I could. In the last, say, 12 months, you have signed quite
+a lot of deals on general subscriptions. Can you just talk broadly about what kinds of concessions on
+open access you've been asked to make if any and what you've agreed to? Second question is on STM,
+how much of the revenue in STM is now from author payments or gold open access? And thirdly, you
+mentioned in RBA that some of the market conditions have improved. Can you talk about which metrics
+you are referring to and how we should think about that?
+
+Erik Engstrom
+CEO & Executive Director
+
+Sorry, let me answer the last one. Say it again.
+
+Adam Ian Berlin
+UBS Investment Bank, Research Division
+
+You mentioned in your speech that in RBA, you've seen some improvement in some of the underlying
+market conditions in insurance. Can you just talk about what type of metrics you mean by that?
+
+Erik Engstrom
+CEO & Executive Director
+
+Maybe I'll address that first because you -- when you say improvement in Insurance, we say that this
+year, the beginning of this year, is the same as what we saw at the end of late in the fourth quarter last
+year, which is that the market environment has returned to our historical average metrics when we look at
+market attractiveness. And that's a combination of the things that we see in the marketplace through our
+systems and through other indicators that relate to insurance industry, price changes, marketing behavior,
+shopping behavior, right, and switching behavior. And what we see out there in the general base market
+as a whole, right, and these are indicators where you can track that in combination, adapt to basically
+use the market. So we can track a bit the market cycles. It is not something used to predict market
+cycles, but we can actually track and see what is happening as it is happening. So that's what we're
+saying that it goes -- it fluctuates a little bit over time. The beginning of last year was slightly, slightly
+less attractive than it had been the prior couple of years. And then by the fourth quarter, it returned to
+what we consider historical average. And we're starting off the year so far, 1.5 months, at what looks
+like historical averages, right? Now like you said, the first one you said about our contracts. As -- just to
+put this into scaling, as I said there, we have over 5,000 institutional customers, right, that have broad
+collection subscriptions with us.
+
+About every year, because some of those are 1-year and many of them are multiyear, that means that
+every year, we probably renew -- renegotiate, I should say, renegotiate about half of those each year. So
+we're talking about well over 2,000 individual renegotiations every year. And in those, in all of those, you
+asked me about the concessions in a way. We don't see open access as a concession at all. We see it as we
+are a service provider. We are here to help our customers in their pursuit of advancing research, advancing
+science that sometimes include health care. We are here to help them. And we provide the services to
+them that they can choose to get from us or anybody else. We provide those services to them at, as you
+know, above-average market quality and below-average market pricing. And price trends over time, ours
+have been below-average market price trends. That's how we think of ourselves, right, a service provider
+that offers a full range of services whether that is just institutional that nobody publishes, services for
+preprint, whether that is a subscription-based request or whether that is an open access article, sort of
+fee per article-based request. And we're happy to provide those services to all our customers on a market
+basis. And we're happy to do it with our philosophy about price and quality. When we go into a contract
+renewal, when we get into a negotiation, we always do everything we can to make sure that we sit down
+with all these institutions every year and make sure we understand what it is they are trying to achieve
+in terms of research, in terms of science, what information they need, what tools they want to use. And
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+we try to work with them to figure out a way that we can help them reach their objectives in a way that
+they ultimately find economically attractive solution for them. That's what we work on and that's how we
+approach our business. And we look that way for all along. So we did not see any of these questions about
+is one bad, one good? We do not try to influence on what's good or what's bad. And we see them as -- we
+see ourselves as a service provider. We're happy to act for all of these services. So the second question
+you asked was what percent of our total article share is roughly is gold open access as you referred to, the
+sort of fee per article. We are now approaching, let's call it, we are above mid-single digits but not yet at
+double-digit percent of our article share internally. And that's what you asked, yes, okay. Next, okay, so
+let's go over here.
+
+Sami Kassab
+Exane BNP Paribas, Research Division
+
+I'm Sami at Exane. Historically, you reported the revenue growth for the journals at being between 3%
+and 4%. Would you comment on whether 2017 was in the same range and how you see the outlook for
+that subsegment of Elsevier, please? Secondly, historically, you used to comment on the international risk
+business. Can you update us on how big the international risk business is and the growth rate you've had
+there? And lastly, you've made a few disposals. Can you share with us the revenues that you've disposed
+of annually, annual revenues and what the revenue trends were for the asset's disposal?
+
+Erik Engstrom
+CEO & Executive Director
+
+Okay. I'm going to ask Nick to cover the last one, but I'll first cover the other ones. Yes, I mean, as you
+know, we have not given specific growth rates for any one of our subsets in numeric terms. We give
+indications of roughly how our segments are doing. And I think just like I did today, I gave sort of ranges
+and so on. But I think maybe it would be helpful for you to, when you talk about the journals business,
+to help all of you just how to think about the scaling of that and the segments. So if you look at it this
+way, of Elsevier's total revenues, we have shown you that just over half is the primary research business.
+When we say primary research, we include all content sets, all primary research, everything you would
+have called historically the journal business, right, but it's primary research. Of that, a few percentage
+point is transactional. They're transactional, it's backfile sales, it's one-off licenses and other things that
+have nothing to do with what you think of as a subscription business or the pace -- so gold open access
+fees and other types of related individuals. So once you take those out, you're down to almost exactly
+half the revenues, sometimes a little more, a little less. But we're talking about now 50% of Elsevier is
+what you would think of as subscription revenues for journals or for primary research. Of course, that 50%
+is a global average. And that means that in the countries that are fast-growing countries or very large
+Asian countries, where we don't have a lot of historical local presence, that number is significantly higher
+than 50%. So many Asian countries, many developing markets, it's significantly higher than 50% is the
+subscription base for large broad research collections. Of course, the other side of that is then, therefore,
+in the U.S. and some other large developed Western economies, that number is, therefore, below 50% on
+the subscription -- subscription business as a part of our total Elsevier business. And then of course, we
+often here end up talking about the academic customers. And I think you also have to understand that
+corporate customers are also large subscribers on a global basis. Of the total subscription business, maybe
+10% is corporate customer subscriptions. And of course, there are significant geographic differences.
+In major Western industrialized mature countries, where you have corporate headquarters, this is often
+twice that, closer to 20% of the total subscription base. So that might help you scale how to think about
+that 50% of the company, of Elsevier that's subscription-based. And also of course, don't forget in there,
+we also have individuals that subscribe, individual scientists, health professionals, often related to some
+health and biomedical content and some society-related. So that's also a portion of it. So when we talk
+about the institutional academic subscriptions, that might help you frame it, right? So when we talk about
+journal growth, you add up the whole thing. That's what we're talking about. And every year, there's
+some ups and downs. But as I told you before, if you look over the last 5 years, every year is little bit
+of ups and downs and ins and outs. There's always somewhere in the world, some countries that slow
+down a bit and some that pick back up. And every year, that goes a little in and out. But if you look at
+it on average, we're continuing to run in the same general trend as we have over the last 5 years. And
+don't forget also, and I've said, we are talking about renewals and renegotiations each year and we're
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+also talking about new sales each year, right? New subscriptions, that's what we do in all our business
+across all our segments, right? So the broad range, you have to look at over a few years. And as you
+can see, Elsevier's overall growth rate is similar for the last 5, 6 years. And the trends in all our major
+subsegments are broadly the same over that time period, right? We have similar trends in books, so even
+though there are fluctuations in books. But we're not going to give a specific percentage growth of any
+one of the subsegment for any 1-, 6- or 12-month period.
+
+Sami Kassab
+Exane BNP Paribas, Research Division
+
+You reported an acceleration in new sales, basically. What's driving that?
+
+Erik Engstrom
+CEO & Executive Director
+
+Well, as I said there, new sales come and go in different years at different times. And I'm just giving you
+across all our major segments that I did in Insurance, that I did in Business Services and Legal and so on,
+where are we as of today in 2018 because I've heard that some of you expressed an interest in where we
+are right now at the beginning of this year. And as I said in our major individual markets, Legal is very
+much similar to us as we said before. Insurance is in line with historical trends, Business Services, in line
+with historical trends. And research, renewals in line with historical trends, new sales higher than last year,
+right? So that's where we are at this time, okay? International risk business, yes, as I said last year that
+we were heading to a year where it was roughly $100 million, the total of all the business. This is what we
+define as the international expansion from the old U.S.-based business. Of course, we have lots of other
+things around the world that originate from acquisitions after that or on the old RBI side. So that's not
+what we're including here. This is the expansion from the U.S. risk business, now about $100 million. And
+it continues to grow as we hope to. Then disposals, I'm going to let Nick cover.
+
+Nicholas Lawrence Luff
+CFO & Executive Director
+
+So Sami, I mean, you can tell from the fact that the underlying growth was 4% and the constant
+currencies got to 2%. There's a gap of 2%, which obviously there's some cycling in there. There's
+acquisitions in there. But most of that is the disposals. So about a 2% drag on the overall group revenue,
+which GBP 150 million is coming from order of magnitude is coming from disposals. Obviously, some of
+that is a part year effect because it has some of them in the part of the year. So that could give you a
+sense of the scale of it. The trend, the businesses [indiscernible], of course, [indiscernible] have been
+things like print magazines and about the New Scientist Elsevier magazine, for example. And typically,
+those are declining modestly. So that depends on which particular segment you're looking at. But
+generally, they are going down but at a modest rate.
+
+Erik Engstrom
+CEO & Executive Director
+
+Okay. And over here.
+
+Patrick Thomas Wellington
+Morgan Stanley, Research Division
+
+It's Patrick Wellington from Morgan Stanley. A couple of questions loosely associated with STM. If I buy a
+sofa from DFS, I believe I'd get interest-free credit for about a year. If I get journals in Germany as part of
+the deal consortium, I seem to get interest-free credit for more than a year. At what point does supplying
+a customer with a product for nothing begin to annoy other customers who are paying for that product?
+Secondly, 180 is a number familiar to us in Germany. I think you said 5,000 institutional customers of
+Elsevier. So 180 divided by 5,000 is 3.6%. Is that an accurate reflection of Germany's significance in your
+Elsevier business? And then thirdly, do you have any views on ResearchGate and your ability to restrict the
+availability of your copyrighted information on ResearchGate?
+
+Erik Engstrom
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+CEO & Executive Director
+
+Let's see here. So you asked the first question of STM. Well, as you know, I'm not going to talk about
+any one individual customer. But I can help you describe our approach and how we work this in general,
+which is that we are here, as I said before, to serve our customers. We are a service provider. When we
+go through these renegotiations that take place, we spend all our time and effort interacting directly with
+the individual institutions and trying to understand what their objectives are. And we help them reach
+those in a way that is that they are happy with in terms of substance and that they see as economically
+attractive. We do that every single year and we want to continue to do that. We have been around for
+well over 100 years. And we are very, very patient and very customer-focused company. And these things
+will take the time it takes when we go through those. We are here to serve our customers and not to
+pride sort of an argument. When you look at the proportion that you say in general, you might want to
+-- you might also be aware of a very different number, which is that around the world, over the last now
+approaching 20 years, institutions have formed large consortia, right? And we have around the world
+now over 170 large consortia, most of which are national or near national, right, very large established
+consortia. Most of those were launched 15 years ago or 10 to 15 years ago. And every time you start to
+get a consortia together, it is a slightly more complicated process than it is to just renew an existing one
+of those 170, right? So of course, because they're multiyears agreement, this means that probably just
+under half of those we are fully renegotiating every single year. Now some countries or most countries
+formed these a very long time ago. And as you know, not going to get into in detail, but there are these
+formations are still at the tail end. And when they take place, they are more complicated discussions.
+And the question you asked about ratios, I think you can, from my previous description of the size of our
+overall business and the size of the academic -- the size of subscription part and the corporate part and
+the geographic differences, combined with the chart we have shown you, that Europe in total for STM,
+including the U.K., is about 25% of the revenue. And we've also said in the past, U.K. is probably around
+5%. So if you take the 40 countries that we count in Continental Europe, represent that 20%. And you
+heard what we said before about the scaling of subscription business and corporate and other things. So
+I think you can figure out the relative importance of any one customer whether it's this time or any other
+time without me commenting on your exact calculation. The last one, ResearchGate or any of the other
+sites that are -- that have been out there or will continue to pop up there or anywhere else. As you know,
+I'm not going to comment again on any one individual. But we are in the intellectual property business.
+Every company in an intellectual property business will have to deal with IP protection, copyright, illegal
+activities or illegal postings or violation of intellectual property rights. Like all other industries, we have
+industry associations in each one of our market segments that deal with these and are experts on these.
+And typically, what happens when something comes up is that through industry associations or affiliated
+groups, they contact any one of these sites and they inform them of what the rights are and what you're
+allowed to do. This also happens, of course, in consumer industries whether that's movies or music or
+anything. And many industries go through a period of adjustment to how to work with sort of within the
+law. And that's the process that we expect to continue to go through in every one of our segments all the
+time is primarily through industry association and industry groups and it's with intellectual property rights.
+And it's a relatively standard process. And sometimes it goes very quickly and sometimes it takes a long
+time until you end up to some place that's functional and that respects the law. So next?
+
+Patrick Thomas Wellington
+Morgan Stanley, Research Division
+
+Sorry, just a quick follow-up, more positively, if you've got a customer who hasn't paid you for something
+for 18 months and then they decide to pay you, do you write off the 18 months? Or do you get a lump
+sum for the 18 months [indiscernible]?
+
+Erik Engstrom
+CEO & Executive Director
+
+Again, I'm not going to talk about any one individual customer. As I said to you, we work directly with
+every one of these institutions that renew. And we're talking, depending on how you look at it, well over
+5,000 institutions or close to 200 large, complex consortia. And we want to work with them to get them --
+to help them reach their objective in a way that they think is economically attractive. And we've done this
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+for many years, and we're going to continue to work it that way. And we do it directly with them and we're
+very patient. And we are a service provider.
+
+Ruchi Malaiya
+BofA Merrill Lynch, Research Division
+
+It's Ruchi Malaiya from Bank of America. On the risk division, which bit are you personally sort of most
+excited about there? Is it the opportunities to expand that core Insurance business more globally? And is it
+sort of the identity fraud product expansion, so particularly in light of the threat
+
+[Audio Gap]
+
+Erik Engstrom
+CEO & Executive Director
+
+I'm personally excited about both of those and a few others because I see significant opportunities for us
+to take our assets which relate to content sets as well as analytical algorithms, mathematical tools as well
+as technology platform capabilities to combine the information with the [indiscernible] with the technology
+tools to drive significant value. And I see significant opportunity to do that over time. And you asked about
+Insurance globally. And I see significant opportunities on the others that are risk side. But we also know
+that these are complicated businesses and individual locations are different, which means that they are
+not very quick buildups. It takes a long time to work your way into -- if you look at the Insurance side, if
+you work yourself into a local environment to build up the datasets, to build the customer trust. We can
+transfer the analytical tools, our industry knowledge and our technology platform relatively easily. But
+then to apply that to local datasets and demonstrate value to a customer, so they can see and quantify
+and then build on that, that's a different -- that takes a bit longer. You could argue that as you said, some
+of the other ones that are related to ThreatMetrix, that there, that you could argue that it's easier to
+establish a local presence. But there are lots of local regulations, lots of local restrictions on what you
+can do that you have to work your way through one location at a time. But we think there's significant
+opportunity in these -- in the U.S., where they started, they are still left. So we're not dependent on a
+certain pace of international expansion even though we're excited by it.
+
+Steven Craig Thomas Liechti
+Investec Bank plc, Research Division
+
+It's Steve Liechti from Investec. Erik, you talked about the large consortia. I think you referenced over
+170, then you said 200. So just to double check, which is the...
+
+Erik Engstrom
+CEO & Executive Director
+
+Yes, I said under 200. It's in the 170.
+
+Steven Craig Thomas Liechti
+Investec Bank plc, Research Division
+
+Okay. And in the last 10 to 15 years, of those, let's call it, 170 consortia that were presumably put
+together, how many of those failed to reach agreement with you? So was there sort of 200 and now some
+of them never reached agreement with you?
+
+Erik Engstrom
+CEO & Executive Director
+
+I don't want to try to guess if there is one that I'm missing. But let's put it this way, the number of
+consortia have continued to grow over time in a steady stream. The difficult situations that we've gone
+through with them are long and drawn-out. And normally, when they're combining, when they have --
+when they're working through their role and how they can add value and how we can add value, and we
+are fully supportive of all of them using all the tools available to them to get the best deal possible in their
+mind. We are a very large provider. We publish probably 17% of the world's articles, more like 25% of
+the world's citations. And when you do that at above-average quality and below-average price and below-
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+average price trajectory, it shouldn't be a surprise that the demand for our services keeps growing. And
+therefore, our number of submissions keeps growing and our rejection rate increases every year. And
+we're trying to manage our volume growth and quality combination within those parameters. But if you
+were any customer of that, it would be really, really important for you to make sure that you get the right
+deal from a company like ours. And we have full respect, full understanding for that. And if some of them
+feel that taking a bit longer and being a little bit more vocal about it helps them, we have full respect for
+that. I respect and I understand it and we support it. But we are going to work with them directly and
+not in any other form. So have these things formed over time? They continue to form. The numbers have
+continued to grow. Once in a while in some country somewhere, they split up again because they didn't
+see the need to be together, right? That's also a question of do they have similar objectives? Are they
+trying to do the same thing rather than are we offering them something?
+
+Steven Craig Thomas Liechti
+Investec Bank plc, Research Division
+
+I know I'm being simplistic here. But sort of to ask the question a different way, has any one not reached
+agreement with you ever in the last 15 to 20 years, apart from people who speak German?
+
+Erik Engstrom
+CEO & Executive Director
+
+I'm sorry? Well, ultimately, we always end up with some form of customer relationship. Every institution
+in the world that conducts research is a customer of some part of our content sets. Because we have such
+a significant range of services, 2,500 individual journals, right, most research institutions in the world
+want to be involved in that somehow. I mean, as you might know, we have over 10 million unique monthly
+research users in the world. We publish -- we received last year around 1.6 million article submissions to
+the company. We published quite a bit over 400,000 articles last year. We operate a network with 20,000
+-- over 20,000 editors, over 80,000 editorial board members. 1 million reviewers are involved every
+year. And every year, we have these more than 10 million users in every month downloading last year
+well over 900 million full-page articles. We are talking about in that all these numbers keep growing. So
+clearly, there is something that we're doing that everybody thinks supports science. And our objective is to
+continue to do that. But we also want for our customers to get value from it and feel that they're doing it
+in a way that suits their objectives and their economic structure.
+
+Steven Craig Thomas Liechti
+Investec Bank plc, Research Division
+
+Okay, great. Can I have one more? Just on Lexis Advance, you said that's rolled out now completely
+across the U.S. And you always said about the decommissioning and what that has the effect on margin.
+Is there any sort of like one-off boost once you get it to 100%? Or shall I think of it as part of the sort of
+gradual effect?
+
+Erik Engstrom
+CEO & Executive Director
+
+It's part of a journey because U.S. Legal customers are now effectively completed their usage migration,
+when we first moved the customers on and then we moved the usage up, right? And then effectively, all
+the usage has now rolled over. But U.S. Legal customers are only one customer set that uses and shares
+the overall platform. So what it means is there are certain portions of the platform we can now turn off.
+But we're not talking about one platform as either on or off. When we talk about the platform, we're
+talking about a few hundred individual components, content sets, databases, software tools. And at this
+point, we've already turned off several dozens of those. And yes, there will be a few more this year. But
+it's not one big step. And we don't foresee one big step in the near future either.
+
+Matthew John Walker
+Crédit Suisse AG, Research Division
+
+It's Matthew Walker from Crédit Suisse. The first question is would you accept the argument that it has
+-- in these negotiations, it has become easier for people to resist because they can use Sci-Hub, because
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+they can use ResearchGate or because they can get interlibrary loans? Has it become easier for them
+to hold out? Would you accept that? The second question is what is the percentage of readership on the
+journal side to articles that publish within the last 12 months, i.e., the new material that people will in
+theory not have access to, versus the old data which they presumably keep on having access to? And then
+last question is you seem actually pretty confident that STM can sustain the growth rates that we've seen
+in '16 and '17. So where are you finding the additional revenue to allow you to do that? Is it coming from
+China? Is it coming from other parts of Asia? What's actually happening to bolster the revenues when you
+do have this hiatus with certain customers?
+
+Erik Engstrom
+CEO & Executive Director
+
+Well, let's see here. First question, you said, yes, "Is it easier, interlibrary loans and so on?" Interlibrary
+loans as tool has been available for decades, right, and it's still there. And interlibrary loans work. But
+one-off, and this is what most customers understand when they work this through in detail, that to work
+that way with limited subscription, interlibrary loans and so on, it takes a lot longer and it's actually
+more expensive. What most of our customers have discovered, and why is it that we now have well over
+5,000 institutional customers to our broad collections, is that over time, over the last 20 years now since
+ScienceDirect was introduced, you have seen customers go from subscribing to a portion of our 2,500
+titles, a portion of those titles that they thought were targeting their specific areas of research focus.
+And then when we move to a broad-based technology platform to supply those, they then continued to
+supply -- to subscribe to those selected journals. Then when we offered additional viewing rights only,
+which has a different interesting history, that you subscribe to certain content sets and you pay and you
+own those, but then we started to offer very long time ago, before my time here, the broad collections,
+where you say in addition to that, you can pay a limited amount of money you get access to all the other
+content on an annual basis, right, to view all the other content. And those are the broad collections that
+everybody has been talking about over the years for a very long time. And those are normally the ones
+that are up for the big renegotiations. Most customers that moved into those collections over time tried
+it for a year or 2 or 3 years. And typically, the most typical number is that they discover that between
+40% and 50% of the usage of the full content set came from the additional broad collection that was
+not in the original subscription list as a typical conversion result in the first couple of years. And that
+means that you have significantly broader access to information sets. You have significantly broader ways
+to link and access everything. It's very fast, it's very easy. You know that no matter what topic you're
+researching today and putting together something for tomorrow, you know that you have 100% of the
+world's research accessible. And we have, as you know, a linking hub, which means that you can link from
+one of ours to somebody's article, right, so you can go in and around. So therefore, most of the customers
+have that started it have then continued to stay with it and expanded it. And that's why we're now well
+over 5,000 of those, having started, of course, with 0, literally 0 on the broad collections when they were
+introduced. Every year, a few people add to this collection around the world, a few institutions. But if they
+don't see the need for all this because they're very special [indiscernible], they might very well then move
+out of that broad collection. So overall, we added a few hundred customers last year. But every year,
+there are a few moving in, a few moving out, a few are testing and so on. But the net, it has been a very
+steady, significant increase over a very long period of time. And if you look at cost per effective article
+access or cost per article download, I mean, we are down now on a global basis, where I think the cost for
+customers is basically -- I mean, it's below $2 an article, right? So if you look at that level, anything that
+you can come up with that is more specialized and more focused or different is not usually that attractive
+for most research institutions in the world. And we are not trying to force anybody to take it. It's a choice.
+You can choose whatever you like. We are a service provider. We'll offer our services in any range or any
+subset that you would like as a customer. But it's what's most appropriate for you in terms of usage and
+help you reach your objective and what's most economically attractive to you.
+
+Matthew John Walker
+Crédit Suisse AG, Research Division
+
+On your confidence on the...
+
+Erik Engstrom
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+CEO & Executive Director
+
+Sorry, yes. So yes. The way I think I have to look at it is that we have all these different subsegments
+that I talked about before, right? I mean, we talked about 50% of the business being subscriptions, 30%
+of the business, database and tools and electronic reference, 10% print, less than 5% of print format.
+And we have lots of subsegments in that, right, that vary a little a bit every year. But overall, we are
+pursuing improvements in our product sets, improvement in our customer value in all of those segments
+at the same time. And there are always some subvariations, also subvariation by customer group, right,
+by customer group as well as by product sets. There are regional variations and there are sort of timing-
+related variations. And that's why when you look at this, you have to understand the broad product
+portfolio that we sell and the broad geographic portfolio we have and the broad customer sets. And I
+think I helped you before to scale the different portions of it. So we have seen over the last few years
+that there's always a little bit of variation any 1-, 6- or 12-month period. But overall, as you've seen, the
+Elsevier growth rate has been very stable for the last 5 years. Okay? Okay, we have one over here.
+
+Christopher Anton Giles Collett
+Deutsche Bank AG, Research Division
+
+It's Chris Collett from Deutsche. A couple of quick questions. One was just on Legal, you made a comment
+a couple of times now about the early stage legal analytics. Now obviously, adoption of analytics is
+somewhat slow. But just wondering, at what point does that become part of the customer workflow so
+that we can actually see an acceleration in the growth rate coming from Judge Analytics? Second was
+on STM but not about the consortium. It was really just about some of the acquisitions that you've been
+making over the past few years, some of the sort of preprint tools, the platforms, the workflow tools and
+so on. What is the overall strategy there? Are you going to run them as separate businesses? Are you
+looking at integrating them in with primary research? And then lastly, just on the collapse of the DLC
+structure, I just had a question about the -- you're going to continue to be listed in Amsterdam. But is that
+a -- is that going to be a depository receipt listing or some other format?
+
+Erik Engstrom
+CEO & Executive Director
+
+Okay, I'm going to let Nick answer that one. But I'm first going to cover the others. You said Legal. Yes,
+we have spent a significant amount of time and effort in building out our analytics offering over the
+last few years. You are aware of some of the acquisitions we made, which we talked a little bit about in
+our investor seminar on Legal now, that's probably bit over a year ago. And we are -- we think this is a
+very significant, increasing value add to Legal decision-making over time, right, that to involve analytics
+and decision tools on top of the information, we think, has significant value over time. However, at the
+beginning, it is small. It's growing very rapidly. So I wouldn't say it's slow. But I would say it's small and
+growing rapidly, which means that, by our standards and impact to the whole business, it's not material
+to what we're doing today. But I do think it's a material part of the value proposition to Legal customers
+over time. And I think it's a very important piece. And I think we are extremely well positioned to do this
+for the legal industry based on how we do this across our several market segments and the capability
+we have in predictive analytics related to the risk division, which we also apply in the same way to the
+science and STM side. And that goes to the second question you said, which is, "What are we doing with
+all these other tools?" Well, that is exactly in the same direction. Yes, this company started historically
+as a publisher in many of our segments. We do not view ourselves today in any of our segments as only
+a publisher. We are a publisher. We publish content. We take ownership of that content, we stand by the
+content. We do retractions, we do corrections and so on. So we take our role as a publisher of content
+very seriously. But we believe that if we're going to add more value to our customers across all these
+market segments all the time, we are moving significantly from providing information and content to
+actually helping our customers make better decisions, get better results from those decisions and to be
+more productive while doing it by offering a suite of alternative tools that you can use standalone. So
+here's your answer to your precise question, that you can use standalone and you can only go in and use
+one of them at a time, if you would like, that's your decision. But also if you're a user of several of them,
+we plan to have them in almost all our market segments integrated with each other and linked, not forcing
+them together but linking them. So you can move more seamlessly between them and get better results
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+while being more productive because you're eliminating the complexity of stepping in and out, right? And
+therefore, you can follow the decision-making process, not just reading an article, which is one thing, but
+then taking the content in that article, working with that article, linking it to other similar articles or linking
+it to datasets in others on our platform, which you wouldn't do if you had a printed-out article. You're
+actually doing research inside the content sets on our platform. That is very different from the traditional
+reading a text on a page, right? And it adds significantly more value, we believe. And over time, when you
+get -- when you integrate those tools and you provide them to different types of research center here or in
+different types of legal work, it's a much higher value-add solution set for our customers. And that's what
+we're going with the acquisitions as both standalone and as integrated solutions. Okay?
+
+Nicholas Lawrence Luff
+CFO & Executive Director
+
+Two things. The question about the share listing. So one major depository receipt is direct listing of
+the shares in Amsterdam. London will be the primary listing, but there will be an additional listing in
+Amsterdam. Unlike today, of course, it will be entirely fungible there. You can move the shares between
+the 2 markets and trade in either one with the same share.
+
+Erik Engstrom
+CEO & Executive Director
+
+Okay. We have one more in the back.
+
+Richard Eary
+UBS Investment Bank, Research Division
+
+It's Richard Eary from UBS. Just two questions. Just the first one, STM. I mean, Erik, you gave some sort
+of breakdowns in terms of primary research percentage. I think looking back to the last time you gave
+some breakdown in 2015, that number was 59%. I'm just trying to make sure that those numbers are
+comparable between the 50% and 59%? And the second question is just on the RBA side, I think in the
+notes, you talked about an expansion in terms of RBA margins due to some portfolio shifts. Can you just
+elaborate on those portfolio shifts and whether those are sustainable into sort of '18, '19, particularly with
+the acquisition of ThreatMetrix?
+
+Erik Engstrom
+CEO & Executive Director
+
+Just to make sure I understood the second one, could you...
+
+Richard Eary
+UBS Investment Bank, Research Division
+
+So in the notes for the results, there was a slight improvement in the RBA margins. And I think the
+comments around that was a change in the portfolio mix. So I'm just trying to understand what was the
+change. Is that sustainable?
+
+Erik Engstrom
+CEO & Executive Director
+
+Yes, okay. No, I got it. And Nick, you got that question, I'll let you explain that one. Yes, okay. Yes, so I --
+we have shown you so many charts of our revenue breakdown over time for all our different divisions. And
+I can't remember exactly which year we had the one that you refer to as you saw it looks like 59%. We
+have shown a few of those. It wouldn't surprise me if it was something very close to that number in the
+past. I think if you look at it today, and we put some charts in the back that have the revenue breakdown
+by division, that have the revenue breakdown by area of different types of revenues, and I think that it
+might possibly be -- if I do that today, if I did that today, I think we might be few percentage points lower
+than that, right? That's the way we look at where we take the total research -- primary research business,
+which you would refer to as the journal business with all its different subcomponents. So I know what the
+number is today, right, and it's probably a few points below that but not many, not many points, just a
+little bit. You can see in the chart in the back, so it's very close. So I'm not sure why it's exactly why it
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+has changed a couple of points. So whatever it might be over that time period, it might be that on the
+margin, there was some marginally different definitions or it's currency, currency valuation differences
+between the countries that are higher or lower dollar-based versus because we take it spot at that time.
+And as we have some very significant portions of our revenue in different part of the world and we have
+different proportions, the proportion of the research is very different by geography. That's why there are
+some natural built-in fluctuations if I do a static pie at spot rates. So these will always vary a little bit a
+few points, right?
+
+Nicholas Lawrence Luff
+CFO & Executive Director
+
+So the margin question, Richard, in '17, the portfolio pluses we had were coming from because we're
+selling lower-margin businesses and the print magazines, for example, were coming out of RBA, which
+gave us the boost to margins. If you look forwards, then, I mean, you're absolutely right, acquisitions,
+particularly even though the sort of businesses we tend to buy quite tend to be quite immature and would
+typically not be at the average margin that risk makes today in the high 30s, so they would tend to be a
+drag on margin. And ThreatMetrix would be in that category. But if you look at the 2018, you've obviously
+got the full year effect of the things we did last year and anything else we do on the disposal front. So I
+think you'll have to wait and see exactly how it pans out.
+
+Erik Engstrom
+CEO & Executive Director
+Okay. Thank you all for listening. I look forward to seeing you all again soon.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+RELX PLC FY 2017 EARNINGS CALL |  FEB 15, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+23
+
+

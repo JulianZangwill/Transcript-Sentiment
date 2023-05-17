@@ -1,0 +1,2101 @@
+Lloyds Banking Group plc LSE:LLOY
+FY 2017 Earnings Call Transcripts
+Wednesday, February 21, 2018 9:30 AM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2017-
+
+-FQ1 2018-
+
+-FY 2017-
+
+-FY 2018-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+SURPRISE
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+0.02
+
+0.02
+
+0.00
+
+0.02
+
+0.00
+
+0.08
+
+0.08
+
+0.00
+
+0.07
+
+4425.52
+
+4632.00
+
+4.67
+
+-
+
+-
+
+18469.82
+
+18525.00
+
+0.30
+
+18325.89
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: GBP
+Consensus as of  Feb-21-2018 9:21 AM GMT
+
+FY 2017
+
+CONSENSUS
+
+0.08
+
+ACTUAL
+
+0.08
+
+SURPRISE
+
+0.00 %
+
+- EPS NORMALIZED  -
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+3
+
+4
+
+9
+
+2
+
+ 
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Antonio Lorenzo
+Chief Executive of Scottish Widows
+and Group Director of Insurance &
+Wealth
+
+António Mota de Sousa Horta-
+Osório
+Group Chief Executive & Executive
+Director
+
+Douglas Radcliffe
+Group Investor Relations Director
+
+Juan Colombás
+COO & Executive Director
+
+M. Culmer
+
+Norman Roy Blackwell
+Chairman of the Board
+
+Unknown Executive
+
+ANALYSTS
+
+David John Lock
+Deutsche Bank AG, Research
+Division
+
+Edward Hugo Anson Firth
+Keefe, Bruyette & Woods Limited,
+Research Division
+
+Fahed Irshad Kunwar
+Redburn (Europe) Limited,
+Research Division
+
+Ian David Gordon
+Investec Bank plc, Research
+Division
+
+James Frederick Alexander
+Invine
+Societe Generale Cross Asset
+Research
+
+John Cronin
+Goodbody Stockbrokers, Research
+Division
+
+Alvaro Serrano Saenz de
+Tejada
+Morgan Stanley, Research Division
+
+Jonathan Richard Kuczynski
+Pierce
+Exane BNP Paribas, Research
+Division
+
+Andrew Philip Coombs
+Citigroup Inc, Research Division
+
+Christopher Cant
+Autonomous Research LLP
+
+Christopher Robert Manners
+Barclays Bank PLC, Research
+Division
+
+Claire Kane
+Crédit Suisse AG, Research
+Division
+
+Martin Leitgeb
+Goldman Sachs Group Inc.,
+Research Division
+
+Michael Francis Helsby
+BofA Merrill Lynch, Research
+Division
+
+Raul Sinha
+JP Morgan Chase & Co, Research
+Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Presentation
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Good morning, everyone. It is great to see you all here. Today, we will update you on our strong strategic
+and financial progress, and provide details on the strategy that will transform the group for success in a
+digital world. We will spend the next hour going through the 2017 results, including time for questions,
+before moving on to the strategic update.
+
+So turning to the results. 2017 was a landmark year for the group, with the return to private ownership
+in May. This was the culmination of hard work by colleagues from across the group, and it is a source of
+great pride to all of us that we were able to return to full private ownership, with the government realizing
+more than its original investment.
+
+We have also made significant strategic progress in the year. We completed the second phase of our
+strategic journey, making great progress in creating the best customer experience, becoming simpler and
+more efficient, and delivering sustainable growth.
+
+We have continued to develop our market-leading digital proposition and have the U.K.'s largest and top-
+rated digital bank, with almost 13.5 million active online customers, of which 9.3 million are active on
+mobile.
+
+We have achieved lending growth in targeted segments within SME, Mid Markets and Consumer Finance,
+and increased our corporate pension assets. Our Simplification program has delivered GBP 1.4 billion of
+run rate savings, ahead of our original target, and further improving our market-leading cost-to-income
+ratio.
+
+In June, we completed the acquisition of MBNA, which gives us additional scale and the great brands
+in prime and secured consumer lending. And in December, announced the acquisition of Zurich's U.K.
+workplace pensions and savings business, which gives the group a platform to develop the next phase of
+our strategy for financial planning and retirement, which you'll hear more about later this morning from
+António Lorenzo.
+
+And in July last year, we announced the restructuring of the business and the reorganization of the
+management team in order to better align the bank's organizational design and capabilities with the
+changing external environment and to plan in advance the next phase of our strategy. You'll be hearing
+from a number of the leadership team later.
+
+On the financials. We have again delivered a strong performance, with improved profit and returns on both
+the statutory and an underlying basis. We have also returned the business to growth, with an increase in
+loans and advances in the year. This strong financial performance, along with the continued derisking of
+the balance sheet, enabled the group to boast its credit ratings increase again, and to deliver very strong
+capital generation of 245 basis points, above guidance.
+
+In terms of capital requirements, we talked at Q3 about the 50 basis points increase in the group's Pillar
+2A. We are now pleased to announce that the PRA has also completed its review of the group's PRA Buffer
+requirement. As a consequence of these and other developments, we are now targeting a revised capital
+requirement of circa 13%, while also holding a management buffer of around 1%. With our strong capital
+generation, we are already at this level.
+
+On returns to shareholders, the board has recommended a final ordinary dividend of 2.05p per share,
+which means that the 2017 total ordinary dividend of 3.05p per share is 20% higher than last year and in
+line with our progressive and sustainable ordinary dividend policy. The board also intends to implement
+a share buyback of up to GBP 1 billion over the next 12 months, reflecting the board's desire to return
+surplus capital to shareholders. This represents a 46% increase on total returns to shareholders versus
+last year, amounting to up to GBP 3.2 billion.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+In 2017, we have again clearly demonstrated the success of our business model, with increasing both
+underlying and statutory profit. Statutory profit before tax increased 24% year-on-year to GBP 5.3 billion
+from a negative GBP 600 million in 2012. And as the below-the-line charges reduce in future years, we
+expect the gap between statutory and underlying profits and returns to continue to close.
+
+We achieved GBP 8.5 billion of underlying profit, still 60% above statutory PBT and increasing 8% over
+2016; with the improvement a result of: net income growth, together with an increase in net interest
+margin; our market-leading efficiency and an improved cost-to-income ratio; strong asset quality with
+our AQR being kept at low levels; and our Moody's credit rating improving to Aa- and our S&P outlook
+improving to positive, driving our cost of funds down further.
+
+As a consequence, the group delivered a statutory return on tangible equity of 8.9% in 2017 and an
+underlying return after tax of 15.6%, which shows both the progress we have made and what we still
+expect to achieve for our shareholders over the next few years.
+
+Turning to the U.K. economy. We see an economy that is resilient and continues to benefit from the
+tailwinds of continuous GDP growth and deleveraging in recent years, with unemployment also at a 40-
+year low. We expect the employment rate to continue growing in 2018, further supporting consumption.
+On the other hand, pay growth remains below inflation, which causes pressure on household finances.
+
+Despite the U.K. continuing to run a current account deficit, exports are now growing consistently ahead of
+imports for the first time in 6 years, helped by the recent devaluation of sterling, which has also increased
+the value of earnings from foreign assets, which is positive.
+
+All these factors considered, the U.K. faces a period of political and economic uncertainty. But given the
+fact as well that we are an open economy, we will also benefit from global growth, which has accelerated
+recently. And therefore, all in all, we expect GDP growth in 2018 at similar levels to 2017.
+
+In summary, in 2017, we have made significant strategic progress and our differentiated multi-brand
+business model continues to deliver, with a significant improvement in financial performance and returns,
+along with strong capital generation.
+
+In 2018, we expect a net interest margin of around 290 basis points, in line with the second half of 2017,
+and again, demonstrating the strength of the group's margin given our multi-brand strategy and overall
+management of pricing and volumes across the whole balance sheet.
+
+We also expect to continue -- or continue to expect the cost-to-income ratio to further improve, the asset
+quality ratio to remain below 30 basis points and capital generation to be in line with our ongoing guidance
+of 170 to 200 basis points.
+
+We are well positioned for the future and face the next stage of our strategic development with confidence
+as we continue to build on our existing competitive advantages and develop new ones. You will hear from
+various members of the senior management team later this morning, and they will provide you with an
+overview of the key strategic priorities and the initiatives we'll be implementing under the next phase of
+the group's strategy.
+
+I will now hand over to George, who'll run through the financials in more detail.
+
+M. Culmer
+
+Thank you, António, and good morning, everyone. As you already heard, the group has delivered a strong
+financial performance in 2017, with statutory profit before tax up 24% at GBP 5.3 billion, and underlying
+profit up 8% at GBP 8.5 million. This performance was driven by a strong final quarter in which underlying
+profit was up 7% on Q4 2016 and net interest income up 14%, with a net interest margin of 290 basis
+points and in line with Q3.
+
+In terms of the full year, net income is up 5% at GBP 17.5 billion, reflecting both higher NII and other
+operating income. Operating jaws were a positive 4% and the group's market-leading cost-income ratio
+has improved further to 46.8%, while asset quality remained strong with a net AQR of 18 basis points
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+and a stable gross AQR of 28. And as you've heard, the group delivered an underlying return on tangible
+equity of 15.6%, up 1.5 percentage points; and a statutory return of 8.9%, up 2.3 percentage points.
+
+Looking at net income in more detail. Net interest income was GBP 12.3 billion and up 8%, with lower
+funding and deposit costs, again, more than offsetting asset pricing pressure. MBNA has contributed GBP
+430 million of NII for the 7 months of ownership and is performing ahead of our expectations.
+
+The net interest margin for the year was 286, up 15 basis points. And going forward, while we expect
+asset pricing to remain competitive, particularly on mortgages, for 2018, we still expect NIM to be around
+290.
+
+Other operating income was GBP 6.2 billion and up 2%, with a good contribution from Lex Autolease and
+Retail, a robust performance in Commercial, offset by reduced Insurance income due mainly to lower bulk
+annuities. Other income also benefited from the gain on sale of VocaLink. And as previously stated, we
+continue to be a seller of gilts and have realized gains of around GBP 270 million in the year.
+
+Turning to costs. Cost management continues to be a competitive advantage for the group. And excluding
+the impact of MBNA, operating costs fell 1% year-on-year to GBP 8 billion. Total operating costs, including
+MBNA, were GBP 8.2 billion.
+
+Our Simplification program has delivered GBP 1.4 billion of run rate savings, in line with the enhanced
+target we set for the end of 2017. And these savings have helped deliver the 19% reduction in operating
+costs since 2010, with reductions every year and enabling increased investment in the business.
+
+In terms of asset quality, our gross AQR of 28 basis points is in line with the last 2 years. This is after a
+large single corporate impairment in the third and fourth quarters, and the consolidation of MBNA in the
+second half of the year, which adds around 2 basis points to the ratio. Our net AQR of 18 basis points
+reflects the lower expected level of releases and write-backs.
+
+Impaired loans for the group now stand at GBP 7.8 billion, 1.6% of gross lending and down 0.2
+percentage points on prior year. The coverage ratio of 45% is up 4 percentage points, with a prudent
+increase in coverage across all business lines despite the fall in impaired loan ratios.
+
+Within Retail, the mortgage portfolio continues to benefit from strong affordability and falling LTVs. And
+the average LTV across our book is now 43.6%, and nearly 90% of our portfolio has an LTV less than or
+equal to 80%.
+
+In Motor Finance, we continue to take a prudent approach to residual value provisioning. Our prime credit
+card book uses conservative pricing and reserving assumptions, and is performing well.
+
+In Commercial, the book has continued to benefit from effective risk management in the benign economic
+environment, including the continued low interest rates. For 2018, as you've heard, we expect an AQR of
+less than 30 basis points, although IFRS 9 will, of course, introduce additional short-term volatility.
+
+In terms of divisional performance, Retail has put in a strong performance and benefited in the second half
+from the consolidation of MBNA. Underlying profit of GBP 4.4 billion increased 9%, with the net interest
+margin improving by 14 basis points, while other income was up 3%, largely driven by Lex Autolease.
+Lending is also up 3%, including year-on-year growth of around GBP 1 billion in the open mortgage book.
+
+Commercial has seen a 5% improvement in underlying profit at GBP 2.5 billion and a market-leading
+return on risk-weighted assets of just over 2.8%, and well ahead of our target of 2.4%. The net interest
+margin has improved by 18 basis points, driven by 5% improvement in net interest income, while other
+income has remained broadly stable.
+
+Underlying profit in Insurance and Wealth is down 3% on 2016 due primarily to lower new business
+income from bulk annuities and a lower contribution from Wealth. The business, though, continues to
+generate strong returns and capital generation, with an underlying ROTE of just over 16% and a full year
+dividend of almost GBP 700 million.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Finally, in the Center, we've seen increased income on profits due to the GBP 146 million gain on the sale
+of VocaLink and the GBP 274 million of gains on the sale of liquid treasury assets, primarily the gilts that I
+mentioned earlier.
+
+Looking then at statutory profit. Statutory profit after tax is up 41% at GBP 3.5 billion, reflecting the
+higher underlying profit, lower below-the-line charges and a lower effective tax rate. Market volatility at
+GBP 82 million is significantly lower than 2016, primarily due to the GBP 790 million charge for the ECNs
+in prior year.
+
+Restructuring costs of GBP 621 million were in line with 2016 and include the final costs of the
+Simplification program, as well as our investment in our nonbranch property rationalization, the group's
+ring-fencing program and the integration of MBNA.
+
+PPI costs of GBP 1.7 billion include GBP 600 million in the fourth quarter, reflecting an increase in expected
+weekly claims through to the time bar from 9,000 to around 11,000, which is the average received over
+the last 9 months.
+
+Other conduct and remediation charges were GBP 865 million and included GBP 325 million in the fourth
+quarter for package bank accounts, arrears handling and other legacy issues. Going forward, we expect
+remediation costs to reduce significantly.
+
+Finally, the effective tax rate of 33% is lower than prior year due to the impact in 2016 of writing down
+deferred tax assets, but is still adversely impacted by the nondeductibility of conduct charges and is above
+our long-term expected rate.
+
+Turning then to the balance sheet. Loans and advances stand at GBP 456 billion, up GBP 6 billion in the
+year and up GBP 11 billion since the low point in Q1. As guided, the open mortgage book finished the year
+slightly ahead of 2016. And as we heard, the SME portfolio continues to grow ahead of the market, while
+Motor Finance continues to grow strongly and within the group's conservative risk appetite.
+
+The acquisition of MBNA, obviously completed in June, contributed around GBP 8 billion of credit card
+balances and GBP 7 billion of risk-weighted assets. Even after allowing for MBNA, however, RWAs are
+down GBP 5 billion in the year at GBP 211 billion, reflecting the portfolio optimization, model approvals
+and ongoing RWA reduction, predominantly in Commercial.
+
+Finally then, in terms of capital. The group has generated 245 basis points of CET1 in the year. Underlying
+banking operations and Insurance dividend delivered 250 basis points; RWAs, a further 80; and the 40
+basis points came from market movements; all offset by around 120 basis points for conduct.
+
+As you've heard, the strong capital generation has enabled the board to recommend a total ordinary
+dividend of 3.05p per share, up 20% on 2016. And our CET1 ratio, after the ordinary dividend, was a
+strong 14.4%. We also intend to implement a share buyback of up to GBP 1 billion over the next 12
+months, which gives us a pro forma CET1 ratio after the buyback of 13.9%.
+
+In terms of capital requirements, as António mentioned, group's PRA Buffer has now been agreed. And
+after included in the coming systemic risk and countercyclical buffers, the board will now target a CET1
+requirement of around 13% and a management buffer of around 1%.
+
+On pensions, we've taken significant steps in recent years to derisk the pension fund. We've now agreed
+the latest actuarial valuation and the new deficit contribution plan. On IFRS 9, the day 1 impact before
+transitional relief was a reduction of 30 basis points, which will be phased in over the next 5 years. And
+the impact of both pensions and IFRS 9 is fully reflected into our ongoing guidance of annual capital
+generation of 170 to 200 basis points.
+
+And finally, on net assets. After adjusting for MBNA, TNAV increased 3.1p per share before dividends,
+driven by the strong statutory financial performance, offset obviously by a deduction of 3.2p for the
+dividend payments.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+So in summary, our low-risk business, cost discipline and targeted growth continue to provide competitive
+advantage. We've delivered on our October 2014 strategy. And in 2017, we've achieved further significant
+improvements in profit and returns on both statutory and underlying basis.
+
+As you've heard, we've set strong targets for 2018, with a net interest margin around 290, further
+improvement to the cost-income ratio, an AQR of less than 30 basis points and we continue to expect
+ongoing capital generation of between 170 and 200 basis points. The trajectory of the statutory ROE is
+clear, and we're on track to deliver our targeted 14% to 15% return on tangible equity in 2019.
+
+Over the last 3 years, we've made significant strategic progress, and we're well positioned for future
+growth and face the next stage of our journey with confidence.
+That concludes today's results presentation. I think we now have 30 minutes for questions on the results.
+There'll be plenty of time and plenty of opportunity later to discuss the group's new strategy. I should also
+say that António and I will be around during the coming breakouts for any of those we don't get to during
+the shortened Q&A session. Thank you.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Question and Answer
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Right. Shall we start here? Chris.
+
+Christopher Robert Manners
+Barclays Bank PLC, Research Division
+
+It's Chris Manners from Barclays here.
+
+M. Culmer
+
+Welcome back.
+
+Christopher Robert Manners
+Barclays Bank PLC, Research Division
+
+So yes, just 2 questions, if I may. The first one was looking at your strategic update. And yes, I suppose if
+we look at your cost target, your cost-income ratio target and what you're saying about a resilient margin,
+it does actually look like we need a quite punchy other income and loan growth expectation to deliver that.
+Could you maybe tell us a little bit about how you see the growth outlook for the loan book? And I've got
+one more as well.
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Okay, so I'll tell you, as I usually do, segment-by-segment, to give you an idea of what our targets and
+intentions are. So in terms of the open mortgage book, our intention is to do exactly the same that we
+did last year. We expect the open mortgage book to be slightly above the position which it reached at
+the end of the year. And in the mortgage market, given the low growth of the market, historically high
+house prices, uncertainty in general, we think the right thing to do for our shareholders is to continue to
+privilege margin and capital and lower risk, so we'll continue to focus on margin. But we will grow the
+open book in mortgages slightly this year. But over the plan, to your question, we think there will be
+growth in the open mortgage book. In terms of Consumer Finance in general, so including UPLs, Credit
+Cards and car finance, our intention is to grow reasonably in line with the market over the next 2 or 3
+years. It is an area where we are still underrepresented, excluding Credit Cards, where we are where
+we want it to be. And therefore, my best idea is to grow in line with the market. SMEs, where we have
+consistently grown above the markets in the last 6 years and which is a critical area, we think, given the
+huge importance for employment and exports in the country, we have always focused a lot on SMEs as
+you know, our expectation is to continue to gain market share in SMEs. That's why in our Helping Britain
+Prosper Plan, we put out a target of growing net balances in SMEs and Mid Markets by GBP 6 billion by
+2020. So that is an area we expect to grow and gain market share. And finally, on large corporates, we
+don't target as we always did. It depends on how companies want to access the market, through capital
+markets, securitizations, you name it. We don't target Global Corporates. We expect the Commercial Bank
+as a whole to increase its lending and its RWAs. And finally, the closed book, which is getting smaller and
+smaller, will continue to run off. That gives you the coverage of all the segments, I think. You had a second
+question?
+
+Christopher Robert Manners
+Barclays Bank PLC, Research Division
+
+Yes. I just had, I suppose, one more question, which is on competition in the mortgage market. If we are
+seeing TFS coming to an end, if we're seeing -- maybe that puts a bit of pressure on the challenger banks.
+Just trying to think about how you see mortgage market competition at the moment.
+
+António Mota de Sousa Horta-Osório
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Group Chief Executive & Executive Director
+
+Right. I continue to see over the next, let's say, 6, 12 months on the foreseeable future, and I'm a bit
+-- going to be a bit boring on this, but I continue to see a very similar behavior to the past 3 years. I
+continue to expect -- on one hand, as you said, I continue to expect TFS ending to have an effect on
+funding for players in the market in general, especially the ones that took the most of TFS, the smaller
+players. And therefore, that is going to pressure their cost of funds. That would be a reason for prices
+to be go slightly up. On the other hand, some other players have said that they want to increase their
+presence in the mortgage market. So you have 2 contradictory factors there. I continue to expect the
+leverage ratio to be announced on the second half of '18 by the PRA on the ring-fenced bank to have a
+significant impact on the equity that will have to be allocated to mortgages given it becomes a restricting
+factor. So it almost doubles and, therefore, to be another pressure for prices to go slightly up. But all in
+all, as I have been saying now for 3 years, I expect the trends to be the same over the next 12 months,
+so some pressure in mortgage prices, which we will continue to offset given we have higher costs on our
+multi-brands approaching certain brands. And also, given our improved and continuing improving credit
+ratings, our lower wholesale cost of funds, and that's why we are targeting a NIM of 290 basis points
+for the year, which is in line exactly with what happened in the second half of last year. More questions?
+Please.
+
+Raul Sinha
+JP Morgan Chase & Co, Research Division
+
+It's Raul Sinha here from JP Morgan. Can I have 2, please, as well? Maybe first, to start off on NIM and
+the debate. Can I ask what you're assuming in terms of rate sensitivity, please, and the trajectory of rate
+hikes? Because obviously, I think what's quite important today as you've talked about resilience in the NIM
+beyond just the 2018 guidance as well, so trying to understand a little bit as to what is the driver of the
+resiliency in the NIM beyond, let's say, just the 12 months? That's the first one. And then I've got a second
+one on M&A, if you want it now or I can wait.
+
+M. Culmer
+
+These questions are straying off the results, aren't they? Look, in terms of sensitivity, yes, I've looked
+at the Annual Report, buried in there, I think we talk about the now 25 basis points is GBP 80 million or
+something like that. And previously, I think it was about 175 or whatever the numbers were, which is a
+number we have to calculate. But it's a bit of misleading because it depends the extent to which you're
+invested and liquid. And the easy way to short-circuit that and show the sensitivity of the business is to
+look at things like the structural hedge, which we talk about and my GBP 165 billion of invested assets,
+and say 1% on that, which will come over time, is an easy bit of math to do, and the GBP 1.5 billion,
+the GBP 1.6 billion. So without dissing some of the numbers that are in my Annual Report and Accounts,
+that one's not the most meaningful number and it's more important to look at that. Our outlook is --
+and what we've assumed for the plan, is I think rates go to about 1.25% or something by 2020. And our
+original planning assumption was 1 rate hike this year. So we've assumed sort of a steady rise in rates
+over that period. In terms of what gives us confidence against that backdrop, if I start by looking back,
+you know the story of how we manage the business, you know the story of how we manage the NIM.
+You've seen that in the results. You've seen that -- what we've done over the years. We will continue with
+that operating model in terms of how we manage the spread and in terms of how we manage the detail of
+this. There is still more that we can do in terms of some of the Retail liabilities. We've probably got most
+of the biggest gains out of the wholesale funding, those have come through, although we will still be very
+keen and rating upgrades are fantastic and help in those respect. The structural hedge is big in size. And
+whilst somewhat might limit at the moment, in terms of GBP 165 billion, let's see where balances grow.
+And we're very good at growing current account balances, as we have in 2017. If those continue to grow,
+those will add to the volumes. But also, whilst on about that GBP 165 billion in terms of maximum, I'm
+short, as we've said before, and some are about 3 years versus 4 and a bit, so that gives me ability to
+extend and play into rate rises as well, so I can deploy that to generate. So it's a mix of how I manage the
+book, the structural advantage in terms of things like that, that structural hedge, and our confidence that
+those will continue as we go forward.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Just to add one point, you were very thorough. As we have been repeating -- repeating-ly saying, a
+multi-brand strategy that gives what customers want in terms of segmentation, coupled together with
+total integration of all back-office systems and everything the client doesn't see has been, for a long
+time, my strongest belief that provides the best cost-to-income advantage if properly done. First point.
+Second point, as George says, these estimates are being given with what, I think, is quite a prudent
+estimate of interest rates because of the huge uncertainty that faces the U.K. economy on a 3-year view.
+And therefore, we are only forecasting interest rates to increase to 1.25%, with one base rate this year
+increase, while inflation is at 3%. So rates would normally be significantly higher. Why am I saying this?
+Because with this very low and gradual increase of interest rates is what joins the guidance. Should
+interest rates be higher, as George very clearly explained, we are very positively exposed to rising interest
+rates if they rise beyond the plan. Second question?
+
+Raul Sinha
+JP Morgan Chase & Co, Research Division
+
+Yes, that was very comprehensive. On the second one, I mean, what's very clear is there is going to be
+a significant step-up in cash flows. Statutory profit was up 40% and, going forward, it looks very likely
+that you're going to have a lot more cash generation, underpinned by 200 basis points capital generation
+target. In the past, obviously, you have been very clear about returning capital back to shareholders,
+while, clearly, if there is an exceptional opportunity, like there was in MBNA, you would look at that. Could
+you address this -- the question of what you would do with the capital generation? Because now you're
+already at 14%. If you generate 200 basis points of capital per year even after paying what dividends you
+have, there is substantial room, I would argue, to return capital back to shareholders. And what is your
+framework to decide whether you should be returning that capital or reinvesting into growth?
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Well, I think you are completely right, and we have been very clear, as you said, about that. We have
+presented what I think is an ambitious plan. But it is exactly on the -- as in the previous plan, a plan
+based on organic growth. If there is an opportunity like MBNA was a unique opportunity in credit cards
+that came up at contained risks with a 17% expected ROE, it is in our shareholders' interest that we take
+it. And by the way, it's going better than plan. The same thing happens with the smaller-scale Zurich's
+pension and savings business. It gives us a good platform, helped a lot the corporate pensions. The plans
+that António has in Insurance, we could build it or buy it. It's a small amount of capital, but it shows
+how we consider the framework. So we don't have any -- as I said in the previous plan, this will be the
+same. We don't have any special acquisition in sight. Our framework is exactly the same. Our plans are to
+grow organically. We want to grow where we are underrepresented. Should specific opportunities present
+themselves in areas where we are underrepresented, we'll look at it with the same eyes that we have on
+the second strategic plan, main target to grow organically. And therefore, the board will consider, as it
+is very clear on our dividend policy at the end of the year, with all available information what to do with
+the excess capital that we'll have at that time. And now we have very clear capital requirements post
+clarification from the PRA in terms of the buffer and in terms of the stress test, which is 13%, plus around
+1% management buffer. So exactly clear as you describe it. Please.
+
+Andrew Philip Coombs
+Citigroup Inc, Research Division
+
+It's Andrew Coombs from Citi. Perhaps one follow-up on capital and one on your loan-loss guidance. On
+the capital, I think you were clear, but just to clarify, the 13% plus 1% is assuming stable Pillar 2A, stable
+Pillar 2B and embedded in the DSIB and the countercyclical that's coming in. Is that correct?
+
+M. Culmer
+
+You ask a lot. Look, it's -- that is our guidance. We are confident in that guidance. And that reflects the
+countercyclical of about 1%, that reflects the systemic risk buffer coming in, that reflects the capital
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+conservation coming in. And we've got a, currently, Pillar 2A of about sort of 3%. You will find out what
+that is as that moves. As we go forward, we think as we continue to derisk the business, then actually,
+there could be some more opportunity there in that, we'll come to that. The Pillar 2B, as António said,
+we had our review of this in January. We're pleased with that review. We're not allowed to tell you the
+consequence of that review, but it certainly is reflected in the numbers that we're talking to you today.
+
+Andrew Philip Coombs
+Citigroup Inc, Research Division
+
+So you're not relying upon reduction in the 2A or 2b to absorb the DSIB; it's all factored in there?
+
+M. Culmer
+
+We are very confident in our numbers.
+
+Andrew Philip Coombs
+Citigroup Inc, Research Division
+
+Okay. And just following on from that, buyback versus special dividend, the rationale there? And then my
+final question is on loan losses after that.
+
+M. Culmer
+
+Yes, you squeezed that one in. The -- look, previously, we weren't 100% privately owned, the numbers
+were smaller, et cetera, the ordinary dividend was smaller. So I think special as a supplement suited at
+that time. Now we're fully privately-owned, the ordinary dividend is of a more significant, normalized level,
+doesn't need the buttress of a special dividend alongside it. So we think a buyback is more appropriate to
+where we are now and just brings a bit more flexibility as well.
+
+Andrew Philip Coombs
+Citigroup Inc, Research Division
+
+And then on the loan-loss point, if you look at your second half loan losses Q3, Q4, 23, 24 basis points.
+You're guiding to sub-30 for 2018. You're also guiding for sub-30 between '19 and 2020. So you're not
+looking for much of an incremental uptick in loan losses at all despite what you're saying about a higher
+rate trajectory. Admittedly small increases, but nonetheless. So what gives you the confidence given that
+at the point we're at today, unemployment's very, very low, rates are at record lows or close to record
+lows, what gives you the confidence that you're not going to see any form of real uptick in loan losses?
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Well, I think you have to look at our guidance holistically. There is a small uptick in interest rates, but as I
+just answered in the previous question, very small. With a 3% inflation, you would expect the loan bonds
+to yield 4% in normal conditions. So we are expecting the base rates to increase from 50 basis points
+to 125 in 3 years. As I said, that's quite mild. As you know, with low interest rates, normally, you have
+an association of low impairments. And on the other hand, we are at 18 basis points net this year, so we
+expect some increase. We think that the bank is continuing to derisk. So the 40 basis points through the
+cycle that had been 60 basis points in our first strategic review, fourth in the second, will now be lower, 35
+basis points, so continue to derisk of the bank. But given the outlook that we have for the U.K. economy,
+so holistically speaking, what we see is you have these tailwinds that I mentioned to you. We see pressure
+on consumption given disposable income is growing less than inflation. But employment is going up,
+so you have more people consuming. You have exports being positively impacted by the devaluation of
+the pound given we continue to have complete free trade with Europe. Earnings from foreign assets are
+increasing in pounds. The world growth has increased. We are a big open economy that helps the U.K.
+economy. So for me, it looks quite clear, subject to any major political problem in the world, that the next
+12 months will be very much like the past 12 months. When you ask -- and beyond that, obviously, that's
+more difficult to predict. The holistic guidance we give is coherent with the following view. The government
+agree the transition with Europe in December, which we welcome like all businesses. That should be in
+writing in March. By the end of the year, it will be clear what the agreement with Europe will be. And we
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+will have, as businesses, 2 years to plan for that transition, which I think for most businesses is critical.
+For us, as you know, it does not impact anything given that we are completely positioned in the British
+economy. But for the economy itself, it's very important. So people, from year-end, they will have 2 years
+to prepare for whatever the agreement will be. And therefore, for the next 3 years, our holistic guidance,
+I think it's very coherent with that assumption. And given the tailwinds in the U.K. economy and the world
+economy, we see a continued resilient economy going forward. Let's go to this side now, please.
+
+Edward Hugo Anson Firth
+Keefe, Bruyette & Woods Limited, Research Division
+
+It's Ed Firth here from KBW. I just had a couple quick detail points, actually, and one slightly broader
+one. Could you just update us on the back book of mortgages again? You normally give us a sort of quick
+rundown as to where it's been, how it's progressing during the year.
+
+M. Culmer
+
+Oh, the SVR book?
+
+Edward Hugo Anson Firth
+Keefe, Bruyette & Woods Limited, Research Division
+
+Yes, the SVR book, and I guess the HVR book and all the other names. And then the second one was you
+mentioned you had a -- you've revised your actuarial pension deficit. It might have been in the numbers, I
+apologize. Could you just tell us what that actuarial deficit is now?
+
+M. Culmer
+
+Yes -- well, I'll start with the pension. Yes, I mean, it is in the numbers. But it was -- previously, it was
+5.4, and I think it's gone about 7.2, which it doesn't sound like a good result, but that is a good result, in
+terms of what's happened to interest rates, et cetera, inflation expectations. And it reflects the significant
+derisking that we've done over the last few years in terms of hedging ourselves, rates and inflation,
+so in terms of capping and managing that. We also talk about -- it's in the RNS in terms of the deficit
+contributions, which we've agreed with the trustees. And as I said in my presentation, all that is factored
+into our ongoing capital guidance. On the first bit in terms of the mortgage back book, with the pickup
+and rates, we've seen a slight pickup in the attrition level. So I think at Q3, we were talking about 11%.
+It's now around about a 13% attrition rate. And I think it'll probably stay around that level, might touch
+up 14%. And it's just the other side in terms of the pickup in rates, which is going to cause some greater
+attrition there, but it's obviously going to help me in terms of things like reinvestment rates on structural
+hedge. So it's ticked up to about -- as I say, about 13% in terms of the attrition rate.
+
+Edward Hugo Anson Firth
+Keefe, Bruyette & Woods Limited, Research Division
+
+That's an annualized 13%?
+
+M. Culmer
+
+That's Q -- I think that's Q4-on-Q4. So, yes.
+
+Edward Hugo Anson Firth
+Keefe, Bruyette & Woods Limited, Research Division
+
+Right. Okay. And then I guess my final question, was just on tangible book. Your TNAV per share continues
+to be, well, sort of, I guess, down/flattish, which I guess is the reverse of the rising rate environment
+and the repricing of your hedging, broadly speaking. Is that -- first, I guess, is that a fair analysis? And
+secondly, can you give us -- have you got some sort of idea of what you expect TNAV per share to do as
+you look going forward? Because you're obviously factoring in these rate rises into your margin. Should we
+expect the TNAV, therefore, to be somewhat disappointing as you reprice the hedge?
+
+M. Culmer
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+The reprice of the hedge is going to be an adverse impact upon it. And you will see that -- rates rising is
+a good thing. What's the immediate impact of rates rising in terms of my balance sheet? Well, 2 things
+happen actually. In terms of the group balance sheet, it is a -- it hits TNAV as I reprice the hedge, actually,
+it helps me in Insurance and helps the capital position of Insurance, which you don't get visibility of, but
+that's a big plus from a capital perspective that outweighs that. So that will -- as rates rise up, that will be
+a headwind. But going the other way, I've talked about, and we will talk about more again today and later,
+the strong statutory profit growth that have come forth, that'll obviously feed in. And obviously, the big
+counter to that will then, obviously, be what the distribution policy is. But I should expect to see in terms
+of TNAV going forward with that strong stack profit, restatement of the [ bleeding ] obvious, that will drive
+the TNAV, offset by what we determine in distribution. But you're right, in terms of rate rises, you will get
+a headwind as I reprice that hedge.
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+And just to comment on this. I mean, last year, we had an impact from MBNA. Given the high profitability
+of MBNA, there was some goodwill. So If you do a pro forma, as George showed in a slide, for MBNA, we
+-- the TNAV increased by 3.1p. And we basically are distributing 3.2p. So basically, what we commit to be
+distributed, with ROTE of 8.9%. Our target ROTE starting in '19 is 14% to 15%.
+
+M. Culmer
+
+You will get in terms of IFRS tick-over. Whilst we've talked about the capital, that it's more limited because
+you get EEL offset and then you've got transitional rules, it'll hit your sort of TNAV from an accounting
+basis as you step up provisions, as you move into an IFRS 9 world as well.
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Please. Can we have the microphone there?
+
+Claire Kane
+Crédit Suisse AG, Research Division
+
+It's Claire Kane from Crédit Suisse. A couple of questions from me. Firstly, on the CET1 capital calibration.
+You've moved back to kind of plus 1% buffer. And just to ask, if we're sitting here at the interim and we
+have another 0.5% countercyclical capital buffer and your PRA or your Pillar 2A buffer doesn't go down,
+will we be then looking at 14.5% CET1? Or should we consider that your management buffer would adjust
+to accommodate a higher capital stack? That's the first question. My second one is just on the buyback.
+Historically, you've assessed surplus capital at year-end. Do we think now this could be more of an interim
+assessment given your pretty steady capital generation? And then, finally...
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+How many questions do you have?
+
+Claire Kane
+Crédit Suisse AG, Research Division
+
+Sorry just the last one. On the Insurance, you paid up a much larger Insurance dividend this year, I think
+[ 675 ]. Just what's the outlook there, please?
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Okay, George will take 1 and 3. On the second one, the answer is no. I mean, the board will continue to
+assess the capital at the end of the year with all the available information. We decided a buyback with the
+12-month horizon, so we will continue with the cycle of addressing capital surpluses at the end of the year
+with all available information then.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+M. Culmer
+
+And on the Insurance, without being sort of too vague about it, it's a balance between opportunities
+we see in terms of writing new business, market rates, et cetera. 7 is probably at the sort of top end of
+what you'd expect, benefits from both, it's the sort of counter to some of the things you see in OOI. And
+I've talked about the lower bulk annuities. If I'm not putting the capital to work there, then that feeds
+into the surplus position, we've distributed it. We also benefited from market movements at year-end.
+We've also benefited from market movements subsequent to year-end in terms of what you've seen. And
+something like the 15-year swap rate is probably the key thing to look at. And as that grows up, that
+will help my capital position. But 700 is at the sort of top end, I would have said, in terms of run rate-
+type expectations. And then asking me for the future in terms of what the board might do, I always find
+those questions a bit tricky. I'm not going to commit on what we might or might not do. And we currently
+assume around 1% in terms of the countercyclical within our 13%. If it goes up to 50 basis points, we'll
+have to assess it in the circumstance at the time. So I know it's not a definitive answer to your question,
+Claire, but I can't answer in terms of what we might do in a future circumstance. The 13% assumes the
+1%.
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Right. Any more questions?
+
+M. Culmer
+
+Douglas.
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Please, Douglas?
+
+Douglas Radcliffe
+Group Investor Relations Director
+
+Just one more question.
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Yes, one more question. I have not gone to that side of the room. So, please.
+
+John Cronin
+Goodbody Stockbrokers, Research Division
+
+John Cronin from Goodbody. Two questions from me, one in relation to the Pillar 2A again and where -- I
+suppose going in the opposite direction to the last question, to the extent that -- you mentioned derisking
+from a P2A perspective, with potential reduction from the current circa 3% level in the future, to the
+extent that everything else were to remain equal, would you dare -- would you bump up the management
+buffer? Or would you reduce your minimum target CET1 capital ratio were that sequence of events to
+unfold? Secondly, on the PPI. You mentioned that the lock-in average over the last 9 months now was
+11,000. So if you could give us any more information in relation to how that's evolved since the third
+quarter, that would be very super helpful.
+
+M. Culmer
+
+Okay. So I'll deal with PPI before we come to the hypothetical one. The -- yes, so PPI, we've gone up to
+11,000. I think as we disclosed, the extent to which, if it has to go up again, or 12,000 or whatever, it's
+about -- for every 1,000 now, it's about GBP 200 million. And obviously, the closer we get to the time
+bar, the penalty, if you like, for being wrong or the benefit from being wrong diminishes. So 11,000, it's
+moved around a lot. As you might expect, this is a -- what we assume is a completely static -- every week
+of the year, 52 weeks of the year, I'm going to get 11,000 now. And the most previous experience, that
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+includes December and early January, which are fallow periods because not much happens, so you've got
+lows there. The most recent we've seen is slightly above that. The most recent week was about 12,500.
+That's what we saw last week, so that's the most recent. We will remain susceptible to what comes
+through the door. If you look at the go-forward, the FCA had those -- with the Arnold Schwarzenegger
+ads or whatever, unfortunately, something's going to follow that. And so we've got 1 large campaign and
+2 small campaigns to come, so there'll be increased publicity. At the same time, we've got the PPI CMC
+fee cap that comes into play in 2018, so it'll be interesting to see what impact that has. So there are still
+a number of variables out there, and there's the behavioral consequence as you get near sort of closing
+time. So those are still out there. We've budgeted for what we've seen or provided for what we've seen,
+but there are still uncertainties around that. And then, unfortunately, a bit like Claire's question, I can't
+give you hypotheticals. I mean, the Pillar 2A, which, again, I'm restricting what I can say to you, but
+it reflects those risks that aren't captured. Look at the things that we're doing. We've talked about the
+earlier question to pensions. As I put money into my pension scheme and make those deficit contributions,
+then, theoretically, your charge in terms of Pillar 2A should go down because you're actually mitigating
+that risk through contributions. I've been a seller of things like gilts, et cetera, you get charged for things
+like asset swap risk. If I've got less gilts, there should be less than that. So I can give you the reasons
+why, as I derisk, you should see a smaller amount, I can't guarantee that. And I'm afraid what I can't do is
+tell you that if that happens, what the response of the business would be because it will depend upon the
+circumstance at that time. But it's certainly an area of opportunity.
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Okay. Look, thank you very much. We have to stop now for the breakout sessions. But any remaining
+questions, we'll take at the end of the breakout session and the strategy review. So you have time to
+address the remaining questions. Do you want to give any indications?
+
+Douglas Radcliffe
+Group Investor Relations Director
+Yes, as António said, there are going to be plenty of opportunities for questions through the rest of that
+day and after the breakout question. So don't worry, there will be that opportunity.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Presentation
+
+Douglas Radcliffe
+Group Investor Relations Director
+
+We'd now like to move on to the strategic update. And I'd like to introduce our Chairman, Lord Blackwell,
+who will provide a brief introduction to this transformational strategy that we're about to implement.
+Thank you.
+
+Norman Roy Blackwell
+Chairman of the Board
+
+Thanks very much, Douglas, and welcome, therefore, to the second part of our presentation this morning
+where António and the team will set out the next chapter of our strategic development. This does mark
+an important inflection point to the group, with the significant change in gear in the transformation of our
+bank.
+
+As you know, the last 2 strategic plans have focused on the recovery of the group's financial strength
+and on restoring our customer focus. But both António and I have repeatedly said that we could not be
+complacent. We've recognized that the environment we face in technology and competition is moving at
+pace.
+
+So 2 years ago, the board and the executive set out together on a major exercise to create a vision for the
+bank of the future. And as that clarified, we've translated that into an ambitious transformation program
+to meet that challenge, a transformation program to which the board and the executive team are totally
+committed.
+
+And the whole board believe this scale of ambition is the right approach to enable us to maintain our
+core purpose of supporting the U.K. economy, Helping Britain Prosper and to sustain our long-term
+competitiveness as the best bank for our customers, colleagues and shareholders.
+
+So with that, let me hand over to António to take you through the components of that transformation and
+how we will deliver it. Thank you. António?
+
+Antonio Lorenzo
+Chief Executive of Scottish Widows and Group Director of Insurance & Wealth
+
+Thank you, Norman. As you have heard in the results section of the presentation, 2017 closed the
+successful delivery of our second strategic plan and provides solid foundations for our third strategic plan,
+GSR3.
+
+We have a number of structural advantages which are difficult to replicate in terms of how we meet
+customer needs, including our differentiated multi-brand and multichannel propositions, our customer
+reach as the largest banking franchise in the U.K. and our leading digital capabilities. Together, these have
+seen our customer Net Promoter Scores increase by almost 50% since 2011 to 62%.
+
+At the same time, our market-leading efficiency, which is both a strategic- and culture-driven outcome,
+fully embedded in the organization, allows us to significantly increase investment again in our next
+transformation phase.
+
+Our prudent, low-risk participation choices and strong capital position have been reflected in the recent
+improvement in our external credit ratings and cost of funds, and should also decrease our cost of equity
+going forward.
+
+Finally, our management team discipline and rigorous execution capabilities have enabled us to deliver
+capital generation and profitability that are markedly stronger than our peers.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Looking ahead, it is these qualities that underpin our confidence and scale of ambition. GSR3 represents
+an exciting opportunity, and the entire management team is energized, committed and determined to
+deliver the next phase of our transformation.
+
+Our confidence is built on the fact that we are already delivering a market-leading digital experience. We
+are, by far, the U.K.'s largest digital bank and are able to meet 68% of our customers' banking needs
+online, which is at the top end of the targeted range we set out 3 years ago.
+
+This scale has been achieved through the best-in-class experience our customers enjoy, with market-
+leading functionality, resulting in being rated #1 digital banking app since 2015. And having achieved
+this scale, it gives us the capacity to continue investing more than our competitors in market-leading
+platforms, an ongoing source of competitive advantage.
+
+While we have delivered best-in-class experience to our customers, we need to constantly evolve to meet
+their changing behaviors and expectations. Customers increasingly want greater personalization, more
+connected and seamless experience, but with higher security and safety in the online environment. They
+want simpler products with greater convenience and ease. The strategic plan we are presenting today
+aims to provide a proactive response to the opportunities created by these changes.
+
+So let me briefly outline how our 4 strategic priorities will enhance our existing strengths and transform
+the group for success in a digital world. First, to continue to provide a leading customer experience, we
+will drive stronger customer relationships and experience, through data-driven insights, and offer more
+personalized products and services.
+
+Second, in digitizing the group, we will deploy new technologies, such as cognitive and machine learning,
+cloud and API channels to improve our efficiency and productivity and make banking simpler and easier for
+customers.
+
+Third, we will maximize our group capabilities by bringing the best of the group to all customers and
+delivering deeper relationships and integrated propositions. An example of this is financial planning and
+retirement, where we will provide our banking and insurance customers with a truly holistic proposition to
+meet their retirement and long-term savings needs.
+
+And fourth, in transforming our ways of working, we will enhance our talent pool by focusing on skills of
+the future, whilst embracing new technologies to drive better outcomes for customers and colleagues.
+
+We are, therefore, announcing today more than GBP 3 billion of strategic investments over the next
+3 years, a 40% increase over the last plan, to deliver the scale of transformation we believe will be
+necessary for us to succeed in a digital world.
+
+As I have mentioned, the scale of investment we are uniquely able to afford in building new platforms
+and customer propositions is a massive undertaking and provides the scope to be highly ambitious in
+delivering both an efficient and market-leading business.
+
+So what will these priorities deliver? By enhancing our digital capabilities, we want to remain the #1
+digital bank in the U.K. with open banking functionality. We are proud of being the only large U.K. bank
+to have complied with the open banking implementation deadline earlier in the year. And the frequency of
+customer interactions with their digital bank provides increasing opportunities for offering relevant online
+information and guidance to help customers identify propositions that can serve additional needs, a very
+effective and cost-efficient way of widening our relationship with them.
+
+We continue to be committed to our multichannel model and see branches as another customer-driven
+resource, where we want to retain the #1 branch network in the U.K. We will, therefore, refocus our
+branch network to meet more complex and value-added banking needs, such as mortgages to first-time
+buyers, financial planning and retirement and business banking.
+
+With one of the largest databases in the U.K, we'll invest significantly in our data capabilities to ensure
+we are able to harness this resource more effectively and provide more personalized propositions to
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+better meet our customers' needs. Vim and Jakob will take you through these later in one of the breakout
+sessions.
+
+Moving on to our second priority of digitizing the group. We will continue to simplify and modernize our IT
+architecture, scaling up end-to-end customer journey transformation to cover more than 70% of our cost
+base compared to 12% during GSR2. You will hear more on this from Zak in one of the breakout sessions
+as well.
+
+Our third strategic priority of maximizing group capabilities will deliver targeted growth, and we expect
+to see a GBP 6 billion increase in net lending to start-ups, SMEs and Mid Market clients, as you will hear
+from David in the breakout sessions, and over 1 million additional pension customers and GBP 50 billion of
+asset growth in our open book financial planning and retirement propositions.
+
+We see a significant opportunity as the U.K.'s only integrated financial services provider to meet our
+customers' banking and insurance needs holistically, as you will hear in more detail from Antonio Lorenzo
+in another breakout session.
+
+Last but not least, transforming ways of working will focus on how we will deliver our bold transformation
+agenda itself. As part of this, we will adopt Agile methodologies for more than 1/2 of our change projects,
+significantly improving productivity and responsiveness. Jen Tippin will take you through this and define
+Agile characteristics during one of the breakout sessions.
+
+Importantly, the success of our transformation will depend on our people. We will, therefore, significantly
+increase our investments in developing in-house capabilities and increase training hours by over 50%
+compared to the previous plan, focusing on the key skills our workforce will need for the future.
+
+Importantly, our strategic plan will also deliver greater value for our shareholders. While we are targeting
+a significant increase of 40% in our strategic investments to over GBP 3 billion over the plan period, we
+will achieve a net reduction in our cost base to less than GBP 8 billion in 2020.
+
+Our continued focus on efficiency has created capacity for increased strategic investments in the business
+while achieving superior returns for our shareholders. We will be able to more than offset inflationary cost
+pressures being faced by the sector and expect to achieve a low 40s cost-to-income ratio as we exit 2020,
+inclusive of any future remediation costs.
+
+In addition, whilst we expect to grow in key targeted areas, we are improving our expected through-the-
+cycle AQR guidance from 40 to 35 basis points, with an expectation that this will be less than 30 basis
+points throughout the plan period.
+
+Whilst investing significantly further in the business, we are committed to generating superior returns
+for our shareholders and are increasing our ROTE target to a range of 14% to 15% from 2019 onwards,
+despite this being based on a higher target CET1 ratio of circa 13%, plus around 1% management buffer.
+
+Finally, we are reconfirming our existing guidance of generating between 170 and 200 basis points of
+CET1 capital per year. As we discussed in the 2017 results section, we are committed to a progressive and
+sustainable ordinary dividend while retaining the flexibility to return surplus capital.
+
+In recent years, we have successfully delivered on the overall targets we set ourselves in early 2014 within
+our Helping Britain Prosper Plan, providing ongoing support to the people, business and communities in
+the U.K.
+
+To highlight just a few. We have provided more than GBP 10 billion of lending per year to first-time buyers
+since we launched the plan 4 years ago, and our target is to provide a further GBP 30 billion over the next
+3 years. In recognition of the evolving skills needs of the U.K, we have trained over 700,000 individuals,
+businesses and charities in digital skills since last year, and are looking to increase this to 1.8 million by
+2020.
+
+We have increased net lending to SMEs by 15% since 2014, significantly outperforming the 1% growth
+seen in the market. Recognizing the critical importance of start-ups, SMEs and Mid Market businesses to
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+employment and experts in the U.K. economy, we are targeting an additional GBP 6 billion of net lending
+in this space by 2020.
+
+We also became the largest U.K. corporate taxpayer in 2015, and will further increase our total taxes paid
+in coming years. And we have made great progress in our gender diversity target, up from 29% in 2014 to
+34% in 2017. These are just a few examples of our commitment to the U.K. economy as the largest U.K.
+financial services provider focused -- completely focused on Helping Britain Prosper.
+
+The external environment is evolving rapidly, and the team and I are confident that this exciting and
+ambitious plan, with the significant additional investments, will mean we remain at the forefront of U.K.
+financial services. We will continue to be a simple, low-risk, customer-focused business while transforming
+the group into a leading, digitized U.K. financial services provider.
+
+As Norman and I have said, this is a bold and ambitious program, but the sound platform we have now
+established gives us the confidence that we are ready to deliver the pace and scale of the transformation
+required.
+
+I would now like to turn over to Juan Colombás, our Chief Operating Officer, who will give you some more
+detail on how we are investing to transform the business.
+
+Juan Colombás
+COO & Executive Director
+
+Thank you, António. As António has just outlined, GSR3 constitutes an ambitious transformation for
+our group. I would like to briefly explain to you how we have prepared successfully to deliver our
+transformation of this scale.
+
+Let me start by introducing our current model, which distinguishes us from our peers. We are focused
+on a single geography. We have a simple operating model, and we have a centralized management team
+who have a proven track record in managing transformation. In a world where you need to be nimble to
+respond quickly to external changes, we believe our model gives us considerable structural advantages.
+
+Last July, we announced changes to our organizational design to prepare us for the successful delivery
+of GSR3. As a result of these changes, we have brought together under one umbrella all the critical
+components needed to implement the transformation. This simplified structure is unique and provides a
+more consistent approach to the end-to-end transformation of customer journeys, alongside our greater
+focus on our digital and transformation agenda.
+
+Investment decisions are now organized around customer journeys. This ensures better allocation of
+resources and a greater focus on group-wide outcomes. We have also moved from the traditional annual
+investment allocation process to one where investments are reviewed more frequently. This will allow us to
+adapt to a changing environment and reprioritize if required, depending on customer behavior and market
+dynamics.
+
+On the ground, we are co-locating teams from across the business, bringing together all the capabilities
+required to deliver the transformation. These teams are adopting an Agile approach and focusing on
+outcomes to be achieved rather than initiatives to be delivered. This helps to ensure faster and more
+efficient delivery of change for our customers. As an executive team, we are committed and excited to
+position our group as a leader in transformation.
+
+As you have heard from António, over the next 3 years, we will deploy more than GBP 3 billion of --
+in strategic investments, representing a 40% increase on GSR2. To get a sense of the scale of the
+transformation, on an annual basis, this is roughly the same as the GBP 1.3 billion invested in FinTech
+companies in the U.K. in 2017.
+
+Importantly, as we increase our strategic investments, we are not giving up on our ambition to deliver
+market-leading efficiency. Over the GSR3 period, we will bring down our operating cost base to less than
+GBP 8 billion in 2020. We will do so by maintaining our cost discipline, and by redeploying the efficiency
+gains we will generate from technology-enabled productivity improvements.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Our largest-ever strategic investment will focus on 3 main areas, all of which will support our GSR3
+strategic priorities: technology, people and data. In GSR2, we built the U.K.'s largest digital bank. In
+GSR3, we will go beyond this to create a leading digitized, simple, low-risk, customer-focused U.K.
+financial services provider.
+
+We would like you to -- we would like to invite you to 3 breakout sessions hosted by the business
+and transformation leads. This will take place in smaller groups, and you will have the opportunity to
+hear more about each of our strategic priorities and ask questions to the team that will deliver the
+transformation.
+
+After a short lunch break, George will then present our financial projections and targets, before António
+provides some closing thoughts on our strategic plan. You will then have the opportunity to ask questions.
+
+Douglas Radcliffe
+Group Investor Relations Director
+
+Thank you, Juan. As you've no doubt realized, we'll be running the 3 breakout sessions concurrently. And
+we're, therefore, now going to break you into 3 separate groups.
+
+You've all been giving these lovely lanyards that we'll have. You will notice they're either blue, purple or
+green, and they respond to your individual breakout groups. Our hosts are on site, have got signs around
+the room as to where they're going to be. And essentially, those hosts will also ensure that you're taken
+onto the next section directly afterwards.
+
+So if you have a blue lanyard, you'll be heading to -- initially to the door over there. If you have a purple
+lanyard, please make your way over to -- by the white panels in the corner. And if you have a green
+lanyard, please make your way to the doors where you came in.
+
+So if you'd like to kindly make your way to the corresponding host, we're now delighted to start the
+breakout sessions. Thank you.
+
+[Break]
+
+M. Culmer
+
+Okay. Should we get going again? Afternoon, everybody. I hope you found lunch plentiful and the breakout
+sessions useful. You will be pleased to hear that the end is now in sight.
+
+Look, what I'm going to do now is very briefly summarize the financial business performance that we'll be
+delivering over the next phase of our strategy.
+
+But firstly, as António mentioned today earlier on, the U.K. economy has been resilient and going forward,
+while we have prepared for contingencies, our base plan and projections assume this performance
+continues with a steady increase in base rates to 1.25% by the end of 2020, as I think as I said earlier.
+
+Now against this backdrop, as you've heard, we have a clear strategy that will deliver superior returns and
+create greater value for our shareholders. Over the next 3 years, as you've heard, we'll be investing over
+GBP 3 billion of strategic investment to support our priorities of delivering a leading customer experience,
+further digitizing the group, maximizing capabilities and transforming the way we work.
+
+These priorities will, in turn, drive sustainable and low-risk growth, further improve our market-leading
+efficiency, deliver superior returns and a lower cost of equity and enable strong capital generation and an
+attractive capital return policy.
+
+In terms of sustainable growth. Going forward, we have clear targets to remain the #1 digital bank and
+the #1 branch network. And across the group, we'll maintain our strategy of targeted growth in both
+channels and products, where we are below our natural market share and which are attractive to us.
+
+As you've heard in the breakouts this morning, these areas include in insurance; the financial planning and
+retirement and the target of a GBP 50 billion of open book asset growth; home insurance and protection;
+and individual annuities.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+In commercial, we're targeting the GBP 6 billion net lending growth for start-up, SME and Mid Market
+businesses and we're improving our product ranges across trade, working capital, payments and cash
+management.
+
+In retail, we'll deliver targeted growth in motor finance, continue to deliver on the integration of MBNA and
+use enhanced capabilities and personalized propositions to grow in attractive, underrepresented market
+segments.
+
+And in mortgages, while we expect the market to remain competitive and we will continue to balance
+volume and margin considerations, we'd still expect to grow the open book over the plan period.
+
+Finally, we'll also retain the flexibility to consider inorganic growth opportunities that enhance our product
+or capability offering, and where our financial strength, low-cost operating model and proven integration
+skills give us clear competitive advantage.
+
+In terms of risk profile, this targeted growth will be in line with our low-risk business model. This model is
+underpinned by our prudent participation choices and the portfolio derisking that we've undertaken over
+the last few years.
+
+As a business, over 95% of our assets are in the U.K. Over 2/3 of our portfolio is in secured assets with an
+average LTV of 44% across our mortgage portfolio. Our high-quality unsecured portfolio represents just
+6% of total loans, and our run-off assets are down by over 95% since 2010 and comprise just 2% of loans
+and advances.
+
+And finally, we have very limited exposure to high volatility business lines. At our last strategy update, we
+talked about a through-the-cycle AQR of around 40 basis points. Going forward, IFRS 9 will, obviously,
+introduce greater short-term volatility and the acquisition of MBNA will also add around 4 basis points to
+our annual charge. However, we believe that with our low-risk model, our active derisking, the benefits
+of enhanced data and analytics capabilities that the through-the-cycle AQR has fallen to around 35 basis
+points and, as mentioned this morning, we currently expect an AQR of less than 30 over the planned
+period.
+
+On cost, as you know, we have a strong record for reducing costs and this will continue in the next
+phase of our strategy. Our strategic investments and management actions in changing the way we work,
+transforming more than 70% of the cost base and driving a 30% improvement in change efficiency and
+reduction in external contractors, will deliver operating costs of less than GBP 8 billion by 2020 compared
+with more than GBP 10 billion in 2011.
+
+This action on costs and our targeted top line growth will drive further improvements in our cost:income
+ratio. And going forward, the cost:income ratio will include both operating and remediation costs as well
+as, of course, the cost of the strategic investments that we've announced today.
+
+And on this basis, we're targeting a cost:income ratio in the low 40s as we exit 2020, compared with the
+51.8% in 2017, and we will continue to target cost-income reductions each year.
+
+In terms of profits. Over the last few years, we've delivered consistent and strong underlying profits and
+increasing statutory returns as we've resolved legacy and dealt with remediation.
+
+Looking forward, our targeted growth, resilient net interest margin, low-risk business model and lower
+operating and remediation costs will drive strong statutory profit growth. And after tax profits will further
+benefit from an effective tax rate of around 25% compared with more than 30% in 2017, and our previous
+guidance of around 27%.
+
+Looking at return on capital. Again, as you've heard, we're firstly increasing our targeted capital
+requirements to circa 13% plus a management buffer of around 1%. We're a prudent bank and this
+increase will make us even stronger and more resilient. And this capital increase should theoretically
+reduce our statutory returns by around 90 basis points. We are, however, today announcing that with the
+actions we're taking and our confidence in the delivery, that we are increasing our ROTE guidance to 14%
+to 15% from 2019 onwards.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+And this market-leading returns were generated by a bank with a clear low cost of equity. Our simple
+differentiated business model with its U.K. focused, reshaped and derisked business, market-leading
+efficiency, strengthened capital base and ambitious transformation plan will drive both higher returns and
+a lower cost of equity and therefore, superior returns for our shareholders.
+
+Finally, on capital. As you know, we'll continue to target annual capital generation of 170 to 200 basis
+points with our strong profit growth, giving us headroom to fund business and RWA growth and absorb
+any capital headwinds. We have a clear framework and track record for capital return to shareholders.
+
+Ordinary dividend will provide a progressive and sustainable earnings stream, reflective of the consistent
+strength of our underlying earnings, while we will continue to return our capital surplus by an appropriate
+means, which we currently see as share buybacks.
+
+With that, I'll hand over to António for the close.
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+As George said, we hope the sessions with our management team today have helped you gain a better
+understanding of our capabilities and priorities for our next strategic plan.
+
+We are confident the 4 strategic priorities we set out will deliver a further fundamental transformation of
+the group. GSR3 is a bold and ambitious plan and represents a very significant step-up in our strategic
+investments over the next 3 years.
+
+We have all the critical components required for successful delivery of this transformation. We have solid
+foundations on which we can build: our strong track record and expertise of delivering large and complex
+change programs; our experience of building the largest digital bank in the U.K. and delivering customer
+journey transformation; and the experience and dedication of our management team, which will allow us
+to seize the opportunities that lie ahead.
+
+GSR3 represents an exciting opportunity for us. And our entire management team and the senior
+leadership team across the group are energized, committed and determined to delivering across the 4
+priorities of this strategic plan.
+
+And we are confident that the delivery of this ambition will translate into greater value for our
+shareholders as outlined in our revised financial targets.
+That concludes the presentation. Many thanks for joining us here today. And we will now take your
+additional questions.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+23
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Question and Answer
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Please. Jonathan.
+
+Jonathan Richard Kuczynski Pierce
+Exane BNP Paribas, Research Division
+
+It's Jonathan Pierce from Exane BNP Paribas. I've got 3 questions. I'm sorry to focus on numbers as
+opposed to the qualitative aspects of the strategy. But I'm just thinking about your numerical targets.
+Firstly, I wonder, George, if you could set out for us, for the spreadsheets, the sort of size of the
+amortization of purchased intangibles, fair value unwind and any additional restructuring that might come
+below the line over the course of the next year or 2. And I guess, related to that, can I just check the
+investment spend of GBP 3 billion, is that all going to be expensed or will a portion of that be capitalized?
+And will it be above the line and so on and so forth? So that's the first. Do you want me to give you the
+other 2?
+
+M. Culmer
+
+That sounded like 2 questions. How many were there?
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+So you have one more.
+
+M. Culmer
+
+We've got one more.
+
+Jonathan Richard Kuczynski Pierce
+Exane BNP Paribas, Research Division
+
+Okay. I mean, I guess, the -- if I've got one more, I'll ask quite a crude question and it simply relates to
+where your targets appear to be pointing 2, 3 years out relative to consensus. Because if I just simply
+take the 2020 exit numbers, I'm getting to a revenue that's GBP 1.5 billion or so above where consensus
+is. Impairment probably a little bit lower, and you're ending up with an EPS number that's substantially
+above consensus at the statutory level at the moment. And we can also give you on impairment. But
+maybe you could give us a bit more confidence as to why you think revenue is going to be that much
+better than what the market has it?
+
+M. Culmer
+
+Okay. Well, dealing those in order. In terms of the, sort of, below the line. So you'd have seen this year,
+I think we had about sort of GBP 0.6 billion, which I think was about GBP 0.3 billion of ring fencing and
+about GBP 0.1 billion of property and about GBP 0.1 billion of MBNA amortization. For 2018, dealing
+with the short term, I'd expect there to be about another GBP 0.2 billion, GBP 0.3 billion on ring fencing,
+probably about another GBP 0.1 billion in terms of property and probably about a GBP 0.1 billion in terms
+of the MBNA integration spend. Fair value unwind, without precise numbers in my head, the GBP 0.2
+million, GBP 0.3 billion of that type order, sort of below the line. Those are the sorts of numbers that we're
+talking about below the line. The more than GBP 3 billion, yes, we're going to take that above the line.
+Yes, an element of that we're going to capitalize, of course, we will. If we're going to analyze, that relates
+to revenue generation, latest costs takeout, et cetera, et cetera, but all that will go in and all that is in the
+number. When we talk about our operating costs of below GBP 8 billion, that was below that GBP 3 billion
+or the more than GBP 3 billion, the element that I'm expensing, the element that I'm capitalizing and then
+depreciating, that will go -- that is all in that number. The only numbers I would take below the line would
+be were there any redundancy or anything like that. As I said, we don't know what's going to happen on
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+24
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+headcounts, so I haven't put any predictions in for that, but that would -- but the more than GBP 3 billion
+will be dealt with above the line and is in the number. In terms of -- I haven't looked to what the guidance
+is for 2020, so I can't sort of comment on what that does for implied revenue-type numbers, but, I mean,
+I think we've been quite clear in terms of our low 40s. I think we've been quite clear that, that is a change
+of definition which we haven't majored on, but that will include remediation. But the reason we've given
+the sort of hard target as well, which I think is helpful for people and we're below the GBP 8 billion, below
+the GBP 8 billion for those operating costs and that's operating costs including all the consequences of that
+investment spend but excluding the remediation, but my low 40s is both those elements. Operating costs,
+investment plus remediation will be in the sort of the low 40s. That is our expectation. Look, in terms of
+how that pans out and back solve it into income numbers, as I say, I don't know what consensus is for '20
+so I can't comment on, but that's right for our business and...
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+I think the only thing I would add to what George said is that, obviously, cost-to-income is a ratio of
+2 numbers, and the guidance we gave was below GBP 8 billion. That's what I would add. Any more
+questions? Please, Alvaro?
+
+Alvaro Serrano Saenz de Tejada
+Morgan Stanley, Research Division
+
+Alvaro Serrano from Morgan Stanley. Just on cost, staying with cost. Obviously, the below 8 -- as you
+say, below GBP 8 billion leaves a certain leeway. You're making GBP 3 billion investments which is a very
+large number. Can you give us a sense of how the cost ranges of staff costs, maybe depreciation and
+amortization, how the -- sort of the different lines might change the shape of the usual traditional banking
+versus what you see going forward? And also, given it seems like the 40% target is the key target, I would
+-- if what -- where do you see more flexibly if revenues disappoint or revenues do better? What would
+you flex in that GBP 8 billion? And the second, just a clarification, the below GBP 8 billion, that includes
+remediation costs?
+
+M. Culmer
+
+No. As I was just saying, that's operating costs, okay? So that excludes remediation. The low 40s cost
+income includes remediation, okay? But that below GBP 8 billion excludes remediation, okay? To your
+first bit, it's a sort of yes or no. I mean, thematically, what you might expect to see and we've done this
+for the last few years and we talked about it in the presentation, but to create the capacity to make this
+level of investment, we've driven down BAU costs. And we will continue to do that as we drive efficiencies
+through the business, and that can replace, to a certain extent, as I -- going to previous question, as I
+capitalize and amortize, all that type of stuff come through, but you would continue to see a drive down in
+what we would call those business-as-usual expense, and you'll continue to see an increase in things like
+depreciation come through because that is the nature of the cost base in terms of increased automation,
+and that is the nature of our spend. So I'm not going to give you the precise breakdown of the number,
+but that is something we've seen over the last few years, and you will see that continue. Drive down BAU,
+create the capacity to invest, and you'll see a pickup in things like depreciation charges coming through.
+In terms of how we flex, look, we will deal with it if and when we get there. I think, again, we showed
+over the last few years, and I know it's hard to perceive this from the outside looking in, but the real
+advantage that Lloyds has is operate as a single entity, the stuff that Juan talked about and being able
+to respond. I've worked in multinational businesses and it takes you a quarter to work out what's going
+on, a quarter to work out what to do with it, and by then, the year's nearly gone type of stuff. Being able
+to actually meet weekly, have the business in front of you, see the results and as a management team,
+determine action and take that early enough in the year to have 11-months impact or 10-months impact
+on stuff makes a massive difference in terms of how you run the business. I know we talk a lot about
+how we utilize that for managing the sort of spread, but how you utilize that for managing the day-to-day
+operations of the business as well, it's a big structural advantage. I know it's easy me saying help you to
+realize, but that is how it works.
+
+António Mota de Sousa Horta-Osório
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+25
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Group Chief Executive & Executive Director
+
+And Alvaro, I would like to add a point to what George just said, which is, I mean, as I said in my
+introductory remarks, this is a critical strategic advantage, which is both strategical and cultural. To have
+a culture of austerity in the sense that you don't spend more than what you should is what enables us
+to release money, to have higher and higher levels of investment over each of the last 3 plans we did.
+And it becomes a virtuous cycle because the more we invest, the better we have products for customers,
+the higher the NPS, also the investments which are driven at productivity, they lower the costs. And the
+more we release to further invest and you are on a virtual circle, where our cost-to-income allows us to
+both invest greater amounts of money to the benefit of our customers and deliver superior returns for
+our shareholders. We have been repeating this for 6 years, and it is now a reality, with a 46% cost-to-
+income, and the average of the sector is 60%. Of course, you can adapt for different business mixes.
+You can adapt for costs in the center. You'll not get a very different picture. And this is a critical strategic
+advantage and even more critical in a digital world. Please.
+
+David John Lock
+Deutsche Bank AG, Research Division
+
+It's David Lock from Deutsche. I've got 2, please. First one's on the capital generation target you've given,
+170 to 200 bps. I note that, obviously, you've raised the ROTE target and the capital generation is pretty
+similar to where we are today. You talked about pensions being a drag on that. You talked about IFRS 9. I
+just wondered if you baked in any risk-weighted assets inflation in there?
+
+M. Culmer
+
+A bit, yes. And you're right, I mean, we talk about stat profits sort of doing that and my capital guidance
+says that, and that is because of that. As we move forward -- the last few years, rather, kind of markets
+go away. Markets will do what they will do as we move forward, but in terms of reducing my balance
+sheet, as you've seen in the reconciliation earlier today, we've had a fundamental benefit from RWA. As I
+go forward, I sort of both will be growing my book, RWA growth. I think RWA intensity will improve -- well,
+sorry, will increase as well, bit of mix, but as we deal with the regulation. On top of that, there's things like
+pensions that we've talked about as well. So -- and it also gives me a bit of flexibility to deal with capital
+headwinds, but that's why one goes up and one is relatively stable.
+
+David John Lock
+Deutsche Bank AG, Research Division
+
+And just also separately on operating lease depreciation, I appreciate it's not in the cost:income ratio
+target. It wasn't, I don't think, in your previous strategic targets as well. How should we expect that to
+evolve over the coming kind of 3 or 4 years, that line item as well?
+
+M. Culmer
+
+I mean it is in the cost:income target. What we do is we deduct it from income. So in terms of coming
+to our cost:income ratios, you take that net income line and you take our costs, and so it's a deduction,
+so it's not excluded, so that's sort of quite important. And it's being grown 2 reasons, actually. One,
+predominantly the sort of commercial banking, where we've had some write-offs with some legacy assets,
+we had some [ arrow ] engines where we took some write-offs in 2016 and the residue, about GBP 30
+million, I think in 2017. It also is reflective of the growth in Lex Autolease as well, so it's a sort of volume
+generated. So in terms of the OOI growing, then that's the cost of sale for that particular part of the
+business, but it's certainly been slightly higher the last couple of years we've had some write-offs in CB.
+Those assets are gone.
+
+David John Lock
+Deutsche Bank AG, Research Division
+
+Okay. So that -- those write-offs are complete?
+
+M. Culmer
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+26
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Yes, that's correct.
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Please, can you just give the microphone?
+
+Fahed Irshad Kunwar
+Redburn (Europe) Limited, Research Division
+
+It's Fahed Kunwar from Redburn. I just had a question about other operating income. One of the things
+that was quite striking on your market share chart was a lot of stuff where you're below. Your natural
+market share seems to be insurance. Obviously, you had a little bit of a difficult year this year. Should
+we think about the insurance revenues as a growth revenue line now, i.e., as in the back book drag is
+going to be offset by the front book, so we're going to start to see growth there? And thinking about the
+operating -- other operating income line in general, you're running at about GBP 6 billion ex-treasury gains
+in VocaLink. It's been a difficult line, again, for the last few years. Should that -- should we think about
+that growing as well? Or do we think that actually, that remains flat and difficult going forward? And the
+second question was on return on investments. The GBP 3 billion is a big number. Obviously, the cost
+reduction, overinvestment's an easy thing to do. But how do you think about the revenue growth? And
+how much do you attribute to the investment versus loan growth and rate rises? How should we think
+about your ROI? Or how do you think about the ROI?
+
+M. Culmer
+
+Okay. Shall I do -- so OI, first, have a big thought, it's going to stay quite tough, I think in the ROI line
+in terms of fee income business. For 2017, I think we had said -- I think a target at the start of the year,
+as I said, if you strip out VocaLink, I think we'd like to be ahead of the prior year. I think we actually
+came up about GBP 6 million short, so we were slightly undercooked. As I look out for 2018, if I strip out
+VocaLink as it stands today, I think we'll be there or thereabouts '18 versus '17 in terms of OI. As I said, I
+think it will stay a relatively tough business. Within that, insurance is a growth business. And if you heard
+from António in terms of the strategy and going forward, in terms of as I build assets, as I build those
+revenue streams, not just the FP&R but in terms of the protection and so forth, they will build and that
+new business stream will build. The reality will be though in insurance, in simple speak, you've got a back
+book that's kind of running off, and I'm running to replace that with a front book. I think for 2018, the
+back book run-off may exceed the sort of front book increments. So I think you'll see insurance profits
+pause if not decline a bit in terms of OOI in 2018, but thereafter, that new book builds and takes you away
+and takes you -- and the insurance build that I hope you got from António, this isn't about actually next
+year or the next 3 years. In terms of what we're doing here, in terms of we're building that capability, in
+terms of we're building that asset base and accumulating those assets, this takes us beyond 2020. And
+I think António has a slide for 2025. This is about building out for the long term, but I think you won't
+see much of that in 2018, where I think back book will -- as I say, will sort of run off, will exceed the
+front book build, but thereafter, you will build and it will start -- and it will continue to build, that's the
+sort of beauty of it. On the return on investments, again, going back to Juan's presentation, and again,
+going back to the sort of structure of the branches, we manage this centrally, and when we look at our
+investment spend, we actually apply 3 crude lenses. One, as may not surprise you, is financials. One, we
+look at strategic, how close to the heart, how important this is. And the other lens we look at is in terms of
+our capability. So that GBP 3 billion spend, we kind of strip down certainly the first year's spend at a very
+granular level in terms of how we prioritize it, how we code it, what makes the cut and, obviously, stuff
+doesn't make the cut. And within that, to your question as well within the financial bit, I will look at those
+that drive cost takeout and those that generate income. And when we try to get clever about it, we'll say
+always it's easier to put income, so I find discount -- if I apply a healthy discount to the income stuff, can I
+get some form of comparable weighting? But we apply that centrally and then as a team, we, the GEC, will
+come and will decide where we spend the money looking at those 3 lenses. So you have a very controlled,
+very centralized, very deliberate process that determines where we spend our money, where we think it
+is to the best endeavors, the best benefit of the group. And again, in a compare and contrast, this isn't
+decisions being taken in faraway places, where you're not sure what the motive is and what the decision-
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+27
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+making has been. You elevate this all up to the center, I see that list. We decide as a team, what's on
+the list and what's not on the list, and what we'll do as we go through the year, we'll decide how that list
+might change because that was moment-in-time view, we thought we'd do this. Now 80% may stay the
+same but there are other things that will come on, things will change. But it's done centrally, which again,
+I know it's always perhaps difficult to convey to people, but it's a massive advantage as you set out on a
+project like this in having that control over and that decision-making residing at the center.
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Which means that dynamically throughout the year, some investments may crowd out other investments.
+And that is the right way to allocate investments, in a transparent and in line with the incentives you were
+trying to say. So that the best investments, dynamically, gets the most of the resources. Please.
+
+Christopher Cant
+Autonomous Research LLP
+
+It's Chris Cant from Autonomous. If I could just ask one, please. You've given 2 pieces of cost guidance.
+You've given your cost:income target, which I think is an exit run rate for 2020, and you've given your
+sub-GBP 8 billion figure, which I think is for the full year 2020.
+
+M. Culmer
+
+Yes, that's correct.
+
+Christopher Cant
+Autonomous Research LLP
+
+So I'm just trying to square the 2 because a lot of people will be trying to look at the implied revenue
+number. Within that GBP 8 billion for 2020, how much is elevated investment spend going through the
+P&L, which will drop away when I'm thinking about your run rate into 2021? Because, obviously, some of
+that GBP 8 billion is part of your GBP 3 billion. I think people doing this math, so we're all going to come
+out with different revenue numbers. It would be really helpful if you could give us the right answer.
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+You're right. Most of the investment is just the same, but…
+
+M. Culmer
+
+I know. I know. You're overthinking it. You're right. I mean, we've said low 40s as we exit the year,
+including remediation, but then we're very clear that in 2020, operating costs will be below that GBP 8
+billion. Within that, going back to one of the earlier questions, as I spend the GBP 3 billion, I'm going to be
+expensing a fair slug of that as I move through that. Yes, there'll be an amortized bit, which is still rolling
+through. I don't see that the calculation sort of takes you into any particular place. There will always be
+a level of investment. I'm not going to sit here and try and pretend what I think that is in 2021. So I'm
+not going to answer your question, part of it because I'm not sure it sort of takes you anywhere. The key
+point to me is -- and when we thought about this, that I could have sat here and said, as we have done
+previously and people who asked the questions, "I'm going to deliver this much savings," then you say,
+"Well, okay, I don't know where you'll land. Tell me how much of that reinvesting." We try to be more
+helpful here and say, actually, this is what we are shooting for in terms of a run rate expense base. To
+your point, there will be some of that GBP 3 billion that's still on the balance sheet rolling off, et cetera,
+but we tried to be careful, just more helpful that below the GBP 8 billion gives people a better line of
+sight. And going to Chris's target, I think these are quite punchy targets in terms of where we are at the
+moment.
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+28
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+And of course, as you also say, Chris, some of that, that will not be repeated to the point that you are
+making. But in crude terms, in the same way that we are committed to improving the cost-to-income
+every year, you should assume that if you wanted to reconcile the 2, you should assume that the exit rates
+of the operating costs will be lower than the average of the year, right? It will be the way to cross your
+[indiscernible]. Please. Martin?
+
+Martin Leitgeb
+Goldman Sachs Group Inc., Research Division
+
+Martin Leitgeb from Goldman Sachs. I was wondering if you could shed a bit of light in terms of what
+you have assumed in terms of property prices in the U.K. throughout your planning in the horizon going
+forward? And what I was trying to understand is if there were a scenario where property prices, say
+in London or in the wider Southeast, were to come under some pressure, would you expect Lloyds to
+perform still comparatively well on that basis?
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Do you have the estimates?
+
+M. Culmer
+
+No. We do. We do. But not here. I can't remember what we assumed.
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+I think our estimate's directionally driven are a continuation of house price increases outside London and
+the Southeast and some decline in London. If you remember, already 4 years ago, we were the first bank
+even before the FPC to lower the loan to income ratio, from 5 to 4, because it was the only way available
+to us of deemphasizing market share in London. And the fact is that now, 4 years later, we have more
+than 90% of our book in London with an LTV of lower or equal to 80%. So our book is incredibly resilient
+to house price in London going down. 4 years ago, we had GBP 36 billion of mortgage loans in the book
+above 100% LTV, in the whole of the country. Now we have GBP 1-point-something billion. 90% of our
+total book, just to give the final one is below or equal to 80% LTV, okay? So we can follow the strategy
+where given what I explained to you in terms of the strategy, in terms of mortgages, volumes, prices, risk
+capital, we think all reasons points to being prudent privileging capital and reading that overall strategy,
+we have deemphasized London already from 4 years ago. That has reflected in ourselves having lower new
+business at high house prices. The increase in house prices throughout this period has lowered the back
+book prices, and our LTV had a massive transformation where we have, as I said, above 90% of the book,
+equal or below an 80% LTV.
+
+M. Culmer
+
+And I think HPI, I think we've assumed for this year about 3% or something like that. And we've also --
+to that resilience, to António's point, from memory, it used to be like a -- we, obviously -- you stress test
+the hell out of the thing. But I seem to remember the first 10% fall in HPI has about GBP 1 billion of RWA
+pickup. It's a -- that's as -- give an indication of that resilience in the book.
+
+Martin Leitgeb
+Goldman Sachs Group Inc., Research Division
+
+Okay. It's a very small impact.
+
+M. Culmer
+
+Okay. Yes.
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+29
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Michael?
+
+Michael Francis Helsby
+BofA Merrill Lynch, Research Division
+
+Michael Helsby from Bank of America Merrill Lynch. I was wondering if you could give us a comment
+on margins. Claire, I think in your comments, you said you think margins will stay resilient. So I was
+wondering if you could quantify what you think resilient actually means. A request...
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+It's more than you think, Michael.
+
+Michael Francis Helsby
+BofA Merrill Lynch, Research Division
+
+Clearly. It's a request for an average balance sheet please in your disclosure that ties into your banking
+NIM, so we can have a better line of sight into what's going on. But more specifically, if you could tell us
+what your -- the mortgage yield is on your back book, where you're currently originating mortgage prices,
+what the yield is on your deposit book because it looks to me like you're pretty much done from a deposit
+repricing perspective would be really kind?
+
+M. Culmer
+
+Would you like to know anything else? I mean look, resilient means resilient. I'm not being a smart ass
+about it. Look, we don't normally sort of give guidance beyond the 12 months, so this should -- we've
+gone beyond that. And that was to demonstrate our confidence in our ability to manage this business;
+reflection in terms of what you heard from António round where we see the U.K. economy going. And I
+don't have the specifics around the sort of mortgage front and back book to hand and things like that.
+There is still room to go and things like the deposit rates and how we actively manage that margin. So
+obviously, when you look at the normal rates that we give you and in terms of saving rates, I think at Q3,
+they were 47; Q4 I think this is -- they're just over-50-type stuff so -- and that's how we absorbed the
+rate increase, and the extent to which things do or don't get passed on and how we actually manage that.
+So we think in a -- in the gently rising environment, there will continue to be opportunities for us that we'll
+be able to play into in terms of how we manage the book. So I'll take your comment on average balance
+sheet. I think the first one of these I ever did, you asked for an average balance sheet, so I'll get back
+to you. So I'll look at that. So I don't know, we remain confident in how we're managing the business in
+terms of how the look forward appears to us in terms of the plan, in terms of benefits of MBNA coming
+through, in terms of utilizing market efficiencies, in terms of wholesale funding, even as the TFS rolls off
+given the rating upgrade, in terms of being able to access new funds. So we still see there is more mileage
+in basic spread management as well between the asset and liabilities of the business.
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+And we have told you in quarter 4 that the margin -- in the results in quarter 3 that the margin would
+be around the same as quarter 3. We told you the margin would be around 285. It was 286. We are now
+telling you in 2018, it will be around 280, 290 -- sorry, 290. So Martin -- so Michael, you will believe it or
+not at your own peril.
+
+Michael Francis Helsby
+BofA Merrill Lynch, Research Division
+
+And sorry, one more. Just on -- clearly a lot of today is about open banking and the opportunities that you
+think that, that brings to the group. Clearly, if open banking works and it's going to break down inertia
+and as the bank that's the biggest in the U.K., has got the biggest back books with some of the richest
+pricing, some might think that actually, that's a big threat to you. So I was just wondering, clearly, what
+your perspective is. We've heard from the guys but what does that do to like transparent pricing and as
+things start to accelerate in the turnaround?
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+30
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Well, as I think as you heard from Vim on his session, we see open banking as a significant opportunity.
+And we have already implemented, as I said, the first of the big banks to implement it. We think we
+have a fantastic customer franchise. They interact with us. It's a growing pace through a multichannel,
+multi-brand approach. The more they interact with us, the more insights we have on what they want
+and they are changing quickly what they want. And we are very well positioned to provide them with
+it. Open banking is another opportunity for us to provide aggregation. Our customers tell us that they
+like aggregation but they would prefer their main bank to do it. Well, we are the main bank to 1 out of 4
+clients in the U.K. And as you heard in Vim's session, we have very interesting plans for that, which we
+will be panning out as we install each of the innovations that we have in our plans. More questions please.
+In the back?
+
+Edward Hugo Anson Firth
+Keefe, Bruyette & Woods Limited, Research Division
+
+Ed Firth again from KBW. I was interested in your comments on RWA intensity, and I guess particularly
+around the mortgage risk weightings. I know the PRA have been looking at that. I don't know if you've got
+an update. But I noticed that it in the stress test, your mortgage book performed somewhat worse than
+peers, and yet, your risk weighting seems somewhat better than most people's. And I wonder should we
+expect some sort of uptick in that as we go forward over the next few years?
+
+M. Culmer
+
+Yes, there is a marginal update. This is the PRA's proposals that kick in. It's not a material amount
+because the company already do things like through-the-cycle RWAs as oppose to point in time. My
+comment also around intensity was when you look at the different mix in terms of where we expect the
+business to grow. And when I look at the composition of the overall book as well. So those were the sort
+of main things that I was sort of referring to when I talk about the RWA growth. So there'll be a bit of mix
+and there'll be a bit of factoring in things like the PRA proposals as well.
+
+Edward Hugo Anson Firth
+Keefe, Bruyette & Woods Limited, Research Division
+
+Okay. So maybe I could ask the question another way then. When I hear your LTVs, et cetera, it looks
+like your mortgage book is very well placed to protecting any downturn, et cetera. And yet, if I look at the
+provisioning that came out of the stress test, it was higher than everybody else's. So I wondered what is
+the source of that? Is it the old Birmingham Midshires book or have you got some sort of little pockets that
+are a problem or something more structural?
+
+M. Culmer
+
+If you look at the appendices, and I have to say that and I hope we've still got the slide in, we do an
+analysis. There's things like the specialist book, which is a legacy book, which is rolling off, and I forget
+the percentage of [ feign ] that, that causes in the stress but an awful lot comes from that book, which
+is a legacy book. It's seasoned. It's rolling off. It's going to diminish as we move through time. But if you
+look at the size of that, that specialist book, that's one of those areas that causes a significant amount of
+our delta in the stress.
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Thanks so much. Okay, any final questions as we approach the end? So who hasn't yet answered a
+question? I think you haven't. Both of you, sorry.
+
+James Frederick Alexander Invine
+Societe Generale Cross Asset Research
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+31
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+James Invine here from SocGen. Can you talk to us about the stages of your deal with JLR because I think
+if memory serves me correctly, you're now in the fifth year of your 5-year deal. Is that right? Is that going
+to be renegotiated this year?
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+JLR, yes. [ Jim ], would you like to take that question? [ Jim ] will answer this.
+
+Unknown Executive
+
+So I mean, I think we started to write new business on JLR in 2014. So you see some of the growth that
+you've seen on the JLR book and the Motor Finance book has been a function of the fact that, that book is
+still seasoning, so we saw a growth of about I think 19% last year. That will start to mature as we start to
+see repayments on the book that we -- the business that we wrote in '14, '15. That was a deal that runs
+'til 2019. And obviously, we will be looking at continuing that relationship with JLR.
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+
+Okay. So it finishes next year, not this year. Please, yes?
+
+Ian David Gordon
+Investec Bank plc, Research Division
+
+It's Ian Gordon. Just one question please. It's a point of clarification for George. I think when you were
+talking earlier about below-the-line items, you said you didn't know what the redundancy costs might be
+and that can't be true because you know everything. So I guess more seriously, my question is are we
+talking about redundancy costs contained within the GBP 3 billion investment? Or are we talking about
+redundancy costs, which might flow from the efficiency gains of the plan?
+
+M. Culmer
+
+It's the latter. It's the latter. And I really don't know because as we explained in the sort of first of these
+this morning when we talked to the media, it depends upon what our customers do. So as you would
+have heard today from Vim and from Jakob, et cetera, the service proposition is driven by the customer
+demand, and we will respond to that in terms of FTE, in terms of branch footprint, et cetera, and I will
+deal with that when it comes. But the more than GBP 3 million doesn't include the redundancy, yes, any
+redundancy.
+
+António Mota de Sousa Horta-Osório
+Group Chief Executive & Executive Director
+Yes. We would not call that a strategic investment. And that's -- the strategic investment is all above the
+line. Okay. So I think we came to an end. I mean, thank you very much for bearing with us all this time.
+But we thought this time requires -- this moment requires more time together, and I hope this was useful.
+Thank you very much for coming.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+32
+
+LLOYDS BANKING GROUP PLC FY 2017 EARNINGS CALL |  FEB 21, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+33
+
+

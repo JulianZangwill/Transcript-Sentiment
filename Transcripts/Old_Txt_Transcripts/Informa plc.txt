@@ -1,0 +1,1198 @@
+Informa plc LSE:INF
+FY 2017 Earnings Call Transcripts
+Wednesday, February 28, 2018 8:30 AM GMT
+S&P Global Market Intelligence Estimates
+
+CONSENSUS
+
+EPS Normalized 
+
+0.46
+
+Revenue  (mm)
+
+1734.68
+
+Currency: GBP
+Consensus as of  Feb-28-2018 8:21 AM GMT
+
+-FY 2017-
+
+ACTUAL
+
+0.46
+
+1757.60
+
+-FY 2018-
+
+SURPRISE
+
+CONSENSUS
+
+0.00
+
+1.32
+
+0.48
+
+1747.79
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+FY 2016
+
+FY 2017
+
+0.42
+
+0.46
+
+0.42
+
+0.46
+
+0.00 %
+
+0.00 %
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+13
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+INFORMA PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Gareth Richard Wright
+Group Finance Director & Director
+
+Stephen Andrew Carter
+Group Chief Executive & Executive
+Director
+
+ANALYSTS
+
+Christopher Anton Giles Collett
+Deutsche Bank AG, Research
+Division
+
+Ian Richard Whittaker
+Liberum Capital Limited, Research
+Division
+
+Katherine Tait
+Goldman Sachs Group Inc.,
+Research Division
+
+Simon Baker
+Societe Generale Cross Asset
+Research
+
+Thomas A Singlehurst
+Citigroup Inc, Research Division
+
+William Henry Packer
+Exane BNP Paribas, Research
+Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+INFORMA PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Presentation
+
+Stephen Andrew Carter
+Group Chief Executive & Executive Director
+
+Well, good morning, everybody, and thank you very much for coming, particularly on a cold wintery
+morning. It's very nice to see Tim and Marina at the back of the hall. It's my job to be the warmup act for
+you UBM's results later today, which some of you may well already have seen. And I'm hoping that we'll
+get through it in time to avoid you changing channels to go to the ITV presentation, which is just down the
+corridor.
+
+But we're here today to talk about our 2017 annual results and to give a sense of what our plans are for
+2018.
+
+The standard disclaimer is as you would expect, and that takes us straight into where we are today.
+
+We are, as a matter of record, presenting the results for 2017. But for us, it has a slight added [ peak ],
+we'll see, because we're also reporting what is the end of our Growth Acceleration Plan, which has been
+running for the last 4 years. And you'll forgive me if I just remind everybody what we were setting out to
+do when we put this together at the end of 2013.
+
+We wanted to change the way in which we ran the business, and we shifted what had previously been a
+very distributed model into an operating structure pivoted around operating divisions. That necessitated
+and required quite a significant change the way in which we manage the business, and indeed, some of
+the people who manage the business. It made us look at our portfolio that we had then and make some
+changes about which bits of the portfolio would fit and suit for the company that we were building for the
+future.
+
+We took a very early decision that we would build and buy a position in the Global Exhibitions market, and
+that's largely where we have focused our acquisition capital over the last period. We wanted to both lay
+out a reason why and earn the right to be able to invest at what we believe was an appropriate level in a
+business of this nature. Historically, we had been a significant, I would say, under-investor in our assets.
+
+We weren't seeking to be an over-investor, but we were of the view that we were running what was
+increasingly going to be a data business and that running that at a sub-1% to sub-0.5% of sales
+investment ratio, which was just unsustainable position, and that, that would require us to address the
+way in which we funded this program probably through the use of our balance sheet in different ways both
+in debt and equity.
+
+And that plan, which pivoted around those 6 pillars was designed to try and get us to a point, whereby, we
+could progressively return the business into growth, and at the same time, build some capabilities, which
+would allow us to then go on and do more at the end of that Growth Acceleration Plan period. That was
+what we set out to do.
+
+Where are we at the end of 2017? I think we're in reasonable shape. We've had a full year of growth in
+revenue and in adjusted earnings, I think a good step-up, a further step-up after strong performance,
+actually last year in cash flow, and a continued progressive increase in our dividend. I don't want to
+overstate this because we are still very much in building capability mode. But nevertheless, those of you
+who know our company well, and I know many of you do, the operational capability within our business is
+in a significantly better and different place from where it was 4 or 5 years ago.
+
+I think the highlight for me of 2017 has been the speed, pace and effectiveness with which Penton had
+to come onboard within the business. And we learned a lot about ourselves, and indeed, about how to do
+that in the last 18 months. And that will be relevant to what hopefully lies ahead of us.
+
+We've continued and will continue to look at our portfolio. In 2017, we sold a majority position in
+Euroforum, our last remaining [ scale ] European Conference business in Germany, to our actually
+then licensed partner now, majority owner, Handelsblatt. We retain a minority position for reasons of
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+INFORMA PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+relationship and actually market access if we need it. But it is no longer our business to run and theirs
+to grow alongside their more focused, traditional, media publishing assets. We also exited our Garland
+textbook business in Academic Publishing, further polishing and improving the mix of business within AP.
+
+We also added some businesses. We brought in YPI at the beginning of the year, further building our
+position in International Yachting very much, following our strategy of, if we're going to add add-in
+verticals where we already play and have a market position. And we further added some capability in the
+Open Access market through the addition of Dove Medical Press in Academic Publishing.
+
+And we are, as you know, in the middle of a process with UBM in order to try and create even more scale
+in the market in which we operate. I'm not going to say much about that today for the reason that many
+of you already heard me say a lot. And candidly, there's not much new to add. But we may will get to it in
+questions, and we will just do a short update on timing at the end.
+
+In terms of numbers, these are the numbers. Our Exhibitions business did another strong year of good
+growth, slightly ahead of the market. Our Academic Publishing business, steady growth, strong year-end.
+As you all know, the quarter 4 and particularly, November and December are important months for that
+business, particularly for what you might describe as a more retail aspects of that business. And we had a
+strong November and December. Business intelligence continues to tick upwards. And K&N snuck over the
+line but got to where we wanted it to be, and I'll talk a little bit more about that later.
+
+In terms of profit earnings and dividends per share, good growth on all those lines. The EPS number,
+which Gareth will break down, is a mixture of our currency tax and trading. And the free cash flow
+number, we're particularly pleased with and I won't steal Gareth's thunder on that either.
+
+So just to summarize, before I hand over to Gareth to take you through the detail of the divisional and
+group performance. When we were looking at what became known as the Growth Acceleration Plan, what
+was it we were seeking to do? And these probably are in some sort of order, or maybe they're just the
+order of visibility. The first was to build and buy our scale position in B2B Events, which again sitting here
+in February 2018, kind of looks like an obvious thing to do. It didn't look quite so obvious in 2013. At the
+time, we had an Exhibitions business largely based out of the Middle East and Africa, plus the Monaco
+Yacht Show, which was around GBP 120 million to GBP 130 million of turnover. We had no business in the
+United States, no business materially in Asia.
+
+We saw a market which we thought we would understand, that we could work in, and we sought to be
+competitive in the way in which we saw all that developing. And the proposed combination with UBM is a
+further step in that strategy.
+
+At the same time, in the B2B Events business, we wanted to simplify and focus, and then get back into
+growth, what many of you knew as our old Conference business, which at that time was considerably
+larger than our Exhibitions portfolio. It had really been the heartbeat of the company and in the day, had
+been a great business to be in. It was a volume business, but it had been a great business. And the first-
+order decision for us was, "Do we just get out of that business altogether? Or is there an essence of that
+business which has long term sustainable defensible value?"
+
+And we took the latter view, and so we have exited quite a number of markets, products, geographies,
+but we've kept the core of that business which we think has long term sustainability, whether our branded
+events, confexes, product with quality and sustainable differentiation, where you can charge a premium
+price for the quality and service you're delivering to your customers.
+
+Less obviously and the area where we were at the time having the most difficulty in 2012, 2013 is what
+we now call Business Intelligence, what the market [ bearishly ] calls Information Services, where in truth,
+we were really a bit of a novate. We hadn't been in that market for a very long. We'd sort of picked up a
+series of spot assets through combined acquisitions. The company had historically made an acquisition
+which had not been, all that one would have wished it to be. And there was a question mark over whether
+or not really we should be in this business at all.
+
+Many people, indeed many shareholders were of the view, we should just simply exit that market. And
+we took the view that actually for a relatively nominal investment, somewhere between GBP 25 million to
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+INFORMA PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+GBP 35 million, if we could repair that business, actually what we would have would be an asset of real
+capability. And we thought that the B2B market would move over time towards an approach of focused
+scale. Where having assets which were overlapping, whether they be in B2B Events or information or data
+or products or service provision would be long-term beneficial. And therefore -- but if we'd exited that
+market, we might well have built a strong position in B2B Events, but it would ultimately be a limiting
+place to be until we had scale.
+
+We wanted to build a position in the United States. That's not a particularly revelatory statement. How
+many times have people like me stood at podiums like this in the United Kingdom and said, that's a good
+idea. But I remember saying at that time that even then, sadly, I was old enough and now I'm a bit older
+to know that it was a sort of little corporate graveyard just off the East Coast of United States of America
+of companies that have gone to America, particularly when the exchange rate is favorable, and then
+reversed out 2 or 3 years later with their tail between their legs.
+
+So we did it very slowly. We started by putting our toe in the water. Our first business we bought was
+Virgo Publishing, small food ingredients business in Phoenix. We then stepped our way up in our scale and
+position in the United States, FIME, FanExpo, Hanley Wood and then Penton, in order to learn our way
+into the market and where we could to bring people and talent into the business as well as brands and
+business, so that we could learn as we went and build capability to enable us to be able to operate more
+effectively.
+
+And then alongside all of that, what we wanted to do wasn't just trade but build. We needed to trade,
+so we needed to deliver growth. We needed to deliver progressive dividend returns to shareholders who
+stayed with us, but what we also needed to do was to build capability, invest in ourselves, in our products,
+in our people, in our platforms, in our systems. And believe you me, if you were inside the company, you
+could bump into many people and say, "It's a long way from done, but it's a long way from where it was
+as well." And that process of building capability, if you want to be in the information and data markets, is
+where you need to be in a business like ours.
+
+So that's what we set out to do. Those were the initiatives that were the bedrock over the last 4 years
+and many people inside the company have been focused on doing, and in large part, delivering pretty well
+against those objectives over the time.
+
+So now I'd like hand over to Gareth just to take us through the key financials from the group and the
+divisions. Gareth, over to you.
+
+Gareth Richard Wright
+Group Finance Director & Director
+
+Thank you, Stephen. Good morning, everyone, and thanks for coming to the results presentation today.
+
+The financial headline is that we're pleased to be reporting a set of results that demonstrates real financial
+performance and delivery in the final year of the 2014-2017 Growth Acceleration Plan.
+
+So here are some of the financial highlights for the year. Reported revenue increased by 30.7% to GBP
+1.76 billion. Our underlying revenue growth was 3.4%, an acceleration over the 1.6% organic growth
+delivered in 2016. Adjusted operating profit increased by 31.3% to GBP 545 million, and this increase in
+OP drove an improvement in the adjusted diluted earnings per share, which rose by 9.5% to 46.1p.
+
+Breaking that growth down into its components. It's about 2p increase from trading; about 2p increase
+from our expansion, including Penton; about 2p increase from currency; and that's what partly offset by
+2p tax headwind. As a result of this earnings growth, the board's commitment to increase the dividend by
+6% to 20.45p per share, was covered around 2.25x by earnings.
+
+Free cash flow was strong, increasing around 30% to GBP 401 million, achieving our target that we set at
+the start of 2017 for free cash flow around GBP 400 million in the year. And this cash flow has brought our
+leverage back within our target range at 2.5x at year-end.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+INFORMA PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+So just focusing on how the group revenue growth builds up for second. Our successful program of
+expansion and scale added about 21% to revenue year-on-year. The currency benefit of the stronger
+U.S. dollar added around 5.5%. The most important thing for us was a 3.4%, added through underlying
+trading, increasing from the 1.6% we delivered in the previous year. And all this adds up to an overall
+increase in actual reported revenue of around 31% in 2017.
+
+So to say, a key driver of the expansion and scale was the successful integration of Penton Information
+Services, delivered ahead of schedule and operating under unified management team in 2017. We took
+the approach to combine the Penton business into the divisions of Informa that they were most likely to
+thrive in. Our approach to integrating Penton has allowed us to realize synergies quickly and effectively
+with around $15 million of gross cost savings achieved in '17 and this is expected to rise to around $22.5
+million in 2018.
+
+We've preserved and developed a strong brands and franchises within Penton, which has strengthened our
+specialist verticals in turn. And in addition, there are several revenue initiatives that are already underway,
+which I'll discuss in more detail on the next slide.
+
+At the same time, Penton's data and marketing solutions business was relaunched as Informa Engage,
+offering specialist, B2B services for connecting marketers with B2B decision-makers. And this acquisition,
+building on the previous deals such as Hanley Wood and Virgo, has further strengthened -- excuse me,
+has further strengthened our presence in the U.S., our largest single market.
+
+So overall, this demonstrates a model for integration that we have growing confidence in and which we'll
+look to use for the integration of UBM, assuming that we're successful in completing the shareholder
+approval process.
+
+So the operating synergies of Penton have been achieved in 3 main areas. And taking these each in
+turn, and in terms of 2018 synergies that we're aiming to achieve, our corporate overhead reduction,
+approximately 15% of the GBP 22.5 million gross savings are coming from the reduction of duplicate costs
+across executive leadership and other corporate and group functions.
+
+In terms of management and support restructuring. Approximately 50% of the savings are expected to be
+generated from the reduction of duplicate management cost, including the rationalization of overlapping IT
+systems, processes and associated investment spend. And finally, in terms of procurement, approximately
+35% of the synergies generated for Penton are expected to come from leveraging the large group scale
+across procurement, commissions, insurance and property.
+
+Addition to that, we believe that there are also revenue opportunities ongoing through our 6-step revenue
+growth plan. You may recognize this slide from the UBM 2.7 announcement presentation that we gave at
+the end of January. We felt it was worth using it again as a great illustration of how the 6-step revenue
+growth plan can be delivered in practice and how some of the dynamics are quite quick to come to fruition
+and some take a bit longer.
+
+So picking out a couple of topics from the slide. Our broader market position across the GHNN supply
+chain post Penton has enabled us to promote our events to new audiences, leading to particularly strong
+growth of Vitafoods Europe and Vitafoods Asia in 2017, with the latter doubling in size. We've also used
+our greater depth in verticals to help us develop geo-cloning opportunities in 2018. This will see us launch
+SupplySide China in Guangzhou.
+
+In 2017, we started to roll out our Markit Makr digital platform in a number of verticals, and Stephen is
+going to talk to you a bit more about this in a minute when he goes through the divisions. And combined
+with the progressive rollout of our customer value program, we're confident that these revenue synergies
+will contribute to another year of attractive growth overall for the business.
+
+So focusing on the division-by-division growth. We delivered operational performance with all 4 divisions
+in growth in 2017. Global Exhibitions delivered underlying revenue growth of 7.6%, delivered by strong
+performance from the top 30 exhibitions. Margins increased -- margins decreased by 1 percentage point
+as we invested in the division, and we added the slightly lower margin YPI business, but the outturn was
+still a 6.5% increase in OP.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+INFORMA PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Business intelligence continued its improvement in underlying revenue growth to 2.2%, reflecting the
+benefits and investments in products and platforms on subscription renewals, consulting activities and
+specialist data for marketing solutions. OP increased by 6.2%, as BI was the largest beneficiary of Penton
+synergy savings.
+
+Academic Publishing improved underlying revenue growth to 2%, reflecting consistent growth in journals
+and an improved performance in Books, which was particularly strong in the last 2 months of the year.
+And Knowledge & Networking delivered positive underlying revenue growth of 0.1%, reflecting increased
+focus in the portfolio, strength in brand and confexes and events and investment in its digital capabilities.
+The revenue growth, ahead of the Q3 IMS, was driven by strong performance in November by far K&Ns
+largest trading month of the year.
+
+So walking down the wider income statement. Our operating margin increased by 10 basis points year-on-
+year, on the upside, higher growth and the mix benefit from the larger GE business helps. This was partly
+offset by extra depreciation and investment coming from the Growth Acceleration Plan. Interest was GBP
+59 million, primarily because of the increased debt following Penton, but also not helped by a stronger
+U.S. dollar nor interest rate rises.
+
+The effective tax rate increased to 21.2%, following change in the U.K. tax law, but also not benefiting
+from the increased mix of U.S. profits in 2017. And this all added up to a 9.5% increase in EPS, which
+covered the 6-point -- the 6% increase in the dividend a 2.25x.
+
+This is a subject very close to my heart, free cash flow. The group continues to put great emphasis on
+conversion of profits into cash, alongside the effective allocation of free cash flow to balance our targeted
+acquisition strategy with consistent and progressive shareholder returns. At the start of 2017, you may
+remember we set a target of delivering GBP 400 million of free cash flow in the year, which would be an
+increase of over [ around 1/3 ] over the GBP 306 million we delivered in 2016.
+
+We achieved this. We reported GBP 400.9 million despite the schedule increases in CapEx in the year
+following the Growth Acceleration Plan and also despite the negative trend in currency movements through
+the year. This reflects the strong profit delivery and lower cash tax as we utilized tax credits for losses that
+came with Penton. And the free cash flow performance delivered another strong year of free cash flow
+yield around about 7.1% for the full year.
+
+So the combination of strong cash generation and our balanced approach to funding produced a robust
+balance sheet at year-end, with net debt-to-EBITDA of 2.5x, back within our target range of 2x to 2.5x. To
+strengthen our financing, we funded another $400 million in the U.S. Private Placement market at the end
+of January -- at the start of January 2018, at an average interest rate of 4%.
+
+Another strengthening in the balance sheet in terms of pensions where our accounting deficit or the
+defined benefit pension schemes reduces to under GBP 24 million at year-end.
+
+So in summary, including that new PP raise, alongside our year-end debt result and the maturity profile in
+the lower graph, you can see, together our secured pension position, we have a robust balance sheet with
+long-term financing flexibility.
+
+We continued to deliver the portfolio management element of the GAP strategy, which looks to ensure that
+we allocate our capital to the parts of the portfolio where we can generate the best returns. To that end,
+in 2017, we exited a number of businesses. The sale of the Garland Books business reduced our exposure
+to the more volatile, lower-level text book market. The disposal of the majority stake in the Euroforum
+business increased our focus in K&N on the stronger performing core verticals. And finally, small-scale
+disposables in both BI and GE helped improve the performance for these businesses.
+
+Overall, the group ROCE includes the full year of the Penton business for the first time, which reduced
+ROCE as expected on the P&L returns basis. But on a cash tax basis, reflecting the losses acquired with
+that business, the ROCE was 9.9%.
+
+So to wrap up, I just wanted to highlight the progress in our overall financial KPIs over the period of
+the Growth Acceleration Plan. Group revenue growth has increased by almost 2 percentage points. The
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+INFORMA PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+compound annual growth and adjusted profit has been 13%. The compound annual growth in free cash
+flow has been 17%. And dividend payments have increased by an average of 4% over that time. And we
+think, taken together, this really underlines the solid and improving financial performance for Informa over
+the midterm and over the period of the Growth Acceleration Plan.
+
+So with that, I'd like to hand back to Stephen.
+
+Stephen Andrew Carter
+Group Chief Executive & Executive Director
+
+Thanks, Gareth. Right. Thanks very much, and welcome to some colleagues, who joined us. We're sort of
+halfway through, and then we'll get to questions.
+
+So a little bit of a context. I'm not going to try in becoming an economic forecaster, because looking
+into the seeds of time and predicting which grains are going to grow or not, is a tricky to thing to do, as
+someone once said. But I think context is relevant for the market in which we operate in.
+
+And our contextual view is that, whilst, on the day-to-day basis there's noise, and there's certainly noise if
+you're sitting in London, the macro themes are broadly helpful for the industries that we work in and that
+we serve. We are a truly and about to become an even more so international and global business. And we
+see the regional growth opportunities in the markets in which we will be trading, in North America, in Asia,
+in the Middle East and Africa, and indeed, in South America as mid- to long-term attractive. If anything,
+we will be underrepresented and certainly underweighted by a percentage in the United Kingdom and
+Europe.
+
+There is much discussion about the impact of our artificial intelligence and robotics, and [ our growth and ]
+capability. What does that mean if you're any face-to-face business? We might get into that in questions.
+But what it certainly means is that the power of data and analytics, and knowing and understanding your
+customers, what they're doing, what they want, where they're going, is going to be a core part of the
+business in which we operate, and we largely see that not as a headwind but as a helping wind.
+
+In the markets in which we operate, whether that's B2B Events, Business Information or scholarly
+research, the growth of learning and education, particularly, differentiated learning and education as
+opposed to mass-market education, again, we see, broadly, helpful, mid- to long-term trends. And
+certainly, in the latter, it's an area of significant investment in most of the developing markets. In
+specialist information and indeed in B2B Events, it's all about micro focus and being close to your specific
+customers, focused scale in the jargon of the Information Services market. And that has been where we
+have been trying to develop our portfolio over the last few years and we'll continue to do so.
+
+In the verticals where we increasingly have strong footprint, actually, there's some very interesting trend,
+whether it's in changing end consumer habits, whether it's in the increase in demand being placed on the
+efficiency of the pharma biotech and healthcare sector, whether it's the increasing horizontalization of
+technology into all businesses, the significant increase in food demand driven by the rise in the world's
+population but no increase in the size of the planet, and demand for an ever-increasing urbanized globe
+to efficiently house and construct working environments that are fit for purpose for the world in which we
+live.
+
+So we are not [ tiguresque ] about the markets we operate in, but we are quietly confident that we're in
+neighborhoods that have got mid- to long-term attractiveness built into them. And our task is to run our
+portfolio in a way that serves to take best advantage of that.
+
+So let's have a little bit of a look at each of our divisions. And our Exhibitions business is now our largest
+division and will soon be an even larger part of the group. Our focus has been on the major brands in the
+main markets where we have sought to drive out improvement in absolute performance, whether that be
+straightforward volume.
+
+The first lesson I was taught when I started to get deep into this business was, it starts with the visitors.
+You have to have attendee growth, or certainly attendee stability. It's not just a footfall business, but it
+matters. Then what you need to do is drive out yield
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+INFORMA PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+[Audio Gap]
+
+across the portfolio. Then what you need to do is to do more. And the big highlight, as Gareth said, has
+been our Market Maker strategy where we've sought to target attractive industry verticals and build depth
+in verticals through multiple brands across the supply chain. For us, Markit Makr is both a strategy and a
+product.
+
+The strategy is to serve to provide our customers with the service and benefits across the markets in
+which they work, a product is a digital platform that allows us to provide sales and service solutions to
+our customers, which provide them with ever more effective sales leads and efficient lead generation. The
+advantage of that is, if you do that, every time you do it, you gain more knowledge and information about
+your customer. We launched it about 18 months ago.
+
+After about 18 months of development, we started on our Life Sciences portfolio, OMNIA is our sub-
+brand that we use within that platform. And what that allows us to do is to effectively create a multiplier
+effect on the service proposition for our customers. We then took it from Arab Health to Africa Health to
+MEDLAB, which was a brand that we spun out of Arab Health to set up in the medical technology market.
+We then took it to FIME in the U.S., which was a business we bought in the U.S. to further expand our
+footprint. And then we moved it onto Asia Health, which, so it is a mixture there of taker brand, geo-clone,
+buy an addition geo-clone, adding digital capability geo-clones.
+
+So a steady cadence of developing your portfolio using your brands, using your cross-marketing and
+investing in digital capability to build your footprint. That then drives the ability for your customers
+to showcase their products, that enhances the participation of your exhibitors, that mass significantly
+improves the qualification of the lead generation that you're providing to your customers.
+
+In 2018, we're taking this now from our Life Sciences portfolio on to our food ingredients portfolio,
+which is probably our other most internationalized vertical in the way in which we work. And then we're
+beginning to move it out across real estate and construction and other categories. We feel very confident
+that this is another added strength to our bow, alongside, ensuring that the core B2B Events product
+remains as strong as it needs to be in what is an increasingly demanding market.
+
+Business Intelligence, quite a different business model. It's a subscription-led business model where
+renewal rates matter. If you remember back in the day, we were a 70% renewal rate business. That's
+really very tricky, as they say. If you open your books on January 1, and you've already lost 30% of your
+customers, you have to have a new business pipeline to die for if you're going to stay static. And that's
+why we were facing a 10% year-on-year decline, because we just couldn't catch up fast enough. And we
+were in that kind of death spiral of having to discount in order to just stand still.
+
+So we rebased the business, and we focused the business around subscription renewals and contract value
+and existing customer management, changed the way in which we operate and organized around those
+customers and around those verticals. We then layered in consulting, largely as a sales and customer
+service support, rather than necessarily, as a profit driver. And then we began to bring our investment
+from GAP onboard in order to improve the product offering both for our existing customers and for
+prospective new customers.
+
+I would say not job done but job being done, now on what I recall the hygiene factors of running a
+business like this. The price for us, I think, in 2018 and beyond is to take the investments we've made,
+whether it's in Citeline, in Pharma or in EPFR or in financial services or in ag or in technology, and not
+just satisfy the people we know, but also bring in some customers that we don't know. And if there's a
+challenge and a task for that business, it is to drive our performance in new business, having done a very
+strong performance in existing business. And that's where we see the midterm opportunity for further
+growth.
+
+In Academic Publishing, which has been a business of consistent strength, and if I had a pound for
+every time I've been asked what are you going to do with Academic Publishing question, in the last 5
+years, we would we doing very well. This is a consistent business. It is a strong business. It was when
+the board asked me to become the Chief Executive, it was nearly 60% to 65% of our business. It will,
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+INFORMA PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+I think, on math doing it in my head, at the end of 2017, will be just less than 1/3 of the business. If
+we are successful in the completion of our combination with UBM, it'll be less than 1/5 of the business.
+But the interesting is, it'll be 40% bigger than it was 5 years ago. So for me, there's not a lot to like
+about a business that's growing, that's getting small as a proportion of a group that's growing. It's a very
+consistent, reliable and powerful business.
+
+We have no scale issues in this market. That was a problem we had in the B2B Events business. We don't
+have a scale issue in this market. We have a powerful brand or indeed brands. We have a footprint in
+Humanities and Social Sciences, which is recognized by authors, by researchers, by institutions. It's an
+international business. And it's a business which is adapting to the way in which the market is adapting.
+And it is true that the market is adapting. There is a shift in the way in which, particularly in research
+journals, customers are seeking to buy and use the product, and that shift between big-access deals to
+open access, pay-to-publish publishing is a trend. But it's not a cliff edge. It's a trend. And it's a trend
+that we are actively participating in, investing in and bringing capability to be able to deliver service to our
+customers.
+
+The opportunity in this business is to drive further service and technology capability for the customers
+that we've got and for the communities that we serve. I encourage you to go to our platform there,
+taylorfrancis.com, we've invested quite a significant amount of money. We've done a job of work in our
+Books business over the last 2, 3 years.
+
+Those of you who have listened to me politely over the last few years will remember talking about 2 or 3
+years ago that we were unifying our Books business. It was 3 businesses, we're putting it into 1. We're
+creating a central platform. We're moving all of our books product into 1 platform, the [ UBS ] platform.
+We invested quite a considerable amount of money in that platform. We launched that last year. It puts
+over 140 reference titles on it. We've got 2,000 customers. We've migrated onto that platform. It's live.
+It's active. I encourage you to go to the artificial intelligence area not just because it's a fascinating
+current subject, but also, we're one of the world leaders in it. But you can't get beyond the pay wall until
+you pay. And so hopefully, there'll be enough there to tease you to consider going further.
+
+On Author Services, we need to more Author Services, because it isn't simply any longer a matter of
+sourcing content. You have to regard your authors as a relationship for life and for the period of the
+publication. And again, that's an area where we're investing in technology to help us on providing those
+author communities with research dashboards, portals for easier submission and the easier managing of
+manuscripts, more flexibility, faster routes to market and a higher level of data and analytics on subject
+matter usage and reader interest. It's a very interesting market with lots going on underneath that steady
+headline of another year of consistent performance.
+
+In Knowledge & Networking, just to finish on the portfolio, here we said, we wanted to simplify and grow.
+And as I said at the beginning, this used to be a very significant business in volume. It's now a significant
+business in quality. And the focus is largely, if you look at the chart in the revenue by vertical, is around
+the 3 verticals of Life Sciences, Global Finance and TMT, which is about GBP 220 million, GBP 230 million
+of the GBP 280 million of revenue. Those markets are doing well. The brands in those markets are doing
+well.
+
+The event portfolio have shrunk to just under 1,000 from nearly 12,000. The focus is around the larger
+events
+
+[Audio Gap]
+
+and is over 100,000. We're building businesses that have got revenues of over GBP 1 million, and that is
+the way in which we will seek to develop that portfolio.
+
+We've said goodbye to Spain and Portugal and South Africa and Holland twice and Sweden and Denmark
+and Russia and Brazil and Germany and Switzerland and those exit processes take time. I know because
+I'm looking at some of the people who did it. And we, by and large, I think exercised our duty of care
+to our colleagues in those businesses well and focused the business around where we see long term,
+sustainable future.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+INFORMA PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+This is a lift from an internal presentation, which was designed to visualize. When we talk about
+communities, what do we mean by communities? What do we mean when we say what we need to do is
+to provide an engagement platform for our customers in individual communities? How do you become a
+digital-first business rather than just a spot events business? How do you provide market-leading trend
+data for your customers, which is relevant?
+
+How do you build a digital platform that people are willing to subscribe to and use regularly? How do you
+make people genuinely feel part of an industry community and importantly, for us, commercially, insert
+yourself into that community in a way where people don't think it's intrusive, but an embedded part of the
+way in which they connect network and learn? And that is the core of that business. And when you get it
+right, it is a really beautiful thing.
+
+The group, as a whole, here's where we are on [ our core ] visibility of earnings. Our revenue by division
+is as laid out. Our Exhibitions business is now as we set out to be 4 or 5 years ago, our largest business.
+It will become a larger business, but that's a snapshot. That's a moment in time. We're building this group
+over time for scale and performance and Information Services group. But short term, it now is clearly our
+largest and powerhouse business.
+
+Our revenue mix is materially dollar-denominated, and our revenue type is increasingly more visible and
+more predictable and gives us a higher level of certainty as we step from one year to the next.
+
+Our strategy for 2018 is growth continuation. We see the steady progressive improvement in growth, in
+performance, in revenue, in earnings and dividends as an attractive part of the investment proposition for
+shareholders, as a measured balance of return for our customers and our colleagues and our shareholders,
+and allows us to invest in the business progressively over time to continue to compound our technology
+improvements and our platform capabilities.
+
+We feel good about where the business is. We are very excited about our possible combination with
+UBM. The processes is laid out. There's not much to add to that, other than, later today, there'll be a
+considerable more exciting presentation from Tim and Marina on their own results. And then we will both
+be Publishing the relevant circular and prospectus materials in the middle of March. There'll then be a
+shareholder vote in April, and there'll be a record date for the dividends. And then, we're anticipating a
+completion date in Q2 2018, obviously, that's subject to the completion of the now underway antitrust
+procedural filings.
+
+We're hopeful, therefore, that will take us to the midyear, where we'll be one company. That will allow us
+to set at it with our Accelerated Integration Plan. We're using the time within the bounds of appropriate
+rules and procedures to learn more to test our operating hypothesis, so that when we combine, we can hit
+the ground running.
+
+We have a team that is working, I would say, as collaboratively as you can do. And these -- I'd like to just
+pay a thank you to Tim and Marina and the team for allowing us to do that in a way that's making the
+discovery as effective as it can at this stage. We see cost savings, but we're not making this proposal in
+order to achieve cost savings. We want to run the business efficiently, but what we want to do is we want
+the combined company to be a growth-based business, investing for the future and delivering more for its
+customers and for itself.
+And on that, I will pause and take questions.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+INFORMA PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Question and Answer
+
+Stephen Andrew Carter
+Group Chief Executive & Executive Director
+
+Front row. Do we have microphones?
+
+Katherine Tait
+Goldman Sachs Group Inc., Research Division
+
+Katherine Tait from Goldman Sachs. Two questions for me. Firstly, on Academic Publishing. Clearly, Annie's
+been in place now for about 8 months, and these a lot of talk about data attack. But obviously, your
+margins this year improved by 100 basis points. How should we think about that margin profile going
+forwards given potential investments that Annie and the team will be making within that business to really
+bring it up to the level that you've been sketching out for us? And secondly, on the sort of Markit Makr
+digitization of Exhibitions. Can you talk us through how this is monetized? Is this an additional subscription
+that your exhibitors and various attendees sign up for and pay an additional fee for? Or is that something
+that is incorporated into the broader services of the existing shows?
+
+Stephen Andrew Carter
+Group Chief Executive & Executive Director
+
+Okay. Thanks, Katherine. Why don't I touch on Markit Makrs, say a couple of things on Academic, and you
+might come in on the margin profile.
+
+Gareth Richard Wright
+Group Finance Director & Director
+
+Yes.
+
+Stephen Andrew Carter
+Group Chief Executive & Executive Director
+
+On Markit Makr, there are 3 or 4 different ways in which you can monetize. The first thing I would say is
+we didn't set out to do it in order to drive revenue. We set out to do it a bit like what we're doing in K&N
+where we're trying to build community relationships over time outside the events of the people call beyond
+the booth in order to build a community relationship. Having said that, there are routes to monetization.
+You can monetize through straightforward, effectively exhibit prices, but they're digital exhibits for
+presence and depending on what the scale of that presence is and the ranking of that presence. You
+can monetize through media and advertising revenues. You can monetize through data analytics. And
+what it also allows you to do is to deepen the nature of your following-year conversation about how you
+then sell and price and package for the following year because you're dealing with a customer who A, is
+considerably more invested and embedded in the event, and B, you considerably more information about
+who their visitors were, what their purchasing cycle was, what their purchase budget was, and how it
+enables you to then sell to them. So it's really -- at its heart, it was driven by desire to improve the depth
+of the relationship with the customer and to enable you to do what we call customer value proposition,
+which is to have more than just a simple price to yield conversation. That's the way we think about it. On
+Annie, it certainly feels longer, and that's a good thing. She's definitely a firm part of the team, both the
+Informa leadership team but also the Taylor & Francis team. She's been, it would appear, everywhere.
+Certainly, everywhere I go, she's been there before me, both inside the business and with customers.
+We've begun to make some changes. The Dove addition was very much made on her watch, albeit it was
+on the pipeline before she came. That was very much part of -- she was in that thinking from the get-go.
+The approach to what we're doing in Academic Publishing is no different, Katherine, than what we've tried
+to do everywhere, which is measured change rather than kind of seismic or cliff-edge change. I think I
+said publicly we're not seeking to, because there's been a change in leadership, have a kind of kitchen sink
+moment where we kind of rebase the business and turn it into something that it isn't or it wasn't because
+it doesn't need that. But what it does need and why Annie was the right person is it needs much more
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+INFORMA PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+focus around service delivery for authors. It's definitely true. We need to be at a minimum alongside the
+price and, how would I describe it, kind of market shifts in the way which journals are being used both
+by authors and indeed, by institutions. And we also need, I think, to be more ambitious about what we
+can do internationally. We have a very nice business in the United States, actually a good business in
+U.K. and Europe. But really, a lot of the growth in Publishing and in Academic Research is in the rest of
+the world. I was about to say emerging markets, but these are well emerged. China is a global leader in
+research publishing now. So we can be more ambitious there and that's where her focus. Personally, I
+don't believe we need to materially change the margin profile of that business. We might need to adjust it
+but not materially. Gareth?
+
+Gareth Richard Wright
+Group Finance Director & Director
+
+In terms of the actual movements, Katherine, in 2017, because of the nature of this business is that it's
+heavily weighted towards dollars and its revenue profile has a sterling cost base. In 2017, you saw margin
+expand by about 1 percentage point because of the strengthening in the dollar relative to sterling. So that
+explains the '17 result. But obviously, the corollary of that is if you mark-to-market at the moment 1.41
+with the U.S. dollar, what you'll see is that margin coming down under pressure going the other way in
+2018. So in the short term, you shouldn't expect to see an expansion in that number.
+
+Ian Richard Whittaker
+Liberum Capital Limited, Research Division
+
+Ian Whittaker from Liberum. Three questions. First of all, just looking at your underlying organic revenue
+growth for 2018, the more than 3.5%. Given you did 3.4% sort of in 2017, large network is improving,
+Business Intelligence improving, academic should be stable, Events continue to remain strong a very good
+growth rate, so should we expect that to be close to 4% rather than the 3.5% level? The second thing is
+just in terms of Academic. There's been some speculation in the or some suggestions in the trade press
+that there's been some issues with your negotiations in France and the U.K. just around your products, so
+just wondered if you could so that with the universities there talk a bit about that. And then third of all,
+just in terms of what you were talking about in terms of Penton, in terms of you've got potential revenue
+synergies on top of what you've done in terms of the cost. Obviously, there's been a time lag in terms of
+when you acquired that business to when you're now talking about potential revenue synergies. Is this
+typical in terms of the length that you would expect from an acquisition to then when you start to actually
+sort of look at revenue synergies? Or is it something special about the Penton deal that has meant that
+maybe things have been a little bit delayed?
+
+Stephen Andrew Carter
+Group Chief Executive & Executive Director
+
+Okay, thanks very much, Ian. I'll try and cut into those. Gareth, come in as you see fit, maybe particularly
+on the overall growth figure. On Penton, I mean, I don't know if it was you Ian, but certainly somebody I
+think, I'm sorry I could be misattributing, if I am, I apologize. Somebody said I think when we announced
+Penton, so what it is about a growth strategy that encourages you to buy a business that is not growing?
+And our view was, well, because we think over time it will grow. And we think the bits that aren't growing
+are going to decline at a pace and rate, and the bits that are going to grow are going to exceed that,
+and then we'll get there. And you're right, there is a bit of a time lag. Actually, if you -- I think we don't
+break out Penton, so I don't know what the profit number is, but I think if I looked at Penton as Penton
+was, it probably was marginally in growth in '17. I'm looking at Richard to keep me -- I want to say it was
+marginally in growth. But there was a drag, and the drag was largely print. But the print actually didn't
+do as badly as we thought or certainly as we modeled. I think partly because we don't have a theological
+view that print revenue is bad revenue if it has a role. And we're not seeking to maximize our nonprint
+revenue mix in order to drive a valuation for sale. So we're not motivated by that outcome. And the other
+parts of the Penton portfolio, which we thought were strong have been stronger. The event brands have
+been very strong. The combination where we've made them with our existing brands, particularly in food
+ingredients, has been extremely strong. We're adding into Natural Products Expo this year -- this week
+and in through next week, and that is looking extremely good. I think if you give that a little bit of time
+to run, we'll get it to where it is. And I think -- but I think that's a function of the Penton mix rather than
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+INFORMA PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+a structural point on approach to acquisitions. On AP, look, it's that time of year. We're in the middle of
+renegotiations and renewals and subscription discussions. I haven't seen the noise that you referred to,
+but I'm sure there is some. But there is nothing that's materially worrisome. On the overall growth, I
+couldn't possibly comment because we're in the middle of an offer period. We've given previous guidance
+that we want to have another year of growth. We think that north of 3.5% is a target we should aim for.
+Obviously, it's a mix because it's a group number, it will depend. Exhibitions is a bigger business now by
+some margin. So whilst I think Exhibitions will have another strong year, it won't be as strong, I would
+suggest, on the headline number as it has been this year. Academic, I think, will be steady. BI, we're
+targeting another year of progressive growth, but we'll not put a number on it. And K&N, again, I think will
+be steady. So it's a mix effect, but another year of growth. I don't know if you want to lead the witness
+any further on that one, Gareth?
+
+Gareth Richard Wright
+Group Finance Director & Director
+
+Nothing to add to that. I think that's what we can say at the moment.
+
+Stephen Andrew Carter
+Group Chief Executive & Executive Director
+
+At the back?
+
+William Henry Packer
+Exane BNP Paribas, Research Division
+
+It's Will Packer from Exane BNP Paribas. I have 3 questions for me, please. Firstly, within your Exhibitions
+portfolio, could you go into a bit more detail on what bits from a vertical and geographic perspective would
+have outperformed? And just how big a driver has the U.S. real estate and construction been? And how
+-- what's the sustainability of growth there? Secondly, it seems there's been some reallocation between
+divisions from '16 to '17. Could you just talk through what assets have moved between Exhibitions, BI and
+K&N? And then lastly, we kind of touched on this already, but when we're finished with the GAP scheme,
+we're talking about organic revenue growth of 3.5%, just how much operating leverage can we start to
+see in the business?
+
+Stephen Andrew Carter
+Group Chief Executive & Executive Director
+
+Gareth, do you want to come in on the operational leverage and sorry, what was your second question?
+Apologies.
+
+William Henry Packer
+Exane BNP Paribas, Research Division
+
+The reallocation.
+
+Stephen Andrew Carter
+Group Chief Executive & Executive Director
+
+And the reallocation point, and then I'll talk about GE. Or would you rather dodge the question? Would you
+like to come in on the operating leverage question, when can we see some or more? And has there been
+any material reallocation between I think you said GE and BI, didn't you?
+
+Gareth Richard Wright
+Group Finance Director & Director
+
+Yes. That's one that's slightly -- I slightly have to think about. I don't think there is anything reallocating
+between the divisions in 2017. We had a initial allocation of the Penton assets as one segment, and
+then we broke that out at the half year. But I think it's really pretty steady between the divisions and
+certainly not a material factor in terms of any of the numbers. In terms of operating leverage, I think
+we've seen in '16 and '17 as a strive to improve the level of revenue performance, we're going to focus
+on that and make the investments that we need to make into the business to deliver that. And we would
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+INFORMA PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+see that being kind of the same in 2018 and in the short term because we want to continue to drive the
+revenue number and continue to improve that, and whilst we like to see the OP tick up behind it, it's not
+our -- getting OP to accelerate ahead of the revenue growth is not our primary focus at the moment.
+It's really about sustainable revenue growth, and therefore, if we can deliver a higher -- slightly higher
+level of revenue growth and have the profits tick up a bit behind it but not reach that level, then we'll be
+comfortable with that as an overall shape of the business.
+
+Stephen Andrew Carter
+Group Chief Executive & Executive Director
+
+And on your vertical and geography point, actually just scanning down these, keep me -- we don't report
+these breakout numbers, but Richard can keep me -- construction real estate had a good year across the
+mix. I mean, it's not all hard construction, as you know. Some of that is surfaces, some of that is interiors,
+some of that is property development, some of it is physical construction. We've got a broad portfolio
+there. But the only area where we had any real softness was in one particular geography. But that was a
+local issue. Health and nutrition, very strong across the entire brand so in all geographies. Life Sciences,
+similarly, I think very strong. And MEDLAB last year was the breakout, we repeated this year, again went
+well. Aviation, the Events portfolio was very, very strong. That was a Penton addition. That's really a
+secondary market portfolio, as you know. Agriculture, similarly. International Yachting, we had a slight
+heart-in-the-mouth moment as many people did very genuine reasons around the hurricanes in the United
+States. But actually, we were on the other side of that. And actually, our entire Yachting portfolio traded
+strongly. And we've had the first of those this year in Miami. We've got Palm Beach coming up and again
+strong. Beauty and antiaging, largely an Asian business. But antiaging is one of our European portfolios.
+And Europe and U.S. is strong. Utilities, which is largely waste, strong, almost all American pop culture
+all North American and strong. So actually, very, very spread. It was a consistent portfolio performance
+across geographies.
+
+William Henry Packer
+Exane BNP Paribas, Research Division
+
+One point we should, therefore, expect underlying, excluding the UBM acquisition, operating profit growth
+to be in line or below revenue growth for FY '18?
+
+Stephen Andrew Carter
+Group Chief Executive & Executive Director
+
+I don't think we can comment on that. Well, but it's a very fair question. Next?
+
+Simon Baker
+Societe Generale Cross Asset Research
+
+Simon Baker, SocGen. Two questions, please. Firstly, when you talk, Stephen, about the BI progressive
+organic revenue growth in 2018, I'm just wondering what KPIs you can share with us that underpins your
+confidence and expectation there? In the past renewal rates were moving up towards 90% as they are
+now. We've talked about ACV in the past being one of the main KPIs. So what you can share with us on
+that? And then secondly, on Academic Publishing, you say that the market is adapting Open Access deals
+paid-to-publish deals are the trend. I was just wondering whether you could add some color on what that
+trend means for margin, please, within that component?
+
+Stephen Andrew Carter
+Group Chief Executive & Executive Director
+
+Interesting questions. On the first, I think the confidence in a steady performance from BI comes from
+the fact that we have good visibility now on where we are on renewals and on contract value across all
+of the markets we're in and the renewal period is -- runs really from -- straddles the calendar year, it
+runs from November through to February. So actually standing here now, we've got reasonable sight of
+that. The less confidence in how punchy or strong that will be is because, as I was saying in my opening
+remarks, really, what will now lift that business from a steady growth performer, and there's no shame
+or disappointment in that, but into a strong growth performer is new business and that's about pipeline
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+INFORMA PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+and conversion. And indeed, the profitability of that pipeline and conversion, that's much harder to track
+and see at this stage of the year. And so that will be where there'll be a real focus in 2018 and beyond.
+And that's a bit of a skills shift too because you're into farmers and hunters and the way in which you
+take your product to market. So there's a bit of an operational gearshift we need within the business,
+which we're doing. I'm not saying with a lot of life to it but it's a slightly different pace. In AP, I mean,
+this is a subject that I don't profess to be an expert. There are many people who know more about this
+than me. But there is no doubt that we've discussed this before, you and I, the fundamental truth of
+research and scholarly publishing is that everybody engaged in that activity has one common goal, and
+that is to ensure the dissemination and sharing of high-quality, original research output on the grounds
+that it broadens the sum of human knowledge. And if you broaden the sum of human knowledge, you
+increase learning. If you increase learning, you increase innovation. That's the driving force of the activity
+that we're all engaged with, which is why academic publishers to be good academic publishers have to
+be as interested in academia as they are in publishing. It's a very interesting market to work in. It's not
+just a sales proposition. And in Open Access, what you have in Open Access is a publishing, a systemic
+publishing product solution, which accelerates that dissemination because it makes it easier to access,
+it makes it quicker, it changes the peer review process so that has some impacts. And also, in some
+instances, it changes the way in which people budget and pay. And in any market when you see those
+shifts, that requires the provider of the service to adapt their product development, packaging, pricing
+model and we're doing that. And on the buy side of the market, people don't want to buy twice or they
+certainly might buy twice, but they don't want pay twice for the same product. And those are the trends
+that all the publishers are addressing. And that's why we've progressively made investment both in our
+own Open Access business. We bought an Open Access business last year. We're making more investment
+in the way in which we provide service provision to those. I don't -- I mean, it's a trend, but it's not a cliff
+edge. And I think the end outcome will be a positive one, which is it will expand the market. And generally
+speaking, my experience is, if you're in a market, if you're got brands, product and quality content and the
+market is expanding, it's incumbent upon you to find a way of developing your product and service to take
+advantage of that not just defend where you are. And that's what we're in the process of doing, and that's
+a large part to go back to Katherine's question of what Annie's charge is over the next 3 to 4 years. Chris?
+
+Christopher Anton Giles Collett
+Deutsche Bank AG, Research Division
+
+It's Chris Collett from Deutsche. Just a couple of questions. One was continuing on Academic. You've
+talked about Journals business being steady. Looks like books have just improved. But given that's
+somewhat lumpy business and very weighted to the year-end, do you have confidence that, that
+businesses will genuinely improve? Or could we go back to another poor performance in 2018? Second
+question was just on the synergies with UBM. It was interesting to see, I think you had over 1/3 of your
+synergies from Penton were coming from procurement, but procurement as a proportion of the synergies
+with UBM is a much smaller part. So just wondering if there's anything that we should read into that? And
+then final question, a little bit reflective. You've come to the end of the GAP. I think you talked about sort
+of the next plan being the sort of Accelerated Integration Plan, but integration isn't necessarily a strategy.
+So what is going to come? Is there going to be another GAP? Should we expect another sort of strategy
+announcement at some point in the future?
+
+Stephen Andrew Carter
+Group Chief Executive & Executive Director
+
+Thanks, Chris. You might want to come in on the procurement question, Gareth. I mean, our Academic
+business is a tale of 2 cities, although they're not equally sized. One of the cities is a bigger one, which
+is Journals; and the other is, as you say, the Books one, which is more of a unit sale business. The great
+joy of the Journals business is it's a subscription business. The great worry of the Journals business is
+it's a subscription business. The great joy of the Books business is when you get it right, it's a beautiful
+thing; and when you get it wrong, it's a retail sales business. So you kind of live with both. What we do
+in order to smooth out the lumps to use your word in Books and what we've been doing, and that's why
+I used it in my presentation is we've simplified our own operating business. So we've got rid of our own
+internal divisions where we had kind of 3 different Books versions of the world, which just makes for
+an efficient production processes and commissioning. We have upped our absolute volume, so we are
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+INFORMA PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+publishing more product. We're producing more product. I think we have done that without any reduction
+in quality. In fact, if anything, I think not to comment on historically that it was poorer quality, but I think
+our quality levels continue to improve year-on-year. And we've invested significantly in our platform where
+increasingly more and more customers are using for discovery and usage. So and then on top of that,
+you need to improve your marketing and your customer service. But ultimately, I'll be standing here in
+November of next year and you'll be saying to me, "What's your confidence in your Books numbers for
+2018?" I'll be saying, "Ask me in January." That's the truth of that business. But I think, we are pleased
+that what we did in '17 brought through in '18 -- sorry, what we did in '16 brought through in '17. And I
+think we feel, going into '18, good about the midterm prospects. I'll let Gareth come in on procurement,
+although suffice to say, the number that we put out in the 2.7 was an audited number. And as the auditor
+is sitting just one row behind you, I need to limit anything further that I say on that, other than that
+number has been verified and we feel confident in that. Are we hopeful that there might be another
+number that will be subsequently verified? Of course, we're hopeful about that, but I can't comment
+anymore. On strategy, we have -- we've got our hands full right now. We've come out of the GAP program.
+We've given ourselves a program for forward growth. And we want to deliver that in our existing business
+in '18, and that's I think a good strategy for this year. We also want to ensure that our combination with
+UBM goes well and the AIP will take some doing to do that at the speed that we've laid out. I think you
+asked an interesting question about where long term the future of the combined group is, but I think we
+need to become a combined group before we answer that question publicly. So I think that will be a '19
+issue, not an '18 issue. But on the detail of the Penton procurement versus what we're proposing on UBM,
+do you want to touch on that, Gareth?
+
+Gareth Richard Wright
+Group Finance Director & Director
+
+I think you're right in the way you've analyzed it, Chris. I mean, on Penton, it was a larger proportion of
+the overall numbers for procurement. A key aspect of that was getting their contractor services contracts
+for the build of their exhibitions onto the [indiscernible] contract. And we had a larger scale business,
+therefore, we're able to use some leverage to get a better contract in that space. So that was the largest
+part of the Penton savings, along with things about insurance, commissions, property, et cetera, that also
+helped. But the contractor savings was the largest element. It's slightly lower in terms of the shape of it
+in terms of the UBM 2.7 announcement for 2 reasons. The first one is, as Stephen has mentioned, it's an
+audited number. And therefore, you've got to take a bit of a haircut on the number to get to a point where
+it's been derisked enough for the auditors to sign off on it and be comfortable with it. As Stephen said, it's
+a number that we would hope to beat. But the second dynamic that you've got to take into account is that
+UBM have made procurement a part of their strategy, and therefore, I don't think we're coming from the
+same sort of starting point as we were with the Penton acquisition. So I think it would be wrong to assume
+that it was going to be quite the same level of low-hanging fruit as there were with Penton.
+
+Stephen Andrew Carter
+Group Chief Executive & Executive Director
+
+I'm conscious we're losing the audience to an audience business. Question at the front.
+
+Thomas A Singlehurst
+Citigroup Inc, Research Division
+
+It's Tom here from Citigroup. And I do apologize if you addressed this elsewhere, but I think I missed
+the beginning. But just to pin down the Books business in the fourth quarter of last year, obviously a big
+acceleration from 0.9% in Academic to 2.0% the whole year. Was there anything unusual in that? Was that
+all underlying demand for Books? Or was there any sort of channel effects or anything that was unusual in
+that fourth quarter performance because it obviously was a big acceleration. And you seem to be saying
+that it will now a stick at 2% for the whole of the year for 2018 as well?
+
+Stephen Andrew Carter
+Group Chief Executive & Executive Director
+
+I don't think I said that last bit. I said steady.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+INFORMA PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Thomas A Singlehurst
+Citigroup Inc, Research Division
+
+Steady at 2%.
+
+Stephen Andrew Carter
+Group Chief Executive & Executive Director
+I said steady. But just to be clear, for the audience of doubt, as they say. I have no recollection of saying
+that. But I think it will be steady. The answer is, it was, look, it was a strong. It was one channel change
+in one geography where there was a new channel or a new stocking order which came to the market.
+But overall, the vast majority of the performance was underlying. And given that we are having this
+conversation in February, if I'm allowed to say this with you, Richard, we've seen -- we haven't seen a dry
+January because of a bumper December, if that's your question. Any final questions? Well, can I thank you
+again for those people who are in the room. Can I say thank you to those people who are watching on the
+webcast. I know -- I hope at least that they'll be colleagues not just from Informa, but Tim, very kindly
+arranged for this to be linked through the UBM site. And I hope that some UBM colleagues also found it a
+useful insight into the business that hopefully they will be coming a very central part of. So thanks very
+much for your time, and enjoy the next show. Thank you very much.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+INFORMA PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+

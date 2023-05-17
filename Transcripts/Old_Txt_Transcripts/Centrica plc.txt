@@ -1,0 +1,2135 @@
+Centrica plc LSE:CNA
+FY 2017 Earnings Call Transcripts
+Thursday, February 22, 2018 9:30 AM GMT
+S&P Global Market Intelligence Estimates
+
+EPS Normalized 
+
+0.13
+
+CONSENSUS
+
+-FY 2017-
+
+ACTUAL
+
+0.12
+
+Revenue  (mm)
+
+27590.41
+
+28023.00
+
+Currency: GBP
+Consensus as of  Feb-22-2018 8:31 AM GMT
+
+-FY 2018-
+
+SURPRISE
+
+CONSENSUS
+
+0.00
+
+1.57
+
+0.13
+
+27935.41
+
+FY 2016
+
+FY 2017
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.16
+
+0.13
+
+0.17
+
+0.12
+
+6.25 %
+
+0.00 %
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+21
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Jeff Bell
+Financial Advisor
+
+Mark Hanafin
+Chief Executive of Centrica
+Business
+
+Mark Steven Hodges
+Former Chief Executive of Centrica
+Consumer & Group Executive
+Director
+
+ANALYSTS
+
+Mark Freshney
+Crédit Suisse AG, Research Division
+
+Christopher Robert Laybutt
+JP Morgan Chase & Co, Research
+Division
+
+Martin Brough
+Deutsche Bank AG, Research
+Division
+
+Deepa Venkateswaran
+Sanford C. Bernstein & Co., LLC.,
+Research Division
+
+Nicholas James Ashworth
+Morgan Stanley, Research Division
+
+Samuel James Hugo Arie
+UBS Investment Bank, Research
+Division
+
+Dominic Charles Nash
+Macquarie Research
+
+Elchin Mammadov
+
+Fraser Andrew McLaren
+BofA Merrill Lynch, Research
+Division
+
+Gus Hochschild
+
+Iain Stewart Turner
+Exane BNP Paribas, Research
+Division
+
+John Musk
+RBC Capital Markets, LLC,
+Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Presentation
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Ladies and gentlemen, good morning, and thank you for coming to Centrica's 2017 Preliminary Results
+Presentation. This morning, we'll be reporting on our 2017 results and also providing an update on the
+implementation of our strategy. I should forewarn you that this presentation will probably last about 1
+hour and 20 minutes, slightly longer than normal, given a number of things that we want to address.
+
+First, a word on safety in this building. There are no planned fire alarms today, and any building
+evacuation will be announced by Tannoy. Emergency exits are marked at the front and rear of the
+auditorium, and Goldman Sachs staff will be available to direct you to the muster point, which leads
+towards the rear of the building on the junction of Stonecutter and St. Bride Street.
+
+Let me now provide a summary of where we stand and what we'll be addressing today before Jeff takes us
+through the 2017 results in detail.
+
+Our performance in the second half of 2017 was weak, particularly in business Energy Supply. This weak
+performance announced in November at the time of our trading update, combined with uncertainty around
+our future prospects in U.K. Energy Supply, significantly amplified by the Prime Minister's announcements
+in October that the U.K. government would pursue a market-wide price cap of the standard variable tariffs
+and other default tariffs, taken together, resulted in a significant fall in our share price in 2017, particularly
+over the fourth quarter.
+
+Some of the drivers were clearly beyond our control, but I regret the outcome deeply and the impact it
+has had on our shareholders. I am determined to restore shareholder value and remain firmly of the view
+that Centrica's strategy can and indeed will deliver attractive total shareholder returns.
+
+We have excellent people, assets and market positions and are one of the companies shaping change in
+our markets at least as much as we are being shaped by it. Our focus in the near term is on performance
+delivery, managing through the political and regulatory uncertainty in the U.K. and maintaining the strong
+balance sheet, which we worked so hard to achieve. Although we delivered over 2017 published targets in
+terms of operating cash flow, cost efficiency and headcount reduction, capital discipline and net debt, our
+financial results in the second half of the year were weak with a material miss in North America business.
+
+This was both in terms of the performance of our power supply book and from a charge relating to
+historical revenue recognition in one of our billing systems going back to 2013. Performance in U.K.
+business Energy Supply was also poor. Given this performance and uncertainty over our future prospects,
+I do recognize there are important questions arising from 2017, which we're aiming to address today. Let
+me come to these in a moment.
+
+In 2015, we embarked on a return to the core of Centrica, Energy Supply & Services. And there are clear
+and encouraging signs of progress. At the end of 2017, Phase 1 of Centrica's repositioning has been
+completed. We have materially repositioned the asset businesses and delivered on our GBP 750 million per
+annum cost efficiency program 3 years early.
+
+We ended 2017 with a strong balance sheet with net debt of GBP 2.6 billion in the lower half of our end
+2017 target band, and our credit metrics at levels in line with our target strong investment grade credit
+ratings.
+
+As we look forward to 2018 to 2020, although we have still got some portfolio repositioning to complete,
+the focus is on performance delivery and financial discipline. In performance terms, it's about growing
+gross margin through our customer relationships and driving the next phase of cost efficiency. Today, we
+announced an increased cost efficiency target of GBP 1.25 billion per annum by 2020 relative to 2015,
+representing additional efficiencies of GBP 500 million per annum.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Despite the uncertainties we face in the U.K. energy market, we're also targeting to deliver on average
+GBP 2.1 billion to GBP 2.3 billion per annum of adjusted cash flow over 2018 to 2020. And to keep net
+debt in a band of GBP 2.25 billion to GBP 2.35 billion, designed to accommodate a range of scenarios and
+commodity prices and being consistent with maintaining our strong investment grade credit ratings.
+
+In terms of the dividend, we've indicated since 2015 that it would be linked to operating cash flow. And we
+expect to maintain the current level of dividend over the period 2018 to 2020, subject to meeting these
+operating cash flow and net debt targets.
+
+I will return to forward guidance later in the presentation. Let me now turn briefly to 2017 financial
+performance.
+
+Adjusted operating profit at GBP 1.25 billion was down 17%. Earnings were down 22% to GBP 698 million,
+equivalent to GBP 12.6p per share. Adjusted operating cash flow was GBP 2.07 billion, EBITDA of GBP
+2.14 billion was down 9%.
+
+Centrica Consumer delivered robust performance with adjusted operating profit, down only 1% despite
+the impact of warm weather, the U.K. government prepayment cap, competitive intensity and investing for
+growth.
+
+Centrica Business saw adjusted operating profit down 67%, reflecting the very poor performance in the
+Energy Supply business units.
+
+I've already covered our efficiency program delivery and net debt at the end of the year. Finally, we
+announced the full year dividend of GBP 12p per share, unchanged on a year earlier. I recognize that 2017
+has given rise to a number of questions about Centrica's performance and uncertainty about our prospects
+in the face of stiff competition and political and regulatory intervention in the U.K.
+
+Therefore, after Jeff has presented the 2017 results, I'll provide a strategic update designed to address
+the following questions. We know these questions are on the minds of a number of you, and it should not
+surprise you that I've also been reflecting on them.
+
+I will review our strategy and how the component parts combine to reinforce each other as we deliver for
+our customers. This will include looking back at Phase 1 of repositioning Centrica and the priorities we see
+for the next phase.
+
+Delivery of cost efficiency has been a material part of underpinning our performance over the last 3
+years. And we will outline the role that it will continue to play in offsetting competitive pressures on gross
+margin.
+
+I will address the resilience of Centrica in the face of strong competitive pressures and the specific issue of
+a potential price cap in the U.K. energy market. Although there remains uncertainty, I will explain why we
+believe the actions we're taking will improve the market and allow us to maintain a healthy and attractive
+business in UK Home Energy Supply.
+
+I will cover the customer account losses and consumer, our focus on value not volume and the relationship
+between customer numbers and gross margin. I'll also describe how we're doing in growing gross margin
+through customer-facing propositions other than Energy Supply. There are some very encouraging
+indications of growth potential.
+
+Jeff and I will share our findings and the response to the issues in North America business we encountered
+in the fourth quarter of 2017 and why it remains an important part of the portfolio. We will cover our
+intentions in the outlook for both Exploration and Production and our nuclear shareholder. We'll also
+address the capability of we're building for the future needs of our customers and our attitude towards
+acquisitions and disposals before finishing on our financial framework, sources and uses of cash flow and
+2018 to 2020 guidance, including the outlook for the dividend.
+
+Taken together, I hope this will help substantially in answering many of the big questions on the minds of
+those who follow Centrica.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Let me now hand it over to Jeff to take you through the 2017 results.
+
+Jeff Bell
+Financial Advisor
+
+Thank you, Iain. And good morning, everyone. Before getting into the financial results, let me first start
+with the backdrop of commodity prices and weather.
+
+First, commodity prices. Brent oil, NBP gas and baseload power prices were all significantly higher on
+average than in 2016 and remained in the band between the 70/50/50 scenario from the time of our 2015
+strategy review and our 35/35/35 low case.
+
+With respect to weather, temperatures in the U.K. were warmer on average compared to 2016, resulting
+in lower energy consumption. In North America, temperatures were slightly colder. However, more
+significantly, there was limited gas price volatility, which reduced optimization opportunities for North
+American business.
+
+Let me now move on to the financial headlines. Revenue was up 3%, which included the full year of Neas
+Energy revenue following its acquisition in October 2016, partially offset by the impact of lower average
+customer holdings compared to the prior year. As you just heard from Iain, adjusted operating profit fell
+by 17% to GBP 1.25 billion, reflecting significantly reduced profit in Centrica Business.
+
+Adjusted earnings also fell to GBP 698 million, including the net effect of higher interest costs and a lower
+effective tax rate driven by business profit mix, U.S. tax rate changes and tax provision releases. Adjusted
+basic earnings per share was GBP 12.6p and the full year dividend per share is GBP 12p.
+
+On cash flow, EBITDA reduced by 9% to GBP 2.14 billion, in line with the reduction in adjusted operating
+profit. Adjusted operating cash flow fell 23% to just over GBP 2 billion, inclusive of the one-off working
+capital inflow in UK Business in 2016 of GBP 357 million.
+
+Adjusting for this and for foreign exchange and commodity price movements, underlying adjusted
+operating cash flow fell 13% compared to 2016, and on a cumulative basis, is now broadly flat since 2015.
+
+Group net investment, which includes over GBP 800 million of disposal proceeds in the year, fell to GBP 46
+million and reflecting this, net debt fell to GBP 2.6 billion.
+
+Return on average capital employed was 14%, above the 10% to 12% boundary condition set out in
+our financial framework. A net post-tax exceptional charge of GBP 476 million was recognized in 2017,
+predominantly relating to impairments of E&P assets and Rough storage asset, but also including profits
+and losses on disposals from our divestments and restructuring costs incurred as part of our group-wide
+cost efficiency program.
+
+Returning to adjusted operating profit. Here, you can see the split across our customer-facing divisions
+with Centrica Consumer profit about flat compared to 2016, but significantly down in Centrica Business.
+Profit from our asset businesses was up, primarily reflecting increased production at Rough following the
+change in its status from a storage asset to a producing gas field.
+
+Looking now in more detail at Centrica Consumer, where operating profit fell slightly to GBP 890 million.
+UK Home profit was up 1% to GBP 819 million. Within this, Energy Supply profit was up 3% to GBP 572
+million with strong progress on cost efficiency and a focus on more valuable customer segments more
+than offsetting a reduction in account holdings, warmer weather and impact of the prepaid tariff cap.
+
+U.K. Services operating profit declined by 4% to GBP 247 million, as strong cost efficiency delivery was
+not able to fully offset a 10% fall in gross margin from the lower average customer holdings and increased
+pension costs.
+
+Ireland operating profit was at a similar level in both sterling and euros with the impact of competitive
+market conditions, largely offset by cost efficiencies.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+North America Home profit increased GBP 190 million, up 28% in sterling and 26% in dollar terms,
+reflecting reduced losses from the closure of our residential solar business, a focus on more valuable
+customer segments and cost efficiency measures. Total cost per customer was down 2%.
+
+In Connected Home, gross revenue increased by 27% to GBP 42 million, reflecting growth in the volume
+of products sold and the diversity of customer offers. With incremental investments in the development
+of products, platforms and apps, the business reported an increased operating loss of GBP 95 million. We
+expect 2017 to be the peak year of losses in Connected Home as continued revenue and gross margin
+growth will outstrip operating cost investment.
+
+Overall, Centrica Consumer adjusted operating cash flow declined by 16% to just over GBP 1 billion,
+mainly reflecting the time of working capital flows.
+
+Here is more detail on the drivers of year-on-year changes in adjusted operating profit in Centrica
+Consumer. External factors, specifically weather, foreign exchange movements and the impact of the
+prepayment tariff cap, reduced operating profit by around GBP 134 million. As I just mentioned, we saw
+an increased operating loss in Connected Home due to our choice to invest ahead of growth and other like-
+for-like change reflects the loss of customer accounts. However, our efficiency program delivery of GBP
+219 million largely offset these factors.
+
+Now let me turn to Centrica Business, where full year profit was down 67% to GBP 161 million. Adjusted
+operating cash flow fell 43%, reflecting working capital recovery in 2016 in UK Business and materially
+lower operating profit in North American business.
+
+Profit was down in each business unit, and I'll cover the drivers of the decline in the Energy Supply
+businesses, Distributed Energy & Power and Energy Marketing & Trading in the next few slides.
+
+In Central Power Generation, operating profit was down 53% to GBP 35 million, principally reflecting 2%
+lower generation volumes and a 4% fall in realized prices in our nuclear joint venture results.
+
+In a similar format to Centrica Consumer, here are the primary drivers of the year-on-year reduction
+in business operating profit. External factors, the combination of warmer weather, foreign exchange
+movements and commodity price changes had a small negative impact of GBP 8 million. Our choices to
+invest in Distributed Energy & Power growth and dispose of our wind farms and CCGTs reduced operating
+profit by GBP 35 million. However, we benefited from GBP 55 million of cost efficiency.
+
+But nearly all of the change versus 2016 was driven by like-for-like decline with poor performance in UK
+Business and North American business in the second half of 2017, lower profits from our flexible legacy
+gas contracts in Energy Marketing & Trading and lower output in realized prices already mentioned in
+nuclear.
+
+Let me now take you to each of these in turn. First, UK Business. UK Business profit fell in 2017 as the
+reduction in gross margin was not sufficient to offset lower operating costs from the efficiency programs
+and improved bad debt charge, both of which were enabled by strong operational performance.
+
+The gross margin decline reflects a 9% fall in customer accounts due to high levels of market switching,
+lower unit gross margins from continuing competitive intensity on acquisition and renewal pricing and the
+effect of high wholesale electricity cost in the first quarter of the year.
+
+Against this competitive backdrop, we are focusing our retention and acquisition activities on the higher
+values, small- and medium-sized enterprise segments with further development of our online offerings,
+greater emphasis on customer segmentation and value, and increased cross-sell of services and energy.
+
+As a result of these actions, we would expect to see a recovery in UK Business operating profit back
+towards 2016 levels in 2018.
+
+In North American business, the operating profit decline was driven entirely by the fall in gross margin,
+slightly offset by lower operating cost. For the gas supply business, consumption was broadly flat, while
+warmer weather in the first and fourth quarters reduced the opportunity for wholesale optimization. And
+as a result, total gas unit margins declined slightly.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+In our electricity supply, we saw a 7% reduction in customer consumption, partly driven by a 3% fall in
+customer sites, but also the impact of increasing energy efficiency measures.
+
+In addition, unit gross margins fell by nearly 50%. Approximately half of this fall in unit gross margins
+was due to a GBP 76 million pretax, one-off charge, related to a reassessment of historic recognition of
+unbilled power revenues, with the other half reflecting a number of factors, which I will describe shortly.
+
+As a result, total North American business gross margin fell by just over GBP 200 million year-on-year,
+shown in the chart on the left-hand side of the slide. Total gas gross margin declined by about GBP 40
+million, reflecting the lower optimization opportunities I just mentioned. However, the biggest driver of
+reduced profitability in 2017 was the power supply business, shown in light blue on the chart.
+
+This reflects the lower unit margins and volumes seen on the prior slide as well as the one-off accounting
+charge.
+
+The North American business power supply margins were significantly lower due to a combination of
+factors impacting the business at the same time. They include -- they included heightened competitive
+intensity, depressing acquisition and renewal margins and changes to the market structure and related
+input costs, including higher unit capacity market charges.
+
+Realized margins were also impacted by reductions in customer volumes as commercial customers
+increased their take-up of energy efficiency measures, including distributed generation.
+
+Lower customer volumes also meant that unitized, non-commodity costs were under-recovered.
+
+Finally, management actions in response to these pressures were hampered by poor visibility in our load
+forecasting and risk management systems due to the magnitude of internal change projects concurrently
+underway.
+
+In response to these issues and the inherent risk exposure in power supply, we've undertaken a thorough
+review and investigation. And the business is implementing a number of changes. These include a
+new standard product offering that more closely matches input cost recovery; completion of system
+enhancements to provide greater granularity of gross margins drivers and improvements to the processes
+and controls around load forecasting and risk management and improving the level of capability.
+
+The aim of these actions is not only to improve the profitability of the power business, but also to reduce
+its volatility. As can be seen on the left-hand side of the slide, the performance of the gas business with
+its physical asset positions and contract flexibility has meant the gross margin delivery, even in years of
+extreme weather and volatility like 2014 during the polar vortex, has remained within a narrow range.
+
+The power business is more affected by extreme weather. And the knock on impact that has to electricity
+price spikes and ancillary charge increases, where unlike gas, we don't have the assets in positions to
+optimize and mitigate adverse factors in the same way.
+
+As a result, we've seen more volatility in gross margin in recent years. That is why we are taking actions
+with respect to the products we sell and the risk management processes we have in place.
+
+Going forward, we expect unit power margins to remain at 2017 levels this year. And therefore, after
+adding back the onetime accounting adjustment, we anticipate limited growth in underlining operating
+profit in North American business in 2018.
+
+Moving out to Distributed Energy & Power and Energy Marketing & Trading. In Distributed Energy & Power,
+revenue and gross margin were both up in 2017, reflecting organic customer growth and a full year
+of results from ENER-G Cogen, which was acquired in May 2016. Although the segment operating loss
+increased to GBP 53 million, driven by planned incremental investment in growth, we are seeing good
+momentum on building the future order book and recurring revenue streams.
+
+We expect Distributed Energy & Power to deliver continued revenue and gross margin growth in 2018,
+although unlike Connected Home, we will continue to make further investment to drive this growth, and
+therefore, expect the current year operating loss to be similar to that in 2017.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Energy Marketing & Trading reported a 35% reduction in operating profit despite continued gross margin
+expansion from the core route to market trading and LNG activities. The capabilities we have built up
+over the past 3 years as well as those acquired with Neas Energy, leave us well placed to deliver ongoing
+growth in these areas going forward.
+
+Neas, in particular, is delivering well ahead of its investment case. However, as you can see from the
+chart on the right, the level of gross margin from our 3 flexible legacy gas contracts, which we've been
+optimizing for value since demerger, declined. This will be a continuing trend as the 2 most profitable of
+the legacy contracts end during 2018.
+
+The one remaining contract is expected to be loss-making this year based on the current commodity price
+inputs that make up the contract's commercial terms. This will create a year-on-year headwind for Energy
+Marketing & Trading operating profit in aggregate this year, and we would expect 2018 operating profit to
+be no more than half the level of 2017.
+
+Moving on to E&P, which, following the disposals of our Canada and Trinidad and Tobago and the formation
+of Spirit Energy, we'll be focused on our European gas operations. Overall, production was down 14% to
+61 million barrels of oil equivalent, principally reflecting the impact of the disposals.
+
+Production in Europe was down 5% as a result of our decision to undertake asset integrity works at
+Morecambe to help improve safety, operational efficiency and underpin the residual life of the asset.
+
+Production from the rest of the European portfolio was similar to the prior year. With gas from Cygnus,
+which came on stream last December, offsetting the impact of the natural decline in the rest of the
+portfolio.
+
+In 2018, we expect production from Spirit Energy to be in the range of 50 million to 55 million barrels of
+oil equivalent. Gas and liquids achieved sales prices were up in the year, which offset the lower production
+volumes, and therefore, realizations were in line with 2016.
+
+Operating profit was also commensurate for 2016 as total cash lifting and other production cost and DD&A
+were higher on a per unit basis, but with lower overall volumes, which -- therefore, broadly offset each
+other.
+
+In 2018, we expect Spirit Energy unit cash lifting and other production costs to be similar to Centrica's in
+2017.
+
+Adjusted operating cash flow fell 32% to GBP 448 million, reflecting higher decommissioning spend and
+the phasing of Norwegian tax payments between years. However, E&P was still cash flow positive, even
+excluding the impact of disposals.
+
+Centrica Storage reported an operating profit of GBP 17 million for 2017 compared to a loss in 2016. This
+reflects a better well performance and stronger gas production volumes at Rough following its returns to
+service and the decision to produce a portion of the cushion gas for safety reasons in the fourth quarter.
+Having received final consent in January 2018 to change Rough's status from a gas storage facility to a
+producing asset, we would expect it to produce 8 million to 10 million barrels of oil equivalent of gas in
+2018.
+
+Going forward, we will report both Spirit Energy and Centrica Storage in one E&P performance segment.
+
+Turning now to costs. Total reported operating costs were down 7% in 2017. After adjusting for items such
+as depreciation and amortization, impairments, smart metering and portfolio change to get to a like-for-
+like number, adjusted operating costs declined 5%, and after excluding growth investment, they were
+down 7%.
+
+This reduction reflects the progress made in our GBP 750 million cost efficiency program and including
+controllable cost of goods sold, we delivered a further GBP 308 million of efficiency in 2017.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Foreign exchange movements impacted our 2016 baseline by GBP 83 million, while inflation added
+a further GBP 103 million. However, when also including other net savings, not part of our efficiency
+program, total like-for-like controllable costs were 3% lower in 2017 than they were in 2016.
+
+The efficiency savings delivered are from combination of the annualization of 2016 savings and new
+2017 initiatives, including the transformation of our customer operations, the utilization of digital and
+technology capabilities to enhance customer service and reduce call volumes and a creation of a more
+integrated field operations model to drive efficiency and further supply chain improvements.
+
+We also saw a continued reduction in our global functions costs as a shared service operating model
+became more embedded and the procurement function continued to lever -- leverage the group's scale to
+reduce third-party costs.
+
+Viewed over the last 2 years and excluding the GBP 103 million of cost efficiency delivered in the second
+half of 2015, we have delivered just under GBP 700 million of efficiencies over the last 2 years. And when
+including the end 2017 run rate, which will deliver GBP 54 million of additional annualized savings in 2018,
+we have delivered on our GBP 750 million cost efficiency target, and we have done so significantly ahead
+of our original 2020 time frame.
+
+Iain will talk about the next phase on cost efficiency in his presentation later.
+
+Moving on to net investment. Total capital expenditure increased 12% to GBP 943 million with the
+acquisition of REstore and a development of merchant assets in Distributed Energy & Power, more than
+offsetting a GBP 79 million reduction in E&P CapEx to GBP 439 million towards the bottom end our
+targeted GBP 400 million to GBP 600 million range.
+
+As I mentioned earlier, total net investment was only GBP 46 million after taking into account GBP 819
+million of disposal proceeds, predominantly relating to the sale of Lincs wind farm, Langage and Humber
+CCGTs as well as Canada and Trinidad and Tobago E&P assets.
+
+Turning to cash flow. The disposal proceeds were a material contributor towards the net cash inflow of GBP
+939 million. As already referenced, EBITDA fell by GBP 223 million or 9%, which when combined with a
+return to a more normal level of working capital in UK Business, resulted in a decline in adjusted operating
+cash flow of GBP 617 million.
+
+Cash interest payments increased in 2017 in the absence of net realized foreign exchange movements and
+a one-off interest benefit relating to the GLID windfarm disposal in 2016, while a higher script take-up on
+the first half dividend payment resulted in lower cash dividends paid. Other cash flows were down slightly
+with lower exceptional payments.
+
+I wanted now turn to the group's balance sheet. We have been very successful in reducing net debt over
+the past 3 years. Although given the maturity profile of our debt, this has resulted in an inefficient cash
+to gross debt mix. Reflecting this, we have announced today a GBP 600 million to GBP 1.1 billion debt
+repurchase offer. Including the one bond due to mature in 2018, we forecast an aggregate reduction in
+gross net of GBP 1 billion to GBP 1.5 billion by the end of year. We currently expect this early repayment
+will result in a one-off exceptional interest charge and cash outflow of between GBP 80 million and GBP
+140 million and generates annual interest savings of GBP 25 million to GBP 35 million per annum and GBP
+250 million to GBP 400 million in total over the lifetime, with the range in both cases depending on the
+amount of debt we will purchase. This will materially improve the efficiency of our balance sheet.
+
+Finally, I'll cover credit metrics. We said at the start of the year, we were targeting to be at or above the
+financial metrics currently required for our existing investment grade credit ratings. As a reminder, our
+rating with Moody's is Baa1 with stable outlook and BBB+ with negative outlook with S&P.
+
+We estimate we have achieved the target financial metrics at the end of the year, although, of course,
+the final calculations of the 2017 numbers are yet to be confirmed by the rating agencies, which they can
+consider alongside other qualitative and business risk factors in determining the overall rating.
+
+With that, let me hand it back to Iain.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Thank you, Jeff. As I outlined earlier in the second part of the presentation, I'll provide a strategic update,
+and in so doing, also hope to address these key questions on the subjects of strategy and performance.
+
+Let me begin with the summary of Centrica's purpose and strategy. Centrica is an energy and services
+company and our purpose is to provide energy and services to satisfy the changing needs of our
+customers. This is the core of the company, and we've been supplying energy and services to customers
+since 1812. We are reemphasizing and returning to that core. However, it is not 1812, the needs of our
+customers are indeed changing, and as we deliver for them the propositions we must offer -- we offer,
+sorry, must change too. The reason for these changes in customer needs arises from 3 fundamental
+trends, which have arisen significantly as a result of a response to climate change and advances in digital
+technologies.
+
+First, the energy system is becoming decentralized as new renewable technologies are developed and
+become viable with many deployed smaller scale and nearer to the point of use. Second, customers
+have more and more choice of how they can obtain Energy Supply and the services they wish to see
+alongside it. This means that power, influence and rent is shifting towards serving the customer. Third,
+digitization and technology developments are accelerating the changes, enabling much more sophisticated
+management of the distributed energy system and enabling customers to have more control over their
+energy, their services and their management of them.
+
+In response, as an energy and services company, Centrica's strategy is to deliver for the changing needs
+of our customers, we aim to deliver long-term shareholder value through returns and growth, be a trusted
+corporate citizen, an employer of choice and to become a 21st century energy and services company.
+
+Centrica is, therefore, directing more investment into the customer-facing businesses. Centrica is also
+becoming simpler. We now only have 3 divisions: Centrica Consumer, Centrica Business and Exploration
+and Production.
+
+Each has a clear participation strategy and strategic framework. The vast majority, over 90% of our gross
+revenue and gross margin generation is within the customer-facing divisions.
+
+In 2017, unit gross margins on revenue were over 20% in both the consumer divisions and exploration
+and production. Although much lower than this in Centrica Business overall, Distributed Energy & Power
+and parts of Energy Marketing & Trading also exhibited high unit gross margins.
+
+The reason we've established group-wide consumer and business divisions is because we found that
+customer needs are very similar globally and many are seeking more than simply Energy Supply. Indeed,
+pure Energy Supply is commoditizing and energy use per unit GDP is falling. In response, we've built new
+capabilities and propositions in both divisions and the divisional structure enables Centrica to be more
+scalable, replicable and efficient.
+
+Finally, there are significant opportunities for growth associated with adding new propositions to
+Energy Supply with high unit margins, unit gross margins. Technology is increasingly important in
+our propositions, and our customers, whether consumers or business customers, are responding very
+favorably to new digital platform offerings and innovations.
+
+The world of Energy Supply & Services is on the move, driven by the customer, and we are responding
+accordingly. We've developed the capabilities to deliver and established clear strategic frameworks for
+each of consumer and business.
+
+This is the strategic framework for consumer. The anchor of our business has always been in Energy
+Supply and an in-home installation and servicing, whether on demand or through protection plans
+and warranties. This remains the core of our business today. Through installing boilers, heating and
+cooling systems, their meters, thermostats and controllers, we have always been in the home energy
+management business. As boilers become more intelligent and home energy management becomes more
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+digital with data analytics providing new insights and opportunities for the customer, we have had to
+develop the ability to install and maintain new home energy management systems.
+
+This led to the development of Hive, starting with the digital thermostat and the intelligent boiler, Boiler
+IQ. Hive is a next phase of evolution of home energy management and a direct extension of our in-home
+servicing capabilities. Hive Home Energy Management requires a digital hub to be installed in the home
+and our customers are asking for other home management applications, which can be easily served from
+the same hub. These are in areas of home security, remote diagnostics and home automation.
+
+Simply stated, consumers want the propositions within our 4 services pillars and are willing to pay for
+them. We're also finding that many consumers, value receiving these services from the same provider as
+their Energy Supply either separately or as part of a bundled offer.
+
+As a result, growth and services, including Hive, is a natural extension of who we are and what we're
+good at. Our customers want it, like it, and it reinforces and leverages the historical core offerings of the
+company.
+
+Similarly in business, we find that in addition to the commodity offerings of Energy Supply and energy
+wholesale, business customers are wanting access to more distributed energy generation solutions, and
+we are moving from building large Central Power Generation plants to many more smaller distributed
+units.
+
+Our customers want combined heat and power units, solar arrays and the grid operators want distributed
+power systems and technology to assist with the optimization of local energy markets and microgrids.
+Along with this, customers want to be able to gain -- able to gain insight from their energy use to save
+money and improve their operations, including in preventative maintenance.
+
+Customers, who have distributed energy assets, want to be able to optimize them and are willing to pay
+for optimization services rather than do it themselves.
+
+The business customer is, therefore, also on the move, and we're responding to their needs. They
+want more than that just commodity Energy Supply and the new capabilities and propositions we have
+developed, once again reinforces the core of the relationship.
+
+Finally, the returns in value-added services tend to be higher than in pure commodity Energy Supply. The
+big message, therefore, whether in Centrica Consumer or Centrica Business is that the new propositions
+and services we have developed are not a distraction or somehow unrelated to our legacy businesses, they
+are to the heart of what our legacy businesses now have to incorporate.
+
+They are to the heart of what important and valuable customer segments are demanding. The good
+news is that Centrica has developed the capabilities to offer them in a high-quality way. We're seeing
+improvements in the customer experience and the growth in demand is feeding through to revenues and
+at attractive margins.
+
+I'd now like to summarize what is being delivered during the first phase of the strategic repositioning of
+Centrica. As of the end of 2017, we're on track with the objectives we laid out in 2015. We have already
+reduced the resources allocated to the asset businesses by GBP 1.5 billion through lowering our capital
+investment into Exploration and Production by GBP 300 million per annum and with divestments of over
+GBP 900 million towards the top of our target range.
+
+We have created a new Exploration and Production joint venture, Spirit Energy, which will allow Centrica to
+participate in a stronger and more sustainable business, while limiting our exposure.
+
+We have sold Canadian E&P, our wind assets, large U.K. CCGTs and resolved the future of Centrica
+Storage. We have in turn so far invested approximately GBP 700 million into the customer-facing
+businesses as we improve service, develop new propositions and build capability, both organically and
+through targeted acquisitions in response to the customer needs I described earlier.
+
+We have delivered on our material cost efficiency target of GBP 750 million per annum 3 years early.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Finally, we've maintained financial discipline, and in each of the last 3 years, we've ensured organic
+sources and uses of cash flow were more than balanced and with the proceeds from the divestments
+program, we have strengthened the balance sheet, so that net debt is now towards the bottom of our
+targeted end 2017 range.
+
+Let me now turn to what we need to focus on in this next phase. In the next phase to 2020, as we
+continue to focus the group more on the customer and energy and services, although there remains
+some portfolio issues to address, the main focus is on performance delivery and financial discipline. In
+performance delivery, there are 4 key priorities we must deliver on and all at once.
+
+First and crucially, we must demonstrate that we can grow gross margin through our customer
+relationships. Without getting to this place, Centrica cannot grow cash flow. We can rely upon a significant
+contribution from cost efficiency in the near term, but this must eventually give way to a higher proportion
+of cash flow growth from gross margin. Second and while we're improving gross margin capture and
+growth, in the near term, we must, therefore, drive cost efficiency as hard as we can. During 2018
+to 2020, we must aim to get as close as we can to being the most efficient price setter in our chosen
+markets, consistent with our targeted competitive position and brand.
+
+This is the basis for the next phase of our cost efficiency program of GBP 500 million per annum. Much of
+this will be focused on the U.K. in both our business units and group functions. Third, we must improve
+the effectiveness with which we operate in go-to-market.
+
+We have established a scalable platform, but we must become more agile, collaborative and joined up.
+And fourth, we must also work to secure the capabilities that we will need for 2020 and beyond. The
+energy and services world is changing rapidly, particularly in areas of digital and physical technology, and
+we must have the capability to respond and develop new products and services.
+
+We must do all of this while continuing to deliver improvements in safety, compliance and conduct and
+in operational excellence across the company, starting with customer service. So this is the performance
+agenda for 2018 to 2020. It will require a huge amount of focus, determination and delivery. I am excited
+by the progress that we're already making and the momentum we're beginning to see.
+
+I'd like to begin with cost efficiency, and will return to gross margin in a moment. This slide shows the GBP
+750 million per annum efficiency program delivery from 2015 to 2017 and then the additional GBP 500
+million per annum target we've announced today and which will be delivered between end 2017 and end
+2020.
+
+As you can see, including other cost reductions outside of the core program, our actions from 2015 have
+resulted in a reduction of our overall nominal controllable costs from GBP 5 billion per annum to GBP 4.5
+billion while eating adverse foreign exchange impact and inflation and funding our growth.
+
+On operating cost alone, again, the nominal costs at the end of 2017 are below those of 2015. The
+additional efficiency target will allow us to build on this track record and should materially offset gross
+margin pressures while aiming to drive nominal costs down further. We said in 2015 that by 2020, our
+nominal operating costs would be below those of 2015, having absorbed inflation and funded our growth,
+and we are on track to deliver this.
+
+So where will the additional GBP 500 million per annum of savings come from? As in the period from 2015
+to 2017, about 2/3 of the savings will be from OpEx, with about 1/3 in cost of goods. About 60% of the
+total or GBP 300 million per annum will be directly within UK Home in both energy and services and its
+supporting group functions.
+
+We estimate that in the UK Home Energy Supply, the targeted efficiencies will deliver an improvement per
+dual fuel customer of GBP 20 per annum by 2020 relative to 2017.
+
+These efficiencies will improve the underlying profitability of UK Home Energy Supply and will increase
+resilience in the face of any default tariff cap.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+The new efficiency program will involve an additional cost to achieve of GBP 300 million to GBP 400
+million, and I regret, it will also involve an additional direct headcount reduction of 4,000. This is in
+addition to the 5,500 direct headcount reduction to date. Taking the total reductions to 9,500 or a quarter
+of Centrica's end 2014 workforce. Against this, we will have created over 2,000 new jobs as we grow new
+propositions and businesses.
+
+The new program will be focused on the following areas: meeting customer's desire to self-serve through
+digitization of customer journeys; improving field operations, supply chain effectiveness and efficiency;
+using technology to improve productivity; continued transformation of group functions, including finance
+and HR; IT system improvements; and further procurements and supply chain efficiencies.
+
+The cost efficiency program is the anchor which will underpin net margins and our competitive position
+while we enable top line growth, which I will turn to now.
+
+This slide shows the revenue, gross margin and gross margin as a percentage of revenue from both the
+consumer and business divisions. In consumer, although revenue has been falling gradually as has gross
+margin, units gross margin have been steady to rising slightly and have been over 20% in each of the last
+3 years. Further, as customer accounts have been falling, the gross margin per account has been stable
+to rising at GBP 104 to GBP 110. This is as a result our focus on customer segmentation and on value not
+volume. We are not focusing on customer segments and channels with negative or 0 gross margin because
+these will almost certainly be loss-making, especially if there are no cross-sell or up-sell opportunities.
+
+In business, gross margin has also been falling gradually. Unit gross margins are much lower, that's about
+7%, whereas, gross margin per account was around GBP 650 in 2015 and '16. In 2017, for the reasons
+discussed earlier, business unit gross margins fell materially because of the issues in energy supply.
+Business energy supply has high turnover, lower unit gross margins, and can be volatile as a result of the
+impacts of weather and other factors.
+
+We will need to focus on reducing volatility of unit margins and improving consistency of returns in this
+area. This next slide shows the number of customer accounts in consumer. We have seen a fall of 1.35
+million accounts over 2017. The majority of this reduction, 1.1 million accounts occurred in the U.K. and
+Ireland, as shown by the dark section in each bar.
+
+Of the total fall across the division, 85% or 1.17 million accounts in the yellow bar were either the result
+of choices we've made to end channels or not to renew collective switch populations or customer switching
+away but in very low-margin channels.
+
+The gross margin impact of these 1.17 million account losses was GBP 6 million, GBP 6 million. And
+therefore, these accounts were loss-making at the operating profit level. Given the nature of these
+customer segments and channels, I am convinced we could not have improved their economics. Losing
+these accounts was a major driver in the increase in gross margin per account I mentioned earlier.
+
+The higher-value impacts are shown by the green bars, where we've seen a net loss of 180,000 accounts,
+which is actually an improvement of 96,000, relative to the 12-month picture we showed to the end of
+June, as we saw growth in both British Gas services and Connected Home more than offsetting losses from
+other channels.
+
+You can see we lost 195,000 prepayment meter customers in the U.K., added 373,000 accounts in
+Connected Home and lost 358,000 other higher margin accounts. Of these higher margin accounts,
+214,000 were in U.K. energy but we were successful in moving a net 700,000 SVT accounts onto fixed-
+term contracts during the year, in line with our stated objectives to encourage customers off the standard
+variable tariff.
+
+The total year-on-year gross margin impact within the core portfolio represented by the green bars was
+GBP 128 million, approximately half in energy supply and half in services. The prepayment meter cap
+impact represented most of the year-on-year energy gross margin erosion. And in services, it related to
+pension and environmental program costs. It's our goal to stabilize the net position in core portfolio -- in
+the core portfolio and then begin to grow it. The unit gross margins in our profitable consumer channels
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+are typically above 20%. And if we begin to net grow revenue from these accounts, then we will begin to
+be able to grow gross margin in consumer.
+
+Zooming in on UK Home and looking at the interaction between gross margin and cost efficiency, you
+can see that, although gross margin has been falling over the last 3 years, our cost efficiency delivery
+has been keeping pace with the gross margin decline, so maintaining EBIT margins per account at about
+GBP 39. Our goal is to focus on value not volume at the gross margin level while driving costs down to
+underpin EBIT margins. This is our focus across the consumer portfolio until we get to a position from
+which we can then net grow the total number of accounts. The resilience of consumer was demonstrated
+in 2017 with adjusted operating profit only falling by 1% despite intense, competitive and regulatory
+pressures.
+
+The ability to maintain competitive pricing, healthy unit gross margin quality and drive cost efficiency is
+crucial in the face of the potential default tariff cap in the U.K.
+
+Let me, therefore, turn to this major external uncertainty and how we plan to deal with it. As you know,
+the U.K. government published a draft bill on a proposed temporary default tariff cap in October. And this
+draft bill has undergone pre-legislative scrutiny in front of the base select committee. We are against this
+intervention because we believe it's based on fundamentally flawed analysis of consumer detriment and
+will have unintended consequences, including negatively impacting competition, customer choice and
+average prices for consumers. We've laid out our proposals for improving the U.K. supply market without a
+cap in the 14-point plan, which we published in November. Irrespective of whether a cap comes into effect
+or not, we will continue to push for all 14 points, including those which we encourage the government
+and Ofgem to implement. This includes leveling the playing field for marketing -- market participants and
+removing energy policy costs from people's bills, something which is highly regressive.
+
+Whatever the outcome, we are implementing the 7 points we committed to unilaterally. These will improve
+the market but also lower Centrica's exposure to any proposed cap. By March 31, we will withdraw the
+standard variable tariff for new customers, introduce a new default tariff and measures to make it harder
+to end up on a default tariff. We will introduce new attractive fixed-term propositions, including fixed-price,
+online-only and bundled tariffs. British Gas Rewards will drive customer loyalty and are already reducing
+churn. Finally, we will continue to drive cost efficiency to ensure we are competitive with healthy returns
+even in a cap scenario. In the meantime, we will continue to press the government and regulator on wider
+market reform.
+
+So what is the risk to Centrica of a price cap? To understand this, you need to look at our exposure, our
+competitive position, and the result of our own cost efficiency plans. Firstly, we had 4.3 million customers
+on SVT at the end of 2017. We are expecting to have reduced this to about 3 million by the end of 2018,
+as the measures I described a moment ago take effect. This will reduce our exposure to any cap.
+
+Secondly, as a result of our own cost efficiencies to date, our current SVT is cheaper than 85% of the SVTs
+in the market and is GBP 41 below the average of large supplier SVTs. As a result, if we were to maintain
+this competitive position, any price cap will impact the majority of the market first before it impacts us.
+The impacts on those with the highest of all SVT prices, including some of the smallest suppliers, will be
+even more significant. This GBP 41 per customer provides a competitive buffer against the cap. When we
+introduce our new default tariff to replace the SVT, which will happen by the 31st of March, we intend to
+continue to make it competitive relative to the market.
+
+Thirdly, our efficiency program will deliver an additional GBP 20 per customer by 2020. In terms of
+financial projections, our forward plans assume declining underlying unit gross margins by 2020, and now,
+also incorporate an assessment of a temporary default tariff price cap impact from early 2019. Clearly,
+depending on the level of the cap initially, it's possible that the reduction in gross margin from the cap
+may happen more quickly than our cost efficiency can keep up, in which case, relative to our plans, we
+could see some EBIT margin compression, particularly in 2019. However, we must remember that the
+government has also said that when setting a cap, Ofgem must have regard to incentivizing efficiency,
+enabling effective competition, maintaining incentives to switch and that efficient operators are able to
+finance their activities.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Although the select committee has concluded, it might be hard to meet all of these conditions all at
+once. The intent is clear. The committee also underscored the need to guarantee the temporary nature
+of this intervention. Recognizing that the formula for any potential cap is not yet known, given the steps
+we're already taking, our competitive position and efficiency potential, we believe that we can deliver a
+sustainable energy supply business in the U.K. with healthy returns under most conceivable scenarios.
+
+Staying with the U.K., I've included once again this breakdown of British Gas dual fuel bills with the data
+for 2017 added. You can see that other than wholesale energy costs, which, on average fell in 2017, the
+largest elements of the bill are those of delivery to your home and environmental and social policy costs.
+Our profit margin after tax was GBP 59 on an average dual fuel bill, once again in the range of GBP 42 to
+GBP 65, which has been the case since 2009.
+
+Over the last 6 months, wholesale prices have been, on average, been rising as have projected policy
+costs. And very recently, Ofgem announced a GBP 57 increase in the average prepayment tariff cap to a
+level just below our current SVT. We are monitoring such cost increases carefully.
+
+Let me now briefly cover some of the other indicators of growth we are seeing within Centrica Consumer.
+In North America Home, we've been growing protection plans, as we learn from the U.K. experience and
+have seen 18% growth year-on-year. Local Heroes started from nothing in January last year and we now
+have 7,000 technicians signed up, and we completed 25,000 jobs in 2017.
+
+As you can see from the graph, this on-demand offer continues to accelerate and complements our own
+contract relationships through British Gas. In British Gas, on a half year basis, we've seen the number of
+accounts in in-home services grow in the second half of 2017 for the first time since 2011.
+
+Finally, British Gas reward sign-ups have now reached 700,000. Rewards allows us to enrich the
+relationship and proposition for our local -- for our loyal customers in combination with our other offers
+and has reduced customer churn by, on average, 1.4 percentage points.
+
+These growing propositions demonstrate that consumers want additional services beyond commodity
+energy. And unlike many competitors, we are in a position to fulfill all of these needs at scale. This is also
+true in Connected Home. You can see the momentum we've started to build. We have seen installed hubs
+grow by 71% during 2017 to 900,000.
+
+As of last week, we were at 950,000 hubs, and therefore, are likely to hit our 1 million hub target
+very shortly, albeit 1 quarter late. We did exceed our target for 1.5 million products sold, delivering a
+cumulative 1.63 million by the end of 2017, and we now stand at 1.8 million as of last week.
+
+Revenue increased by 27% in 2017, with unit gross margins remaining attractive. Connected Home
+continues to grow in all of our geographies, and our first international partnership with Eni in Italy will see
+its full commercial launch in April. We forecast that 2017 was the peak year for net cash investment in
+Connected Home. And in 2018, we are now targeting a doubling of revenue, 500,000 new customers and
+over 1 million incremental product sales.
+
+We continue to target GBP 1 billion of revenue from Connected Home by 2022. This slide shows our
+competitive position in Connected Home. The Internet of Things market has thousands of participants. As
+you can see in terms of smart thermostats, we now rank fourth globally and are the market leader in the
+U.K. and Western Europe.
+
+On the right, we ranked seventh globally in terms of integrated, multifunction ecosystem deployment,
+and again are the leader in the U.K. and #2 in Western Europe. We are competitively well positioned in
+Connected Home. Other third parties are exploring partnerships with Hive, and it materially strengthens
+our other core propositions.
+
+Let me now turn to the business division and the area in which our performance let us down in the
+second half of 2017, North America business. As we have covered, the demands of business customers
+are similar in all markets, and this is very much the case in North America. We have a material and
+established business in the world's largest energy market, serving 240,000 customers in 24 U.S. states
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+and 8 Canadian provinces. We are the second largest retail energy supplier by market share in the United
+States.
+
+The market plays to our strengths. It is large. We operate a large customer book, and it requires
+sophisticated energy price risk management and increasingly, the offer of a broader set of energy risk
+management and other services.
+
+The propositions of Distributed Energy & Power are increasingly important for the business energy
+customer in the U.S. However, the U.S. energy market is a volatile one, with significant weather extremes
+and regional differences. The acquisition of Hess Energy Marketing materially strengthened our capability,
+particularly in natural gas.
+
+Our recent track record is generally a good one, particularly in natural gas supply and optimization.
+In power supply, the track record is more volatile. The issues we had in the second half of 2017
+predominantly relates to the power supply book.
+
+As discussed on the call following the Trading Update in November, in addition to the accounting
+restatement, the weaker performance in the power supply book was initially caused by compressed unit
+margins due to competitive pressures and lower volumes from efficiency and distributed generation
+takeup.
+
+However, as Jeff covered earlier, changes in the market, including backwardated capacity curves,
+combined with unsophisticated legacy power products, further reduced realized margins in 2017. The
+visibility of the degradation of performance and forecasting quality were simultaneously impacted by a
+new IT system under installation, which ironically is designed to give greater granularity on elements of
+power gross margin.
+
+Market change was occurring at the same time as we were managing significant internal changes. In
+summary, the methods, products and processes had served us well in the past but we failed to adapt to a
+changing situation, which required more sophisticated products, systems and processes.
+
+Faced with this, it was imperative to investigate comprehensively what went wrong and why, and we made
+changes to ensure we manage the book differently going forward. Our response, which Jeff also described,
+is designed to reduce the volatility of the North America business power book, increase transparency and
+visibility of cost component risk and improve planning and forecasting. We're also making some changes
+to personnel to improve capability.
+
+North America business is an important part of the Group. Over 2015 and 2016, post-tax ROCE was
+10%, but in 2017, it was a third of that. Adjusting for the accounting error, it would have been 6%. The
+recent volatility in results is a concern, but returns have been generally attractive and the business has
+the potential to grow. And the customer base and the capability we have give us the ability to offer new
+propositions and services, which will add gross margin and stickiness to customer relationships. And we
+have the potential to grow the customer base.
+
+North America business, therefore, fits within the Centrica strategic framework and has the potential to
+deliver attractive returns on growth, but we need to demonstrate that more consistently in the period to
+2020.
+
+Moving now to our growth node of Distributed Energy & Power. We have built good momentum in this
+business. Active customer sites increased by 22% over 2017. Gross revenue increased by 6% and by 34%
+on an underlying basis when reflecting disposals and discontinued activities.
+
+We also saw a 26% increase in order book revenue with accelerated growth over the fourth quarter. We
+have also put in place enablers for future growth. We've enhanced our demand response optimization
+capability with the acquisition of REstore, which complements the energy insights and energy solutions
+capability acquired through Panoramic Power and ENER-G Cogen acquisitions.
+
+We have transformed the way we go-to-market, including increased sales capacity, development of new
+propositions and bringing our products together under one brand, Centrica Business Solutions.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+These enablers will drive an acceleration in the growth rate. In 2018, we are targeting revenue growth of
+at least 50%. And like in Connected Home, we remain on track to achieve our 2022 target of GBP 1 billion
+of revenue.
+
+Before I return to the group as a whole, let me touch on exploration and production. The E&P division
+now consists of 2 business units, Spirit Energy and Centrica Storage. The formation of Spirit Energy has
+created a stronger and more sustainable E&P business, bringing together 2 like-minded shareholders. Our
+goal is to further develop Spirit through additional consolidation or partnership. We would expect to have
+a lower ownership percentage in any larger entity while maintaining exposure to E&P, and we would wish
+to retain sufficient influence to shape the strategic direction of the business. We would also be prepared to
+reduce our shareholding in Spirit Energy to below 50% if the right opportunity came along.
+
+Ultimately, the formation of the new business has created optionality for both shareholders and, as we
+said at the time of the announcement, we also do not rule out the possibility of an IPO in the medium
+term. Centrica Storage is now also an E&P business. We will look to create synergies between Centrica
+Storage and Spirit while continuing to explore the commercial optionality of the Easington terminal.
+
+Touching briefly now on securing the capabilities we will need for 2020 and beyond in a changing world
+for energy and services. The environment is fast moving, with an increasing focus on integrating new
+technology. We have built enhanced capabilities over the past 3 years, both organically and through bolt-
+on acquisition, with improved customer service, customer segmentation, propositions, digital platforms
+and technology.
+
+The technologies we focused on are directed at specific customer needs. In bolt-on acquisitions, we have
+targeted top-quality competitive capabilities, and the initial results are very encouraging. We have also
+accessed key new talent, both through acquisitions and through attracting new skills and capabilities
+organically. We have a strong focus on bringing forward the next generation of leaders and are working
+hard on succession planning.
+
+Before moving onto our financial framework and outlook for 2018 to '20, let me cover how we're thinking
+about acquisitions and disposals over the period. In the last 3 months of 2017, the risk envelope for
+Centrica changed. And as a result, we will not be pursuing any major growth M&A.
+
+This is because of the uncertainty over the U.K. price cap and our desire to maintain our hard-fought
+balance sheet strength. We may, however, make small bolt-on acquisitions to build our customer-facing
+capability within the capital reinvestment limits of our financial framework. For example, a priority would
+be to build out our capability in Distributed Energy & Power in The United States.
+
+Spirit Energy is likely to see a second step transaction, as I mentioned a minute ago. Finally, a word on
+our nuclear shareholding. Subject to ensuring alignment with our partner and being very mindful of U.K
+government sensitivities in this area, we would hope to divest of our shareholding in U.K. nuclear power
+by the end of 2020.
+
+Having highlighted many of the developments in our businesses, and hopefully, I answered some key
+questions, let me summarize the conclusions on strategy before I move to future financial guidance. We
+have completed Phase 1 of repositioning the company. Centrica is returning to our strengths of Energy
+Supply & Services. We have strong positions in those core areas. However, that core is also moving as
+customers demand different things, and our capabilities and propositions are moving with it.
+
+In the near term, the uncertainty around the company has increased largely because of U.K. political and
+regulatory interventions, and we face challenges of increasing competitive intensity. As a result of this and
+as we mitigate the performance issues in North America, our focus remains on performance delivery and
+financial discipline.
+
+We will focus on customer-led gross margin growth, and there are some encouraging signs from our new
+propositions. We will drive efficiency hard, and we have significantly increased our cost efficiency target
+to 2020. And we will maintain capital discipline and a strong balance sheet and we will not pursue major
+growth M&A.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+So let me now turn to the group financial framework and provide some financial guidance going forward.
+Our financial framework has been updated to share our revised CapEx target for 2018 to 2020, reflecting
+continuing capital discipline. We are delivering on many aspects of our framework although we have yet
+to demonstrate consistent growth in adjusted operating cash flow. As a result, we have yet to restart a
+progressive dividend.
+
+However, we have delivered on our cost and capital discipline, and ROCE is currently running well above
+threshold levels. Our financial framework remains valid over the medium term. However, today, we are
+also providing some specific guidance over the 2018 to 2020 period.
+
+We will be targeting on average GBP 2.1 billion to GBP 2.3 billion per annum of adjusted operating cash
+flow from 2018 to 2020. While we believe this is probably also deliverable in each discrete year, taking into
+account the unknown formulation of a potential price cap, there remains a slight risk to being outside this
+range in 2019.
+
+Capital expenditure, including the consolidated total for Spirit Energy and any bolt-on acquisitions, will be
+limited to GBP 1.2 billion per annum, and we would expect the outcome to be in the GBP 1 billion to GBP
+1.2 billion in any year.
+
+In terms of the dividend, we expect to maintain the current dividend level out to 2020 subject to 2
+conditions: firstly, being able to generate adjusted operating cash flow on average within the targeted
+range; and secondly, to manage net debt to within the range of GBP 2.25 billion to GBP 3.25 billion. Our
+range designed to take into account a number of scenarios, commodity price projections and consistent
+with maintaining our strong investment grade credit ratings.
+
+We believe we can manage within both these constraints under most scenarios based upon our current
+projections. But clearly, there are always risks associated with extreme commodity price movements and
+extreme regulatory interventions. Finally, in line with the group financial framework, we would intend to
+restore progressive dividend. When? In addition to the criteria already mentioned, underlying cash flow
+growth capability is demonstrated. Our medium-term plans continue to show underlying AOCF growth
+rates of 3% to 5%.
+
+Let me now bring this all together, express the sources and uses of cash. This chart shows sources and
+uses of cash flow for 2015 to 2017 and what we currently expect the picture to look like for 2018 to
+2020 on average. Future projections are based on commodity price curves, which were prevailing at
+the beginning of 2018. We're targeting, on average, GBP 2.1 million to GBP 2.3 billion per annum of
+adjusted operating cash flow and GBP 1 billion to GBP 1.2 billion per annum of CapEx. With our dividend
+obligations, interest payments and other commitments, including pension payments, we would expect
+sources and uses of cash flow to be broadly balanced, and certainly, to allow the group to remain within
+the target net debt range. This is obviously before any disposal proceeds. We, therefore, remain confident
+in the sustainability of the group in the current environment and despite the uncertainties we face.
+
+Let me now cover specific targets for 2018. Adjusted operating cash flow is targeted to be GBP 2.1 billion
+to GBP 2.3 billion. CapEx is targeted to be below GBP 1.1 billion, including Spirit Energy CapEx of about
+GBP 500 million.
+
+In line with the earlier guidance, the 2018 full year dividend is expected to be flat at 12p per share. We
+will target delivery of GBP 200 million of efficiencies as we progress towards a total of GBP 1.25 billion per
+annum by 2020. As part of this, like-for-like headcount is targeted to reduce by 1,000. We expect net debt
+will remain within an in-year target range of GBP 2.5 billion to GBP 3 billion.
+
+All of these targets assume normal weather patterns, current forward commodity price curves, and the
+absence of major operational outages.
+
+So now let me summarize. 2017 was an extremely challenging year for Centrica, both in terms of our own
+performance delivery in business Energy Supply in the second half of the year, but also given the levels of
+political and regulatory uncertainty and intervention in the U.K.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Despite these pressures, we delivered on our 2017 targets. However, the shareholder experience was
+extremely disappointing.
+
+We are absolutely committed to restore shareholder value and to demonstrate how this strategy will
+deliver this over the medium term. I hope today, we've succeeded in addressing the important questions
+raised by 2017. Centrica has a clear strategy as we reposition the company back towards the core of
+Energy Supply & Services. Phase 1 of the repositioning of the company has been completed with many
+important milestones set -- met. The next phase to 2020 is all about performance, delivery and financial
+discipline as we marry customer-led gross margin growth with continuing to drive material levels of cost
+efficiency while maintaining capital discipline and a strong balance sheet.
+
+It is this combination and our track record of efficiency and financial discipline to date which gives us
+confidence to deal with the uncertainties posed by any default tariff cap in the U.K. and to indicate a stable
+dividend outlook within defined boundary conditions.
+
+It is undeniable that at this moment, Centrica faces a higher level of external uncertainty. It's, therefore,
+imperative that we focus on the things we can control to underpin our performance and that is what we're
+doing.
+
+This is how we will rebuild shareholder value and confidence, and I am determined to demonstrate this
+through our actions one step at a time. Thank you.
+
+Mark Hodges and Mark Hanafin will now join Jeff and me on the stage, and we look forward to taking your
+questions. As ever, our Chairman, Rick Haythornthwaite, is also in the audience, should you have any
+questions for the board. Thank you.
+As usual, if you can indicate your name and affiliation and keep the questions reasonably brief and we'll
+head around the room. In the middle here. Thank you.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Question and Answer
+
+Samuel James Hugo Arie
+UBS Investment Bank, Research Division
+
+This is Sam Arie from UBS. I have 2 questions. I also just want to say thank you for the presentation. I
+think it was extremely helpful this morning. I particularly appreciate the extra detail, I think, you gave on
+British Gas and on the tariff cap situation. And as such, my first question is on the British Gas business.
+You mentioned that the average EBIT margin is just under GBP 40 per account, but you also said you're
+succeeding in moving the customer base away from default tariffs. Can you tell us what the average
+margin per account is when you exclude default tariff customers because I think that will be a helpful
+indicator of sort of where the business might be post-tariff cap. Hopefully, that was an easy one. The
+second question is more about overall results, where you landed for '17, and what we should expect for
+'18. My read is that you ended up seeing a bang on consensus for 2017 but with EBIT a little bit lower
+than expected, plus some positives that you mentioned in the tax line. Can you just talk to us about how
+that rolls forward to '18? And how much, if you like, of the EBIT negatives are one-off and don't recur
+next year? And then what sort of tax rate we should expect for next year. I think consensus for a minute
+implies a step up about 10% from '17 to '18, so I was just trying to check if that's still fair.
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Sam, thank you for that. I think Mark Hodges should answer first one and Jeff the second. Makes my life
+easier.
+
+Mark Steven Hodges
+Former Chief Executive of Centrica Consumer & Group Executive Director
+
+Thanks. It doesn't matter how much we disclose, there's always more. In terms of the -- and when you
+say default tariff inside British Gas, we don't typically disclose the gross margin or the EBIT profit. It's
+obviously a highly sensitive number. The thing I can tell you is that we mentioned that we moved 700,000
+customers from SVT to fixed products. What we're seeing is that we can move people on to our fixed
+products at margins that are very, very similar to our SVT book. And so we're not seeing a big degradation
+as we move those customers. And if you remember back to last year, when we contacted all of our SVT
+customers, we had something like 0.5 million move. This year, 700,000. Iain has Pointed to 1.3 million
+customers we'd like to move during 2018. So we are seeing -- we're working with our customers to make
+that change happen. We're not seeing a big degradation in margin. But obviously, overall competitiveness
+will end up determining the overall level of profitability from the book. And the other thing is that GBP
+39, just to remind you, also includes services margin. That wasn't just residential energy, that's also
+residential services. And that's a book that we pointed to in H2 of 2017 that we finally started to see some
+growth. And of course, the ambition is to continue that growth trajectory now as we go into 2018.
+
+Iain C. Conn
+Group CEO & Executive Director
+
+And EBIT and tax.
+
+Jeff Bell
+Financial Advisor
+
+Yes. Let me take both of those. In terms of 2017 and the EBIT, Sam, there were a handful of things that
+we saw post the trading update in December that affected the full year profitability. Virtually all of those
+were one-off or we wouldn't expect to repeat today, including the fact that our Sizewell nuclear station
+had to come off generation in early December. It's now back on stream. We saw in the E&P business
+the [indiscernible] pipeline issues, which backed in some of our production. That issue is now have been
+resolved. And we had some extreme weather right in the last week to 10 days in North America that made
+the -- in particularly the NAB business slightly worse than what we were projecting. We would expect all
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+of those to normalize out. I think in terms of -- I think the second part of your question was around the
+effective tax rate. I probably think about it going forward in the following way. We disclose the effective
+tax rate for 2017 at 22%. But in the preliminary announcement, we flagged a number of items that were,
+in 2017, that are less recurring in nature, things like the U.S. tax rate change as well as the level of
+PRT credits and provision releases. Although we tend to have some of that in the year, not to a level we
+would expect in 2017 every year. The other kind of boundary we then had within there was we said if you
+stripped all of that out, or we expect, not necessarily all of it, it would come out year by year. Even that
+with an upper range of around 40% of an expected tax rate. We don't expect the effective tax rate to be
+that high. But I think we would, with the business mix, that we'll see in 2018 more profitability from the
+E&P segment, both with the combined Spirit Energy as well as with more production from Storage. We
+would see a higher tax rate just on business mix alone. And therefore, it will be more towards that higher
+range than the 22% or the higher end than the 22% we saw in '17.
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Thank you, Jeff. We've got one at the back, Fraser, and then we will go to Mark Freshney.
+
+Fraser Andrew McLaren
+BofA Merrill Lynch, Research Division
+
+McLaren from Merrill. A couple of questions on the new efficiency savings, please. And then one on supply
+cost. So first of all, you suggested that the change programs in North America meant that management's
+eye was off the ball. As you embark on another substantial efficiency program across the group, what
+makes you confident you'll be able to avoid problems as you remove another 4,000 jobs? Next, just to
+check if the GBP 20 per account number is after inflationary pressures would therefore be at around GBP
+120 million net in the U.K. supply. And are you, therefore, saying that your base case has no EBIT margin
+erosion as a result of the cap by the time we get to 2020 versus today? And last question is about upward
+pressure on external energy supply costs. You delivered respectable supply margins despite having the
+lowest prices in the market. To what extent is this helped by favorable hedges? When will they roll off?
+And to what extent would higher input costs impact on margins this year without a tariff rise?
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Wow, quite a lot in there, Fraser. Let me touch on a couple of them, and then I will ask Mark Hodges to
+talk to the GBP 20 per account and the hedging impact inside the margin. So first of all, the new efficiency
+program generally, as of any efficiency program, we got to be extremely careful. One of the challenges
+for Centrica as we go through the 6-year repositioning of the company is clearly change. And you're right,
+the change, both market change and internal change collided in the North America business unit last year.
+But I do want to emphasize that about 3/4 of the impact was to do with the accounting issue and market
+changes. So it wasn't like all of it was down to our own change issues, but it was a factor. So answering
+your question, over the last 3 years, in general, we've managed to drive efficiency while strengthening
+the system of internal control, improving compliance, improving safety and very importantly, improving
+customer service. We've seen complaints, if I take UK Home energy as an example, improve between 20%
+and 30% on average each year. We've ended up, I think, 50% down on end 2014 levels -- or up rather.
+Down on complaints, but better. And this does just show that in general, we're able to walk and chew
+gum, if you like. Are you highlighting a risk around change? Absolutely, you are. And our focus is going to
+be on managing change really carefully. Mark Hodges has a significant change team inside the U.K. That is
+where a lot of the change will occur, and I am confident that we can manage it. But is there always risk?
+There is always risk associated with change.
+
+The second bit I'd like to answer just on this are you saying your base cases, no erosion to EBIT margins
+associated within unknown tariff capital. We, of course, we are having to make some assumptions. I
+indicated in my remarks that we have incorporated an impact of a tariff cap and that would imply we
+do see some EBIT margin impacts from a tariff cap. And I especially highlighted the issue of, while we
+are driving costs down, if they get out of sync with the gross margin impact of the tariff cap -- and
+again, we don't know what the formula is -- then, of course, we would see an impression on our EBIT
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+margins until our cost efficiency program caught up. So we can't give you, and we're not prepared to
+give you, a forecast for what the impact's going to be, but I hope that some of the indications around
+our exposure to it, our competitive position and what we're doing on costs actually improves our relative
+resilience significantly. And the other final point I'd make, why is relative resilience important? Because
+the government and the regulators are going to have to consider the impact on the market as a whole, not
+just on British Gas. And we are significantly, competitively advantaged relative to the average. And some
+other companies that are actually loss-making are going to be impacted by the cap as well. And I don't
+know yet, but my assertion is that must be a factor along with all those other things that Ofgem have
+somehow got to balance. Now Mark, on the cost per account element of all that and then energy supply
+costs and hedging.
+
+Mark Steven Hodges
+Former Chief Executive of Centrica Consumer & Group Executive Director
+
+Yes, so the cost per account on Iain's slide contributes to the GBP 500 million and that's pre-inflation. So
+there will be an inflationary impact on that GBP 20 over the 3 years. And on the whole hedging strategy,
+I mean, obviously, we don't know yet the mechanics of the cap. We don't know how it will operate, not
+just what level it will be set at, but how often will it be reviewed. We are looking, as I already said, to
+shift more and more customers onto fixed deals and that's something that we used to in the way that we
+hedge handling. I think part of the question was, is there some kind of big event where a whole bunch of
+hedges roll off. That's not a risk particularly. We're thoughtful about the commodity that we're buying into
+a price cap scenario and where we think the customer numbers will be by product. So we've been working
+very hard on that. So I don't see a big event from a hedge perspective in the U.K. energy supply book.
+And I just would go back and stress -- I know Iain mentioned it on the change. It is something I'm very,
+very conscious of is the amount of change we're going through in the business, but just to go back to that
+complaints statistics, that's 1 million complaints less over the last 3 years in UK Home Energy, whilst going
+through cost reductions, whilst going through the headcount reductions, whilst improving service more
+broadly. So we are starting, we believe, to build a track record of being able to balance the risk with the
+execution and make sure that the customer really does see the benefit.
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Thanks, Fraser. Mark?
+
+Mark Freshney
+Crédit Suisse AG, Research Division
+
+Mark Freshney from Crédit Suisse. 2 questions firstly on the British Energy state. I believe there are
+number of restrictions on who the potential buyer could be and in terms of their competency. Can you
+talk about the stages that you would need to go through to assess and how likely it is that you could
+divest that? And also what you would potentially do with the proceeds because the amounts of net debt
+that you're running is actually fairly low relative to the underlying cash flows for the business. My second
+question is on Hive. So you increased the number of products sold during the year, I think, by 70%. But
+the revenues only went up by 30%. So can you talk about what that disconnect is there, please?
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Great questions. Thank you very much, particularly the last one which I'll give to Mark Hodges to answer.
+Seriously, first, on nuclear. I'm going ask Mark Hanafin just a second to talk about the setup, if you like,
+and some of the sensitivities. Just on the proceeds point. Obviously, let's get there first, but we have to
+recognize, as you say, first of all that the balance sheet is quite strong. And I hope I have indicated, and
+happy to work that with you a bit more, the source and uses of cash ought to be reasonably balanced over
+this period, but we do have a number of other things that we have to take into account. We're going to
+have to spend the money on the debt repurchase program, we got to spend money on the cost to achieve,
+we've got other obligations like our pensioners that we've got to think about as well as wondering about
+ranges -- reasonable ranges of commodity prices. So that's in brief why we've got that slightly expanded
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+23
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+net debt range. But you're right. The net debt-to-EBITDA ratio of this company is now in pretty good
+shape. So while the balance sheet might be a customer for some of the cash, we've got to think about,
+if we ever get any, which is the bit Mark will answer, we've got to marry up the all the different possible
+beneficiaries of cash. Obviously, I have mentioned the balance sheet, but we have also got to think about
+our pension obligations. And then, of course, we've got to think about the growth of the business, and
+we've got to think about our shareholders. What I can undertake is that if we sell the business, we will
+look at appropriately balancing all of those things. But Mark, on the complexities of this?
+
+Mark Hanafin
+Chief Executive of Centrica Business
+
+Yes. Obviously, the identity of a buyer is a very critical consideration in any sale, but the sensitivity is not
+really about competence. EDF is the nuclear license holder. They are the competent authority. They run
+these assets. So a new buyer were not restricted in that sense in terms of nuclear competence. The issue
+is more around the acceptability of a new buyer to our partners and also to the government.
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Thank you, Mark. Now Mark Hodges on Hive product sales and revenue growth.
+
+Mark Steven Hodges
+Former Chief Executive of Centrica Consumer & Group Executive Director
+
+Yes, so as you said, Mark, 71% increase in install base, 27% increase in revenue year-on-year. I think 4
+reasons for the disconnect. We are changing the channel mix. So as you moved into '17 versus '16 more
+through our retail channels, less through something like a British Gas channel, which is a positive. So
+we now actually have 46 retail arrangements in the U.K.; we're in something like 1,700 stores across
+the country. So the channel mix has an impact. The U.S. entry. So we entered the U.S. working through
+direct energy. We're an unknown brand and an unknown quantity. So we have kind of primed the pump
+in the U.S. in 2017 for further growth in 2018. That had an impact. And then, I would say, there is kind
+of product mix aspect as we move forward. We're seeing people entering the Connected Home space,
+some of them in lower value overall products. So a hub with some lights or some plugs as opposed to
+the thermostat as the first purchase. What that puts us in a position to need to do next is to be obviously
+cross-sell and upsell to the existing base. I think to date a lot of the focus has been rightly on growing
+the total numbers. That will continue. But as the held base gets bigger, we need to get much better at our
+CRM, cross-sell and upsell to the existing customer base and that will start to help improve that revenue
+percentage growth in relation to the overall product and hub growth.
+
+Iain C. Conn
+Group CEO & Executive Director
+
+You can do the math for yourself. Our growth rate needs to be pretty high between now and 2022 to hit
+GBP 1 billion. But actually, it's approaching the rates already that in terms of sales growth, and we would
+expect, obviously, revenue growth to catch up with sales growth eventually. Iain Turner and then Deepa
+and I'll keep going round, sorry.
+
+Iain Stewart Turner
+Exane BNP Paribas, Research Division
+
+It's Iain Turner from Exane. You've got -- you made some -- you've announced the sale today your
+intention to get out of British Energy. You've pulled back CapEx, you're eschewing further M&A potentially.
+Is this now a company that's sort of run off in terms of its strategic ambition?
+
+Iain C. Conn
+Group CEO & Executive Director
+
+I don't think so at all. I think, as we move from the company that is -- has been very asset heavy and
+CapEx heavy to a company that's more oriented around the customer. The capital reinvestment intensity
+should go down and indeed, is going down. But actually, we are also deploying significantly more. And
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+24
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+we believe the right levels of resource in order to grow the company at an appropriate rate. And we
+see the -- and obviously, we've had to build lot of capability in new propositions and business models,
+acquire capacity and capability in order to start to grow the business at scale. It takes time. And you're
+also right that -- or inferred in what you're saying that with some of the challenges we've got, including
+political and regulatory intervention, that we've ended up with 13% cash flow growth 1 year and sort of
+negative 13% the next year. We haven't yet demonstrated the model can grow. However, from a cash
+flow perspective, it's not shrinking. And indeed, if you look at the last 3 years and strip out big working
+capital recovery programs like in UK Business, we delivered about GBP 2.1 million to GBP 2.3 billion of
+cash flow. And we're indicating a consistent GBP 2.1 million to GBP 2.3 million cash flow in the next 3
+years. Now, a negative interpretation about that is x growth. A positive interpretation of that is that must
+require a number of sources of new cash flow to overcome some of the decline. And clearly, we've got to
+demonstrate that gross margin into cash flow starts to overtake the proportion that's coming from cost
+efficiency. So I don't believe in any way that this company somehow x growth or not pursuing its strategy.
+And I believe that we can demonstrate that the company strategy will both pay for all of our obligations
+and be able to maintain the current dividend level, obviously, within bounds that we've laid out.
+
+On your point about the major M&A or the inference there. You are right that we signaled last year
+that we were looking at whether to grow through acquisition. We didn't say how large. In the current
+environment, given the uncertainty and given the desire to maintain a strong balance sheet, we don't or
+are not pursuing major M&A. But actually, the more important thing is, we've looked at an awful lot of
+possibilities. And really, there is nothing that attractive out there that we should be pursuing right now.
+Therefore, we can make that commitment, but we are going to be pursuing small bolt-on acquisition as we
+have been doing to build out capabilities. So the simple answer to your question, no I don't think it does.
+Deepa.
+
+Deepa Venkateswaran
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Deepa Venkateswaran from Bernstein. I have 3 questions. Firstly with Centrica home. Can you quantify
+what is the headwind from the weather impact in '17? And the second question is the transition of the
+SVT customers to fixed tariff during '18. What do you think is the impact on the gross margin from the
+4.2 going to GBP 3 million? And secondly, would there be other additional OpEx costs, I don't know, more
+extra staffing in the call centers to contact all these customers, if you could just quantify those 2? And the
+third one is on upstream. Could you clarify whether the unit-lifting cost, you expect that to be flat at 14.9
+per barrel going forward?
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Let me take the lifting cost point and just say that obviously, what tends to happen with costs in E&P is
+that costs follow price. And the E&P industry has a habit of costs following price, industry costs following
+price with a delay of about 18 months to 2.5 years. And that track record has been born out recently,
+However, the main driver of our lifting cost or one of the main drivers of our lifting cost increase last year
+was actually the loss of production, either denominator, because we deliberately shut down Morecambe for
+a very long time in order to improve its reliability and safety performance. So the increase is exaggerated
+in 2017. There are some inflationary pressures coming through in the industry, but not dramatically as
+yet. If prices stay high, I would expect inflationary pressures to continue. On the weather impact in 2017,
+Jeff, we don't disclose the weather impact as a separate item typically. I mean, we can say that across
+the whole company, depending on the metric or whether it's pre- or post-tax, GBP 100 million to GBP 200
+million, I think was the overall impact. Is that right, Jeff?
+
+Jeff Bell
+Financial Advisor
+
+Well, we talked about in one of my slides the impact of foreign exchange and weather and those factors
+was about GBP 130 million. So weather is less than that and obviously some of it's in North America and
+some of it's in the U.K. But we would have, I think, as an estimate you'd kind of take 1/2 to 2/3 of that
+GBP 100 million.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+25
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Iain C. Conn
+Group CEO & Executive Director
+
+It was the largest single factor in that. Mark Hodges, moving the customer book.
+
+Mark Steven Hodges
+Former Chief Executive of Centrica Consumer & Group Executive Director
+
+As I said earlier, we haven't seen a significant degradation in gross margin through the moves that we'd
+make. Obviously, at the end of the day, the gross margin is partially just a function of the market price.
+And so it's very hard to give a prediction because who knows where market prices will be going through
+the next 12 months. But our belief is that we can make that move and retain valuable relationships with
+our customers. And I would also say segmentation is a big part of this. We've been stressing now, as you
+saw again today, value versus volume. There are differences between groups of customers depending
+on a number of different factors that we need to assess, whether that be their propensity to churn, their
+propensity to buy another product, their consumption, their debt profiling, the amount of calls we take
+from them. There is a lot of science going in, as we have explained before, into the whole segmentation
+mold. So with competitive pricing, with the segmentation, hard to give a prediction, but our experience
+to date hasn't been a significant impact on gross margin. And to answer your -- I can be more definitive
+on the OpEx. We're accounting effectively for any increases that we need to -- any increase costs that
+we need to bear to make those transfers happen successfully for our customers within the cost efficiency
+targets that we're setting overall. So I don't see a big ramp-up of costs being needed. Lots of this can
+be done digitally; lots of this can be done with the great people that we already have. And so any small
+increase will be more than offset by the efficiency targets we've set.
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Thank you. Martin, and then John Musk has been very patient. And we'll go to Chris.
+
+Martin Brough
+Deutsche Bank AG, Research Division
+
+Martin Brough from Deutsche Bank. Couple of questions. One on their debt buyback. Could you just give
+us a little bit more details as to why you think that's sort of overall NPV benefit? You're obviously buying
+roughly at market value, I guess, for the bonds. Is there something structurally that means that you
+have a higher value than what you've been forced to pay in the market for the debt? And then secondly,
+obviously Ofgem's looking at the idea of this reverse auction for groups of sticky customers and sort of
+doing a trial at the moment. Do you think that's just a nonstarter for sort of customer concern reasons? Or
+are you factoring in that as a possibility that, if it's successful and turns out to be highly competitive, that
+Ofgem might try and roll that out? So what's your perspective on that trial?
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Roger (sic) [ Martin ], thanks. So that's very easy. Jeff and then Mark.
+
+Jeff Bell
+Financial Advisor
+
+Yes, I think on the debt repurchase, I think 2 things are happening. Obviously, spreads have moved in our
+favor in the sense that the premium we'd expect to pay on buying back the gross debt is less than it would
+have been previously. And effectively, we're buying back and arbitraging our sort of credit spread against
+that. So that over time then makes it quite valuable to us in terms of our reduction in interest cost versus
+what we have to pay upfront in terms of that premium and therefore, get a better mix of gross and debt in
+cash on the balance sheet.
+
+Mark Steven Hodges
+Former Chief Executive of Centrica Consumer & Group Executive Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+26
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+On Ofgem. We are very aware of the trial and a number of other ideas that Ofgem are exploring. I mean,
+we're always concerned about data, data privacy and consumer consent to these kind of things. It's a
+trial for a reason. We don't know if it will work. We're not convinced the challenge that Ofgem believe
+they're trying to tackle is this concept of a disengaged customer base. From our perspective, if we can
+start moving people from SVT, which is why we are closing it to new customers and why we're engaging
+our whole customer base to try and move them onto an alternative product, that means we've engaged
+with them, that means they made an active choice, that means that they don't come under the remit of
+either the default tariff cap or these kinds of interventions that may or may not happen from Ofgem. So
+the strategy we're pursuing is the right one for a number of reasons. That's another good example of why
+engaging our customer base directly and moving them onto products that they are actively choosing is the
+right thing to do. I don't know how successful that will be. We have our doubts. As I say, customer privacy
+and customer data privacy is very top of our mind as these kinds of things are being considered.
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Sorry, was there anything else, Martin? John.
+
+John Musk
+RBC Capital Markets, LLC, Research Division
+
+It's John Musk from RBC. 2 questions as well. Firstly on the dividend, and don't want to simplify it too
+much, but are you saying the 2018 dividends, you can be very confident of hitting your targets for the
+12p, but in 2019, the main variable's obviously going to be the price cap and that's why there's some
+uncertainty? And then, on services, on services business, can you just give a little bit more color on why
+you think the customer number -- customer number started to grow again in the second half? Is that your
+actions or is that a changing market dynamic? And also within there, you've seen a fall in the margin, the
+gross margin about 10%. So other than pensions, is that a change in the market again on something we
+should be worried about?
+
+Iain C. Conn
+Group CEO & Executive Director
+
+So look, on the dividend. Clearly, what we have said is that we expect, which is quite a strong word,
+that subject to the cash flow generation and staying in the net debt range, that we would expect their
+dividend to remain at the current level. Clearly our confidence is highest in the near term, and there is
+more uncertainty further out. But I am -- from my perspective, I expect that's something we're able to
+do. We clearly need to deliver within those boundaries. So I think your assumption is a good one, but
+as always the final decision on dividend at each period is a matter for the board, but that is what we're
+signaling. So in terms of services, Mark.
+
+Mark Steven Hodges
+Former Chief Executive of Centrica Consumer & Group Executive Director
+
+Yes, I can guarantee you it's been a lot of hard work and a lot of intervention. So there are a number
+of things have happened on services which were going on actually through the first half of last year and
+even the back half of '16 to get that growth to start to happen. I have mentioned a number of times in
+meetings, pricing sophistications, open investing in the quality of our pricing, capability for what effectively
+is an insurance product so that we can more accurately risk-base price, which is both helpful from a sales
+perspective, but also from a retention perspective. We've been through a huge amount of retraining in our
+contact centers so now people are better equipped to sell the product. We changed some of the product
+features. It's just an awful lot going on. And in terms of the way we incentivize sales, that's another area
+that we've been focusing on. So the market dynamics at the high-level are pretty much unchanged. There
+is a broad shift to on-demand, that's why the local heroes capability is very important because that not
+only meets a customer need, it is also ultimately a potential sales channel for the full services product.
+And then, on margins and profitability, you did highlight the single biggest factor, which is that gross
+margin's down. That's because the cost of our engineers is within the cost of goods, it's within the gross
+margin. And obviously the pension costs impact that we had last year gets run through that line. There
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+27
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+are other things that we can do, whether still working on the efficiency and services well more broadly,
+productivity, but the biggest impact on margin was pensions.
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Thank you, Mark. Chris Laybutt.
+
+Christopher Robert Laybutt
+JP Morgan Chase & Co, Research Division
+
+It's Chris Laybutt from JPMorgan. Just first of all a follow-on from Deepa's question on the transition from
+SVT to fixed. With those customers, if price protection is introduced at a level which is lower than your
+fixed tariff customers are paying, will you offer that price protection to those customers as well? And then
+just quickly on E&P. Your liquid sell price rose around 7% in 2017 as European Liquids, but spot prices
+were up sort up considerably more than that, 25% to 30%. Can you give us some sense for the shape
+of the hedge book going into '18 and '19? That would be very handy. And just lastly, on smart meters,
+more of a top-down question. Are you concerned at the rate of the smart meter rollout industry-wide
+because Ofgem and [ Bays ] do seem to be putting some emphasis on the smart meters being rolled out
+to contribute to getting rid of the cap in the future?
+
+Iain C. Conn
+Group CEO & Executive Director
+
+On smart meters, Mark Hodges will answer that. I mean, clearly, we've indicated as part of our 14-point
+plan that we think aspect of the smart meters rollout that the government should review. I'll leave that
+one to Mark. On the liquids realizations in E&P, I'll leave that to Jeff. Just on the SVT to fixed, and Mark
+Hodges can add anything to this, I mean, clearly the tariff cap is currently directed to default tariffs.
+Why is it directed at default tariffs? Because there's a sense if you defaulted, you're not engaged. So
+right now, the default tariff cap is not applicable to nondefault prices. It's not applicable to nondefault
+energy components in bundled offerings. And we, therefore, believe we have freedom to offer energy
+as a component in a bundle or in other formulations other than on a default basis, at different prices to
+the cap. But until we understand the specific formulation of a cap and the calculation and how long it's
+going to last -- currently the legislation that's being proposed until 2020 with a possible extension to 2023
+-- it's difficult to understand where all the different offerings are going to be relative to that, but we're
+very conscious of it. And I'll leave Mark to add any comments. So why don't we start with Mark, add any
+comments to that smart meters rollout issues and come back to Jeff on E&P.
+
+Mark Hanafin
+Chief Executive of Centrica Business
+
+Not much to add. We obviously want to try from our perspective to minimize the number of people who
+end up on the default tariff. That's one of the things that we've said in our commitments by making sure
+the end of any tariff agreement we have, they get lots of choice of other attractive offers. So we will
+try and minimize the customer numbers. To answer your question bluntly, I don't think we can give a
+guarantee about where other fixed deals will be priced going forward. It will depend on the nature of the
+product. Is it bundled? Does it come with rewards? And the benefits that the rewards program brings.
+So it's not just a very straightforward comparison. On smart meters, yes, just to reiterate, again, we
+are supportive of the whole smart meter rollout. We think is good for consumers. We actually think, we
+continue to do our research. We see a reduction in consumption amongst the customers who have smart
+meters. It's about 3.5% compared to the average. So it's saving real money and hassle. We do have
+concerns, hence the point Iain mentioned about the 7-point plan. The biggest challenge to the whole
+program, as I see it, ultimately is customer demand. This is an opportune scheme. We can't force people
+to take a smart meter. We can resolve eventually the technology issue, it's frustrating that the DCC has
+gone back, again, to October, but we continue to play very active role in trying to make sure that works,
+and that happens. I believe it will work. I believe interoperability of some X1 meters will happen. So for
+me, the biggest challenge that we all need to face into is ultimately customer demand. And what do we
+do with groups of customers who just may not want to have a smart meter. I don't think there's an easy
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+28
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+answer to that. And of course, the challenge becomes as well over time. There is -- it becomes expensive
+to keep chasing the same people. So we all have to bear in mind as well there is a kind of a marginal,
+marginal benefit from chasing the last groups of customers. So I think that's where the debate needs to
+be had.
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Dominic? Sorry, yes.
+
+Jeff Bell
+Financial Advisor
+
+Prices. So we've talked previously in our asset businesses, E&P, Rough now or indeed power generation.
+We typically follow broadly a 2-year ratable hedging strategy for the majority of the volumes we produce
+or generate. So you could use that as a rough rule of thumb. Obviously with that type of strategy, the
+much lower prices we saw 18 months or so ago are starting to come out of that. Those hedges are at --
+currently, anyways, at higher prices. Probably only the Rough volumes don't quite follow that because I
+mean, just switched to producing asset. It's more open to the current forward curve than the other assets.
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Thanks, Jeff. Sorry I forgot that. Dominic, then we had one over here and then there's a third -- there are
+3 hands up. Are there any more? Fraser's got a final question. I just want to check because we have been
+going a long time. I mean, there are 5 people want. Can we keep them quick? And then we're going to
+have to close things down. So Dominic first, please.
+
+Dominic Charles Nash
+Macquarie Research
+
+Dominic Nash, Macquarie. Couple of very quick questions then on your cash flow numbers, your GBP 2.1
+billion to GBP 2.3 billion out to 2020. First of all, presentationally, how does the adoption of Spirit affect
+that on -- your consolidation of their cash flows into those numbers? Are you going to be proportionally
+consolidating that? Or will that be 100%? And does that mean the underlying number's actually lower than
+those headlines? And secondly, it's pretty clear to me because we're on here the dividend policy is now
+extremely linked to cash. And does that mean if the cash and earnings diverge in any way, the number
+that is more important for investors' look at your potential dividend is your cash flow cover rather than
+your earnings cover going forward?
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Let me answer those if I may, Jeff. I mean, I think first of all the 2.1 to 2.3 does include Spirit 100% on a
+consolidated basis, but I wouldn't think about Spirit as somehow not being underlying. I mean, it's part of
+the group's cash flows. And if you do the math around the cash flows. And if you take GBP 2.2 billion as a
+midpoint and GBP 1.1 billion as the midpoint of the capital spent, obviously, what's left with the dividend
+spend and interest payments on a slightly reduced basis and their pension obligations, you can see that
+the organic cash flows should just more than balance in that scenario. And just briefly, the flex around
+capital and cash flow depending on the exact scenario in each year, recognizing we've got working capital
+movements from time-to-time that affect adjusted operating cash flow. I mean, that's a reason for the
+slightly expanded and net debt range. On your last point. Our dividend policy has always been explicitly
+linked to cash flow from 2015. We laid that out very explicitly. And we laid that out, again, today very
+explicitly. So I think you can conclude from that the primary driver of our dividend policy is our ability to
+pay for the dividends. Obviously broadly speaking, earnings and cash flows should follow each other. They
+both derive from EBITDA on different basis, but it is all about cash flow because you can buy things with
+cash flow.
+
+Dominic Charles Nash
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+29
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Macquarie Research
+
+If your earnings fell below 12p but your cash flow was fine, then you would be comfortable paying a 12p
+dividend?
+
+Iain C. Conn
+Group CEO & Executive Director
+
+No. I mean, my answer to that is companies do have periods of negative dividend cover from earnings
+and still consistently pay. We've given no conditionality around the dividend to do with earnings over the
+next 3 years. It is to do with operating cash flow and obviously the net debt range. However, we're not
+signaling either that we are expecting to go into negative territory on dividend cover from earnings, but
+it's not part of our financial framework. Here and then over there.
+
+Elchin Mammadov
+
+Elchin Mammadov from Bloomberg Intelligence. The dollar fell about 10% in the past year. Could you
+please give us a bit of sensitivity in terms of your earnings to dollar changes going forward? Because
+you've talked about a lot about commodity prices, but maybe not so much about FX. And the second
+question is about Slide 50 where you talk about your market position in terms of Hive versus the other
+market players. We see that Nest is up there near the top. Are you comfortable being like fourth or fifth
+player in the market? And are you expecting to bridge the gap going forward as you roll in new markets?
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Foreign exchange, Jeff and then Mark on our competitive position and Connected Home.
+
+Jeff Bell
+Financial Advisor
+
+Yes. I think a couple of ways to look at foreign exchange. Obviously, the impact is most easily seen in the
+financial statements is around in the North American operations if it's against the dollar. And you can fairly
+easily do that with reported operating profit by and large. And to a much lesser extent, the Irish business.
+I think the piece that is harder to frankly estimate at any particular point in time because it's involved with
+the E&P cost base is that, particularly in Norway, a lot of the costs are effectively because of the knock
+effectively in underlying US dollars. So we do get this play of an impact on the cost base, which even if the
+pound is weakening is helping us from a revenue perspective, but is then offset from an underlying cost
+perspective. So that impact is much more muted, but can at times have an impact on our result. They're
+much harder to estimate.
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Mark, are you going to beat Nest?
+
+Mark Hanafin
+Chief Executive of Centrica Business
+
+We already are in the U.K. Look, I think Nest obviously have a very, very strong position in the U.S. Our
+stronghold is the U.K. That gives us, I think, a really great platform into the rest of Europe. Hence the
+D&I deal, I think, from our perspective, really interesting. We have another very large energy supplier
+who wants to be in the Connected Home space who doesn't want to start from scratch, who has a field
+force, who can do the read across to what we've done and think that we are a great partner because we
+understand their business, and we can help them. So I think across Europe we have an amazingly strong
+position given the start point. In the U.S. we have great technology. We have the DE brand to leverage,
+but it is harder because it's a more competed market. And so we have to think very carefully about how
+we go to market, what channels we will sell through, how much money we will invest in marketing. We
+are talking to a number of really important players. We have a great relationship with Amazon here in the
+U.K., for example. That's a relationship I would love to expand in the U.S. So there are ways for us to take
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+30
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Nest on in their home market, but I think it's -- the way I would think about is the U.S. and Europe. We
+could definitely leverage all of the experience in the U.K. more easily in Europe. In the U.S., we're going to
+have to really prove ourselves from scratch.
+
+Iain C. Conn
+Group CEO & Executive Director
+
+I think there is room for us and Nest in the world. The penetration at the moment is still reasonably low.
+There is an awful lot of people out there who want energy in these types of services. And last time I
+looked, Alphabet didn't offer energy. And so I think we can find our own way competitively.
+
+Nicholas James Ashworth
+Morgan Stanley, Research Division
+
+It's Nick Ashworth at Morgan Stanley. Firstly, quickly just on EM&T, you talked about the legacy contracts
+rolling off. You showed the slide on 19, which looks at the core EM&T and then the legacy. Is the core
+EM&T a good place for us to be thinking about over the next few years? And how does the one final legacy
+contract evolve from here? And what needs to change to turn that from negative to positive? And how
+much of a drag is that? And then, secondly, just going back to the 14-point document that you put the
+government in November. What's their response been? Or have you committed at all to moving away
+from the standard variable tariff by a certain date? And I guess given the run rate moving from standard
+variable to another type of default tariff, it sounds like it could even get to 0 standard variable tariff by
+2020. Is there some sort of internal point that you're looking towards?
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Look, on that last one, I will ask Mark Hanafin to talk to EM&T. We've had very continuous conversation
+with the government about their plans and I'm regularly in touch with the Secretary of State and his
+department. We indicated that our 14-point plan was going to be deep and comprehensive and they were
+impressed by those factors. Now some of the things we are proposing they do aren't easy, politically aren't
+easy. But I know that the treasury are intrigued by the revenue-neutral nature of moving policy cost out
+of bills into taxation. The problem is it's a political issue. It's called do you risk stirring up a hornet's nest
+with rates of income tax and so on. But we got the government's attention on this. On the nub of the issue
+you're highlighting, the government recognized that we in some ways want the same outcome. We want
+to get people off standard tariffs. We are disagreeing on how. And that's been an open dialogue between
+me and the Secretary of State and we just disagree on how. You're right also that it just might be that
+we find that our exposure to standard variable tariffs makes the impact of a price cap on default tariffs
+much lower than people expected, but let's wait and see. And on your timing question, we're going to
+withdraw the standard tariff for new customers by the 31st of March. We can't forcibly remove everyone
+from standard tariffs. We did ask the government to consider and the regulator to consider doing that
+market-wide, but they passed on the issue. We tend to find the governments don't act when the politics or
+the situation is difficult. Mark Hanafin, EM&T.
+
+Mark Hanafin
+Chief Executive of Centrica Business
+
+So on the core EM&T business, we do see continued growth in that business. We have a very good
+capability there so we see growth around route-to-market origination, LNG and gas and power trading.
+The legacy contracts, there are 3 of them left. And they've been profitable in recent years. We've got 2
+profitable rolling off next year -- this year, sorry. And then, we are left for a number of years with a loss-
+making contract. These go back a number of decades. They go back in fact to the time where there were
+no gas indices to price off. And therefore, the loss position on that remaining contract really depends on
+that basket of indices, which are some quite strange energy indices in there versus the gas price that we
+can sell at. To give you an indication of it, Jeff referred to some guidance around operating profit being
+about half this year versus last year in EM&T. I would say that most of that delta is related to that loss-
+making contract.
+
+Iain C. Conn
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+31
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Group CEO & Executive Director
+
+Thank you. So we've got Fraser very briefly and Gus, and then I'm going to wrap it up. I think we've been
+going for a while.
+
+Fraser Andrew McLaren
+BofA Merrill Lynch, Research Division
+
+Fraser McLaren again. Just a very quick one. You've spoken in the past about how the LNG contract that
+starts next year might be loss-making in the early years. With the recent rise in Asian LNG spreads, have
+you changed your view?
+
+Iain C. Conn
+Group CEO & Executive Director
+
+That's one for Mark Hanafin.
+
+Mark Hanafin
+Chief Executive of Centrica Business
+
+Yes. Look, let me give you a quick overview of it. It's 91 million MMBtus a year that we lift. There's a fixed
+liquefaction fee of $3. We can load it on our ships and we can take it anywhere in the world. So we're
+exposed to that spread. If you look at the 2020 prices coming on in Q4 of 2019, so let's take 2020 as the
+first year, and you look at recent forward prices for 2020, and you assume the backstop of the U.K. So just
+MBP versus Henry Hub, it would be contributing about $1.40 to that fixed liquefaction cost or if you like,
+a loss of $1.60 just in terms of a simple movement of cargo from North America to U.K. However, since
+we signed the contract a number of years ago, we've been building up our LNG capability. We've been out
+there despite difficult market conditions selling marketing. And about half of the volume in terms of price
+exposure is mitigated by that marketing effort already so that gives you an overview. Now in terms of how
+we see supply demand, I still think that we're seeing an oversupply in those early couple of years, but it is
+interesting that we haven't seen that oversupply that was expected this winter. Hardly any cargoes came
+to Europe. And some commentators, notably Shell, pointing to that and saying, "Look, it's quite difficult
+to predict what demand is and maybe that glut isn't there." We're still assuming it is but others are being
+more positive in terms of their outlook on supply demand.
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Thank you, Mark. Gus?
+
+Gus Hochschild
+
+Gus Hochschild. Just if I might circle back to Iain's question about asset shedding, and mindful of the
+block of sale of CCGTs earlier this year or the last year rather, including Langage. So is this a signal that
+within the strategy that you might contemplate getting out of Central Power Generation together?
+
+Iain C. Conn
+Group CEO & Executive Director
+
+Well, we signaled that to some degree in 2015 that we saw the rent moving to distributed systems,
+and we are, therefore, investing in batteries, rapid response engines, peaking as well as installations in
+customer's premises. And this is -- I think this is trend has been proven even more intensely than when
+we announced it in 2015. The second thing is I think it's also been proven the rent isn't looking like it's
+heading back towards large Central Power Generation. And you only have to look at some of the subsidies
+that it requires in order to keep capacity going. So as a general sense, we will be heading away from
+central generation. And we will only have if we sell nuclear the Whitegate Power Station in Ireland, but we
+will be replacing that portfolio to some degree with more distributed assets.
+
+Thank you. Well, ladies and gentlemen, this has been a long session. But I think it's very important that
+we covered everything that you felt you needed to hear. Just a few points in closing. The first thing is that
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+32
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+our performance was weak last year, but I hope that to a degree you can now look through that with some
+confidence. The second thing is the largest impact on our shareholder experience last year was actually
+not our performance, although it was probably the last straw, but it was actually this uncertainty around
+politics and regulatory intervention in the U.K, in our largest market. I hope we've given you some sense
+of how we're thinking about it and how we're going to deal with it.
+The third thing to say is that we have got a clear strategy. And the strategy is all the elements of it are
+interrelated and the one thing that I hope we've also demonstrated is that customers actually want the
+components of the strategy together, many customers do. And it's not as though it's -- we got some
+satellite activities that aren't related to our core business. This is all about reinforcing and strengthening
+the core of Energy Supply & Services. Fourthly, given that there's a lot going on that we can't control, our
+focus is what we can control and it's on performance delivery and financial discipline and that is something
+we've demonstrated over the last 3 years. And finally, what gives me confidence about Centrica going
+forward. The first thing are the people in this company and their capability that we've got. The second
+are the assets and market positions that we start with from this point. And the third is the strength of our
+cash flows. And the fourth is the strength of our balance sheet. And so if you like, the starting point and
+the covenant that we can offer is a strong one. And we hope that we can demonstrate our performance
+going forward through our actions, and we look forward to updating you with the trading update and then
+at the middle of the year. Thank you very much.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+33
+
+CENTRICA PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+34
+
+

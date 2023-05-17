@@ -1,0 +1,1451 @@
+Admiral Group plc LSE:ADM
+FY 2017 Earnings Call Transcripts
+Wednesday, February 28, 2018 9:00 AM GMT
+S&P Global Market Intelligence Estimates
+
+EPS Normalized 
+
+Revenue  (mm)
+
+CONSENSUS
+
+1.11
+
+604.61
+
+Currency: GBP
+Consensus as of  Feb-26-2018 1:57 PM GMT
+
+-FY 2017-
+
+ACTUAL
+
+1.17
+
+619.10
+
+-FY 2018-
+
+SURPRISE
+
+CONSENSUS
+
+5.41
+
+2.40
+
+1.19
+
+660.31
+
+FY 2016
+
+FY 2017
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.99
+
+1.11
+
+1.10
+
+1.17
+
+11.11 %
+
+5.41 %
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+13
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Cristina Nestares
+Chief Executive Officer of UK
+Insurance
+
+Iain Pearce
+Joh. Berenberg, Gossler & Co. KG,
+Research Division
+
+Nicholas Harcourt Johnson
+Numis Securities Limited, Research
+Division
+
+Thomas Seidl
+Sanford C. Bernstein & Co., LLC.,
+Research Division
+
+Wajahat Rizvi
+Deutsche Bank AG, Research
+Division
+
+ATTENDEES
+
+Unknown Attendee
+
+David Stevens
+CEO & Director
+
+Geraint Jones
+CFO & Director
+
+Karen Maguire
+
+Milena Mondini
+Chief Executive Officer of Europe
+Insurance
+
+ANALYSTS
+
+Andreas de Groot van Embden
+Peel Hunt LLP, Research Division
+
+Andrew John Crean
+Autonomous Research LLP
+
+Arjan Van Veen
+UBS Investment Bank, Research
+Division
+
+David Bracewell
+Redburn (Europe) Limited,
+Research Division
+
+Dhruv Gahlaut
+HSBC, Research Division
+
+Dominic Alexander O'Mahony
+Exane BNP Paribas, Research
+Division
+
+Greig N. Paterson
+Keefe, Bruyette & Woods Limited,
+Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Presentation
+
+David Stevens
+CEO & Director
+
+Good morning, and welcome to Admiral's 2017 full year results presentation. Thank you for battling
+through the elements to join us today. And thank you to Bank of America Merrill Lynch for hosting this
+morning.
+
+Now Admiral started in January 1993, and so we're now 25 years old. And the 25 logo that you'll see
+throughout the presentation reflects that. To celebrate that, we decided not just to take the normal 6- to
+12-month backwards-looking, forward-looking perspective on the business. We've also thrown in some
+longer-term perspectives as we go through the presentation. And I'll start with one of them. There's a
+picture of the founding management team, when we were 57 staff, 1 country, 1 brand, no customers,
+a slightly stiff and dour-looking bunch. And there we are today, 9,500 staff; 5.75 million customers; 8
+countries; 18 brands; and as you see, a much bigger management team both collectively and, sadly,
+individually.
+
+Today's presentation will be starting with myself. And then Geraint Jones, the CFO, will give a group
+overview before Cristina Nestares, the UK Insurance CEO, talks about our U.K. results. And I will come
+back to talk about the U.S. both insurance and Price Comparison before Milena Mondini, Head of European
+Insurance, talks about European insurance and Price Comparison. And I'll come back for a brief wrap-up.
+
+Over to you, Geraint.
+
+Geraint Jones
+CFO & Director
+
+Thanks, David. Good morning, everyone. I'm going to talk through some of the highlights of the results
+covering the turnover, customer growth, profits; move on to talk about capital and dividends. And then I'll
+finish with a brief update on Admiral Loans.
+
+This is our usual highlights slide to kick things off. On the top, we show customer numbers and turnover.
+We're going to go into some detail on both of those figures shortly, so I'll just highlight double-digit
+increases in both again, with all parts of the group growing, particularly in households in the U.K. and
+generally things outside the U.K. On profitability, you'll have seen we're reporting GBP 405 million of
+pretax profit, earnings per share of 117.2p. Those are both record figures. Of course, the comparisons are
+clearly very impacted by Ogden that hit on 2016. And so the plus 43% and plus 49% need to be seen in
+that context, but it is good to get back to an upwards trajectory in profitability. A similar story for return
+on equity, 55% for 2017, a very positive number back in line with our usual historic performance.
+
+And our full year dividend is 114p per share. That's 11% up on 2016 if you exclude the additional capital
+return we paid in 2016.
+
+And finally, in the middle, solvency ratio remains very strong, still up over 200%, albeit a bit lower than it
+was at the end of 2016.
+
+These are the top line figures from across the group. The picture looks pretty similar to recent reporting
+periods, strong growth in all segments, lots of green arrows. I'd particularly point to nearly 4 million
+motor customers in the U.K., which [ covers ] 4 million since the end of the year. We see more than 40%
+growth again in household customers and turnover, really pleasing figures again from household. And
+then in our international insurers, turnover was up by nearly 1/4, heading towards GBP 0.5 billion. And
+customer numbers were up by 1/5, breaking through 1 million customers outside the U.K., continued
+strong momentum. And more than 10% growth in the turnover from the Price Comparison businesses as
+well.
+
+Moving on to talk about profits. David mentioned that Admiral turned 25 earlier this year. That's why I
+wanted to show the full profit trajectory since that first year back in 1993. Hopefully, you'll agree it's an
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+enviable track record. Profits have increased in all but 2 years. And of course, 1 of those years, which was
+2016, was due to the Ogden impact. And you can see that in the red dots. 2017's profit of GBP 405 million
+was over twice as big as the profit 10 years ago and was a huge multiple of the number 20 years ago in
+1997. But let's look in more detail at 2017.
+
+And here we compare the results for each of our segments compared to the previous year. The U.K. profit,
+as you can see, GBP 466 million, is a record. As I said earlier, the comparison is distorted by Ogden, and
+so I'll talk more about the U.K. separately. The International Insurance result improved again to a GBP 14
+million loss compared to GBP 19 million the year before. That's mainly a factor of higher profits at ConTe
+in Italy, a fourth year in a row in profit for ConTe; a lower loss in the U.S. And that latter result come in
+despite the hit from the hurricane in Texas in 2017. The Price Comparison results improved to a GBP 7
+million profit from a GBP 3 million profit, the main features there being reduced profits at Confused.com;
+great results from Rastreator and LeLynx in Europe; and reduced loses at Compare.com, which hit its
+marketing breakeven target for the year.
+
+Last up is our other segment. And you can see that, that was up a bit in 2017, a variety of reasons.
+And then GBP 9 million of the movement, you can see explained on the slide. That's the first year of the
+Admiral Loans P&L, which was negative GBP 4 million. And 2016 included an unrealized gain on foreign
+exchange forward contracts. There's a breakdown of those costs in the appendix, if you're interested.
+
+As I said, 2016 is not a good basis for comparison, so this slide looks back a year further to 2015. As
+you can see, the UK Insurance profit is GBP 22 million higher than 2 years ago. GBP 3 million of that
+improvement comes from household, where we have a much bigger book, a better expense ratio and a
+better loss ratio, which is a pleasing combination. And therefore, motor profit is GBP 19 million higher than
+2015 despite earned premium being up by 20%. A key point to remember, of course, as you can see on
+the slide, is that the 2017 result is prepared on the basis that Ogden stays at minus 0.75% as a result
+of that change. That's about GBP 40 million. 2015 obviously had Ogden at plus 2.5%. And so the Ogden
+change is a key factor in understanding why the profit in 2017 is GBP 20 million or so higher than it was in
+2015.
+
+This slide also helps illustrate progress in International Insurance, where since 2015 we've doubled our
+turnover and reduced the loss by 1/3. More detail on our performance of our various segments shortly
+from my colleagues.
+
+Changing subjects to look at capital. The familiar-looking slide here shows our solvency ratio is still very
+strong, again over 200%. The main movements since the middle of the year, as you'd expect, the second
+half profits, deducting the final dividend and some increase in the capital requirement which was mainly
+due to the growth in our balance sheet but also the expected volumes we see in 2018. There's no change
+to report in the basis of the calculations. We're still on standard formula plus the capital add-on. And we're
+making progress towards our internal model application later on this year; hopefully, getting approval
+in 2019. We still think at this stage that 150% is a good indicator of the upper end of our target range
+once we get that internal model approval, but of course, we do recognize that 200% is somewhat north of
+150%. And to that point, I'll repeat the message of 6 months ago, which is that until we've got certainty
+over the internal model capital position, we won't talk more about any potential surplus capital position.
+And what I mean by certainty over the internal model position is getting the internal model approved.
+
+Let's take a look at dividends. As you can see, we're proposing a final dividend for 2017 of 58p per share.
+In line with our guidance, we've looked to hit a payout ratio in the 90s. And 58p per share is 97% of the
+second half earnings, still leaving us with a 205% solvency ratio you saw on the previous slide. We repeat
+the formal dividend policy on the slide here. And I'd also reiterate that, unless or until we say otherwise,
+payout ratios in the 90s is a good guide for dividends going forward.
+
+You'll need to be on the record on the 11th of May to get paid on the 1st of June.
+
+At the half year, David talked about our aspirations to grow in areas beyond car insurance. And I'll just
+give a brief update on one of those areas that we hope will be an important source of growth and profit
+in the medium term. That's, of course, Admiral Loans. You can see that, at year-end, we had nearly GBP
+70 million of loans receivable on the balance sheet. And recently, we've gone through GBP 100 million of
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+lending to our customers. Given the relative size and maturity of the business, we're not going to go into
+too much detail at this stage, though some of the key messages in terms of our product and our progress
+are set out on the slide. We expect future -- further growth, sorry, in the balances due in 2018, assuming
+we remain happy with the performance and the KPIs. We're, of course, aware that there are potentially
+uncertain economic times ahead. And our focus is on building a prime book.
+
+We aren't projecting a material change in the P&L. Guidance for 2018 is between GBP 5 million and GBP
+10 million, up from GBP 4 million in 2017.
+
+That's it for me. I'll leave you with some of the key messages: continued strong growth in all parts of the
+group; record profits, though still held back in the U.K. by Ogden; very pleasing early progress for Admiral
+Loans. And we've maintained a very strong capital position whilst paying out basically all of our second
+half and actually full year profits to our shareholders with dividends.
+
+I'll hand you to Cristina, who will talk us more about the U.K. business.
+
+Cristina Nestares
+Chief Executive Officer of UK Insurance
+
+Good morning, everybody. I will talk to you today about the results of the UK Insurance operation. I will
+focus on the motor results, talking also about the market. And I will also cover household, but let me first
+start with a bit of historical perspective.
+
+You can see here an ad, a yellow pages ad, from Bell from many years ago when actually yellow pages
+was our biggest source of business. Now about 20 years later, you can see a very different ad for Bell.
+Bell is now a telematics-only brand that we sell via Price Comparison, and it's helping Admiral to stay as a
+telematic leader in the market.
+
+Now let's look at the highlights of the UK Insurance in 2017. It has been another good year of growth.
+In terms of units, our motor book has grown by 8%. And that includes a 5% growth in our car
+units, reflecting a slowdown in the first quarter of the year due to price increases after the Ogden
+announcement, but it also includes 120,000 vans that we put in the book at the year-end in the first year
+of operations for van. In terms of turnover for motor, it has grown by 13%. And that includes an increase
+of 11% in car, reflecting our price increases. In the case of household, both customers and turnover have
+increased by 41%.
+
+As for profits, Geraint has already talked about them.
+
+Moving on to claims in the market. The frequency of small bodily injury claims registered in the MOJ portal
+has continued trending down. You can see here in the graph it went down with about 12% in '17 following
+a 19% reduction in '16. So why is it going down so much? Well, we think it's a combination of safer cars
+but also change in lawyers' behavior. The prospect of a reform might lead to some lawyers to choose to
+focus on other sectors and less on motor. For 2018, it's hard to predict, but we'll work on the basis that
+we're not going to see such reductions in frequency.
+
+On the right, you can see a graph about accidental damage in the market. And you can see that the trends
+for '17 and '16 has been very similar, flat frequency, an increase in severity, reflecting mostly an increase
+in parts. For '18, we're expecting a continuation of this trend.
+
+So this is the market data. In the case of Admiral, our own claims experience for both small BI claims
+and accidental damage has been consistent with the rest of the market. In terms of large claims, it's
+actually much harder to comment on what is happening in the market because Ogden is causing a lot of
+disruption. What we can tell you is that for Admiral 2017 frequency of large BI claims appears to have
+been okay, especially in the context of Ogden.
+
+So let's talk about market premiums. First graph is the ABI data reflecting increases but also taking into
+account that it includes an IPT increase in the middle of the year. The graph on the right shows Admiral
+times top index to the last quarter of 2016. So what you can see in this graph is that depreciation of the
+times top of Admiral at the end of 2016 and at the end of 2017 is actually quite similar. This indicates that
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Admiral has put prices up in line with the rest of the market. However, the timing of those price increases
+is slightly different, as we put prices ahead of the market at the end of 2016.
+
+Now before talking about what are prices going to do in 2018 in our view, I want to talk about excess of
+loss. As we all know, the cover of excess of loss has increased its price this year. And Admiral, what we
+did in 2017, as a reminder, we put more cover to cover for the shock of Ogden because the prices in the
+market were fine in our view. So in 2018, we have gone back to our long-term average of around 8 million
+to 9 million but at higher cost.
+
+So that's in terms of excess of loss. Let me talk about prices for 2018. Now 3 things that could affect what
+the market is going to do: first, excess of loss. So I just mentioned that prices in the market have gone
+up. However, from what we have seen in the market, we haven't seen any significant increase in market
+prices so far. Second thing that could affect prices is the claims environment we have seen relatively
+benign in 2017, and we expect a continuation during 2018. And finally, we think that the prospect of
+the reforms, as and if they become more concrete, could have an impact on prices. And some player
+might start decreasing prices ahead of the reforms. So overall, we don't expect a continuation of the price
+increases in 2018.
+
+Moving on to the ratios. This is a slide that we have been showing for a number of years. You have Admiral
+data in blue and the market in red. However, as the market data is not being updated, it's becoming
+obsolete, so we might stop showing this comparison in the future. You can see the data for 2016 which we
+have taken from Deloitte estimates.
+
+So for Admiral, the loss ratio [ and then ] high discount rate. And as you can see, there have been some
+development in 2016, '13 and '12. These decreases are less than what we have traditionally shown,
+and the reason for this is that Ogden is causing disruption in the settlement parters -- sorry, settlement
+patterns of large claims. And this -- in this environment of uncertainty, we prefer to take a cautious view.
+In terms of expense ratio, you can see that we continue to hold a significant advantage over the market
+due to our focus on cost control.
+
+Reserve releases. Well, U.K. car reserve releases continued to be a strong feature of our results. Reserve
+releases in '17 were 21% ahead of the long-term average of around 15%. The margin in booked reserves
+remained prudent and significant, but it's slightly smaller in relative terms than the one at the first half
+of 2017. And going forward, we expect a -- continuing significant reserve releases if claims develop as
+expected.
+
+So this is it for motor, but before moving on into household, another bit of historical perspective. In this
+slide, you have the other revenue per vehicle. Only a few years ago, it was GBP 84 per vehicle. And now
+it stands at GBP 64, quite stable in the past few years. So the reasons for the decrease are twofold: first,
+the ban of referral fees. And secondly is the fact that we have improved our products, which actually
+means a better outcome for our customers but lower margin for Admiral.
+
+So in terms of households, I think the most important feature of our result has been the strong growth
+of 41% in a time where the rest of the market is not showing a lot of growth. So what are the reasons
+for this increase? I think there are 3. The first one is the fact that Price Comparison, which is our main
+channel, has continued to grow, as you can see on the graph. The second reason is that there have been
+price increases in the market. Admiral has also increased the prices of its household book, but it has
+lagged the market, which has allowed us to grow. And the third reason is that beyond Price Comparison
+we have increased our direct offering. We offer a multicover policy that allow us to cross-sell household
+policies to our motor book.
+
+So strong growth in units and also improvement in our ratios. You can see on the graph on the right our
+expense ratio improved from 34% to 30% during the year due to increasing scale and a bigger renewal
+book. And I think it's particularly significant that we hold an advantage versus the market, which we
+believe stands at 45%. In the case of the loss ratio, we have seen an improvement during 2017. The
+good weather has helped, definitely nothing like today. So going forward, for household, we expect a
+continuation of the growth, possibly not at 40%. And we also expect an improvement in our ratios.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+So I would like to finish by talking about the customer because these results are only possible because
+the trust that the customer give us. Something very concrete that we have done to improve the customer
+experience during 2017 is to improve the feature of our products. And we're very proud to say that
+today all our products hold a 5-star Defaqto rating option. So that includes our car; our telematics; our
+household; and also the 2 products that we launched this year, in '17, that is van and travel.
+
+So in summary, 2017 has been another good year of growth for the Admiral UK Insurance business.
+The car insurance market has seen increases, and Admiral has put increases in line with the rest of the
+market. For 2018, we do not expect prices to continue increasing in the market. And we have enjoyed a
+very good year for our household book with good growth in units and also improving our ratios.
+
+So that's it for the insurance business. Now over to David.
+
+David Stevens
+CEO & Director
+
+Thank you, Cristina.
+
+So before diving into the U.S., I just want to take a longer-term, bigger picture perspective on
+international. 15 years ago, we were active in 1 country. Now we are active in 8 countries. I'd like to take
+this opportunity to apologize to the people of Sardinia for their exclusion and assure them that they can
+buy policies from ConTe.
+
+Going on to the U.S. Elephant had a year of growth, 8% up in terms of number of cars covered; and a
+year in which the losses shrunk both in absolute and percentage terms, Admiral share of losses falling
+from $21 million to $16 million. What's driving this? Well, the primary reason for the improving result
+and surprising is continued improvement in combined ratio. So here you see the Admiral combined ratio
+compared with the market, in red. And Admiral has improved from 143% 3 years ago to 119% last year
+against some degree of headwind from the market, which has been unusually difficult for the U.S. auto
+insurance market with an increase from 103% to 109% over the 2 years to 2016. And I think it's probably
+about 107%, 108% in 2017.
+
+So Elephant is on a journey towards profitability. And our projections show it coming to profitability and
+making a decent return on the investment to date. However, we do always run stress scenarios at the
+end of each year, and there are certain stress scenarios in which Elephant would not fully return the
+investment we've made. And so we have chosen, as part of our conservative approach to our business, to
+reduce the book value of Elephant on our book from 125 million to 100 million.
+
+Big part of the improvement in combined ratio has come from an improvement in loss ratio, which has
+been something I've talked about over the last 2 or 3 presentations. And I think you can see here the
+progress that has been made. I've pulled out Texas because Texas represents 50% of the business we
+write in the U.S. We are the blue line. And again, you can see a situation where we've made progress,
+notably in 2017, against a difficult market context where the whole market in the U.S. was going in the
+wrong direction. And in 2016, hail adversely affected the Texas market. 2017, our 76% was achieved
+despite Hurricane Harvey, which would have affected us and actually the market as a whole.
+
+So as well as the improvements in loss ratio, other reasons why I'm very positive about Elephant are
+around the refinement in our strategy. At the beginning of the year, I asked Henry to go to the U.S. full
+time, along with Alberto Schiavon, one of our U.K. managers, to see if we could sharpen the strategy
+in the U.S. And the conclusion of the work that they did is that we should focus more on one specific
+segment, and that's what we've done. One of the ways of looking at the U.S. market is around propensity
+to stay with you, around loyalty. The U.S. market is very polarized between customers who move in
+and out of insurance, are very active shoppers but often struggle to maintain a policy throughout the
+life of that policy and so they cancel and take it up again. In the other extreme, there are multi-car,
+relatively affluent customers who typically shop much less often but are much more loyal. And historically,
+Elephant has appealed across-the-board. On the left-hand side, you can see the mix of business that we
+wrote in Q4 2016, where the red block at the top represents the low propensity to renew and the green
+block at the bottom is the highest intensity to renew. And as we can see, over the year through a series
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+of changes in marketing message, marketing mix and customer proposition, we've moved the mix of
+business substantially away from the lower-retaining books types of business to the higher-retaining type
+of business. And our estimate of the impact on that in terms of ultimate retention will be that the book as
+a whole will have a 17% better retention as a result of this change in mix. Now that's great, but you would
+expect to pay a price in much higher marketing costs to appeal to the ultimately more valuable customer.
+So we're very pleased to have combined that switch with an actual improvement in cost per vehicle sale,
+which was [ immediate ] cost per vehicle sale which was over $260 and is now under $230. Henry has
+now returned to the U.K., working part time. Alberto Schiavon has stepped up become -- to become the
+Elephant CEO.
+
+Over to the comparison business. Andrew was here at the half year, talked more about the business.
+It's been a good year. We've gone below $10 million in terms of our own loss. The panel continues to
+evolve. And I've highlighted 2 names. 1 is obvious, Travelers, big band U.S. and globally. Encompass, you
+might be wondering why am I highlighting Encompass, small brand you've probably never heard of. It is
+actually the third brand in the Allstate stable. So there's Allstate Esurance; and by far their smallest brand,
+Encompass, which signed on and is now active in a large number of states, not necessarily material per
+se but maybe a sign of some progress in terms of persuading 1, at least 1, of the big 4 that it's worth
+engaging with Compare.
+
+Top right, you can see the year has been a great one in terms of marketing efficiency, with cost per
+quote halving despite volumes up by 1/4 and the quality of those quotes improving more than translating
+into buy clicks and ultimately buys. Still, work to be done there. And we are guiding to a loss in 2018 of
+between $5 million and $15 million for Admiral.
+
+So continuing improvement in Elephant's results, a refinement in the strategy that gives us increased
+confidence in its long-term health, a reduced loss at Compare and a milestone achieved of marketing
+breakeven.
+
+Over to Milena to talk about Europe.
+
+Milena Mondini
+Chief Executive Officer of Europe Insurance
+
+Hello. Good morning, everybody. I'm here today to talk to you about our insurance operation in Italy,
+France and Spain; and our price comparison site across Europe. Price comparison site is our major
+distribution channel nowadays also in Continental Europe, but it was almost inexistent 10 years ago. I will
+then focus more on ConTe, our Italian and biggest operation, while there are more detail about Admiral
+Seguros and L’olivier in the appendix.
+
+2017 was a mixed year for price comparison side. It was a year of investment in Confused. We invested
+in a driver win campaign to position ourselves as the go-to place for drivers. We also invested in other
+project as car buying and selling online and car financing. We believe that this new strategy will help
+us to differentiate ourselves. The market is still highly competitive, with more than GBP 110 million of
+investment of the top 4 players in 1 single year. Profit decreased year-on-year as a consequence of the
+investments. In the last month of 2017, we started to see some benefit of our investment. And we've
+noticed a good engagement with the brand, but it will take time for the benefits to fully deploy.
+
+In Continental Europe, we experienced another year of strong growth both in France and in Spain. The
+starting position is quite different. In Spain, where Rastreator has 70% market share and is leveraging on
+its dominant position to diversify the business, with particular focus on the financial vertical. This is a bit
+more mature market compared to France. In France, LeLynx is also l of the 2 top player in the market, but
+the market is less mature. And there are new entrants that are investing in [ TV ]. We do believe that this
+investment will help us, the channel to grow. And it's important to remind that for us it's very important
+that the market move direct also support of our operation, insurance operation, there.
+
+Moving now to insurance in Italy, France and Spain. 2017, as 2016, was another year of very strong
+growth. We grew 60% in active policy base and turnover, reaching EUR 309 million revenues in '17 and
+854,000 customers. We are consciously investing in growth to reach economy of scale in each country and
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+the scale that we believe will help us to deliver material profit in each single business. It is important to
+notice that we did achieve this growth despite the cycle is not favorable yet, particularly in Spain and Italy
+where price are expected to increase; at the same time, even more important, reduced losses overall.
+Losses went, combined, in Europe from EUR 10 million to EUR 5 million, to EUR 2 million in '16 and '17.
+Main driver of this was good group profit, but I think it's important to mention that Admiral Seguros is not
+far from reaching sustainable profitability either. And in L’olivier, we are still investing to reach scale, but
+this investment is not large at all.
+
+In this slide, you can see the key evolution -- the evolution of the key ratio in Europe. The first things you
+may notice is that loss ratio is in a very good range, while expense ratio is over market average. So why
+expense ratio is over market average, there is a mix of reason. The most important one is that we have
+an higher percentage of new business of renewal book. And we don't have the scale yet, particularly in
+Spain and particularly in France. This is why, for us, reaching a decreasing expense ratio is crucial and is
+critical. And one of the most notable results, in my opinion, for the year is a strong reduction of 5 points
+combined in Europe while growing at the same time. We are indeed reaping the benefit of our investment
+in brand awareness. We are realizing material internal efficiency through more process automation and
+optimization. And we are reducing the cost per policy in every single country. Reduction of expense ratio
+was indeed realized in every single country, and we remain positive to continue this trend and in this
+direction in the future.
+
+Loss ratio combined in Europe has been between 70% and 80% in the last 4 years. We believe that's very
+good results. It's important to us because being able to transfer our competitive advantage in underwriting
+and pricing was one of the key assumption for us when we decided to launch internationally. And we think
+we achieved these results. In 2017 in particular, the loss ratio deteriorated, as you can see, but please
+remind that this number include reserve releases. And 2016 was a year of extraordinary reserve releases,
+particularly for ConTe, while the underlying loss ratio is relatively stable. It's also worth to remind that we
+adopted a more conservative approach in booking in France and Spain as we are already doing in Italy and
+U.K.
+
+Results for the year was also positively impact by reinsurance contract, in 2017 in particular.
+
+Moving now to ConTe. ConTe had a great year. They had record profit. It was profitable for the fourth year
+in a row. It broke even on written basis for the first time, while in the past we had to wait a few years
+to realize the profitability on written basis because we have to wait for the loss ratio, ultimate loss ratio,
+estimates to improve. We had a record expense ratio with 6 points decrease, and this was mainly driven
+by internal efficiencies; and this despite the strong growth and despite we are in an adverse part of the
+cycle with the average premium in the market decreasing and now down 22% compared to 5 years ago.
+We also went live with a new IT system, Guidewire, that is now supporting the majority of Admiral Group.
+And ConTe was scored second best place to work in Italy for the second year in a row.
+
+But the most notable results of all is definitely passing the mark of 500,000 customer. What a great way to
+celebrate the new year, 600 happy colleagues celebrating 500,000 happy customers.
+
+I'd like now to conclude with a comment about Europe in general. Italy, France and Spain are somewhat
+different but very similar among themselves if compared to U.K. They share similar challenges and
+somewhat similar opportunity. And we did work in the last 2 years to make sure that we were increasing
+the synergies and we were sharing more best practice; in summary, trying to make sure that the value
+delivered by European Union, Continental Europe combined was greater than the sum of the individual
+country. One of the most notable effort has been investment in technology. We have a company in Spain
+called EUI general service that support the 3 operations in Europe. But as you may expect, the most
+important project is preparation to Brexit. We selected Spain as location for a new insurance company that
+will underwrite business for the -- our operation in Continental Europe from 2019. The project is going well
+and according to plans. We appreciate that, given the size of European insurance is increasing, there is
+interest in knowing more about those business, so we'll be very pleased to address this later in the year in
+a dedicated Investor Day.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+So to wrap up: a year of investment in Confused; very strong growth both on price comparison side and
+insurance company in Continental Europe; improving results in each single business, in each operation,
+with reduced combined losses overall; and record profit for ConTe.
+
+And I shall now hand over to David that will talk to us about group strategy. Thank you.
+
+David Stevens
+CEO & Director
+
+Thank you, Milena.
+
+One last long-term perspective. We've talked a lot about things that have changed from 25 or 20 or
+10 or 15 years ago. One thing hasn't changed, and that's our commitment to making Admiral a place
+that people enjoy working at. And this is demonstrated in this exhibit. In 2001, the first Sunday Times
+Best Companies to Work For survey came out, and we came in at #32. We are 1 of only 2 companies
+that have come in the top rankings of that survey every year thereafter. And the latest survey was
+particularly gratifying, seeing us voted as the third best big company to work for. And last year, we
+managed 23rd on the global best companies to work for award, so it's lovely to see that culture being
+exported internationally.
+
+I'm just going to finish then with a quick restatement of our strategy. It's very simple. It's the same that
+I described 2 years ago when I first became the CEO. It's to ensure the Admiral remains one of the best
+insurers in the U.K.; to demonstrate that we can be a great insurer beyond the U.K.; and to develop
+sources of profit and growth beyond the brand, serving more customers, which we've done in spades in
+2017. That's both in car and from new products like van and travel and household. It's about knowing our
+customers better, which we partly do through product innovation like multicover and telematics. And it's
+about keeping them longer; and that's through product evolution, the Defaqto 5 star, the improvements in
+the product quality of the ancillaries and the improvement in the customer service delivery.
+
+Demonstrating that Admiral can be a great insurer beyond the U.K. is around understanding what it is
+about Admiral that's exportable and making sure that we also adapt to local market conditions. And what's
+proved to be exportable is talent in risk selection and a low-cost expense culture. Beyond that, we've
+had to do a lot of adapting. And I think the Elephant positioning towards particular segments in the U.S.
+market through direct marketing is an important example. Claims handling in Italy is another example,
+where there's a lot that we've learned over time. And I think we're now ahead of the market on claims
+handling in the Italian market.
+
+We are focusing on the existing countries in which we have insurance operations. We're not planning
+to launch into new countries. And we are seeking to accelerate the switch in consumer behavior, which
+as you saw from Milena's graph is a long-term structural trends towards direct and Price Comparison.
+We seem to accelerate that in certain markets via our investments in our own price comparison sites.
+Lastly, in developing sources of growth beyond insurance, again we seek to develop on our strengths, so
+we're looking for intangible services sold at a distance ideally. We're looking for products sold through
+price comparison sites ideally. We're looking for products which have a high degree of risk selection as
+an important success criteria. And we are going to test relevant products in that universe, with the most
+obvious test being our launch into loans, most recently our expansion from unsecured personal lending
+into car finance. And that's going to be an important initiative as we go forward.
+
+So thank you for that. Here are your team 10 years ago. And I'm going to open it up for Q&A. I know
+the question on everyone's lips is how have the four of us managed to avoid the ravages of time so
+successfully after the last 10 years, but can we keep the questions to the business, please?
+
+But before I take my first question, I'd just like to take this opportunity of thanking Karen Maguire, our
+Investor Relations Manager, for whom this is the last set of results and who -- and the last road show.
+Sterling work over the last few years. She's moving on up to be the CFO at Confused. Congratulations,
+Karen. And thank you for all your help. The queen is dead. Long live the queen.
+
+Marisja is our new Investor Relations Manager, Marisja Kocznur, a very competent person that will -- you'll
+all, hopefully, get to know over the next couple of years.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+So over to Q&A.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Question and Answer
+
+David Stevens
+CEO & Director
+
+Can we go straight to the back? Sorry, Karen -- no, no. You're in-charge.
+
+Greig N. Paterson
+Keefe, Bruyette & Woods Limited, Research Division
+
+Greig Paterson, KBW. Two numbers themed, please; and an observation. Could you just give us what
+the -- as you typically do, the December year-on-year rate increases were in U.K. motor including new
+business and renewal together? And could you just clarify exactly what your retention was on excess
+of loss in 2017 versus 2018? And also, interested to know what your plans on, what you've been doing
+in terms of automated and connected vehicles. And finally, just an observation: My view, your business
+model is very cryptic a financial structure. And by dropping, I -- if I heard correctly, you're going to drop
+the ultimate disclosure, I think, that makes a cryptic business model even more cryptic. There was a
+comment about dropping the ultimates...
+
+David Stevens
+CEO & Director
+
+Market comparison.
+
+Greig N. Paterson
+Keefe, Bruyette & Woods Limited, Research Division
+
+The market -- all right. Then I take back what I said. It's obviously not a cryptic business model.
+
+David Stevens
+CEO & Director
+
+Okay, let me do the 2 easy ones. And I'll hand the price increase over to Cristina also. It's very difficult.
+On our excess of loss, Page 44 is full detail of the history of our excess of loss. In terms of autonomous
+vehicles, we invest a lot in staying in touch with what's happening technologically. We are active with
+Startupbootcamp and Plug and Play. We have one of our senior managers embedded in a tech-orientated
+private equity fund. We do a lot in cooperation with some of the startups. We also stay close to some of
+the tests which are going on around the U.K. in terms of autonomous vehicle. So far, we have felt that it
+is not commercially advantageous to invest beyond our investment in that area. We feel we can follow the
+developments in that technology adequately from the work that we do elsewhere. Cristina, would you like
+to comment on pricing?
+
+Cristina Nestares
+Chief Executive Officer of UK Insurance
+
+Yes. So prices in the market, according to the ABI, have gone up by 8%. And that includes 2% IPT. We
+have put prices similar to the market.
+
+Greig N. Paterson
+Keefe, Bruyette & Woods Limited, Research Division
+
+That's December to December...
+
+Cristina Nestares
+Chief Executive Officer of UK Insurance
+
+That's December to December.
+
+Greig N. Paterson
+Keefe, Bruyette & Woods Limited, Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+[ So 8% ].
+
+Cristina Nestares
+Chief Executive Officer of UK Insurance
+
+Around -- similar to the market, yes.
+
+Greig N. Paterson
+Keefe, Bruyette & Woods Limited, Research Division
+
+And the new business [indiscernible].
+
+Cristina Nestares
+Chief Executive Officer of UK Insurance
+
+Yes.
+
+Unknown Attendee
+
+[indiscernible].
+
+David Stevens
+CEO & Director
+
+Yes.
+
+Cristina Nestares
+Chief Executive Officer of UK Insurance
+
+Yes.
+
+Thomas Seidl
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Thomas Seidl, Bernstein. First question, on home, a great progress. You still run a 20 percentage point
+higher loss ratios there, though. Is there any reason why it should not reach market average 50%,
+55% loss ratio [ whilst ] increasing diversification and knowledge in data? And secondly, on U.S. price
+comparisons, you talked about the progress you made. Can you talk about the market there? Are
+switching rates going up? I think it's about 75% retention levels in the U.S. Are switching rates going up?
+Are those people who do switch use more price comparison? And how do the competitors of -- compared
+with Compare?
+
+David Stevens
+CEO & Director
+
+So you'll do home, and I'll do U.S.
+
+Cristina Nestares
+Chief Executive Officer of UK Insurance
+
+Yes. So our loss ratio in the household book is much higher than the market. Several reasons. First, we
+are still learning. We have been 4 or 5 years, so we're collecting more data, improving how experience --
+or sorry, how we handle our claims. So we expect to improve our loss ratio. The second reason is in the
+market the retention is very high. So a lot of the competitors have very large renewal books, so we might
+not be able to get very quickly to the average of the loss ratio in the market. The third reason is, price
+comparison, it's only 50% of the market. As the share of the price comparison grows, more people will be
+switching. There will be more comparison in prices, and that would allow us to get to the loss ratio in the
+market.
+
+David Stevens
+CEO & Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+And sorry. U.S. comparison: Pure true price comparison is tiny, tiny in the U.S. There is a lot of noise. And
+one of the challenges for Compare and from a [ marketing ] point of view is there is a lot of noise from
+people who advertise as if they were comparison operators but sometimes deliver an outcome as simple
+as a list of people to click through; sometimes collect a couple of pieces of data and then pass you off to
+someone else, show an indicative estimated price. So the actual pure comparison market is very small but
+growing fast. And I mean really, really small. In terms of shopping activity, it is a bit higher than it was 2
+years ago, but I think you -- we'll have to see whether that's structural or whether it's a response to the
+fact that prices have been increasing in the U.S. market substantially over the last 2 years in response to
+the adverse loss experience. That tends to stimulate more shopping in any market.
+
+Arjan Van Veen
+UBS Investment Bank, Research Division
+
+Arjan Van Veen, UBS. A couple of questions on the European insurance business, if I may. Firstly, the
+loss reduced to EUR 2 million, but it was negative EUR 5 million in the first half, plus EUR 3 million in the
+second half. You mentioned some reserve release out of ConTe, so just curious. Is the underlying trend
+improving that much? And can we expect that going forward? Or is it a bit of distortion in the second half?
+And secondly, you mentioned price increases in Italy and France. If we look at ANIA data, I think 2% price
+increases in this fourth quarter of 2017, a lot of your competitors putting prices up towards the end of last
+year. So can you give more color of magnitude of price increases, particularly in France, please?
+
+Milena Mondini
+Chief Executive Officer of Europe Insurance
+
+Yes. So going to the difference between first half and second half. We do have -- there is still some
+volatility in the results. And this is driven by reserve release, by the fact that we have some business that
+are still with a small book. So there is some volatility in loss ratio. I mentioned that one of the reason
+why -- one of the positive impact on 2017 is there is also some distortion of reinsurance contract with
+some deferred profitability on 2017 versus previous years. So there is some distortion, and there is some
+volatility. We did have an interesting reserve release in the second half. This happened also in the past
+because we tend to have a more deep revision of the results in the year-end, but also I think it's very,
+very important that you look at the year as combined and you don't extrapolate the trend. And so you
+look at really the trend year-on-year rather than looking at the difference between second half and first
+half looking forward. On the price increase, the reality is that in Italy we're suspecting a quite strong
+price increase in the last actually couple of years. And this has been postponed mainly because good
+underwriting results. So the increase that we have seen are smaller than we expected and were very
+concentrated in the very last part of the year. Year-on-year, there was not material price increase. And all
+the price increase that you may see are only on traditional player. The direct market actually is not [ that ]
+at all.
+
+Arjan Van Veen
+UBS Investment Bank, Research Division
+
+[indiscernible].
+
+Milena Mondini
+Chief Executive Officer of Europe Insurance
+
+France is relatively stable with very, very small price increases; and [ this really ] claims inflation.
+
+Andrew John Crean
+Autonomous Research LLP
+
+It's Andrew Crean, Autonomous. Could I go into a bit more detail on your U.K. motor results? You're
+signaling, I think, flat pricing for 2018. Could you compare that with what you expect for claims [ burn ]
+cost? And then I mean I agree with Greig's point. I find your results now increasingly obscure. The results
+you're actually reporting this year, I mean, to what degree are they reflecting underwriting years '14, '15,
+'16, '17? You seem to be now sort of 3 or 4 years behind what's actually going on. So that was the second
+question. The third question is you say that your times top has got better, but I noticed that you actually
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+put on more car policies in the first half than the second half, so should we be looking for an acceleration
+in the number of car policies on the books in '18 rather than '17?
+
+Geraint Jones
+CFO & Director
+
+I mean a comment around the profit and loss account and the recognition of results. The philosophy of
+our accounting for claims is that we take a cautious approach. And we release reserves into profit when
+we have a good amount of confidence that there [ aren't ] going to be releases and that the profits are
+going to be profits. The business that we were earning in 2017, we are accounting for as a bit roughly
+breakeven on underwriting. You base it from ancillaries and fees and things like that which gets recognized
+basically in the year. And reserve release is 21% of premiums and [ associate agent ], and that comes
+from the underwriting years that you can see in the appendix. So we show you the loss ratios booked by
+underwriting year. We show you the accident year best estimates. We tell you how much money we make
+on other revenue per vehicle. And really I think you can get to how much money we're making. Agreed,
+that some of the structures, particularly around profit commission, are complex and we're somewhat
+hampered because the terms are confidential, so we can't tell you what they are. And we try our best.
+
+David Stevens
+CEO & Director
+
+In terms of the evolution of prices going forward, do you want to talk to that, Cristina?
+
+Cristina Nestares
+Chief Executive Officer of UK Insurance
+
+Yes. So you talk about our prices improvement, but actually the graph we show is more about flat. So at
+the end of '17 and the end of '16, our times top is the same. In terms of claims evolution during 2018,
+we think it's going to be a continuation of the benign trends of '17, so that is an increase in accidental
+damage overall and a continuation of the reduction in the small BI claims. What happens to large claims? I
+think it's harder to predict. So overall, it's going to be benign, but it's hard to predict very concrete. So we
+think in this environment prices are going to be flat. They could be a few points up or down, depending on
+how the claims evolve.
+
+Andrew John Crean
+Autonomous Research LLP
+
+Big margin compression?
+
+Cristina Nestares
+Chief Executive Officer of UK Insurance
+
+I don't think so, but that's our view at the moment. Having said that, what happens to the government
+reforms? Do they become concrete? Is it clear they're going to happen in April? And the extent of the
+reforms, it's going to have a significant impact on the second half of the year. So it's hard to predict
+exactly what is [ going to happen to ] prices. Then your question about the growth in '18, I think there are
+2 components to growth. One is new business. And the other one is renewals and some of the things that
+you might be seeing around our improvement in our retention rate.
+
+Dominic Alexander O'Mahony
+Exane BNP Paribas, Research Division
+
+Dom O'Mahony from Exane BNP Paribas. 3 questions from me, all on U.K. car. The first is on the Ogden,
+the GBP 40 million that you put on this year. Is this part of the drag that you flagged this time last year?
+And is it from PYD, or is it from reinsurance commissions or a combination? The second is you disclosed
+that the terms for the co-insurance arrangement with Munich Re have changed slightly so that you get
+the installment income. Could you just remind us of the arrangements for the ancillary income as well
+there? And also whether actually this is reflecting any broader changes in the terms of the agreement
+there, recognizing of course that there's a limit to what you can say given the confidentiality. The third is
+on prudence in the U.K. book. At half year, you said that, while of course you continue to have enormous
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+amounts of prudence, you relaxed prudence slightly. And again, you relaxed it in H2. Could you just give
+us a sense of how much this contributed to your PYD -- sorry, not just your PYD but your accident year
+loss ratio? And is this a reflection of a new policy? Is this are we expecting sort of a still very prudent but
+not quite as prudent as before from now on?
+
+David Stevens
+CEO & Director
+
+Geraint, do you want to take all three?
+
+Geraint Jones
+CFO & Director
+
+I'll give it a go. Ogden, the GBP 40 million hit this year mainly affects profit commission. It is the -- a
+kind of ongoing drag that we talked about at the 2016 results. Effectively, I think we said GBP 200 million
+pretax impact, just about; and about GBP 150 million of that, now we've taken. Second was installment
+income, change in the arrangements. There's been a slight shift where we get all the installment income,
+but of course, we therefore make less profit and so we get less profit commission. So it's really that's
+allocating around the lines in the income statement. And there aren't significant changes in any of our
+reinsurance arrangements really in the course of the year. And the final one is prudence in the reserves:
+We talked at the half year about bringing the size of the conservatism relatively down. If you go back pre
+Ogden, we were saying that we would expect to bring the level of conservatism down over time had things
+gone back to normal times. Ogden obviously disrupted that significantly. And so we increased the size of
+the margin at the end of '16. We brought that down in the middle of '17 and down very gradually in the
+second half of '17 as well. Reserve releases for the year were 21% of premiums. It's higher than the long-
+term average. I think, had we kept the margin broadly the same as the end of the previous year, we'd
+have been back in that sort of normal range, something of that order.
+
+David Stevens
+CEO & Director
+
+And ancillaries in the U.K. are all accrued to us on car. Typically, abroad, they're shared with the
+reinsurers.
+
+David Bracewell
+Redburn (Europe) Limited, Research Division
+
+It's David Bracewell here, Redburn. 2 questions. One, on the ultimate loss ratios in the U.K. And they
+haven't changed in '13, '14, '15, I think, or '14, '15, '16, but my understanding was the Ogden claim was
+settling a better rate than the minus 0.75. So I would have expected perhaps, as I came through the
+numbers, that the [ actuals ] would have improved the ULRs there. I know you talked about different
+settling patterns, so maybe a bit more detail there will be useful. And then the second question, just on
+the new products you mentioned right at the end. I mean, are these new product going to be kind of car-
+related products? Or actually are you looking to expand into any different types of products unrelated to
+car going forwards?
+
+David Stevens
+CEO & Director
+
+The new products aren't necessarily car related. They will be related to our strengths. If you look at
+lending, we are doing car lending, but we're also doing lending for other purposes. It -- but wherever
+we do lending, risk selection and low expense is relevant. And so we feel it's an interesting product. And
+increasingly, it's across a number of lending products. Maybe I'll do Ogden as well. What you are seeing
+is some gumming up of the works. It's very difficult both for insurers and lawyers to understand what is
+an appropriate settlement when there's so and much uncertainty around the actual financial context. And
+so it is very difficult to -- and that affects the evolution of claims. So they are developing in a different
+way because fewer of them are actually reaching settlement. It just creates more uncertainty. And in that
+context, we choose to take a relatively conservative view of how that might unwind.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Wajahat Rizvi
+Deutsche Bank AG, Research Division
+
+Waj Rizvi, Deutsche Bank. Just going back to the question on accident year loss ratio. So at half year
+stage, you said that the loss rate was slightly -- it reflected some conservatism because of Ogden
+uncertainty. And at the full year, it has come down quite a lot. So I was just wondering if you could break
+down or break that improvement down between what's coming from benign claims, price increases and
+actually what's the conservatism which you have released. That will be the first question. The second
+one will be on reinsurance. So you have increased your deductible to GBP 8 million. Just wondering in
+terms of are there any changes to the terms of the contract as well in terms of, if the Ogden rate moves,
+will the price change as well with it. And what would that represent as a cost of your premium, not for
+the market? And just finally, in -- some of your peers are still talking "escape of water" claims inflation
+in home. And your price increases have lagged the market, so do you genuinely believe that you have
+underwriting edge when it comes to "escape of water" claims? Or what's happening there?
+
+David Stevens
+CEO & Director
+
+Geraint, do you want to do XOL and reserving? And maybe, Cristina, escape of water.
+
+Cristina Nestares
+Chief Executive Officer of UK Insurance
+
+Yes.
+
+Geraint Jones
+CFO & Director
+
+Just remind me what the excess of loss question was, Waj. I was furiously writing down the first one.
+Sorry.
+
+Cristina Nestares
+Chief Executive Officer of UK Insurance
+
+He asked, I think, just if there was any other change to the terms of the contract. And the answer is no.
+
+Geraint Jones
+CFO & Director
+
+Yes, no. The first one was the improvement in the current year loss ratio from half year to full year. I can't
+remember exactly what the position was at the half year, but full year has gone basically 88 to 85, so 3-
+point improvement. And I think it's we're not going to break down it into its various components. I will say
+that we take quite little to -- or very little credit for potentially more favorable large loss elements than
+would be implied by a minus 0.75% Ogden rate. And so I would say that our projection of where 2017 will
+end up at this point is a conservative projection.
+
+Cristina Nestares
+Chief Executive Officer of UK Insurance
+
+And the final question was around escape of water in household. And we did experience some inflation
+of this type of claims during 2016 and took action both in claims management and in pricing. And during
+2017, escape of water hasn't been a big issue for us.
+
+David Stevens
+CEO & Director
+
+Just for [ having some ] clarity: Although the terms of the XOL haven't changed, the cost has. And for
+someone with our type of retention, that's between 1% and 1.5% of premium.
+
+Andreas de Groot van Embden
+Peel Hunt LLP, Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Andreas van Embden, Peel Hunt. Just going back to Confused and your strategy there, can you just maybe
+update in a bit more detail the investments you're making this -- or last year, in 2017; and how you think
+the profitability of the business will improve in 2018 and '19? It seems to me you're still lagging your
+competitors in terms of investment. What are you exactly doing to turn that business around?
+
+David Stevens
+CEO & Director
+
+Well, the rationale of the strategy on Confused is you've got 4 players which in terms of their offering
+are relatively undifferentiated. And we are seeking to differentiate Confused going forward as the price
+comparison site for motorists. So there have been 2 types of investments. One investment has been in
+product range. So we've developed the first car finance comparison offering in the U.K. We're developing
+car buying and selling options on Confused. So there's been some investment in product. There's also
+been an investment in communicating the repositioning towards motorists solely and the driver wins
+through the James Corden campaign. That has cost us in terms of profitability. In terms of its long-
+term outcome, it's still uncertain. What we have seen is a better outcome in the second half than the
+first half. And that's carried through into the first couple of months for Confused, but this is a long-term
+repositioning and not a short-term issue.
+
+Nicholas Harcourt Johnson
+Numis Securities Limited, Research Division
+
+It's Nick Johnson from Numis. Just a question on U.K. car unit growth in terms of customer numbers. I
+think you previously said that there's still a lot of market share to go for given on -- given your current
+market share. Could you just comment a bit about the -- perhaps the competitive landscape? Is it getting
+harder as competitors increase their quote footprint and upgrade pricing models et cetera? Or is Admiral
+managing to stay ahead of the competition? Could you just give us a feel for that?
+
+David Stevens
+CEO & Director
+
+Well, we've said for a number of years that the U.K. market is characterized by a -- increasingly
+characterized by a small number of, I think, very competent, quoted, focused, normally direct personal
+lines players. And the market is moving towards those players, of which obviously we're very much one
+of those players. That will continue to happen, and we have to work in that context. So the focus on
+remaining one of the best insurers in the U.K. is a reflection of the importance of being able to match
+the progress that the likes of, well, Hastings Direct line, esure, are making in being better operators than
+they were 10 years ago. Having said that, to be able to grow the business as we have, 5% for the core
+car insurance business and much more substantially if you look across the whole portfolio of products, it
+suggests that we are able to do that competitively and produce a very good return.
+
+Andrew John Crean
+Autonomous Research LLP
+
+So it's Andrew Crean again. One of the things which you could do which might be helpful [ and I just
+asked for ], the sensitivity to 1 point improvement in the claims ratio which you have in the appendix
+doesn't reflect how it changes when the terms change. Particularly on the Munich Re contract. If you could
+give us a proper sensitivity, because this essentially is highly misleading, that would help us, I think, in
+being able to project the profitability as you improve your underwriting years.
+
+Geraint Jones
+CFO & Director
+
+Do you mean give sensitivity as a range of different movements rather than just one either way?
+
+Andrew John Crean
+Autonomous Research LLP
+
+Exactly.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Geraint Jones
+CFO & Director
+
+[ Yes. ]
+
+Andrew John Crean
+Autonomous Research LLP
+
+And it shouldn't compromise Munich Re because there's a lot of moving parts in there.
+
+[Audio Gap]
+
+David Stevens
+CEO & Director
+
+Thank you, Andrew.
+
+Iain Pearce
+Joh. Berenberg, Gossler & Co. KG, Research Division
+
+Iain Pearce from Berenberg. Can I just clarify one thing, whether has actually been any effects on PYD or
+profit commissions from the fact that Ogden claims hadn't been settling at minus 0.75%? I just think we
+need some further clarity on that, please.
+
+Geraint Jones
+CFO & Director
+
+Is the question have prior year -- has prior year development been affected by the fact that claims
+aren't settling at minus 0.75%? I think there's -- very little of the impact on our projected ultimate loss
+ratios have come from the fact that claims haven't been settling at minus 0.75% because the settlement
+patterns are disrupted. And the very largest of losses aren't settling in the sorts of numbers you'd
+abnormally expect them to settle at. So there's been some, clearly, because some claims have settled at
+a rate or an implied rate at least that isn't minus 0.75%. So clearly some of that has bled through into the
+results, but I think that, as Cristina and David have mentioned, the patterns have been quite disrupted
+this year, and so I don't think there's a large impact. And we certainty haven't banked a lot of credit for
+lots of other claims not settling at that rate.
+
+Karen Maguire
+
+Last questions...
+
+David Stevens
+CEO & Director
+
+Sure, last questions. [indiscernible] phone? Is there anyone potentially on the phone? Do we have a phone
+linked in? You'll be last, okay? Thank you.
+
+Greig N. Paterson
+Keefe, Bruyette & Woods Limited, Research Division
+
+Yes. Just some clarity. Excess of loss premium, I wonder if you can just give us the actual number for
+'15, '16 and '17. I was -- and maybe I wasn't that smart and tried to write down your answer. And
+second thing is if you can give us sort of an indicative inflation rate in motor. I know you said it was
+benign, but what sort of rate range happened in 2017? And then you made a comment that you set up an
+insurance license in Spain. I assume that's right next to Gibraltar so that you can share staff. Or does it
+indicate a much more committed view to the local Spanish market? I'm just going to say I'm -- one of the
+views I have is at some point you're going to have to leave Spain. And if you've set up the license, does
+that indicate that just because it's next to Gibraltar, because of Brexit? Or are you showing a renewed
+commitment to the Spanish market?
+
+David Stevens
+CEO & Director
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+I -- Greig, I think you're overreading the entrails. You don't -- I mean -- and you don't choose Madrid
+because it's close to Gibraltar, but there are a number of very strong reasons around the fact we've
+got an -- existing relationships with the regulator. It's a nice place to be. And there are regular flights
+from Cardiff. In terms of the excess of loss, we'll think about it. It's not that material an item in our
+cost structure, so I wouldn't overly worry about it. We will see whether we're comfortable with further
+disclosure...
+
+Greig N. Paterson
+Keefe, Bruyette & Woods Limited, Research Division
+
+Did you want to [ unlock ] [[indiscernible]? Because [ that'll increase all the rate ]. You mentioned you
+want to unlock [indiscernible]...
+
+David Stevens
+CEO & Director
+
+It's an indicative increase for people who have a structure similar to ours with quite a high retention.
+
+Greig N. Paterson
+Keefe, Bruyette & Woods Limited, Research Division
+
+Assuming the retention remains...
+
+David Stevens
+CEO & Director
+
+Yes, yes.
+
+Geraint Jones
+CFO & Director
+
+What we've shown in the appendix, Greig, is the cost of an '18 program from 10 million at 2.5% of
+premiums. Our program was slightly -- well, costs slightly less than that. And it's very much at that level.
+And we also show you the cost of that type of program in the year before, which was 1% of premiums.
+The year before, your cost brought more [ cup ].
+
+Greig N. Paterson
+Keefe, Bruyette & Woods Limited, Research Division
+
+[indiscernible].
+
+Geraint Jones
+CFO & Director
+
+Yes. So we paid something less than 2.5% of premiums in 2018.
+
+Greig N. Paterson
+Keefe, Bruyette & Woods Limited, Research Division
+
+[indiscernible].
+
+Claims inflation...
+
+David Stevens
+CEO & Director
+
+Sure. Could -- claims inflation. You can see from the numbers we've shown the small BI and the AD. And
+I'm sure your model is sophisticated enough to incorporate that into historic claims inflation. The challenge
+is what's going to be the ultimate claims inflation on BI. So it's not as easy to say, look, the actual result
+in 2017 was X or Y. And it's very hard to also project forward. And the really interesting issue is do those
+small BI trends continue, flatten off, reverse. So it's going to be very much a "watch the space" as the
+market evolves.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Greig N. Paterson
+Keefe, Bruyette & Woods Limited, Research Division
+
+In terms of positives...
+
+David Stevens
+CEO & Director
+
+Some positives and some -- lots of uncertainties.
+
+Greig N. Paterson
+Keefe, Bruyette & Woods Limited, Research Division
+
+It's not indicative of kind of inflation?
+
+[ Do you think it's ] positive?
+
+David Stevens
+CEO & Director
+
+Unlikely. Unlikely that it will be negative inflation. And it -- can I ask if there's anyone on the phones who's
+interested in asking a question?
+
+Operator
+
+We do have a question from the telephone line from the line of Dhruv Gahlaut from HSBC.
+
+Dhruv Gahlaut
+HSBC, Research Division
+
+I have 3 questions. Firstly, could you update on the reinsurance contracts? I'm assuming that must be
+coming for renewal on 35% -- or 38% of the U.K. motor book. And do you expect any increase there?
+Secondly, on the investment income side, you still are sitting on almost 50% of your portfolio around cash,
+money market funds et cetera. Should we expect any changes there? And what's the yield you are getting
+at this point? And third question, in terms of PPO propensity, could you remind us in terms of have those
+been adjusted down? And what interest rate do they reflect? Are they still based on the negative 75 (sic)
+[ 0.75% ], or are they around the 1% mark?
+
+David Stevens
+CEO & Director
+
+It's all yours, Geraint. Thank you, Dhruv.
+
+Geraint Jones
+CFO & Director
+
+Co-insurer contracts for 2019 will be extended. They've -- I think, are now fully signed, same terms and
+conditions, same price. So that will roll on into 2019. Second one, I think, was investment return. The
+asset allocation hasn't changed very much over the course of the year. I wouldn't expect it to change
+materially in the future. The running yield, I think, is something in the order of 1.4%, 1.3%. And if you'd
+multiply that by GBP 3 billion of cash, hopefully, you get to our investment income. PPO propensity, we
+haven't changed that over the course of the year. And obviously nothing is settling as a PPO, as you might
+expect in this Ogden environment, hence partly the comments earlier on distortion of settlement patterns.
+But no, we haven't changed the PPO propensity since the end of last year -- or since the end of '16.
+
+Operator
+
+We have no more questions from the telephone lines.
+
+David Stevens
+CEO & Director
+
+Okay, lovely.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Thank you, for all coming. And see you all in 6 months.
+Or before.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+23
+
+ADMIRAL GROUP PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+24
+
+

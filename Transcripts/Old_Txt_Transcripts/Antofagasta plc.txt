@@ -1,0 +1,1136 @@
+Antofagasta plc LSE:ANTO
+FY 2017 Earnings Call Transcripts
+Tuesday, March 13, 2018 9:30 AM GMT
+S&P Global Market Intelligence Estimates
+
+CONSENSUS
+
+EPS Normalized 
+
+0.76
+
+Revenue  (mm)
+
+4714.40
+
+Currency: USD
+Consensus as of  Mar-13-2018 8:13 AM GMT
+
+-FY 2017-
+
+ACTUAL
+
+0.76
+
+4749.40
+
+-FY 2018-
+
+SURPRISE
+
+CONSENSUS
+
+0.00
+
+0.74
+
+0.92
+
+5238.93
+
+FY 2016
+
+FY 2017
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.36
+
+0.76
+
+0.35
+
+0.76
+
+(2.78 %)
+
+0.00 %
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+10
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+ANTOFAGASTA PLC FY 2017 EARNINGS CALL |  MAR 13, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Alfredo Atucha
+CFO and VP of Finance &
+Administration
+
+Andrew Lindsay
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+ANALYSTS
+
+Alon Olsha
+Macquarie Research
+
+Daniel Dominik Lurch
+Exane BNP Paribas, Research
+Division
+
+Daniel Edward Major
+UBS Investment Bank, Research
+Division
+
+Edward Christopher Sterck
+BMO Capital Markets Equity
+Research
+
+Fraser Rowat Jamieson
+JP Morgan Chase & Co, Research
+Division
+
+Izak Jan Rossouw
+Barclays Bank PLC, Research
+Division
+
+Jason Robert Fairclough
+BofA Merrill Lynch, Research
+Division
+
+Jatinder Goel
+Citigroup Inc, Research Division
+
+Luke Nelson
+JP Morgan Chase & Co, Research
+Division
+
+Tyler Anson Broda
+RBC Capital Markets, LLC,
+Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+ANTOFAGASTA PLC FY 2017 EARNINGS CALL |  MAR 13, 2018
+
+Presentation
+
+Andrew Lindsay
+
+Okay, good morning, ladies and gentlemen. Welcome here to our year-end presentation. I'm Andrew
+Lindsay. I run the office here in London, as you all know, I think. We have Iván Arriagada, our Chief
+Executive; and Alfredo Atucha, our CFO, who will take you through our results. Everybody who's on the
+webcast or the audio conference, you can -- you will be given the opportunity to ask questions at the end
+of the presentation. Thank you. All right.
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+Thank you, Andrew, and good morning to all. It's great to be here.
+
+So we'll start with the results. I will first like to start with a brief overview of our performance for last year
+and then our priorities for 2017 (sic) [ 2018 ]. Alfredo will take you through the financial performance and
+results. I then want to talk a little bit about the copper market, how we're seeing the copper market and
+what's the outlook going forward in our view with a focus on our projects and value creation and return.
+And finally, I will close with our guidance for the year, and then I'll open it up for questions.
+
+So let me start then by drawing your attention to some of the important achievements that we had during
+2017. We think we've had a strong performance last year, and that's one of the highlights of our results,
+strong momentum which we expect to carry on into this year.
+
+So first of all, I would like to say that we have in '17 achieved our goal of 0 fatalities and have had
+no serious accident for almost now 2 years, 24 months. This is our first priority, and therefore, this is
+something that we have been working very hard to maintain as a record. And we'll continue to be very
+focused on continuing to sustain this very good performance.
+
+We had a solid performance financially. Our EBITDA was up 59% against last year to $2.6 billion. Our
+margins were up to 54.5%, which is our highest margin since 2012, when the copper price was about 30%
+higher. Operating cash flow, at $2.5 billion, was 70% up compared to the prior year. This is on the back of
+higher copper price, higher sales volume but also tighter cost management. Our unit cash cost was $1.25
+per pound. These allowed us to reduce our net debt by $615 million, which brings our net debt-to-EBITDA
+ratio down to 2.2x -- 0.2x. And if you exclude subordinated debt from the calculation, we are, in fact, in a
+positive cash -- net cash position. So we have effectively fully de-geared our balance sheet in the course
+of last year.
+
+We also completed, in respect of our projects, the Encuentro Oxide project last year, which, at the cost of
+$605 million, was, in fact, $30 million below our budget. So that, I think, is also something to point out.
+
+We are committed to keeping our financial discipline and delivering shareholder returns. And we will only
+pursue [ value-accretive ] growth and return any excess cash to shareholders. In line with this, the board
+has recommended a total dividend for this year of $0.509 per share or $502 million, which corresponds to
+177% increase on last year's dividend.
+
+So in summary, a strong operating performance in 2017; and financially, something which we plan to
+sustain the momentum through this year.
+
+Let me now go back to capital allocation -- or talk about capital allocation because this really drives our
+decision making. So I will take you very briefly through our capital allocation model. We've seen this
+before. Cash generated is first applied to maintaining our operation, which includes spend in sustaining
+CapEx and in mine development. And it's then allocated subsequently to pay dividend according to our
+minimum committed payout ratio of 35% of underlying net earnings. We then consider capital investment
+in development options with a strict focus on returns, with any excess cash returned to shareholders,
+typically, by paying a larger dividend. And this is what we're doing this year by paying a total dividend of
+just over $500 million, equivalent to a payout ratio of 67%.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+ANTOFAGASTA PLC FY 2017 EARNINGS CALL |  MAR 13, 2018
+
+Let me talk about the outlook and what we're seeing for -- going into this year, 2018. I think the first thing
+is that we plan to maintain our strong momentum achieved last year. Safety is always our first priority,
+and we will work hard in ensuring that our fatality-free record continues. We regard delivering on guidance
+one of our main target. This year, we expect to see a 3% increase in production, and therefore, this is the
+focus of our operational performance. Grade will reach a low point in quarter 1 2018, with a full year being
+the same as last year, and then grade will increase next year, in 2019. We're focused on managing our
+costs with a target reduction of $100 million for this year on top of what we have achieved already. And
+by the end of 2017, just to mention, our cost saving or cost improvement adds up to $525 million from
+2015 (sic) [ 2014 ] to '17. Therefore, we are adding another $100 million this year, and this is important
+to compensate some of the cost pressures that we've seen.
+
+Innovation will play a key role in transforming our company going forward. And to this end, we have
+developed a technology road map with clear accountability for the delivery of results. Next year -- or
+this year, sorry, in 2018, our special focus will be on further enhancing our digital collaboration platform
+that we have established with employees, contractors and suppliers, where many productivity and cost
+improvements have already come from. This has been an important source of new ideas, which has helped
+us to reduce costs and improve productivity, and we want to strengthen and keep that.
+
+And in addition, we're stressing the adoption of autonomous trucks in Esperanza, assessing the adoption
+of autonomous trucks in Esperanza Sur pit, which we expect to begin work, too, in 2018. So technology
+innovation will play a key part in our productivity journey going forward.
+
+We have one final -- then moving on, we have one final labor negotiation to complete this year, and I will
+refer to it later.
+
+Finally, during the year, we expect to take the Los Pelambres incremental expansion project to be
+approved by the board, adding 55,000 tonnes per annum of copper while also reducing mine's cost.
+
+On Centinela, we're considering 2 alternatives for expansion and evaluating their respective returns and
+risk profiles before deciding which one to take to the next stage of assessment. So organic, brownfield
+expansion in the medium term, we think, is important for our company, but we will undertake those
+projects only to the extent that they meet our return criteria, otherwise, we will return that cash to our
+shareholders.
+
+Finally, then at the end of the year, we will determine the level of our excess cash based on the factors set
+out in our previous slide, we talked about our capital framework -- capital allocation framework, and then
+distribute this to shareholders. However, as I've stressed before, we'll always place value and profitable
+growth over volume in deciding on which projects to invest.
+
+So that's a bit of the outlook and how we're seeing 2018. We want to keep our strong operating
+performance momentum this year. We have a first quarter with a lower grade, but that's going to turn
+around, and we see increased grades in the year so that the year will end up with a similar grade as last
+year. And we're preparing for a higher grade in 2019.
+
+I will then pass it now over to Alfredo, who will talk about our financial performance during last year.
+
+Alfredo Atucha
+CFO and VP of Finance & Administration
+
+Thanks, Iván. Good morning, everybody.
+
+Well, firstly, I would like to quickly recap on our solid operating performance in 2017, which were
+announced in January. While we reached our production guidance for the year, we exceeded expectation
+on net cash cost. We are particularly satisfied with the Los Pelambres performance. Throughput was up
+due to its sustained high plant availability. And despite lower grade and higher input prices, we reduced
+our net cash cost to $1.02 per pound. Additionally, Los Pelambres proposed and agreed a compliance
+program with the environmental regulator to resolve the charges made in 2016.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+ANTOFAGASTA PLC FY 2017 EARNINGS CALL |  MAR 13, 2018
+
+Antucoya has its first year operating at full production. And combining with improvement made during the
+year, this has brought cost down by 8%. We also achieved the completion test on its project finance during
+the year.
+
+Okay, let's move on our financials, and let's start by looking at our revenue, which rose by 31.1% to $4.7
+billion for the year. This increase was primarily due to the increase in the realized copper price, which
+averaged $3 per pound during the year, 29% higher than in 2016. Higher sales volume mainly at Antucoya
+also boosted revenue. The moly price was also strong in 2017, and it's currently trading at about $13 per
+pound, which is a good time to bring the Centinela moly plant onstream.
+
+Now turning to costs. The top graph shows the movement in our cash cost before by-product credit by
+mine. Cash costs compared to last year are up $0.06 per pound. Los Pelambres increased group cash
+costs by $0.04; and Centinela, by $0.02, as grade decreased at both concentrate operations. By-product
+credits were $0.35 per pound for the year, slightly higher than in 2016, which brought our net cash cost to
+$1.25 per pound.
+
+In the bottom graph, you can see the driver of the changes in our cash costs. Our successful Cost and
+Competitiveness Programme reduced costs by $0.11 per pound during the year, which offset 65%, 65% of
+the other cost increases, most notably the impact of the exchange rate and input prices.
+
+Over the last 4 years, while we have been running our Cost and Competitiveness Programme, we have
+reduced our gross cash costs by 13% despite our average grade declining by 16% during the same period.
+This is a saving of almost $525 million of annual mine-site cost.
+
+For 2017, we set a target of $140 million, and we exceeded that target, achieving $166 million, which is
+equal to $0.11 per pound in saving and productivity improvement shown in the previous slide. To date,
+Antofagasta's positioned in the second quartile of the cash cost curve, and we are committed to continue
+working to improve our cost position.
+
+Effectiveness of our Cost and Competitiveness Programme is represented in this graph, which show our
+cost position with and without our program saving against the 2017 industry cost curve. The program has
+a target for this year, 2018, of $100 million saving.
+
+Now returning to our financials. EBITDA rose by $960 million or nearly 60% to $2.6 billion in 2017.
+This was driven primarily by the higher copper price. Mining costs have also increased because copper
+sales volume have increased. Additionally, in 2017, we have spent $25 million more on exploration and
+evaluation. Our associate and joint venture have also contributed to the increase, with EBITDA $52 million
+higher than in 2007 -- '16, mainly due to Zaldívar. As Iván mentioned earlier, in 2017, our EBITDA margin
+has increased strongly and has returned to over 50%, and we aim to maximize this margin.
+
+Total CapEx for the year on a cash basis was $899 million, in line with the $900 million guidance for
+the year. This will increase to $1 billion this year as sustaining CapEx capital increases by $150 million,
+explaining by a concentration of scheduled mine fleet replacement and tailing dams with [ enlargement
+costs ]. On development, about $100 million is expected to be spent on Los Pelambres incremental
+expansion.
+
+When controlling sustaining capital expenditure, we use sustaining CapEx per tonne of copper produced as
+a key metric. And although we quote this figure on an annual basis, it is more appropriately considered,
+on a rolling average basis, our sustaining CapEx is irregular year-on-year. So over a 5-year period, we
+expect it to average around $400, $450 per tonne; and for the 5 years to 2018, the average is $430. This
+figure do not include Zaldívar as it is accounted for as a joint venture. But capital expenditure there, on an
+attributable basis, was approximately 5 -- $51 million in 2017.
+
+Moving on to cash flow. As mentioned earlier, higher EBITDA contributed very strongly to this year cash
+generation. Our cash balance at the end of 2017 was $204 billion higher -- $204 million (sic) [ $203
+million ] higher than last year after paying nearly $500 million of scheduled debt repayment and $900
+million in capital expenditure plus various other outflows.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+ANTOFAGASTA PLC FY 2017 EARNINGS CALL |  MAR 13, 2018
+
+The strong free cash flow has further strengthened our gross net debt position, reducing it to slightly over
+$450 million at the end of the year, over $600 million lower than at the end of 2016. If we exclude our
+subordinated debt, which is gross equity, then the group has a net cash of $85 million.
+
+On a gross or consolidated basis, our net debt/EBITDA is 0.2x, down from 0.7x at the end of last year.
+On an attributable basis, the net debt position is even stronger as most of our debt is shared by our
+subsidiaries, which have minority partners. And most of our cash is held at the corporate level.
+
+Value and profitable growth over volume. So let me conclude by summarizing the 3 pillar which underpin
+our investment case. These are our large copper asset base, our focus on costs and our capital discipline.
+We have a large resource base in 2 mining districts in Chile, Los Pelambres and Centinela, which are the
+source to -- of over 80% of our production. This lie at the heart of our business and offer us a significant
+range of options. This is the root of our organic growth.
+
+We have rebased our costs and concentrate on improving our operating efficiencies and our margin
+through the combined application of our Cost and Competitiveness Programme and, in the longer term,
+achieving further savings and productivity gains through innovation. For example, we are working with
+innovation start-ups, partnering with them on the development of novel solution for some of our key
+challenges, for example, using AI to reduce operating variability in key plant equipment, including water
+recovery optimization from tailings.
+
+We are committed to maintaining our financial discipline. We have low debt levels and have a flexible and
+robust balance sheet. Discipline in everything we do is key, and we have discipline.
+
+I would like to pass you back to Iván. Thank you very much.
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+Thank you. Okay, so I will move on now to talk a little bit about the outlook on the copper market and
+some other topical issues, including labor relations and growth.
+
+So on the market, I think -- I mean, 2017 was a good year for the copper market. We saw -- or have
+-- and are seeing synchronized global growth, especially in the major economies and continuing growth
+in emerging economies, particularly in China, which is very important for the copper demand. China, as
+we know, with its reform, it's rebalancing away from investment into consumption-led growth. And for
+copper, this is an equally strong trend as copper is widely used in consumable and durable goods, which
+is the fastest-growing category as average income rise and discretionary spending increases. We expect
+that copper demand in China will grow at rates between 2% and 3% annually from the very large base of
+consumption today. And I think if you look back at 2017, probably physical copper demand in China did
+surprise us to the upside. We were expecting growth rates similar to this 2% to 3%. The information on
+data we've gathered so far in the field is that's probably been closer to 4%. So that's been a good piece of
+good news.
+
+Additionally, copper is a key commodity in a low carbon emission world and particularly in electric vehicles
+and renewable power. And this is something that has been talked a lot recently how fast adoption of clean
+transport will happen is something that we don't speculate too much about. But obviously, these numbers
+can be significant. Today, around 200,000 tonnes of copper go into clean transport out of a market of
+around 20 million tonnes. And conservative estimates would suggest that this can actually increase to
+around 2 million tonnes by 2030. So it's a tenfold increase in a tight market that's quite significant. So on
+the supply side, we expect to continue to see a constrained market.
+
+Another feature of copper which we know well is a declining grade, which means that an equivalent of a
+mid-sized mine actually is taken out of production every year despite that everybody continues producing,
+and therefore, this is an element which is important in our industry cost curve and has been in the past.
+And then in the short term, there is potential for disruptions in failed labor negotiations in Chile and Peru
+and the impact of constraints in post -- on the import of some categories of scrap into China and the
+weaker dollar. So as a result, the outlook for 2019 and beyond for copper, we think, looks more positive
+today than it did a few years ago.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+ANTOFAGASTA PLC FY 2017 EARNINGS CALL |  MAR 13, 2018
+
+Labor relations. Here, I would like to say that there is a concentration of labor negotiations in Chile in the
+course of 2018. With respect to Antofagasta, we have basically completed our labor negotiations for most
+companies except Pelambres. So we did them for Antucoya, Zaldívar and Centinela. And in the case of
+Pelambres, we completed the negotiations for the plant union. The one that we are undertaking today is
+the one at the mine. And what's happened there is that we have submitted a contract proposal; and after
+some negotiation period, it has been voted against; and therefore, where we're into now is a period of
+mediation, which involves a further space for negotiation and agreement. And we're working then in the
+course of this week and next week through that mediation period. I don't want to preempt the outcome
+of that process. Obviously, if there is agreement, then we will enter into a new contract at the end of
+that period. If there is no agreement, then there is the possibility of there being a strike at Pelambres.
+But that's the process that we have and are undertaking now. And I think without, as I say, preempting
+the outcome of that process, we have a history of good labor relationships in Antofagasta. And I think
+that's on what we're building for as we enter into these discussions and conversations. So that's on labor
+relations, and I'm happy to take your questions further on this point.
+
+Moving on to the growth and investing through the cycle, I'd like to take you a bit more into a historical
+perspective here. In 2015, we acquired 50% of Zaldívar. And I can refer to that further, but we're pleased
+to where Zaldívar is going. We have reduced cost and are working very hard on improving recoveries,
+which we think are achievable in Zaldívar.
+
+In 2016, we finished the construction of Antucoya, our newest greenfield project, which is now producing
+at full capacity. On 2017, this past year, Encuentro Oxides came into production below budget. We were
+$30 million below budget. And we will soon be also benefiting from the new moly plant at Centinela,
+which is coming into production now and as a second source of molybdenum production to our portfolio
+while also reducing Centinela unit costs. These recent investments through what has essentially been the
+downturn of the cycle will now account for about 25% of our total production and will make a significant
+contribution, therefore, to our business.
+
+At the same time, as we have been investing in mining projects, we have been divesting of some of our
+non-mining assets. In 2015, we sold our water division for close to $1 billion. And in 2016, we disposed
+of our interest in Alto Maipo, reducing the cost of its long-term PPA with the Los Pelambres. We're now
+also monetizing the value of some of our transmission line infrastructure and equity investments in minor
+power assets. Remaining focused is a part of our strategy; and on our mining assets, our core activity.
+Looking forward, we have the expansion of Los Pelambres and Centinela, and let me now take you through
+that in a bit more detail.
+
+So in the case of Pelambres, let me start with Pelambres. We have the Phase 1 of the incremental
+expansion, where we will seek to maximize throughput within the existing tailings and waste disposal
+permits. This will involve investing in new grinding and flotation circuit to counter the increased hardness
+of the ore. We will also, as part of this investment, construct a 400 liter-per-second desalination plant,
+which is sized to serve the needs of both Phase 1 and Phase 2 plant expansion but also to serve as
+a backup facility for the existing operation in the case of continued or severe drought. The EIA for
+the project was approved last month. We're pleased with that, and this expansion will increase Los
+Pelambres production by 55,000 tonnes per annum. The project capital estimate has recently been
+updated with current pricing projection, advanced detail engineering and a project execution plan to a
+revised estimate of $1.3 billion. This figure includes both the concentrator plant expansion of $780 million
+and the desalination plant and water pipeline of $520 million. The project is robust with strong returns on
+our most profitable asset. This is the first phase to unlock further value at Los Pelambres, which is a low-
+cost, expandable, world-class asset with close to 6 billion tonnes of resource equivalent, 3x the current
+mine plan. So a great asset, we think, which we will start developing further into the future.
+
+Now what we're doing in Pelambres is that we're focusing on some ancillary permits that we need to get,
+so we can take the project to the board for approval in the second half of this year, but this is without
+affecting our first production, which is still scheduled to commence in 2021.
+
+Subsequent to this, the Phase 2 is a further throughput expansion to 205,000 tonne a day, which will
+increase tailings and water dump capacities, extending now the mine of a life (sic) [ life of mine ] by about
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+ANTOFAGASTA PLC FY 2017 EARNINGS CALL |  MAR 13, 2018
+
+15 years and adding 35,000 tonnes of copper a year. So Phase 1, within the existing waste and tailings
+dam permits; Phase 2 will extend the mine life on what we think is one of the best in the world.
+
+Let me talk about Centinela. So in the case of Centinela, we have 2 alternatives for expanding Centinela.
+The first alternative is to build a second concentrator with a 9,000 tonne-per-day throughput capacity,
+which would produce about 180,000 tonnes of copper equivalent a year. We have decided, however, to
+look into an alternative of just expanding the existing plant instead of building a new concentrator plant.
+We think this would be a lower CapEx and lower construction and project execution risk project. We're now
+completing the studies for this option, and we expect to be able to decide on which alternative to proceed
+by the end of this calendar year. If we decide to proceed with the expansion of the existing plant, we will
+then need to complete a full feasibility study before taking it to the board for approval, which we think will
+take some 18 months.
+
+So that's on our projects. As I say, we will continue committed to profitable growth over volume and be
+very return focused on our choices in deploying capital.
+
+Let me now just go to guidance as -- to finalize the presentation. In terms of guidance, we announced
+these figures last month with our quarterly production report. But just to recap, in 2018, we are expecting
+a 3% increase in production -- in copper production against last year, 2017. In terms of net cash cost,
+we expect to be close to $1.35 per pound, largely reflecting a local -- a stronger local currency; although
+in the first quarter, they're also impacted by lower grade at Centinela. During the year, you will see our
+production start low -- on lower grades and grow quarter-by-quarter. And at the same time, our costs will
+decrease to reach the annual figures I've just given. In the first half of the year, we expect to produce
+about 45% of the full year production, and this is something that we've -- we want to give guidance
+on. So our profile during the year, we are expecting for the full year a 3% increment in production.
+But as grade increase throughout the year, geared towards the second half, so expecting the first half
+approximately 45% of annual production.
+
+So going back then to this year's priorities, we want to sustain our strong operating momentum in
+this 2018. Zero fatalities comes first, and therefore, achieving 0 fatalities and keeping that record is
+paramount in our business; delivering on guidance, a 3% copper production increase against 2017;
+achieving more gains in productivity and savings, we think, irrespective of where we are in the price cycle
+productivity and safety is something we will never stop working and focusing on; successfully completing
+labor negotiations at Los Pelambres, as we've said, we've got that ongoing at the moment and mediation;
+advancing both the Los Pelambres and Centinela expansion projects to the next decision points; and then
+distributing excess cash to shareholders according to our capital allocation framework. We will always
+place value and profitable growth over volume when deciding on whether to invest in our projects.
+So with that, we finalize the sort of formal presentation, and I'm happy to take questions from the floor.
+As I say, in summary, we think we've had a good performance -- strong performance last year and expect
+to continue keeping that momentum.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+ANTOFAGASTA PLC FY 2017 EARNINGS CALL |  MAR 13, 2018
+
+Question and Answer
+
+Daniel Edward Major
+UBS Investment Bank, Research Division
+
+It's Dan Major from UBS. Three questions. Firstly, on tax, your cash tax is quite a bit lower than the P&L
+tax during the second half of the year. Can you give us any guidance on the outlook there and if you
+expect that to reverse? The second, on the Los Pelambres labor contract negotiations, can you give us
+a sense of what the key sticking points and the key parts of the negotiation are focused on? And then
+finally, just a question on your comment on monetizing the power assets, can you give us more guidance
+there? And can you make a comment on whether the rail business still definitely remains core within the
+portfolio?
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+Okay, let me take the second 2 questions, and you take the tax question, Alfredo. I mean, on Los
+Pelambres, I think what we want is to achieve a fair outcome but also preserve our competitiveness and
+the health of the business in the long term. So that's the aim that we have in this negotiation and in
+the conversations that we're having with the union. We're not contemplating cutting back on benefits
+or conditions, so this is all about new conditions going forward. And as I say, we remain focused on
+achieving a fair outcome but also preserving the long-term health of our business. The specific points of
+the negotiations, I mean, I couldn't comment on those. That's the matter of the mediation that's taking
+place now. And therefore, we are working, hopefully, towards an outcome which will be beneficial for both
+parties, but I can't comment on the specifics. On monetizing our power assets, I think we've got some
+transmission lines, and we've been thinking about them. Some of the sections of those transmissions lines
+are actually used by third parties as well, which pay a fee for the use of them. So they're open to use
+by other parties, and therefore, we've thought of them as being eligible for, therefore, disposals so that
+someone else can use capital, basically, in that type of more infrastructure-like investment. And that's
+what we're doing. They're not significant in terms of, I would say -- or material, in terms of amounts or
+dollars, but it does signal our willingness to keep focus on our capital in our core business. With respect
+to the rail, the rail is doing very well. It's as -- it's an -- a business which is very much tied to the origins
+of our company; good results in 2017. Linked to mining, a lot of what the rail does is transport inputs and
+cathodes and concentrate for the mining industry in the North, so we -- it remains core to our portfolio. So
+Alfredo, you want to take the tax?
+
+Alfredo Atucha
+CFO and VP of Finance & Administration
+
+Yes, of course. Well, about the tax cuts, we received a $130 million tax refund during 2017. At the end of
+2016, we had in our balance sheet almost $200 million tax receivable. $130 million of them were received
+effectively during 2017, of course, offsetting part of the tax cash outflow for this year. We have another 6
+-- $70 million that we expect to receive during this year, 2018. So also, this figure will have some impact
+in the tax cuts in 2018, but this is basically the reason behind.
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+And our guidance, if I'm -- I mean, the guidance on tax rate remains at the same level as before between,
+what, 35% and [indiscernible].
+
+Alfredo Atucha
+CFO and VP of Finance & Administration
+
+Yes, effective tax rate is in the region of 35%, and we don't have any extraordinary or special event or
+factor affecting the tax situation of the company.
+
+Daniel Edward Major
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+ANTOFAGASTA PLC FY 2017 EARNINGS CALL |  MAR 13, 2018
+
+UBS Investment Bank, Research Division
+
+So just to be clear on that, is that $70 million less P&L versus cash flow tax in 2018 on a like-for-like
+basis? Is that fair?
+
+Alfredo Atucha
+CFO and VP of Finance & Administration
+
+The tax cash for '18 should be stabilized in terms of the tax ratio. But the only impact of this is the
+expectation to receive another $70 million, $75 million tax refund.
+
+Izak Jan Rossouw
+Barclays Bank PLC, Research Division
+
+Just Ian Rossouw from Barclays. Just 2 questions from me. Just firstly, on the labor negotiations, could
+you maybe just provide some guidance on -- I know you've provisioned for some of the costs already last
+year. We can expect that cash flow to be spent this year. Maybe just some guidance on that. And then
+secondly, just on working capital, I mean, you've done a good job at sort of squeezing working capital out
+of the business in the last few years.
+
+Alfredo Atucha
+CFO and VP of Finance & Administration
+
+Yes.
+
+Izak Jan Rossouw
+Barclays Bank PLC, Research Division
+
+There was -- there were quite a big -- big swings in, actually, inventories and receivables. Overall, it
+wasn't such a big impact on the '17 numbers, but maybe just give us some indication for your expectation
+for this year.
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+On -- I'll leave the working capital to you.
+
+I mean, on the costs side, the question was around the labor negotiation impact on cost. That's the focus?
+
+Izak Jan Rossouw
+Barclays Bank PLC, Research Division
+
+Yes, the -- I guess, the cash cost guidance, I think some of it was already in last year, but the cash impact
+of that expectations for this year.
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+Yes. As I said before, most of the payments associated to our labor negotiations have been reflected in
+2017, except for this one that we're undertaking now, and I think that's factored into our guidance for this
+year that we've released. So it's $1.35, and that includes labor negotiations which are scheduled to take
+place this year. So that's the response on that bit. And then on working capital?
+
+Alfredo Atucha
+CFO and VP of Finance & Administration
+
+Yes. Well, you know that we are committed to maintain our financial discipline, and working capital
+management is essential, this is an important part to get it. You know that over the last couple of year,
+we have been working hard in optimizing specifically inventories level and stabilizing the payables, the
+creditors, at a 30-days payment term. So this is a focus for us. We are very focused on optimize gradually
+year-by-year our working capital level. And subsequently, the result in this year is in a direct consequence
+of this program. This is [ existing ].
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+ANTOFAGASTA PLC FY 2017 EARNINGS CALL |  MAR 13, 2018
+
+Izak Jan Rossouw
+Barclays Bank PLC, Research Division
+
+But what's your expectation for big swings in working capital for '18 because there were big swings in the
+numbers in '17?
+
+Alfredo Atucha
+CFO and VP of Finance & Administration
+
+Well, in terms of inventories and payables, I think that we will be in the region -- in the range of the 2017
+year. Probably we can obtain some additional optimizations in the inventories. On receivables, you know
+that, that depend on the sales volume and the copper price evolution because all of our receivable terms
+continue to be exactly the same, no change in this space.
+
+Jason Robert Fairclough
+BofA Merrill Lynch, Research Division
+
+Jason Fairclough, Bank of America Merrill Lynch. Just 2 quick ones. Just in terms of the CapEx increase at
+Los Pelambres, could you talk about the extent to which that is project specific? Or should we be thinking
+about read across to other projects? Second one, Anglo is looking for a partner at its Quellaveco project.
+Could you discuss if that makes sense -- something like that might make sense for Antofagasta? Why or
+why not?
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+Okay, on the Los Pelambres, I think what we've done is really worked, over the past few months, hard
+on de-risking our capital cost estimate for that project. So yes, I think most of it is project specific. It
+relates to the fact that we've advanced the lever of engineering. We've done a lot of front-end loading
+on the project with respect to the engineering, which is almost fully complete, the detailed engineering.
+So all aspects of design, quantities and the like are almost frozen. In terms of the project execution risk,
+with the construction, we've also worked hard at looking into that and built the contingencies into that
+estimate. So the work that we've done in the Los Pelambres, which had led to this update, is primarily,
+I would say, or mostly related to de-risking the execution of this project. There is an element of price
+update as well, but I would say that most of it has to do with the fact that we de-risked the execution,
+advancing the engineering and doing the front-end loading. We think Pelambres, I mean, it's our greatest
+asset in terms of our portfolio. The last expansion at Pelambres occurred 10 years ago, roughly. And
+we think if we put Pelambres back on track to unlock value in this asset, which is really world-class,
+we'll get significant benefit. This is a strong project, and therefore, we're very keen on getting this off
+the ground. We're also very keen on meeting our guidance, as we've done in production and cost, and
+therefore, we think of our estimate update in those terms as well to be in line with what we communicate.
+And therefore, we are expecting to take this to the board before the end of the year. We've got the
+environmental permit, which I think is good. That's something that we take for granted, but in fact, it's not
+easy for projects to get the environmental permit. And in fact, in this case, it was unanimously, they voted
+in favor, so I think -- which means also that from a community point of view, we think we're in good shape
+to undertake the project. So we're dealing with some ancillary permits which we need to complete. Some
+of them are sort of new out of the changes in the law but nothing of a major concern. So we will continue
+to move ahead. And the date of first production is unchanged. So we're still expecting to get copper off
+the ground from the Pelambres expansion by 2021, as was the plan originally. On Quellaveco, I mean, I
+can't comment on that specifically. I would only say that, obviously, we are interested in developing our
+portfolio further. We would look at options in their own merit, but we'll remain very focused on returns.
+And I think we would look at these options as we look at our own brownfield expansions. Is this a good
+choice for capital deployment? Will it meet our required returns? And if we have hesitation around that,
+we will not embark on those projects, but we will actually, according to our capital allocation framework,
+return that to shareholders. So we're not going to deviate from that principle, and we'll look at different
+options in their own merit as they come.
+
+Tyler Anson Broda
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+ANTOFAGASTA PLC FY 2017 EARNINGS CALL |  MAR 13, 2018
+
+RBC Capital Markets, LLC, Research Division
+
+Tyler Broda from RBC. Two quick ones from me, just extending on Jason's questions. In terms of the
+Pelambres expansion, the changes at the CapEx, does that change the cost profile, in your view, at this
+point? And then secondly, will there be more -- any more requirement for more water for an eventual
+Phase 2? Or will this now, with the excess capacity, cover this?
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+Okay. In terms of cost profile, we've also done an update on the cost profile, and we're not seeing any
+significant change in costs going forward. In terms of water, the -- this project combines more grinding
+capacity at the plant but also, as we've mentioned in the past, building a desalination plant. And that
+desalination plant is sized such that it will serve the needs for water of Phase 1 and Phase 2 and also,
+eventually, as a backup facility for the existing operation in case there is a drought or continuing drought
+or severe drought. So we don't anticipate -- and in fact, this is intended to serve water requirements of
+both phases and the existing one as well, if required.
+
+Jatinder Goel
+Citigroup Inc, Research Division
+
+Jatinder from Citigroup. Two questions, please. On Centinela expansion alternative, are you able to give
+any indication of potential scale if you expand the current concentrator? How does it compare to the
+90,000 tonne Phase 1 of new concentrator? And you mentioned 18-month feasibility study time line. Does
+that eventually delay the first production from expansion if you go through that route? Or will that still be
+achievable in 2022 because it will be a much quicker project to ramp up potentially? And secondly, just
+on Reko Diq, you mentioned about the multibillion dollar potential claim. Any progress or anything that's
+moved on that part?
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+Sorry, I didn't get the last one.
+
+Jatinder Goel
+Citigroup Inc, Research Division
+
+On Reko Diq, you mentioned about a potential multibillion dollar claim. Is anything moving on that side at
+all?
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+Yes. Okay, on Centinela, I think we are certainly looking at an alternative. As was mentioned, that involves
+expanding the current concentrator because we believe that there might be an option there, which is it
+involves less front-end capital, and it has lower risk for the equivalent return or better return. The scale
+is -- as an expansion to an existing plant, we think, will be smaller -- slightly smaller. So the second
+concentrator was contemplating on adding around 90,000 tonne a day of processing capacity. We think
+this might be closer to around 60,000 tonnes per day. But we think why we want to look at this and
+clear this throughout this year is because we believe this might be, as I say, a better option from a risk-
+adjusted return perspective. One of the main enablers of this, just to mention, is the fact that we can
+use the tailings deposit that we have today, so we can synergize with existing infrastructure, avoiding,
+therefore, incremental investments that we would otherwise have to make in the second concentrator. The
+second concentrator is expected to be built, when it's built, around 7 kilometers away from the existing
+plant and, therefore, needs also a tailings deposit to be constructed. This avoids that investment, and
+deferring that carries a significant value, we think. So the scale, however, would be different. In terms of
+start date, I think that's part of the review that's taking place today. We think that you are right, I mean,
+this being an expansion to the existing plant, the time line may be a bit more compressed to building a
+full-blown concentrator from scratch. Now whether it's exactly in 2022 or thereabouts is something that
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+ANTOFAGASTA PLC FY 2017 EARNINGS CALL |  MAR 13, 2018
+
+we should be able to answer as we complete the studies in the course of this year. We've done our first
+pass as -- at those studies, and those are favorable. I mean, they look at this case being attractive. And
+we really want to focus then on clearing any flaw which may exist so that we can then move this into a
+proper feasibility in the course of the end -- by the end of this year. But we're excited about this option. I
+mean, we're seeing this as an option that's got less front-end capital for the development of the district,
+and therefore, it ties in well with our principle of using capital as efficiently as possible. With respect to
+Reko Diq, that happens that there haven't been any further news to the ones that you probably know. I
+mean, this is under international arbitration. And the outcome of the first phase of that arbitration was
+favorable to the company, claiming that the permits had been taken without -- or in -- not in accordance
+with the contracts. Now this has moved into the second phase, which is establishing or assessing the
+potential compensation for that. But that's still in process, and we have nothing further to report at this
+stage on that.
+
+Luke Nelson
+JP Morgan Chase & Co, Research Division
+
+Luke Nelson, JPMorgan. Just a question -- a couple of questions. Firstly, on cash costs, can you just outline
+what gives you comfort in reiterating your cash cost guidance this year, particularly given the Chilean peso
+underpinning your assumptions is significantly stronger on spot prices and also what we're seeing in terms
+of widespread broad cost inflation pressures already? And then secondly on that, just if you could provide
+a breakdown in terms of sensitivity to the Chilean peso. And finally, in terms of CapEx guidance for this
+year, the $1 billion, could you provide a bit of clarity in terms of what proportion of that is domestic versus
+international cost base and, again, any sensitivity around strengthening of FX?
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+Yes. So we -- when we look at costs, I mean, if you look at our performance last year, we did see
+inflation exchange rate and input price pressure. That's why we're focused on continuing with our cost
+improvement program. Around 65% of those pressures we were able to compensate through cost
+reductions. So we keep very focused on counterweighting those pressures as we continue to see them.
+And we believe that at a 60% rate, we're being effective, and we can continue to do more on that space.
+The exchange rate in Chile has fluctuated. I mean, it's come back again. But in terms of sensitivity, we
+consider that CLP 10 in the exchange rate involves roughly $0.01 per pound in our cost on a completely
+-- I mean, everything else being equal. But that is an assumption that one needs to consider because,
+obviously, to the extent that we see appreciation in the exchange rate, which is putting pressure on our
+cost, we will redouble our efforts in terms of looking at things which we can do to compensate for that.
+But on a straight arithmetical basis, $0.10 -- CLP 10 per dollar of appreciation is $0.01 per pound in our
+cost. Now that's the sensitivity. With respect to CapEx for this year, how much of this is dollar-based, this
+year, our sustaining CapEx is going up, as you would have noticed. This has got to do more with the fact
+that we've got a concentration of mine fleet replacement this year, which will not recur. We don't change
+the fleet every year, and therefore, this year is a year in which we've got more CapEx to that; and also,
+because we're doing some work raising the wall of some of our tailings deposits, which is done normally
+every 4 or 5 years. Now I would -- my estimate is that in -- I mean, the fleet replacement is all dollar-
+based. All the work on the tailings dam is mostly peso-based. So I think as in our costs, that around 45%
+is -- probably to 50% is dollar-based, and the rest being pesos. That's roughly the split. So that's the
+points that you've read in.
+
+Luke Nelson
+JP Morgan Chase & Co, Research Division
+
+Just a follow-up question on the question earlier about Quellaveco. Obviously, Anglo has taken
+operatorship role of assets, and yourself take operatorship role of assets. Given your comment around
+that, that you would focus on returns, does that mean, going forward, you would be happy to take a non-
+operatorship role in re-sharing projects?
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+ANTOFAGASTA PLC FY 2017 EARNINGS CALL |  MAR 13, 2018
+
+As operators, we bring something to the table. And I think in the case of Zaldívar, costs have come down.
+That was an asset which was running before at $1.85. We're now at $1.60 to $1.65. We've got a lot of
+technology on recoveries which we're extrapolating. So we value our role as operators, I think, generally.
+However, we will look at options, including ones in which we may not be operator on their own merit based
+on return. But generally, our preference is to operate.
+
+Edward Christopher Sterck
+BMO Capital Markets Equity Research
+
+Edward Sterck, BMO. Just a couple of questions. Firstly, on the balance sheet, obviously, you've put these
+pressures up more or less into a net cash position now. What is an appropriate level of gearing? And can
+you speak to this in the context of financing Los Pelambres Phase 1 and maybe Centinela over the next
+few years? And then the second question is, just going back to the Los Pelambres expansion CapEx and
+the desal plant there, should we assume that there's no CapEx requirement for the desal plant in Phase 2
+as things stand at present?
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+On the second one, the answer is yes. Yes?
+
+Alfredo Atucha
+CFO and VP of Finance & Administration
+
+Yes.
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+Well, you can...
+
+Alfredo Atucha
+CFO and VP of Finance & Administration
+
+In terms of financing, the...
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+Balance sheet.
+
+Alfredo Atucha
+CFO and VP of Finance & Administration
+
+Our balance sheet, well, we -- the -- basically, our balance -- cash balance is enough to support and to
+phase the project and -- in our portfolio. And basically, in terms of the [ Enco ], Pelambres has enough
+cash generation capacity to finance [ Enco ]. But however, of course, leverage optimize the shareholder
+returns, so -- and considering the debt capacity from Los Pelambres, we probably will structure a financing
+-- a corporate financing for -- or corporate loan for the [ Enco ] project. So with this, we will continue
+maintain -- to maintain our cash balancing in the region of $2 billion; and the debt level, in the -- in this
+similar level as today, with a 0.3x, 0.4x net debt/EBITDA as a ratio. So the cash capacity of the company
+is enough to support the project. However, of course, we are going to take advantage of the favorable
+financial conditions today prevailing at the market.
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+And I mean, just to complement what Alfredo was saying, I think we've regarded always are the strength
+of our balance sheet as a key strategic element of a company. And we are at a point in time in which
+we've managed to de-gear fully almost. And we talked in the past that we see flexibility to potentially -- or
+theoretically, if you want to, I mean, borrow maybe up to 2x net debt to EBITDA. Probably as we're seeing
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+ANTOFAGASTA PLC FY 2017 EARNINGS CALL |  MAR 13, 2018
+
+things today, that -- we think that's probably high, and therefore, we wouldn't go that far. But that's
+the sort of flexibility that we see in our balance sheet, but we want to keep the strength of our financial
+condition as a key cornerstone of the strategy of this company because that has served us well through
+good times and bad times. Don't forget that during the downturn, and memories is -- we've managed to
+continue to grow our businesses through the Encuentro Oxide; Antucoya, we purchased; Zaldívar, and
+we're benefiting from that now. 25% of today's production come out of projects which we undertook and
+completed during the downturn when people were struggling with their balance sheets. So that's part of
+our strategy, not to be caught in that position.
+
+Alon Olsha
+Macquarie Research
+
+It's Alon Olsha from Macquarie. I just had one question on grade variability. It's been maybe a bit of an
+issue at the company over the last few years, particularly at Centinela, where the grade can fluctuate
+quite aggressively year-over-year. Are you comfortable with the level of great visibility you have going
+forward? And you speak about 2019 grade improvement. Could you provide a bit of an indication as to
+what that may come out at?
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+Yes. I think each ore body has its own features. Pelambres has a very stable great profile, which is a
+key feature of that asset. In the case of Centinela, there's geological variability in grade, and that's a
+feature that Centinela has. And therefore, a lot of the work that we've been certainly doing has been
+acquiring information to be able to have the sort of visibility that you're suggesting is necessary. So we've
+had a great improvement in terms of where -- what we see in terms of grade variability over time in
+the case of Centinela. I think we've guided -- you remember when we had the site visit, this must have
+been 1.5 years or so ago, that directionally, we would see an increase in grade at Centinela in 2019. So
+that consistency in the message comes from 2 years ago when you guys -- or some of you were able
+to visit Centinela or our site, so that is the same directional story. I can't provide or -- specifics now. I
+think that will be the subject of the guidance that we provide for next year in '18, but directionally, we
+expect to see in our mine plants include increases in grade for Centinela Concentrate, which will put us
+in a good position next year, we think, which is good at time which we're expecting to see better prices.
+So directionally, we haven't changed, and yes, there's consistency in our messaging there on grade. And
+specifically, what grade will we then be expecting is something that we will release as we release the
+guidance for next year.
+
+Alon Olsha
+Macquarie Research
+
+And just more generally, beyond 2019, should we expect, again, a fairly lumpy grade profile, up 1 year,
+down 1 year? Or is there a -- just kind of a tighter range you could...
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+Yes, I would say in the case of Pelambres, it's quite smooth in terms of performance. In the case of
+Centinela, the visibility we have with respect to grade beyond 2019 is of more stability. So as -- and one
+of the reasons being is that one of the things that we're doing this year is that we're opening up Esperanza
+Sur. So in our base case, we have another pit, and therefore, there will be an additional feed source into
+Centinela. And that will contribute to be able to manage the stability of the grade beyond 2020. So we see
+more stability on grade as a result of being able to have an additional ore feed from that year onwards, so
+expect less variability from there onwards as a result.
+
+Daniel Dominik Lurch
+Exane BNP Paribas, Research Division
+
+Daniel Lurch from Exane BNP Paribas. Just one quick question on your cost guidance. So you mentioned a
+lot of -- there's a lot of cost inflation, which you're facing in a number of -- on a number of levels. There's
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+ANTOFAGASTA PLC FY 2017 EARNINGS CALL |  MAR 13, 2018
+
+one key part of your cost -- I mean, TC/RCs, however, are trending down. Is this an area in your cost
+forecast or in your cost expectations that you potentially can save more this year than you expect because
+spot TC/RCs are weaker than kind of benchmark levels? Is this an area where you can say they're more on
+spot? Or are you here locked in into longer-term contracts?
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+The TC/RC gets restated every year, and we have not changed that practice. So we expect basically them
+to be updated annually, and we've not locked into fixed terms for TC/RCs for longer periods of time. Now I
+think what we're seeing is that the balance of concentrate, especially in China, is such that we think there
+will be shortage of concentrate. And that means that, going into the next season of TC/RC negotiations, if
+that plays into the market conditions, then we should see some improvement on TC/RC. And that's been
+the case over the last couple of years, as you've seen. And as you rightly point out, to the extent that
+some of our production goes into the spot market, rates have been even lower, and some of that we're
+benefiting from. Yes.
+
+Daniel Dominik Lurch
+Exane BNP Paribas, Research Division
+
+Can you -- sorry, one follow-up. Can you give us an indication how much is going to the spot market of
+your sales?
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+That varies from time to time. It depends on what the quantity is committed, which get designated on a
+quarterly basis is -- so I mean, the bulk goes into contracts, which are term contracts, even though the
+TC/RCs get reset every year. But we've seen an increase in the percentages to the spot market, but it's
+still not the majority.
+
+Fraser Rowat Jamieson
+JP Morgan Chase & Co, Research Division
+
+Fraser Jamieson from JPMorgan. Just one question on Los Pelambres versus Centinela. I mean, just
+purely looking at the, well, scale, cost profile, et cetera, Pelambres is currently a much, much better
+asset than Centinela. And yet it seems like certainly on Phase 2 of the Los Pelambres expansion, you're
+kind of pushing that out a bit, and Centinela expansion options certainly seems coming before Phase 2
+of Los Pelambres. I'm just wondering about the kind of thinking of management and the board around
+that because just on those pure statistics, it looks like you should be going hell for leather expanding
+Pelambres as far and as fast as possible and pushing out Centinela a little bit.
+
+Iván Arriagada Herrera
+Chief Executive Officer
+
+Look, I think we certainly consider Pelambres to be a great asset, as you point out. I think we see a big
+opportunity to release value out of putting Pelambres back on a growth trajectory. The way that we've
+sequenced them is the shortest time to be able to, we think, reasonably do undertake Phase 1 and Phase
+2. Phase 2 is a lower investment, but it's a bit more complex from a permitting point of view because it
+does involve more tailings and waste space. And therefore, we need -- which we're not doing in Phase 1,
+and therefore, we need to go through a process of consultation and more broader permitting at the time,
+and therefore, we are allowing time for that to happen. But I think if you -- if we progress according to
+our time line, we probably will be facing the choice of Phase 2 at Pelambres and Centinela alternative case
+at a similar time. And I think it will depend on the feasibility that we see at that stage of undertaking one
+against the other, which will dictate what we'll do. And certainly, in the ranking, Pelambres remains better.
+
+Okay, well, thank you very much. Any questions from the...
+
+Alfredo Atucha
+CFO and VP of Finance & Administration
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+ANTOFAGASTA PLC FY 2017 EARNINGS CALL |  MAR 13, 2018
+
+The line.
+
+Iván Arriagada Herrera
+Chief Executive Officer
+The line, those on the phone or -- okay, with that then, we will close the presentation. Thank you very
+much, and we'll see you during the day. Thank you.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+ANTOFAGASTA PLC FY 2017 EARNINGS CALL |  MAR 13, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+

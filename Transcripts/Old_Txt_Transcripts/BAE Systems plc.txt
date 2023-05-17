@@ -1,0 +1,1786 @@
+BAE Systems plc LSE:BA.
+FY 2017 Earnings Call Transcripts
+Thursday, February 22, 2018 9:00 AM GMT
+S&P Global Market Intelligence Estimates
+
+-FY 2017-
+
+-FY 2018-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+GUIDANCE
+
+EPS Normalized 
+
+0.43
+
+0.43
+
+0.00
+
+0.44
+
+Revenue  (mm)
+
+19691.31
+
+19626.00
+
+(0.33 %)
+
+19523.56
+
+0.42
+
+-
+
+Currency: GBP
+Consensus as of  Feb-22-2018 8:53 AM GMT
+
+FY 2016
+
+FY 2017
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+0.40
+
+0.43
+
+0.40
+
+0.43
+
+0.00 %
+
+0.00 %
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+13
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Charles Woodburn
+CEO & Executive Director
+
+Gerard J. DeMuro
+Executive Director
+
+Peter J. Lynas
+Group Finance Director &
+Executive Director
+
+Roger M. Carr
+Chairman
+
+ANALYSTS
+
+Celine Fornaro
+UBS Investment Bank, Research
+Division
+
+Charles J Armitage
+Citigroup Inc, Research Division
+
+Christian A. Laughlin
+Sanford C. Bernstein & Co., LLC.,
+Research Division
+
+David Howard Perry
+JP Morgan Chase & Co, Research
+Division
+
+Harry William Freeman Breach
+Raymond James Euro Equities
+
+Jaime Bann Rowbotham
+Deutsche Bank AG, Research
+Division
+
+Jeremy David Bragg
+Redburn (Europe) Limited,
+Research Division
+
+Nick Cunningham
+Agency Partners LLP
+
+Olivier Brochet
+Crédit Suisse AG, Research Division
+
+Rami Yehuda Myerson
+Investec Bank plc, Research
+Division
+
+Robert Alan Stallard
+Vertical Research Partners, LLC
+
+Sandy Morris
+Jefferies LLC, Research Division
+
+Tristan Sanson
+Exane BNP Paribas, Research
+Division
+
+Unknown Analyst
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Presentation
+
+Roger M. Carr
+Chairman
+
+Well, good morning, everybody, and welcome to our 2017 preliminary results meeting. There's absolutely
+no doubt that 2017 was a successful year. And I think, most importantly, a year in which the leadership
+baton was smoothly and efficiently passed over to Charles as Chief Executive of the group.
+
+Now following Charles' appointment, management changes were also made to ensure our structure was
+simplified and aligned with the demands of business today. These changes acknowledge the increasing
+requirement for in-country production by our customers, the need to continuously hone our competitive
+edge in all markets and the emphasis that must be placed on efficient execution of a very strong order
+book. And I'm confident that these changes will bear fruit in the areas of improved cost control, swifter
+decision-making and greater innovation.
+
+As we enter 2018, a substantial order book will, however, not shield the company from a year when the
+rhythm of customer delivery schedules make our ambitions for sales and profit performance a little more
+challenging than usual. But I am very pleased to say, nonetheless, that management has committed
+to address these short-term headwinds and deliver an earnings performance in 2018 that is in keeping
+with 2017, whilst also maintaining a strong focus on cash performance. This will be an important building
+block in the return to improve growth in profits and cash, as the natural flow of orders and production and
+delivery is restored in 2019 and beyond.
+
+For my part as Chairman, I've been really pleased to witness the company's ability to manage a
+structural and leadership change in a period of general world turbulence. It has been made clear to me
+by customers, shareholders and employees that all have valued the preservation of seasoned executive
+experience with the introduction of fresh thinking and renewed energy in the management team at this
+time of geopolitical turbulence. Now this has also been true in the nonexecutive area with the appointment
+of Revathi Advaithi to our boardroom, a woman with strong international -- very strong international
+pedigree, relevant engineering and digital skills, first-class credentials and really good senior operational
+experience at both Honeywell and Eden Corporation. She's been a great addition to the boardroom. And
+we've just spent 2 days together, and already, great added value. So, so far, so good, but the defense
+market is becoming more competitive, and customers continue to be demanding, both at home and
+abroad. Relationships are, as always, very key, as is reputation. And in this context, it is pleasing that
+a very close [ liaison ] in the U.K. and the U.S.A., plus regular visits to both the Gulf and Australia by
+Charles and I continue to ensure we are well-received at the highest levels of government right across the
+globe.
+
+Now this will be particularly important in 2018 in the pursuit of major business opportunities in land, sea
+and air that are currently under negotiations.
+
+The year ahead, therefore, remains demanding, both in delivering the order book we have and building an
+even stronger order backlog for the long-term future of the business. The management is clear on their
+mission, and under Charles' leadership, remain enthusiastic and focused on achieving their objectives.
+
+I now hand over to Charles and to Peter to look more closely at our performance in 2017 and examine, in
+a little more detail, the prospects for the year ahead. Charles?
+
+Charles Woodburn
+CEO & Executive Director
+
+Thank you, Sir Roger, and good morning to everyone here in the room and those joining us via webcast.
+Today, we've announced a good set of results consistent with our earnings expectations for the year and a
+particularly strong cash performance, in part flatted by some GBP 400 million of timing benefit.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Looking back over the past 8 months, I'm pleased to say that we've made strong progress in delivering
+for our customers, securing new business and advancing our strategy. Overall, operational performance
+was strong. We achieved significant milestones in delivering all 8 Hawk aircraft and 8 of 12 Typhoons
+to the Sultanate of Oman, ramped F-35 production up to 80 sets, in line with targets to reach full rate
+production, and commenced production on the Type 26 program.
+
+However, in Applied Intelligence, performance was disappointing. We have changed management,
+restructured the business and taken a goodwill write-down, reflecting lower growth assumptions.
+
+On the balance sheet, reaching clarity and a largely unchanged pension funding position in November was
+a significant milestone and derisked future cash flows. Order intake of just over GBP 20 billion meant our
+large order backlog was sustained, and that's before booking the Qatar order, ensuring good visibility of
+future sales.
+
+Before Pete takes you through the detailed financial results and guidance for 2018, I wanted to start with
+a brief recap of our strategy and priorities for the year ahead and the actions taken since we last met in
+August.
+
+After a brief overview of the markets, I'll give a medium-term outlook for our key programs and
+franchises. As usual, we'll take your questions at the end of the presentation.
+
+As outlined at the half-year results, our strategy remains largely unchanged and is underpinned by a
+disciplined capital allocation policy. Within this strategy, I set out, in August, 3 priority areas to grow and
+win new business in a fast-moving and increasingly competitive market environment. They are as follows:
+operational excellence, improving our competitive edge, and advancing our technology base.
+
+Over the past 8 months, we have taken decisive action to improve performance in each of these 3 key
+focus areas
+
+Firstly, operational excellence. Our highly skilled workforce is delivering some of the world's most
+challenging and complex engineering programs. In 2017, we saw a higher tempo of activity across many
+of our businesses. Manufacturing got underway on the Type 26 and Dreadnought submarine program,
+and the U.S. business continued its ramp to rate in combat vehicles and a number of Electronic Systems
+products.
+
+In Saudi Arabia, we achieved the key milestone of commencing Hawk aircraft final assembly, In-Kingdom,
+as part of our ongoing industrialization strategy. As we move into 2018, we need to maintain the drumbeat
+on U.K. maritime programs, continue the production ramp in Electronic Systems in U.S. combat vehicles
+and drive improved performance from our Applied Intelligence business. Where required, management
+changes have been made to strengthen and underpin our performance. Maintaining focus on delivering to
+our customers is the best way to highlight our skills and capabilities and, therefore, to win new business.
+
+Secondly, competitiveness. This is crucial if we are to secure new opportunities and address customer
+affordability challenges. In 2017, we commenced restructuring actions in military air, maritime services
+and Applied Intelligence. These difficult but necessary actions will maintain critical capabilities and
+enhance our competitive position in securing anticipated new orders.
+
+Additionally, the streamlined organizational structure, in place since January 1, has been designed to drive
+focus and performance in each of the 3 key priority areas. Importantly, we are also starting to see the
+benefits of increasing collaboration across the group, pursuing new business such as the LAND 400 and
+SEA 5000 programs in Australia, and sharing best practice and in developing and exploiting in innovative
+new technologies.
+
+The procurement transformation being led by Chief Procurement Officer, Paul Smith, is a great example of
+collaboration in action whilst also improving our competitiveness.
+
+For 2018, we need to drive efficiencies across a number of supply chain categories and implement a more
+strategic approach to managing our suppliers and our design, engineering and manufacturing processes.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Embedding the new organizational structure and work now underway in the CTO organization to enhance
+collaboration are all important steps in 2018 to making us more competitive.
+
+Thirdly, technological innovation. Technology is a key driver of competitive advantage and, increasingly, a
+critical determinant for our customers in awarding new business.
+
+In 2017, we increased self-funded R&D by 15%, expanded our partnerships with academia and appointed
+Nigel Whitehead into the position of Chief Technology Officer. Nigel and his team will create -- will
+target value creation through greater focus, collaboration and innovation in technology across the entire
+enterprise. There will be more external collaboration opportunities, and we will refine technology plans
+to underpin our business and product strategies whilst also continuing to appropriately self-fund R&D in
+support of our core franchises.
+
+So the strategy and strategic actions are in place and being rolled out across the business. We have a firm
+foundation, and whilst there is much to do, we are well-placed.
+
+Moving on to our new organization structure and outlook in key markets. The new structure is an
+important step in achieving the strategic objectives as we look to become a stronger company, match fit
+for the opportunities and challenges ahead. The new Air sector, led by Chris Boardman, brings together
+our combined expertise in military aviation across the U.K., Saudi Arabia, Australia and other international
+programs to harness our capabilities more effectively for both existing and potential customers around the
+world.
+
+The maritime sector contains our long-term U.K. contracted programs in submarine and shipbuilding.
+These are critical programs for the U.K., and this sector now reports directly to me, with an absolute focus
+on program execution. The U.S. sectors continue unchanged after Jerry and the [ Inc ] team streamlined
+and reorganized a few years back.
+
+So a brief take on market outlook. The U.S. business has become skilled at managing through periods
+of continuing resolution with minimal impact. The bipartisan budget agreement passed in early February
+would increase the 2018 U.S. Defense budget by approximately 10% over current levels. The agreement
+increases the budget caps for 2 years whilst extending the Continuing Resolution into March to allow time
+for an omnibus appropriations bill to be passed. Our U.S.-based businesses continue to plan conservatively
+and remain well-aligned with customer priorities and growth areas, and we see continued support for
+increases in defense spending, as demonstrated by the President's recently released 2019 budget request.
+
+In the U.K., defense and security remains a priority for the government. We expect this to be reaffirmed in
+the ongoing capability reviews. Our U.K. business, of course, is centered around our long-term contracted
+positions in air and maritime. We continue to execute on these while working with our customers to
+address their affordability challenges.
+
+In our international markets, defense and security remains high on national agendas, with a number of
+countries responding to an increasingly uncertain security environment.
+
+Whilst Pete will outline 2018 guidance in a few minutes, given the market conditions I've just outlined,
+I wanted to give you more color on the strength and medium-term outlook for our key franchises and
+contracted programs.
+
+Electronic Systems has a very broad, well-placed technology driven portfolio. Growth will be generated
+across the portfolio from F-35 ramp-up and F-15 upgrade programs, as well as from increased activity in
+the classified domain. Our APKWS product is also seeing significant demands. Our Investor Day in May will
+focus on the strength and breadth of our Electronic System's franchises.
+
+U.S. Platforms & Services is set to deliver growth from all 3 of its businesses. Combat vehicles production
+is set to double in the next 3 years, underpinned by our secured positions on the M109, the Armoured
+Multi-Purpose Vehicle and the Bradley vehicle franchise. The business is also pursuing a number of export
+opportunities, and an award decision on the U.S. Amphibious Combat Vehicle is expected later in the year.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Ship repair had a good year of order intake and is expected to benefit from demand requirements and
+the U.S. Naval budget outlook. Through the additional capacity added by the new dry dock facility in San
+Diego and our positions across our U.S. shipyards, we are well-placed to compete for future work.
+
+Our weapon systems business is executing on a number of key orders in our naval guns franchise. Indian
+M777 production is ramping up, and there's a good drumbeat of work through our Holston and Radford
+munition facilities.
+
+The air sector comprises a number of different program dynamics, as this -- as is shown on this slide. The
+main points to note: As previously flagged, Typhoon and Hawk production will reduce in 2018. Typhoon is
+then expected to stabilize based on the current order book and anticipated finalization of the Qatar order.
+
+We continue to pursue further export opportunities, which, if secured, would drive growth back into this
+highly capable platform as we move into the next decade. Typhoon support, already generating more
+revenue than production, is expected to grow as further aircraft are delivered into service.
+
+On the F-35, we are seeing a continued ramp in production over the next 3 years, and securing a global
+support position remains a key priority. Having won initial work packages in the U.K. and Australia, we
+continue to work on long-term support positions with our industrial partners and customers.
+
+The final point I would draw out is that our MBDA joint venture has again grown its order book to stand at
+nearly EUR 17 billion. This supports good sales growth in the medium term.
+
+The maritime sector is underpinned by our long-term positions on Astute and Dreadnought and on the
+Type 26 frigate program. Whilst the U.K. maritime budgets are under pressure, this contracted programs
+give us stability and visibility.
+
+In the U.K., we have teamed with Camell Laird for their bid on the U.K.'s -- U.K. MoD's proposed Type 31e
+General Purpose Frigate program. Beyond these U.K. programs, we've submitted our tender response to
+the 9-ship Australian SEA 5000 Future Frigate Program, and we are teamed with Lockheed Martin Canada
+to provide the Type 26 design into their bid for the Canadian surface combatant.
+
+Now turning to Cyber. The U.S. Intelligence & Security business is well-run with a high tempo of bid
+activity. The business is a mix of shorter cycle contracts in what is a highly competitive market. Reflecting
+the poor operational performance and goodwill impairment, our U.K.-based Applied Intelligence business
+has been reorganized to focus on a targeted portfolio of products, services and markets that will
+accelerate improvements in about competitiveness and profitability while still targeting top line growth.
+
+So to conclude. We have reaffirmed our strategy and highlighted 3 priorities in order to maximize
+performance in the near and medium term and secure further opportunities.
+
+The balance sheet remains strong, following the pension funding agreement, which derisked future cash
+flows. And our capital allocation remains clear, consistent and disciplined.
+
+2018 is a transition year for earnings underpinned by continuing cash generation. The business is well-
+placed from his contracted programs and long-standing franchise positions to deliver growth in the
+medium term.
+
+I will now hand over to Pete to run through the year's financials and guidance for 2018. Over to you, Pete.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Good morning, everybody. Thanks, Charles. So today's results are technically more challenging than --
+to present than usual, given the impacts we've got from exchange movements, U.S. Tax reform, our new
+sets of reporting structure and changes from the new IFRS accounting standards. So before I step through
+the detail, I'd like to draw out some key points.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+And firstly, in terms of 2017, underlying earnings per share was up 8%, and that's towards the higher end
+of our guidance range. And the EMEA loss, as Charles referred to, at Applied Intelligence was matched by
+good performance across the rest of the group.
+
+Cash performance has been strong, and that's even stripping out the GBP 400 million of timing benefit
+that we had in the year. Our strong order backlog was maintained on a like-for-like basis, and that's
+without yet having booked the Qatar Typhoon contract.
+
+The dividend was growing for the 14th consecutive year with earnings cover sustained. And as previously
+announced, we've materially derisked future free cash flow through a sensible outcome on the U.K.
+triannual pension valuations.
+
+And looking into 2018. Despite the significant headwind from the lower Typhoon and Hawk production
+activity, and after the IFRS 15 restatement, earnings are expected to be line with the 2017 performance.
+And at the earnings level, the headwind from U.S. dollar translation is broadly matched by a lower
+effective tax rate, benefiting from the U.S. tax reform measures.
+
+And other than our U.S. services businesses, growth is projected to be strong. We do see the Applied
+Intelligence business moving back to breakeven as the rationalization programs that we announced in
+2017 delivered to the bottom line.
+
+And finally, in terms of free cash flow generation, we see around GBP 2 billion being delivered across 2017
+in aggregate, and that's ahead of consensus.
+
+So those are the key messages, and I'm now going to move on to the detailed results for 2017, and then
+the guidance for '18. That guidance is in our new sector structure and is prepared under the new IFRS 15
+accounting standard. There's been some volatility in exchange rates in the year. And for reference, the
+dollar rate averaged at $1.29 in 2017 and was $1.35 in 2016.
+
+So the headline numbers, and compared to 2016. Sales increased by GBP 0.6 billion to GBP 19.6 billion,
+and the majority of that has been due to currency translation.
+
+Underlying earnings before interest tax and amortization increased by GBP 129 million to GBP
+2,034,000,000.
+
+Growth on a constant-currency basis was at 4%.
+
+Underlying finance costs in the year decreased marginally to GBP 245 million, underlying earnings per
+share were at 43.5p, and that's up 8% over 2016.
+
+There was an operating cash inflow of GBP 1.8 billion. And net debt at the end of the year closed ahead of
+our guidance at GBP 0.8 billion.
+
+Order backlog at the end of the year was at GBP 41.2 billion, and that is unchanged against the previous
+year on a constant-currency basis.
+
+And as I mentioned, the dividend for the year has been increased to 21.8p per share. That's up 2% on
+2016. And at that level, the dividend is covered twice by underlying earnings per share.
+
+In addition to the impacts from exchange translation on the balance sheet, where the U.S. dollar closed
+at $1.35 compared to the opening $1.24, there were a number of items that impacted the closing balance
+sheet. We have taken an impairment charge of GBP 384 million against the goodwill carrying value on the
+Applied Intelligence business, prudently reflecting the future level and timing of expected returns from
+that business.
+
+As planned, capital investment was made in support of the production ramp-up in our U.S. Electronic
+Systems and combat vehicles businesses.
+
+Within working capital, there are some items of note. Firstly, as anticipated, the remainder of the
+advances received in 2012 on the Omani Typhoon and Hawk order as well as European Typhoon
+production are almost all now consumed.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+On the Saudi support contract renewals, some GBP 300 million of cash was received in 2017, representing
+advanced funding to be utilized in '18 and '19. Costs have been incurred against provisions created in
+previous years, as the U.S. commercial shipbuilding programs are closed out. And the final working capital
+point is at around GBP 100 million of VAT payments rolled from December into 2018.
+
+In aggregate, working capital is decreased by some GBP 200 million. The group share of the IAS 19
+accounting pension deficit has fallen over the year to GBP 3.9 billion. And that lower pension deficit also
+drives the reduced deferred tax assets. And whilst the reduction in U.S. corporation tax has had no impact
+on the 2017 underlying earnings, it has also reduced the deferred tax asset by GBP 67 million.
+
+So I'm now going to move on to the pension deficit position and the clarity achieved through last
+November's funding agreement.
+
+So firstly, a look at the accounting deficit. I think we're running ahead on the slides. You want to move
+back one. Thank you. There are a number of moving parts here, which I'll touch on, but the combined
+impact of them all is a GBP 2.2 billion increase -- sorry, decrease in the group share of the pretax deficit.
+The value of the scheme assets has increased over the year to GBP 27 billion, and that's after pension
+payments paid out of some GBP 1.3 billion and an adverse exchange translation impact of GBP 0.4 million.
+The return on assets in the year was at 9%.
+
+At the end of the year, reported liabilities had fallen by GBP 1.3 billion to GBP 31.2 billion. Real discount
+rates in the U.K. were unchanged over the year and a 50 basis points adverse movement in the U.S. gave
+a GBP 0.3 billion increase in reported liabilities.
+
+A significant liability reduction of almost GBP 1 billion has come from the increased mortality assumptions
+as we adopt both the latest actuarial tables and scheme-specific changes based on membership
+experience.
+
+Reported liabilities have also fallen by GBP 0.5 billion due to exchange translation. So overall, a net GBP
+2.2 billion reduction in the accounting deficit.
+
+As we've always stated, it is the funding deficit which really counts and is of economic importance to
+the company. So we thought it would be useful to illustrate the key differences between the reported
+accounting number and the agreed U.K. funding position. This chart highlights how the reported U.K.
+accounting deficit represents a very material overstatement when compared to our agreed funding
+obligations.
+
+This is a complicated chart, so let me step you through it. To the left of the chart, in the first column, is
+the accounting deficit. And of that, GBP 3.7 billion relates to U.K. schemes. To the right of the chart, in the
+last column, is the GBP 2.1 billion U.K. funding deficit.
+
+So in terms of the 2 columns in the middle, column 2 adds back the benefit of the latest actuarial mortality
+tables. And those tables -- that benefit was included in the accounting number, but was not recognized in
+the more prudently assessed funding deficit.
+
+Column 3 simply aligns the asset values between the year-end accounting date and the April 2017 funding
+valuation date.
+
+As you can then see, there is a GBP 3 billion difference, and that arises from the use of different discount
+rates applied to the scheme liabilities. Whilst the accounting, usually AA corporate bond rate, the funding
+now uses a blended rate of the prudent asset returns that we assume. That blended asset return rate is
+3.3%, which is just 70 basis points higher than the accounting discount rate.
+
+Moving on to cash. This slide sets out the movement from our net debt position of GBP 1,542,000,000 at
+the beginning of the year. The operating business cash flow of GBP 1,752,000,000 was clearly ahead of
+guidance. Receipts of some GBP 300 million were received in the year, representing advanced funding on
+the Saudi support contract. And there was also GBP 106 million of VAT payments that rolled from '17 into
+'18.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Interest and tax payments were GBP 408 million. Payment of 2016's final and 2017's interim dividend
+totaled GBP 684 million. Exchange translation and all other movements were GBP 130 million.
+
+So we closed the year with gross debt of GBP 4 billion, cash of GBP 3.2 billion and net debt of GBP 0.8
+billion. And we do have a $1 billion bond maturing in mid-2019, and that will be repaid from cash held.
+
+The cash flow performance of the 5 sectors is shown here, and I'll return to this when I cover the results
+of each of the sectors. But just to note, the total cash outflow for pension deficit funding made in 2017
+was GBP 271 million. And the head office number shown on the chart contains GBP 133 million of that.
+
+Okay. I'll move now onto the sectors. I'll cover the in-year performance here and the outlook for 2018 a
+little later. And the first of those sectors is Electronic Systems, and the numbers here are in U.S. dollars.
+Sales compared to 2016 were up 5% at $4,685,000,000. The growth came in the electronic warfare
+business from the F-35 and DEWS programs as well as an increasing volume of classified activity. Sales
+on -- of the APKWS product almost doubled over the year and now represent one of the top 5 sales lines
+in this sector. Return on sales achieved at 15.5% exceeded our guidance range, largely from continued
+strong program execution and risk retirement.
+
+As expected, cash conversion of EBITDA for the full year was at 85%, excluding pension deficit funding.
+Order backlog was at a record high of $7.3 billion, following further awards for F-35 systems, classified EW
+activity and APKWS product.
+
+The Cyber & Intelligence sector comprises the U.S. Intelligence & Security Business, together with BA
+Systems Applied Intelligence, and the numbers here again in dollars. In aggregate and slightly below
+guidance, sales were marginally lower at $2,346,000,000. The U.S. business saw a 4% decrease, largely
+in a highly competitive area of IT support services to the Intel community.
+
+Growth in the Applied Intelligence business was at 6%, benefiting from increases in the U.K. government
+and international government service divisions. The aggregate margin for the sector was just 2.9%.
+Margins in the U.S. business were similar to last year at 8.8%. However, in Applied Intelligence, the total
+loss for the year was GBP 61 million. And that includes a GBP 24 million restructuring charge.
+
+The first half loss of GBP 27 million was reduced to a second half operating loss of GBP 10 million as
+the cost reduction actions under that restructuring program start to deliver bottom line benefit. Cash
+conversion of EBITDA for the year was in excess of 100%, and order backlog reduced marginally in the
+U.S. to $2.9 billion.
+
+Moving to the U.S. Platforms & Services sector, and the numbers again in dollars. Sales in the year were
+slightly behind guidance, down by 3% to $3.8 billion, as deliveries of land vehicles to Brazil and Japan
+slipped into the first half of 2018. However, in line with guidance, the business has delivered an improved
+margin of 8.3%. Charges taken in the year on a commercial shipbuilding programs amounted to $16
+million or 40 basis points, with just one contract now remaining for completion.
+
+As expected, cash conversion of EBITDA was significantly improved, despite the impact from the use of
+provisions on those commercial [ shipbuild]programs.
+
+Order backlog was increased to $6.3 billion, supportive of future growth expectations. Key awards in the
+year include the $0.5 billion engine order for M777 ultra-lightweight howitzers, around $400 million for
+Paladin production and a total of $1.3 billion in the ship repair business.
+
+In the U.K. Platforms & Services sector, the year sales of GBP 7.7 billion were only marginally lower than
+2016, slightly ahead of our guidance. Activity levels on the submarine programs were ahead of plan. In
+line with that guidance, return on sales was at 10.3%.
+
+Cash performance was better-than-expected with an inflow of GBP 427 million. However, that does include
+the temporary GBP 106 million benefit relating to VAT.
+
+As I mentioned earlier, consumption of customer advances on the Omani, Saudi and European Typhoon
+contracts has now largely completed. As expected, order backlog reduced to GBP 16.8 billion, the GBP 5
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+billion order received from Qatar in December for 24 Typhoon aircraft in support has not yet been taken
+into the backlog pending completion of the financing package, which we expect in the coming months.
+
+Sales in the international sector of GBP 4.1 billion were 5% up over 2016. With all 72 Salam Typhoon
+aircraft now in service, we have seen high levels of support. And in addition, we've seen expected ramp-up
+coming from MBDA's strong order backlog.
+
+EBITDA of GBP 472 million and return on sales of 11.4% was slightly ahead of expectations, reflecting
+improving performance from our KSA partner companies and stronger performance from MBDA. Operating
+cash flow was at GBP 671 million, although GBP 300 million of that was for the advance payment on the
+Saudi support program.
+
+Order backlog was marginally higher at GBP 13.3 billion as further order intake was booked under the
+renewal of the 5-year support contract in Saudi Arabia, and Qatar naval orders became effective within
+MBDA.
+
+And for reference, there is a chart running a summary of the trading performance of all 5 sectors, along
+with the headquarters' numbers appended to your presentation packs.
+
+Okay, let's move to guidance. And this next chart seeks to give guidance as to how we see the
+performance of each sector developing from 2017 through to 2018. But just before I go through that, I'd
+just like to say that the 2017 performance on this chart has been recut to our new sector structure. And in
+addition, the numbers have been restated under the new IFRS 15 accounting standard.
+
+As we said in November's WebEx, IFRS will impact the way that we account for revenue. On the majority
+of our longer-term contracts, revenue is recognized earlier as we incur costs rather than on performance
+milestones or deliveries. And as you can see from the chart, that has had a material impact on the
+reported sales numbers for 2017. But on those long-term contracts, profit will continue to be recognized
+progressively based on risk mitigation and retirement.
+
+On the shorter-term contracts, mainly in our U.S. businesses, there will be some acceleration of both
+revenue and profit recognition. So as expected, whilst reported 2017 sales under IFRS have reduced by
+around GBP 1 billion, the impact on our earnings per share is just 1.4p. And I'd stress now that the IFRS
+15 will not change the way in which we manage our contracts nor does it change the lifetime contract
+profitability nor our cash flows. And we have included full reconciliations on both the new sectors and the
+IFRS 15 restatement in your packs. And for reference, before we get into the guidance, our exchange rate
+planning assumption for the U.S. dollar now is at $1.40, and a sensitivity to $0.10 movement in the U.S.
+dollar is now approximately 1.5p of earnings per share.
+
+So looking at the individual sectors, and firstly, Electronic Systems. Overall, we expect 2018 sales in
+dollar terms to show high single-digit growth driven by a number of electronic warfare contracts. And in
+aggregate of 2018's projected sales, some 70% are in the 2017 closing order backlog, and that's similar
+to last year's starting point. And on margins, we've changed our guidance to an improved 14% to 16%
+range.
+
+Next, Cyber & Intelligence. And in aggregate, we expect the sales to be marginally higher in '18. The
+U.S. business, which was 70% of this sector last year, is expected to be largely unchanged. In the
+Applied Intelligence business, we expect to see some top line growth, again coming from the U.K. and
+international government services divisions.
+
+The margin in '18 is expected to improve to around 5%. The U.S. business is, again, expected to
+contribute around the 8% mark. And whilst Applied Intelligence should move to a breakeven position for
+the full year benefiting from the changes made to rationalize the business, this will be second-half-biased.
+
+Moving to Platforms & Services in the U.S. And here, we expect sales growth to be double-digit with
+increasing volumes from the U.S. combat vehicles and weapons system businesses, as well as higher ship
+repair activity. Of this sales guidance, almost 75% is already within backlog. And at the margin level, we
+expect another year of improvement, moving up into a 9% to 10% range.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Moving on to Air. And as we've previously flagged, sales are expected to be some 5% lower as production
+activity on Typhoon for the European, Saudi and Oman contracts is largely complete. Around 80% of that
+guidance is within closing backlog. And margins in the sector are expected to be within an 11% to 13%
+range.
+
+And the last of the sectors Maritime. Here, we expect sales to be stable as activity levels on carrier reduce
+but are largely offset by increases on the submarine programs. Around 90% of this guidance is already
+covered by backlog. And of note, only some 5% of the sector sales come from short-term service and
+support contracts. Margin levels are expected to be similar to those in '17 within an 8% to 9% range.
+
+And to complete your models, headquarter costs will be similar to those in '17. Underlying finance costs
+are expected to be around 15% lower, benefiting from the weaker dollar, in which most of the group's
+interest cost is borne, reduce charges within our equity-accounted investments and lower net present
+value charges.
+
+The effective tax rate is expected to reduce from 21% to around 18%, benefiting from the U.S. Tax
+Reform changes. And the final number there is, of course, dependent upon the geographic mix of profits.
+
+And so with the assumption of a dollar rate at $1.40, we expect the group's 2018 underlying earnings per
+share to be in line with our 2017 performance, as restated under IFRS 15.
+
+This final chart highlights our cash utilization. In the left-hand column are the numbers for 2017, and to
+the right are those for 2018 that we expect.
+
+In respect of operating cash flow, firstly, we expect capital expenditure to be marginally above
+depreciation levels, reflecting continued investment for expanded production facilities in Electronic
+Systems and the U.S. combat vehicles business. There will also be some spend against provisions created
+in previous years.
+
+As previously indicated, we expect that our historic working capital volatility will be greatly reduced as
+export customer advances have now been largely utilized. However, in 2018, the GBP 300 million of
+accelerated receipts will be utilized and a temporary VAT benefit will reverse. And these flow through both
+advances and other working capital movements lines on this chart.
+
+The final operating cash flow item is this year's pension deficit funding, which we know will be around GBP
+300 million. The nonoperating cash flow items are predictable. Outflows for interest and tax are again
+expected to total around GBP 400 million, and dividends to shareholders, around GBP 700 million. So in
+aggregate, 2018 is expected to see net debt broadly unchanged.
+
+Looking across 2017 and 2018, the group, therefore, expects to have generated circa GBP 2 billion of free
+cash flow, of which around GBP 1.4 billion would flow to shareholders and dividend. And with that, I'll pass
+it back to Charles.
+
+Charles Woodburn
+CEO & Executive Director
+
+Thanks, Pete. In summary, a good year for the company, delivering sales and earnings growth and strong
+cash generation while implementing steps to build a firm foundation to deliver medium-term growth and a
+stronger, smarter and sharper business. Looking ahead, we remain focused on delivering our order book,
+driving our 3 -- and driving our 3 key strategic priorities. This will enable us to generate long-term growth
+and shareholder value.
+Pete and I will now take your questions. Thank you.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Question and Answer
+
+Christian A. Laughlin
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Christian Laughlin from Bernstein. A couple of questions for me. Basically, centered on aircraft sales
+campaigns and ground vehicle opportunities, particularly in export markets. So starting with aircraft,
+as we start to see potentially some order inflow from -- for additional Typhoons, what are some of
+the markers we need to see or this sort -- or the milestones with respect to timing that would impact
+production rates. That is to say -- I mean, obviously, with roughly like a 2-year lead time where you
+could see some orders come in over the next 12 or 18 months but they don't really change the pace of
+production, conversely, I guess, you can see a flood of orders come in, and then you decide to take rates
+up in about 2 years or so. So if you could just kind of sort of outline how that works, that'd be great.
+And then secondly, with respect to ground vehicles, particularly in Middle Eastern export markets, you've
+discussed before ongoing sales campaigns, particularly in Saudi Arabia for M109s and some Bradley work.
+Ostensibly, those activities were somewhat reduced while the U.S. Congress had a ban on equipment sales
+into that market. But that ban was recently lifted. So could you talk a little about how that has changed or
+not changed the pace of discussions around those campaigns?
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Just before -- I'll let Charles talk about opportunity on export programs. But just to be clear on Typhoon,
+we are now at a level, in terms of our 2018 guidance, where Typhoon production is less than GBP 0.5
+billion. So I know we've had -- we clearly stated back in -- 6 months ago, where we sat here, that we
+were expecting to see a sort of GBP 800 million, GBP 900 million headwind from Typhoon. That's where we
+are. But it is now less than 3% of the group sales. Support revenues on Typhoon are 3x that volume. So
+we are moving through. In terms of -- the question is, when would we start trading? One of the issues of
+IFRS 15 is you don't have to make deliveries before you start trading sales now. It is about when you incur
+costs on those programs. So as you get those programs in, you'll see some top line coming through, albeit
+it will be at a very, very low margin because we're still holding on to the fact that we only trade profit and
+margin on contracts as when we retire risk. So you'll see some sales go up. You might see a dilution in
+terms of margin percentage, but that's just the way IFRS 15 takes you.
+
+Christian A. Laughlin
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Okay. That part I understand, but my question is mainly more on the physical, industrial process of
+thinking about Typhoon production capacity under various order scenarios, but that was helpful.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Okay. I mean, in terms of capacity, if you remember the original Typhoon production line was set to take
+60, 60 a year. And we're clearly nowhere near that. I don't think we ever got to 60. I think the most we
+ever got to was in the 40s. But the capacity is there.
+
+Charles Woodburn
+CEO & Executive Director
+
+I think it is fair to say that, I think you've already concluded that in terms of the opportunity pipeline in
+terms of campaigns in Europe and in the Middle East, I think the opportunity pipeline is as good as we've
+seen it. And I think, certainly, encourages us that we'll see growth coming into the next decade in Typhoon
+production. And you've got to reflect the fact that the platform now with this -- since you had an upgrade
+so then going into the RAF, it is at its -- it's the most capable that it's ever been. And I think we'll continue
+to see further export success.
+
+Charles Woodburn
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+CEO & Executive Director
+
+On the combat vehicles, I think, Jerry, would you mind -- do you want to just say a couple of words on
+that, since you're here? So Jerry runs our Inc. business. I've just to introduce him. And he's...
+
+Gerard J. DeMuro
+Executive Director
+
+With respect to Middle Eastern campaign, you mentioned the M109, the self-propelled howitzer and the
+Bradley. We do have 2 pending opportunities in Kingdom of Saudi Arabia. The congressional hold that was
+put on sales to Saudi Arabia by Senator Corker, if you'll recall, was just lifted recently. So we're just now
+beginning to reengage with the Congress and State Department on clearance of that. I would expect that
+we will probably have to renew discussions with the Saudis about in-country content mix and how we're
+going to deliver that. So that'll -- that is just initiating, but the dialogue has begun. So it'll take a little
+while to sort through that, but still very valid requirements.
+
+Robert Alan Stallard
+Vertical Research Partners, LLC
+
+Rob Stallard from Vertical. Maybe a follow-up for Jerry as well. The FY '19 budget request that came out
+the other day, I was wondering if you could highlight how BAE has fed -- I know it's just a request, but
+how it looks at this preliminary stage in terms of your various programs there, and what the revenue
+growth implications could be for the company down the line? And then, secondly, maybe one for Pete.
+On Qatar, you said that you'd close it at some point in the next 6 months or so. Have you included any
+potential impact for cash flow from this closing in your guidance?
+
+Charles Woodburn
+CEO & Executive Director
+
+Rob, I'll answer the second one quickly. The answer is no, we haven't. Jerry, hopefully you've got more
+extended answer than I have on the first question.
+
+Gerard J. DeMuro
+Executive Director
+
+In both the FY '18 and FY '19 budgets that have been approved by the authorizers in Congress, we see
+strong growth potential in, really, 3 or 4 areas. The first one is combat vehicles, plus up at [ cross ] the
+army brigade combat team, an opportunity to increase production on those vehicles. Think about the M88,
+the Paladin, the self-propelled howitzer, the AMPV and the Bradley. They're -- all of those will increase
+by about 50%. So right now, in our plan, we're looking at roughly over the next 2 to 3 years, roughly,
+depending on when this money finally gets obligated and put on contract, doubling the production volume
+to our U.S. combat vehicle business. You could see roughly another 50% increase from those budgets.
+So that's one area. Ship repair, you could see maybe about a 10% increase. We're anticipating that, with
+greater stability in the budget, the Navy will be able to extend its repair modernization times on each
+of the ship. We're also seeing strength in electronic warfare, as both Charles and Pete had alluded to,
+and an acceleration of some programs. F-35 even gets plussed up a little bit, or at least the production
+is extended a little bit further out in the U.S. But one area that we mentioned, Charles talked about the
+APKWS. It's really across a number of our precision weapon systems and initiatives that we have there
+at APKWS. We have a couple of other Class 5 programs where we're providing guidance, things like the
+seeker on the THAAD. So a host of artillery programs, where we're now putting guidance into artillery and
+the Hypervelocity Projectile is being accelerated. So in the precision weapons area, ship repair, combat
+vehicles, we see an opportunity for plus side. As to when that would flow into revenues and earnings,
+you're probably -- 18 months after a contract order, you'll really see something noticeable, if that makes
+sense. Okay?
+
+Charles Woodburn
+CEO & Executive Director
+
+Maybe on this side here. Halfway down.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Jeremy David Bragg
+Redburn (Europe) Limited, Research Division
+
+Jeremy Bragg from Redburn. I've got 2 questions, please. Firstly on cash conversion. You've been very
+clear as to why cash conversion was strong in '18 and why it will soften a bit in -- sorry, strong in '17 and
+soften a bit in '18 as some of those things reverse. But what's the right number in terms of free cash flow-
+to-net income conversion? I mean, simplistically, CapEx is a bit higher than depreciation, your tax is a bit
+lower than the P&L charge and you pay GBP 300 million into the pension, give or take. So if you're doing
+$1.4 billion of net income, you should be doing GBP 1.2 billion roughly of free cash flow. Just...
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Before dividend, yes, absolutely.
+
+Jeremy David Bragg
+Redburn (Europe) Limited, Research Division
+
+Before dividend. Yes, absolutely. So that kind of implies, this is my man math, so that's like 85%
+conversion ratio. But if I sum the 2 years, '17 and '18, it looks like you're guiding for about 75%, i.e., GBP
+2 billion of cash on GBP 2.8 billion net income. So my question is -- sorry, it's very long-winded, when do
+we get to this 85%? And is that the right number? Or is it higher, please?
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+I mean, the piece you're missing is what we said in the guidance this time last year, when we said that
+'17, we would see the end of the utilization of advance payments on those European and Saudi and
+Omani Typhoon production programs. We're through that. So what you're actually seeing is probably
+outperformance compared to what we expected. And when we look to -- if you look at 2018 and what
+we're guiding today of net debt unchanged, that's giving a total, over the 2 years, of debt reduction
+of about GBP 600 million. So yes, we're not over the 85%, and your math is pretty good as you would
+expect, but we're getting through that and '17 was the last year of using up those advances. So as we
+move into '18, '19, and beyond, your model absolutely holds.
+
+Jeremy David Bragg
+Redburn (Europe) Limited, Research Division
+
+Okay. And then on organic growth, it looks like it's slightly negative this year. I haven't done the detailed
+math. It's obviously because of Typhoon and Hawk, but can you give a comment on '19 and '20, please?
+Clearly, you don't want to give guidance on '19, but just some sort of commitment that you're happy with
+organic revenue growth in '19 and '20, please.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Yes. I think in -- what we're saying in -- what you've seen in '17 is fairly flat. Again, Typhoon production
+was a big step-down. And as we go into '18, we've got another step-down from that GBP 1.3 billion
+Typhoon production, down to that GBP 500 million that I talked about earlier on. So that's where you're
+getting the headwind from. If you look at the guidance we've put up on that chart, clearly, we're guiding
+for growth elsewhere in the business. And then if you look at the chart that Charles put out there, when
+we look at those long-term programs and franchises, there are not many arrows going downwards.
+They're nearly all pointed upwards. So we're pretty confident.
+
+Charles Woodburn
+CEO & Executive Director
+
+Yes, medium-term growth. Maybe the guy with the injury.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+It's the sympathy vote.
+
+Unknown Analyst
+
+Just on the U.S. businesses, you've taken margin guidance up on each of Electronic Systems and the U.S.
+Platforms businesses. I appreciate that there's a mix of stuff going on there, but to the extent you're able
+to characterize it, is that broadly driven by mix? Is it the current budget situation giving you maybe better
+visibility and better ability to plan? Or is it the feeling that you can go after a bit more of the shorter-cycle
+stuff that's coming through which maybe gives you a bit more short-term margin upside?
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+It's a bit of all of those. But I mean, if I take the 2 divisions separately. I mean, Electronic Systems, if
+you look back over the last 3 years, we've delivered an -- 15% return on sales in each of the last 3 years.
+They have performed well, they continue to perform well. Program execution is strong, they are getting
+the benefits of volume coming through. 5% growth last year, another 5% with sort of -- sorry, high single
+digit we're projecting for '18. So it's volume and it is program execution in Electronic Systems.
+
+Charles Woodburn
+CEO & Executive Director
+
+And some operational leverage of growing the top line quicker than the cost base.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+And in Platforms & Services in the U.S., we've -- we're almost through those commercial shipbuild
+programs. So I talked about there's a 40 basis point hit in 2017, for the $16 million charge. We're not
+anticipating any more charges in the -- on those programs. And again, with the scale coming through, that
+gives us confidence to move that margin rate up from a 9% to 10%. And sometimes we get questions,
+"Well, why is it down at the 9% to 10%?" You do need to remember, there is about GBP 1.2 billion, GBP
+1.3 billion of ship repair business going through there, and that is not double-digit business and nor will it
+ever be.
+
+Charles Woodburn
+CEO & Executive Director
+
+That's a very competitive market. Maybe the -- halfway down, on the right.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+[indiscernible] question.
+
+Rami Yehuda Myerson
+Investec Bank plc, Research Division
+
+Rami Myerson from Investec. So first question would be on strategic review. Charles, so you've now
+completed your first year CEO. And usually, early in the tenure provides a good opportunity to do a review
+of the portfolio to decide which businesses belong in the portfolio, which businesses could be managed
+better outside of the portfolio, potentially, and where you think you need to strengthen. So it doesn't
+feel like -- you may be doing that, but if you could just talk a little bit about where you are there. Things
+like vertical integration of your supply chain and digitization. And the second question is around the U.K.
+medium term, which you've alluded to. But how do you reconcile a supportive 10-year equipment plan,
+which is supposed to grow over the next 10 years, combined with that pretty supportive political backing
+on the one hand; on the other hand, U.K. revenues for your business don't appear to be growing over
+the next few years? And when do you expect the growth to recover? And maybe just a small, technical
+question for Pete. Are the margins that you've provided for Air and Maritime representative of the margins
+that you think that business can do over the medium term?
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Charles Woodburn
+CEO & Executive Director
+
+In terms of strategic review, I mean, I've outlined the 3 areas. I think there's a lot of legs left to run on
+the 3 areas that I've focused on, in as much as we've made some structural changes, but just embedding
+them in the way that we run the business. So for example, on the Chief Technology Officer organization, I
+mean that's an organization that's really designed to look at technology at the enterprise level, and there's
+a lot to be done there. Technology bolt-ons, the way we run it, increases in self-funded R&D. I think these
+are all things that I think we have the opportunity to do more and do better at this. And I think there is a
+lot that we can do down that front. So I'd that whilst it is early days, I mean, those 3 themes, I think, you
+will see a lot more to be done on each of those 3 themes as we go forward. On the second, I -- can you
+just repeat the second one?
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Well, supply chain, I think was the other one...
+
+Rami Yehuda Myerson
+Investec Bank plc, Research Division
+
+Just around the portfolio [indiscernible]
+
+Charles Woodburn
+CEO & Executive Director
+
+Yes, I mean, we take a good, hard look at the portfolio through the board reviews and the strategic
+reviews that we do. And that's really one of those things you would not be surprised to see that we
+have a good, hard look. I do -- in the short term, I do believe that we'd mentioned already in terms of
+technology bolt-ons that there are a number of opportunities that we could and should be looking at there
+to strengthen our technology portfolio. The supply chain...
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+The supply chain -- I mean, in terms of supply chain, we spend around GBP 8.5 billion a year across
+the group. And I think, as you know, and Charles mentioned, we hired Paul Smith as Chief Procurement
+Officer, and we've also hired a new Head of Procurement in the U.K., 3 global category managers.
+And really, they will all be the chief officers of supply chain management going forward. In terms of
+global categories, we're looking at IT, raw materials, machining fabs, electronics. We're targeting now
+deflationary pricing. We're upgrading IT tools around spend analytics, and we're looking to consolidate the
+vendor base. All of that is good, makes us more affordable, more competitive.
+
+Charles Woodburn
+CEO & Executive Director
+
+More likely [indiscernible] export opportunities, all of these things. I think it's fair to say that what we see
+is more opportunities at the enterprise level that we've had. A number of -- we're a portfolio of relatively
+discrete, well-run businesses. And there's more we can get out of the enterprise level, be it through either
+supply chain, the technology piece of it, the way that we run and manage the business and get more
+out of this enterprise level. And so far, we've identified, through supply chain and others, a rich seam of
+opportunities there that we'll continue to exploit for a number of years.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+And there was one other question on the margins in terms of the guidance for Air and Maritime. I mean,
+yes, we would see those as stable margins going forward.
+
+Rami Yehuda Myerson
+Investec Bank plc, Research Division
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Just on the U.K. growth, when do you expect to [indiscernible]?
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+I mean, our planning assumption is U.K. business is stable. We're not expecting -- it's not like the U.S.,
+which it will be the growth engine and international opportunities. U.K. is stable.
+
+Charles Woodburn
+CEO & Executive Director
+
+I mean, U.K. is committed to 2% GDP. Take a view on the economy and where it is, but I think it's
+probably a relatively prudent set of assumptions to assume a stable outlook for the U.K. in the near term
+here.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Nick.
+
+Charles Woodburn
+CEO & Executive Director
+
+Nick. Yes.
+
+Nick Cunningham
+Agency Partners LLP
+
+Nick Cunningham, Agency Partners. Coming back to the portfolio question and looking at Cyber & Intel,
+where it seems to have been a bit of a struggle to try and commercialize that business in the U.K. Is there
+something wrong there? It's not going to work, or is it just it's a technology startup that burns cash for a
+long time? And is there a cultural problem with having that inside a big corporate like BAE? Could you spin
+it out? Is the technology separable from BAE that it could go into a spinout, so on?
+
+Charles Woodburn
+CEO & Executive Director
+
+I think so just to contain, in a sense, the challenge somewhat. I mean, the business is about 3% of
+our total revenue. So not insignificant, but it's not massive. But within that 3%, I think most people in
+the room recognize that there are 3 parts to that business. And the bit that has been causing us some
+challenges is the commercial piece, which is about 1/3 of that total business. Meantime, the work that
+we do for national security, both here and abroad, has been performing actually pretty well within that
+business. We certainly see an opportunity in the commercial space to grow that business and to take some
+of our capabilities and make sure that, as that business sort of -- there is an opportunity for a flight to
+quality, where customers are looking for not just sort of a minimally compliant solution, but who is really
+the best at doing that. I think that, that transition, and I spoke about that a little bit at the half year, but
+I think that transition will happen as some of the cyber breaches and the challenges associated with them
+become more and more costly for customers and challenges become more obvious. We want to be there
+when that space opens up. You are right. This is kind of a growth mentality that you're competing with a
+lot of startups who are going for growth and so on and so forth, and that does provide some challenges
+in the space. I think it's fair to say that in our, in a sense, push for top line growth, we in some cases got
+ahead of ourselves in terms of pushing for opportunities, sales opportunities in various countries. So we've
+pulled back from that a little bit to basically put this on a sustainable footing, to basically get it onto a
+better-than-breakeven position for 2018. And I'm confident that we can do that and demonstrate that we
+will be there with a quality product when our customers need it.
+
+Nick Cunningham
+Agency Partners LLP
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Sorry, just to follow up on that. Part of the thrust of the question was that value realization from that, is
+that best if it's retained in BAE and it becomes profitable and cash-generative, or is the scope to spin it,
+perhaps float it or sell it to somebody else or whatever, who would pay for what that future represented?
+
+Charles Woodburn
+CEO & Executive Director
+
+I mean, our priority now is to get the business on sound footing, being able to, in a sense, wash its face
+with its own financials and make sure that it generates a reasonable return for the business. And we will
+exchange some top line ambition for a -- in order to do that and put it on a sustainable footing. And that is
+our priority at this point. Jaime.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Jaime.
+
+Jaime Bann Rowbotham
+Deutsche Bank AG, Research Division
+
+Jaime Rowbotham from Deutsche. Three from me. The first kind of follows on from Jeremy's question
+about the outlook for free cash. So when we're thinking about the outlook beyond the run rate of whatever
+it is, GBP 1 billion, GBP 1.1 billion per annum in '17, '18. Clearly, we don't know what FX is going to be,
+putting that to one side and without a Typhoon headwind, the outlook for growth potential and profit
+seems good, driven by the U.S. businesses. If we thought about other things that could boost the profit
+growth, it looked like the debt refinancing in 2019 might provide a boost in the income. I don't know if
+you can give us some numbers around that. And then, as we then think about cash conversion, I hear
+what you're saying on the pure-play advances. I just wondered if there was anything else on the bridge
+that might boost the cash conversion. CapEx, for example, where I hear you're spending still a fair bit in
+Electronic Systems and P&S U.S. Is the scope for that to come down to the benefit of cash conversion a
+bit further out? Second one's a slightly dull one, for which I apologize, on IFRS 15. But the GBP 1.1 billion
+lower revs in '17, I think it is mainly in the new Air division. I think that's due more to more performance
+obligations than milestones met in previous years, but perhaps you could just clarify that and explain
+which the main contracts are that are sort of causing that. And then, finally, Charles, you mentioned good
+visibility on future sales, and Pete, I just wondered, when you look at 2018 having delivered the sort of
+GBP 41 billion order book and 2017, is it possible to give a steer on how much of this year's revs are
+already contracted or in the bag if you like?
+
+Charles Woodburn
+CEO & Executive Director
+
+I mean, the last one is in excess of 70%, so I think I mentioned that already in my presentation.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Yes, it's -- in fact, it's just shy of 75%. It's just shy of 80% in terms of order cover for 2018 sales. Okay,
+first question was the bond. Yes, we have a $1 billion U.S. bond, which matures in mid-'19. I think the
+coupon on that is north of 6%. So we will be repaying that out of existing cash holdings. And clearly, we're
+getting nothing like that in terms of return on cash. So that, you can work that one out. That's worth
+$0.01 of earnings in sort of -- for the full year for 2020 and half of that in 2019. You asked about CapEx. I
+mean, the CapEx we're spending at the moment, in excess of depreciation, is largely in the U.S. in support
+of ramp up for combat vehicles and Electronic Systems. Yes, we will burn through that. We'll get through
+that largely in '18. There'll be some in '18 (sic) [ '19 ], but largely in '18. And then the IFRS 15 question, if
+I take you back to the WebEx we had in November, we did say that the cumulative impact of IFRS 15 was
+going to be to drag back GBP 3.7 billion of sales, which is effectively the amount of work in progress that
+we had in the balance sheet. And that drag back occurs in a number of years. And probably, the best way
+to illustrate that is on the Typhoon Oman contract. So we got that contract at the end of 2012. We've been
+building up work through 2013, '14, '15, '16, and we delivered aircraft in 2017.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+So what's been happening through this IFRS 15 restatement, all the sales that we took on deliveries on
+those aircraft in 2017, all get pushed back to prior years when we were spending that -- incurring the
+cost and spending the cash. So pulling sales into prior years. The margin, however, which is why you see
+13.3% margin, I think, it was for the sector as restated, doesn't change the margin performance on that
+program. So you get a lot of profit coming through, when we made the deliveries, because the risk have
+been retired, but almost no sales, because all sales have been taken earlier. This is IFRS 15. I'm not a fan,
+as you can tell. I think that was -- was that all your questions? Okay.
+
+Celine Fornaro
+UBS Investment Bank, Research Division
+
+Celine Fornaro from UBS. I've got 2 questions, if I may. The first one would be for Charles. So you
+mentioned the word competitiveness, and you said that competitiveness comes from R&D, I guess, and
+efficient costs. But you haven't really said what you're looking in terms of order and the potential order
+intake, particularly in the U.S. divisions, or when you see those efforts paying out? My second question
+would be for Pete. If I look at the Air division, now I appreciate the IFRS 15 dynamics, but fundamentally,
+it's becoming more and more a support or international business. So why are we not getting more towards
+the high end of that range of that division? And when could you have a higher margin range?
+
+Charles Woodburn
+CEO & Executive Director
+
+I think competitiveness is more of a general comment, that there are opportunities that we can exploit
+at the enterprise level, be it through procurement, technology, so on and so forth, to do more and offer
+more a competitive product to our customers, which has to help us in export markets and here in the
+U.K. and in the U.S. I mean, there's no question that defense budgets, whilst they might be growing,
+customers want to do more with less. And we need to be shown to be able to respond to that. And I think
+that there are, as we've already seen in the last 12 months, some substantial opportunities for us to do
+that. And I think we're all taxpayers here in the room and want to make sure that our budgets are being
+used in the most efficient way possible. And we are finding some -- a number of opportunities. So these
+businesses, I've said already, they're well-run businesses, but there is a layer at the enterprise that we've
+not exploited before that we will continue to push hard. And I think that will then offer better value to our
+customers and position us better in competitive situations, where cost is always a factor in a lot of our bid
+situations.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+On the Air question, I think, if -- when you look at the margins between production and support, they're
+not that different in any of our businesses. And if you look within the Air sector, for example, now it's
+Saudi support business, the Saudi customer -- as you know, the Saudi contracts are government-to-
+government contracts. We execute those contracts on behalf of the U.K. government. The pricing that
+the Saudis get is very similar to the U.K. pricing, the U.K. pricing is driven by sales and procurement
+regulations. So there is no big differential between production and support margins. It's very consistent.
+You will not see big swings in mix between whether in production or whether in support phases. It doesn't
+work like that.
+
+Charles Woodburn
+CEO & Executive Director
+
+Halfway down, on the right for me or the left for you.
+
+David Howard Perry
+JP Morgan Chase & Co, Research Division
+
+It's David Perry at JPMorgan. I've got 3. I think one is probably for Pete and 2 for Charles. Pete, just on
+the Eurofighter production comment, the comment that it's stable post '18. As I understand it, Oman
+drops to 0 in '19, U.K. and Europe deliveries fall a lot under their low value as a little bit of Kuwait comes
+in, but net-net, it's a big drop. And even notwithstanding percentage of completion accounting, I don't
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+see how it's stable unless you have in your business planning a new order. So if you could comment on
+that, or if I just got it wrong, which I may have. And the 2 for the CEO, please. The U.K., I mean, you
+said it looks like a stable outlook, but from what I read in the newspapers, frankly, it could be anything. It
+strikes me there may be downside risk potentially. So I just wonder if you could talk about this flexibility
+in your system, in the workforce, your planning for certain eventualities that may come out of this defense
+review. And then the second one please, Charles. Interesting times in the global defense sector, because it
+strikes me, we're seeing more M&A, and quite substantial M&A than we've seen for about 20 years. GD's
+doing a big deal, Northrup's doing a big deal. Taranis is doing a big deal. BAE doesn't look to have a lot of
+flexibility. We've talked about the cash flow in previous questions. There isn't a lot left after the dividend. I
+just wonder how you feel about the risk of BAE perhaps being a little bit left behind in this latest round of
+consolidation.
+
+Charles Woodburn
+CEO & Executive Director
+
+You want to do the first one first?
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Yes. In terms of Typhoon production, as I said, we're down at sub-GBP 500 million in terms of volume.
+But under IFRS 15, it is no longer linked to milestone performance or deliveries. So in our plan, obviously,
+we've still got Kuwait going through, we've got some European final acceptance activity still going
+through. We do [indiscernible] Qatar in the plan. We have a contract, as I said earlier on. We're waiting for
+the finance package to be agreed and then we have that contract. And because from the day you start the
+contract and start incurring cost, we will be recognizing revenue. We don't wait under IFRS 15 now on the
+revenue for milestones or production deliveries. So it is a change to the model, David.
+
+David Howard Perry
+JP Morgan Chase & Co, Research Division
+
+And [indiscernible] on record, but I mean, Qatar is 2022...
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+No, it's not. It's not. That's when deliveries, David. That's what I'm trying to say. You need to get off
+deliveries and think about when are we actually doing activity under a contract. We can take you through
+it, but you've got to get off that trading on deliveries. That model doesn't work anymore.
+
+David Howard Perry
+JP Morgan Chase & Co, Research Division
+
+Okay, we'll do that one offline.
+
+Charles Woodburn
+CEO & Executive Director
+
+In terms of U.K., I mean, as you know, there's defense and security reviews split into 2, security and
+the defense modernization program. We'll await the outcome of that, but I think the U.K.'s still very
+much committed to the 2% number. You are aware that, in the U.K., most of the impact -- 95% of our
+revenues are on these long-term programs, which does give us good visibility, mindful of the affordability
+challenges. And we've got to make every effort to make sure that we are offering better value to our
+customer here, because that's exactly what they expect of us. So I think our planning assumptions based
+around that still stand. I think, for M&A, I think we've made clear before that we do see opportunities
+for bolt-ons, small technology additions to the portfolio, and those are the kind of things for the [ CK ]
+organization that we're going to be pursuing.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Sandy or Harry.
+
+Charles Woodburn
+CEO & Executive Director
+
+Sandy.
+
+Sandy Morris
+Jefferies LLC, Research Division
+
+Yes, 23 questions, if I may. Just swiftly, what did you say about provisions in the second half? I thought
+I heard the word mentioned, that they went up quite a bit in the second half, just on the balance sheet,
+Pete.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Provisions in the second half?
+
+Sandy Morris
+Jefferies LLC, Research Division
+
+Yes.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Yes, I mean, there's 2 things. One is we took the restructuring charge in AI. I mentioned we took another
+$16 million on the U.S. ship repair programs. And obviously, we took some provisioning in respect of the
+announcements we made on reorganization back in November. So no one big item; it's a collection.
+
+Sandy Morris
+Jefferies LLC, Research Division
+
+Okay. And then -- so where do they go through under...
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+They go through the P&L and then the -- [ on the line ], absolutely, we don't keep those out separate,
+and then -- but you'll see -- and what I said on the cash guidance, you'll see the cash then go out through
+2018.
+
+Sandy Morris
+Jefferies LLC, Research Division
+
+[indiscernible] something did well in the second half, didn't it?
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Yes.
+
+Sandy Morris
+Jefferies LLC, Research Division
+
+And then a slightly tedious question because I can't see anything in the cash flow. When Riyadh Wings
+buys into our operation in Saudi, should I expect to see any payment in cash flow?
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+If and when we do that, Sandy, then the answer is yes.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Sandy Morris
+Jefferies LLC, Research Division
+
+I thought they bought a wee bit.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+They bought 4%.
+
+Sandy Morris
+Jefferies LLC, Research Division
+
+And that's so small that, that doesn't even show up?
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+It's lost in the roundings when you get to the 0.1s of billions, yes.
+
+Sandy Morris
+Jefferies LLC, Research Division
+
+Okay. Okey dokey. That's not what I expected. And the last thing, and this is just back to ship repair. Real
+bump up in orders in the second half. And actually, 2018 is not meeting its level either. And there is this
+-- I heard what Jerry said about 10% more, but there's this argument that the public shipyards -- this is
+around, not me, the public shipyards now get flocked with work, so much more work comes available to
+third-party yards like yourself. That is the theory, that actually ship repair could step up quite a bit. And
+the pace of contracts already this year has been pretty quick. So that's me done.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Yes. You're right, Sandy. And when you looked at the guidance for '18, you were talking about 10% to
+15% growth rate for that P&S U.S. business, and that's where the ship repair business is. We had GBP 1.3
+billion of orders in that division last year, and that compared to GBP 1 billion of sales in the division. So
+absolutely, the order backlog is building nicely.
+
+Charles Woodburn
+CEO & Executive Director
+
+On the services part of the portfolio, as you're aware, is one of the things that sees the benefit of any
+increased spending quicker than anywhere else because you can deploy the additional spending quickly.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+One there and one for Harry.
+
+Olivier Brochet
+Crédit Suisse AG, Research Division
+
+Yes, Olivier Brochet with Crédit Suisse. I would have 2 questions, please. First one on F-35 and the shift
+from [indiscernible] to full-rate production. Should we expect a change in the margin profile for the group
+on this program due to that shift? And the second question is, you mentioned MBDA quite a number of
+times in your prepared remarks. Can you give us a bit more granularity about what it represents today in
+terms of contribution to cash on earnings and what it could be in 2020, for instance?
+
+Charles Woodburn
+CEO & Executive Director
+
+On [indiscernible] we're not expecting a significant change in margin as a result of the step-up.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+23
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+The margins remain double-digit, and we're not expecting any significant movement from moving to full-
+rate production.
+
+Charles Woodburn
+CEO & Executive Director
+
+MBDA?
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+And on MBDA, it is seeing significant growth. It's not that long ago, it was about a EUR 2.8 billion
+business. It's looking to move to a EUR 4 billion over a 4- to 5-year window, and it's seeing good margin
+growth. It's a double-digit margin business and performing very well. And sales growth will grow in line
+with increasing backlog. And you saw the orders that have booked during the year, we're very proud
+owners of that business.
+
+Olivier Brochet
+Crédit Suisse AG, Research Division
+
+And the cash? [indiscernible]
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Yes, and the cash comes with the orders and in deliveries. So it's a nice business to own. Harry.
+
+Harry William Freeman Breach
+Raymond James Euro Equities
+
+Harry Breach, Raymond James. I promise, no questions about IFRS 15, Pete. Sorry to disappoint. But
+one, I want to pick up from one of Dave's questions and another one slightly differently. But the pick-
+up from Dave's question is, thinking about the U.K. and the MoD sort of behavior at the moment, are
+we seeing contract awards happen on a pace you'd expect? Or at least no further behind schedule than
+normal? So, our contract issuance, is it happening on the pace you'd expect or are we starting to see lags
+and delays as -- due to the uncertainty connected with the review? And then completely differently, much
+more a program level, it's absolutely not lost on me, Charlie, that you have Dreadnought reporting to you
+directly. Clearly, build design complexity on SSBNs is high. They haven't been manufactured for some
+decades. Astute was challenging. Can you help us to think about sort of milestone achievement on that?
+And particularly, when are we over the highest risk phases with Dreadnought? [indiscernible]
+
+Charles Woodburn
+CEO & Executive Director
+
+I think we -- I mean, it's fair to say that we got on contract with a number of big programs over the last
+few months, and we are not seeing any real change in contracting rhythm from the U.K. MoD, would be
+fair to say, I think.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Yes. I mean, you're right. I mean, we booked on 26, so we have the first 3 ships manufacturing. We've
+got Astute. We did have to just do the final pricing on both [indiscernible], but the work has been running
+for us for some time. And Dreadnought we're funded. It will require further funding later in the year, but
+there's no delays.
+
+Charles Woodburn
+CEO & Executive Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+24
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+I mean, these are big programs with big invest marching armies behind them. And we've seen a steady
+drumbeat of contracting activities, as you'd expect with them.
+
+Harry William Freeman Breach
+Raymond James Euro Equities
+
+[indiscernible] for the lag?
+
+Charles Woodburn
+CEO & Executive Director
+
+No.
+
+Harry William Freeman Breach
+Raymond James Euro Equities
+
+And then on Dreadnought, the sort of key -- when do we get key risk retired on that and when?
+
+Charles Woodburn
+CEO & Executive Director
+
+I mean, as you're aware, it's a very big program, a very complicated program. And we're still at quite
+early days of transition to build. We did cut steel last year on this, and I think with -- I mean, it's -- first
+in class, as you're well aware, is always the toughest build of any shipbuild or boatbuild. And we're at
+early days on that, but I think it's also fair to say it's getting, as you would expect, a very high level of
+attention, both from me and the rest of the exec team to make sure that we deliver well and effectively on
+this program.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+And Harry, from a risk perspective, financial risk perspective, This is an ascertained cost contract. So this
+is not a firm fixed price. We're not running those sorts of risks, if that was behind the question.
+
+Harry William Freeman Breach
+Raymond James Euro Equities
+
+[indiscernible]
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+So it's ascertained cost. So it's cost reimbursement plus fee.
+
+Charles J Armitage
+Citigroup Inc, Research Division
+
+Charles Armitage, Citi. Political question. You've got a new Minister of Defense who may want to become
+PM. You've got a Chancellor -- [indiscernible] who may want to become PM. Can you -- you mentioned
+the 2% of GDP. When Hammond was in defense, he put on, what was it, 0.5% real increase in the
+modernization budget. Can you just sort of talk through the different dynamics of whether the MoD wants
+to increase spending outside of modernization, and hence modernization gets pushed, how do you see
+that -- is that 0.5% [ invalid ] or not?
+
+Charles Woodburn
+CEO & Executive Director
+
+Frankly, I think it would be premature to try and speculate, and it would be speculation, given the ongoing
+reviews that we await with interest the outcomes of. And until we hear something different, we continue to
+work on the prior planning assumptions, noting that I think the defense secretary has said on a number of
+occasions that he would like to see something that is not spending neutral, is better than that. And frankly,
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+25
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+over and above that would be pure speculation. Okay. No further questions? Question on the line, you may
+have...
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Oh, question on the line. Okay. Please, whoever, fire it in.
+
+Operator
+
+Tristan Sanson of Exane, please go ahead.
+
+Tristan Sanson
+Exane BNP Paribas, Research Division
+
+Yes, so it's Tristan Sanson from Exane. Had 2 questions. The first one, I wanted to follow up on the
+answer you made to David about the fact that you need to sync in -- about the declaration of revenue
+recognition versus deliveries on some large contracts. So if we're a bit optimistic and we assume that this
+year you may win LAND 400, SEA 5000, the CSC in Canada and the ACV in the U.S., if you get these 4
+key contracts, could we see revenue recognition fast enough to get to mid-single-digit organic growth as
+soon as 2020 if ever? Am I looking at it the wrong way? And the second question is I wanted to know if
+you could give us an outlook for the evolution of self-funded R&D going forward.
+
+Charles Woodburn
+CEO & Executive Director
+
+I think it's fair to say that we never plan on winning everything. That would be a great problem to deal
+with, but we don't plan on winning everything. I don't know if you want to comment any more on that. So
+more than that would be real speculation, I think.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Yes. It would be, yes. I would just stress again, and I'm starting to sound like a broken record, even if
+we got more revenue, that's not going to change earnings. Because we will only take risk -- we will only
+take profit when we retire risk on a program. So even if we get some top line, and so it looks like organic
+growth, you need to be focused on the earnings now more than you used to -- you can discount sales
+more than you used to. Sales is vanity, profit is sanity and cash is king. So focus on the earnings and the
+cash.
+
+Charles Woodburn
+CEO & Executive Director
+
+What was the second point?
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+The second point was around the outlook for R&D.
+
+Charles Woodburn
+CEO & Executive Director
+
+I think, as you're aware, a large piece of our R&D is indeed customer funded. And that just depends
+on where we are with programs, what part of the program that is -- are developmental items within
+a program. So that, frankly, will have its ups and downs. But in terms of self-funded part of the R&D,
+the ambition that we have for the technology organization that we're creating is that we then create a
+framework to allow us to efficiently or more efficiently deploy self-funded R&D programs within the group,
+and to, over time, increase R&D funding. I'm not prepared to sort of give numbers around that. And I
+think a fair bit of it depends on the opportunities that Nigel and the team are able to put together in the
+context of bolt-ons as well and bring to the board. But I'm certainly in a sense committed to present these
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+26
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+opportunities to the board. And I think, done convincingly and with the right organization behind it, we can
+make a good case -- a good investment case to increase self-funded R&D.
+
+Peter J. Lynas
+Group Finance Director & Executive Director
+
+Any more questions on the line? Okay. No more questions? Thank you very much.
+
+Charles Woodburn
+CEO & Executive Director
+Thank you very much.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+27
+
+BAE SYSTEMS PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+28
+
+

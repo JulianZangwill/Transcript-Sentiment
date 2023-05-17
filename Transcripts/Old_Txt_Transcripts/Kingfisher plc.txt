@@ -1,0 +1,839 @@
+Kingfisher plc LSE:KGF
+FY 2018 Earnings Call Transcripts
+Wednesday, March 21, 2018 8:00 AM GMT
+S&P Global Market Intelligence Estimates
+
+EPS Normalized 
+
+0.26
+
+CONSENSUS
+
+-FY 2018-
+
+ACTUAL
+
+0.25
+
+Revenue  (mm)
+
+11653.28
+
+11655.00
+
+Currency: GBP
+Consensus as of  Mar-21-2018 7:37 AM GMT
+
+-FY 2019-
+
+SURPRISE
+
+CONSENSUS
+
+(3.85 %)
+
+0.01
+
+0.29
+
+11926.20
+
+FY 2018
+
+CONSENSUS
+
+0.26
+
+ACTUAL
+
+0.25
+
+SURPRISE
+
+(3.85 %)
+
+- EPS NORMALIZED  -
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+3
+
+4
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+KINGFISHER PLC FY 2018 EARNINGS CALL |  MAR 21, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Karen Witts
+CFO & Director
+
+Véronique Laury-Deroubaix
+CEO & Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+KINGFISHER PLC FY 2018 EARNINGS CALL |  MAR 21, 2018
+
+Presentation
+
+Véronique Laury-Deroubaix
+CEO & Director
+
+Welcome to the Kingfisher full year final results for the year ended 31st of January 2018. You may
+remember this slide from last time. So a reminder about how well positioned we are in what is an
+attractive market.
+
+Our playground is Europe+; Europe, Russia and Turkey. 320 million homes in a market worth of GBP 240
+billion, split 60% home improvers, 40% light pro. But it is still fragmented, demonstrated by us being #2
+with roughly a 5% share. Home is really key to our customers, whose needs are more similar than they
+are different. It remains a top spending priority and 65% did a home improvement project last year.
+
+Us within this market. Our biggest markets are the U.K., France and Poland, where we have strong market
+positions. Our big buying scale is supported by a global sourcing network. We are highly cash generative.
+Our balance sheet remain strong, supported by GBP 3.5 billion of freehold property. We are announcing
+today dividends up 4%, and we have continued to return surplus cash flow to shareholders via buybacks.
+
+Now a very quick reminder of our 5-year transformation targets that we announced 2 years ago. As you
+know, we are targeting to deliver GBP 500 million sustainable profit uplift by the end of full year '20/'21,
+driven by these 3 strategic pillars, over and above what the business would have delivered, without the
+plan. I will cover this more later, but I characterize where we are today, is about building the engine for
+growth, creating a new operating model for home improvement.
+
+I remain confident that our plan will succeed. Why? Because we are starting to see tangible delivery, the
+tangible green shoots of our delivery. The changes are now visible across our stores and online. Over 1/3
+of our ranges have now been unified and they are being well received by customers. We are buying as
+ONE and are starting to see the customer and financial benefits coming through, both in sales with the
+new ranges outperforming old ranges and gross margins, which are up 180 basis points before clearance.
+
+As we will talk to later, we are guiding to growth in unique and unified sales and higher gross margins
+next year. Our digital initiatives are also gaining momentum as we enter the final year of rollout of our
+unified IT platform. And I am pleased to see that our operational efficiency initiatives, focusing initially on
+goods not for resale, which to date has delivered GBP 58 million, and are now gathering pace as we start
+to unlock further opportunities.
+
+There is a but. We delivered a big step-up in the level of transformation activity last year, and this has
+created disruption in the business. We have been very open about that. And this disruption has different
+lenses.
+
+Firstly, for our customers. The reality is mixed when they shop with us right now. They are seeing the
+disruption in our stores, the clearance activity, product availability issues, aisles closed sometimes and
+people less focused to serve them, nothing surprising when you do big refurbishment. They have a mixed
+digital experience as well. And although we are investing in lower prices as we roll out our unified and
+unique ranges, this takes time to feed through and resonate with our customers as they do not naturally
+shop for home improvement that often.
+
+We are not, however, standing still. We are acting on the causes of this disruption and adapting our
+approach as necessary. We have dedicated range change teams working out of hours as much as possible,
+as we’ve touched around 25% of our physical space last year. We have processes in place to control the
+clearance of old ranges to make way for new ranges.
+
+This has worked well. And we now have group digital trading teams based locally in B&Q and France
+to support our digital ambitions. And to de-risk the customer experience whenever possible, we have
+invested in more stock to improve product availability for our customers. Our business can support this
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+KINGFISHER PLC FY 2018 EARNINGS CALL |  MAR 21, 2018
+
+given our strong balance sheet. We have to do what is right for our customers. Our reality is that we have
+probably lost some customers, but we are working hard to reverse this.
+
+Karen will go into more detail on stock later, but I wanted to stress that this has been a conscious
+decision, and you have probably seen for yourselves that availability is starting to improve. Also, the lion's
+share of this mitigation stock will reverse being core, fast moving lines.
+
+Secondly, on to our 77,000 colleagues. This is indeed a tough time inside the business. The pace of
+change is quick and impactful, but necessary as we build the new ONE Kingfisher engine to support our
+ambition to be the leading home improvement company. We are now nearly half-way through our 5-year
+transformation. We are, therefore, living in a world where we have as much of the new alongside as much
+of the old. This is a challenging environment, but our reality.
+
+We have our unified IT rollout, which puts pressure on some of our business functions. We have new ways
+of working and new processes with steep learning curves. So it, of course, takes time for change to bed
+down in the business and for capability to build. Our best example would be our Offer and Supply Chain
+organization where teams are working as ONE with unified global functions and accountability for the first
+time. This was set up in 2016, but is of course evolving and improving as we go.
+
+I was delighted to see how engaged our colleagues are despite this period of change. We had an 80%
+response rate from our newly launched real-time engagement tool. This was extended to all 77,000 of our
+colleagues. Our score significantly exceeded both the retail benchmark, including companies like Nike and
+Home Depot, and the all-industry benchmark. It was even higher for the leadership team.
+
+And as we are not standing still for our customers, we are not standing still for our colleagues either.
+As many of you know, given the increased level of change, we appointed Steve Willett as Chief
+Transformation Officer in the summer last year. We are prioritizing the multiple transformation work
+streams with a phased approach, flexing where necessary.
+
+For our colleagues in stores, we launched a home improvement academy. Firstly, last September on
+bathroom and more recently on outdoor ranges in February. ONE learning experience, the first-ever
+company-wide learning event for store colleagues to ensure ONE customer experience. Over 1,000
+participated in each event with ambassadors from every store.
+
+It really feels to be like momentum is building with wider sharing. We are really starting to do things
+together as ONE. Concrete examples for me are OSC hosting our first ever group-wide own brand product
+show, where we also hosted our Capital Markets Day late last year. 2,000 of our colleagues visited this
+product show to learn more about the ranges they will see this year. And more recently, our first ONE
+conversation, a live, 2-way linkup of 8 locations, involving over 3,000 leaders and store managers from all
+parts of the business. This generated record internal Facebook yammer posting and comments and felt like
+a big step forward for the business in terms of wider sharing and support of the ONE Kingfisher strategy. I
+personally want to thank all our 77,000 colleagues for their ongoing commitment and enthusiasm.
+
+And as we transform, the world is changing around us. And the external backdrops across our major
+markets are indeed mixed. The U.K. is more uncertain. The market feels like it has become tougher as
+the year has progressed, as we have referenced from softer big-ticket sales in Q4 across both businesses,
+especially B&Q. The backdrop in France is encouraging, though volatile. You can see this from the Banque
+de France data. And the market in Poland remain supportive, though we will need to see the impact of the
+Sunday trading ban which has just come into effect.
+
+And of course, our competitive environment remains intense, although different by market, with some
+markets more intense than others.
+
+Overall, despite the pace of change and the disruption we have been experiencing, we have delivered all
+our key strategic milestones for the second year in a row, and we have continued to return cash to our
+shareholders. But before I get more into the wider update on our strategic milestones, I will pass to Karen
+to take you through our full year numbers.
+
+Karen Witts
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+KINGFISHER PLC FY 2018 EARNINGS CALL |  MAR 21, 2018
+
+CFO & Director
+
+Good morning, everyone, and thank you for listening in today. I'm going to take you through our financial
+highlights for the year, starting with the income statement. There is more detail in today's release, but I
+would like to pull out the key headlines in each of our major geographies. Then I will move to an update
+on the balance sheet and uses of cash and return later to talk about our guidance for this year ending
+January 2019.
+
+So starting with the income statement. On a constant currency basis, total group sales were broadly flat
+at GBP 11.7 billion, with like-for-like sales down 0.7%. We estimate that business disruption, linked to our
+transformation work, had a negative impact of approximately 1.5 percentage points on sales. At a group
+level, gross margins were down 20 basis points in constant currency. I'll cover this in more detail on the
+next slide.
+
+Retail profit of GBP 849 million was down 3.6% on a constant currency basis. This was mainly driven by
+the sales decline, partly mitigated by cost reduction initiatives, including GBP 28 million of goods not for
+resale benefits. By way of reminder, all underlying metrics are before transformation costs.
+
+Underlying profit before tax was GBP 797 million, up 1.3%, in line with reported retail profit. This included
+GBP 34 million of favorable currency impact. Our effective tax rate increased by 4 percentage points to
+30%, mainly reflecting the impact of a GBP 20 million corporate tax surcharge in France, which we do
+not expect to recur. All earnings per share measures include the tax surcharge, which has a 0.9p adverse
+impact.
+
+Underlying earnings per share of 25.5p were down 0.4p, reflecting the adverse impact of the French tax
+surcharge, partly offset by a positive impact from the share buyback. Adjusted profit before tax of GBP
+683 million was down 8%, reflecting a GBP 114 million of transformation cost charged to the P&L, up from
+GBP 44 million this time last year. This was lower than the GBP 130 million we guided to.
+
+Statutory profit before tax was down 10% to GBP 682 million, slightly more than the adjusted profit before
+tax, largely reflecting an exceptional gain of GBP 17 million in last year's comparative.
+
+At a group level, gross margins were down 20 basis points in constant currency, in line with our guidance
+at the start of the year of broadly flat. The benefit from work on our unified and unique offer at a group
+level was 40 basis points increase. This equates to 180 basis points of growth in gross margins from our
+unified and unique sales, reflecting cost price reduction in line with our plan.
+
+The clearing of old ranges to make way for our new unified and unique ranges, as we physically impacted
+25% of our store space this year, cost 50 basis points. The gross margin on the rest of the business,
+including stronger foreign exchange headwinds in the U.K., was down 10 basis points overall.
+
+I'd now like to describe the movement from underlying profit before tax, through to statutory profit before
+tax for the full year. Underlying profit of GBP 797 million includes GBP 28 million of GNFR benefit, but
+is before GBP 114 million of transformation costs, when our guidance was up to GBP 130 million. These
+transformation costs largely relate to the remerchandising work associated with introducing our unified
+and unique offer, including incremental in-store labor costs and point-of-sale change, and to the costs of
+improving our digital capability. Adjusted profit is therefore GBP 683 million, which is before exceptional
+items. After an overall net GBP 1 million exceptional charge, statutory profit before tax was GBP 682
+million.
+
+The GBP 1 million net exceptional charge reflects GBP 15 million of reorganization costs relating to our
+transformation. This was below our guidance of GBP 30 million, mainly reflecting timing. And we reflected
+a GBP 14 million exceptional gain, driven by the success of the B&Q store disposals that we talked about
+at the half year.
+
+I'll now cover the key results in our major geographies. In the U.K. and Ireland, like-for-like sales were up
+0.6% with a 2.8% like-for-like sales decline at B&Q more than offset by 10.1% growth at Screwfix. B&Q's
+2.8% like-for-like sales decline reflects around 1.5 percentage points of transformation disruption, but
+includes 1% of sales transference impact from the annualization of store closures completed last year.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+KINGFISHER PLC FY 2018 EARNINGS CALL |  MAR 21, 2018
+
+Digital sales grew 11% over the year with click & collect growing by nearly 90%, and digital sales now
+represent 4% of total sales. Screwfix's growth continues to be driven by its specialist trade desks,
+exclusive to plumbers and electricians, and by its strong digital capability with mobile sales up 86% and
+click & collect sales up nearly 40%.
+
+We opened another 60 new outlets during the year, mainly weighted to the second half of the year, taking
+the total to 577 versus our longer-term target in the U.K. of 700. We now have over 70 outlets in Greater
+London. The more centrally located stores are typically smaller than average formats and demonstrate the
+adaptability of the Screwfix model and the ability to reach more customers.
+
+U.K. and Ireland gross margins were down 30 basis points, reflecting the stronger foreign exchange
+headwinds in the second half of the year, but retail profit was up 5%, reflecting strong cost control. In
+quarter 4, however, we experienced softer like-for-like sales across both businesses with B&Q down 5%
+and Screwfix up 7%.
+
+In B&Q, footfall was weaker, and we believe there was softer demand for big ticket items such as kitchens.
+In Screwfix, given its scale, we'd always expected some slowdown in like-for-like sales, but we've also
+seen some evidence of softer demand.
+
+In France, like-for-like sales were down 3.5% with Castorama like-for-like sales down 2.4% and Brico
+Depot down 4.8%. This performance also reflects around 1.5 percentage points of transformation
+disruption and was weaker than the Banque de France home improvement sales data for the same period.
+
+In quarter 4, our like-for-like sales improved to broadly flat; however, the market has been volatile across
+the year. Gross margins were broadly flat after price investment. Retail profit was down 14.8% with the
+impact of weaker sales partly offset by good cost control.
+
+A year ago, we outlined the ONE Kingfisher initiatives to drive our business in France, and whilst there is
+no quick fix, we have made progress against all of them.
+
+Across the year, we've been investing in price, principally in Castorama and behind our unified and unique
+offer. Our price position has improved from 108 in September 2016 to around 104, and we're on track to
+improve it further, to make home improvement more accessible for everyone. We have also improved the
+customer proposition with around 1/3 of our ranges now new and in-store and online, such as the new
+unique bathroom ranges that are selling well in both Castorama and Brico Depot.
+
+And from a digital perspective, following the rollout of our unified IT platform in Castorama, we relaunched
+the website at the end of January. The website has improved search, better navigation and easier
+checkout and is mobile-friendly. Whilst it is clearly still early days, we're encouraged by the performance
+so far with conversion up around 20%.
+
+In our established Other international businesses, Poland, Russia and Spain, like-for-like sales increased
+by 1.8%. Sales declined in Spain and Russia, but Poland had another good year with like-for-like sales
+up 5.3% despite some disruption, following good trading in a supportive market. Gross margins in Poland
+were up 10 basis points and retail profit was up 8%, driving an overall 3.3% increase in retail profit for
+established Other international.
+
+And finally, on to our newer development businesses in Romania, Portugal and Screwfix Europe. Losses of
+GBP 17 million were GBP 1 million lower than last year and broadly in line with our guidance of a GBP 15
+million loss for the full year. Romania delivered a profit of GBP 3 million versus breakeven last year, but
+this also includes 1 month's trading from the Praktiker acquisition. The Praktiker acquisition more than
+doubles the size of our Romania business, giving us national reach and establishing us as the #2 player in
+the market. As we integrate Praktiker into our ONE Kingfisher plan, we would expect the overall Romanian
+results to be broadly breakeven next year.
+
+The overall losses mainly relate to Screwfix Germany and the annualization of stores that opened in the
+previous year. As we have previously said, we won't open any more stores until the unified IT rollout is
+complete.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+KINGFISHER PLC FY 2018 EARNINGS CALL |  MAR 21, 2018
+
+And now on to cash and return. Our year-end net cash position was GBP 68 million after the planned step
+up in transformation costs, higher working capital and the increased share buyback amount versus the
+previous year. I'll cover this in more depth shortly.
+
+Our key returns metric, leased adjusted return on capital employed, declined by 210 basis points from
+12.5% to 10.4% this year, largely reflecting the impact on our profit of the increase in transformation
+costs, an increase in the tax rate driven by the one-off tax surcharge in France and higher working capital.
+At a group level, the impact of the transformation costs on ROCE was 70 basis points and the French tax
+surcharge was 40 basis points.
+
+I am pleased to report that the board is proposing a final dividend of 7.5p. This results in a full year
+dividend of 10.8p; a year-on-year increase of 4%, covered 2x by adjusted earnings and representing a
+dividend yield of 3%. Dividend cover excluding the French tax surcharge impact was 2.1x. In addition
+to the ordinary dividends of GBP 231 million, we returned GBP 260 million to shareholders via share
+buyback, a GBP 60 million increase on last year, taking the cumulative amount to GBP 460 million of the
+GBP 600 million that we committed to return over the over the first 3 years of our 5-year plan. We're
+restarting our buyback today, announcing a further GBP 40 million of the remaining GBP 140 million.
+
+And now on to the usage of cash in more depth. During the year, we generated nearly GBP 950 million of
+EBITDA. After a GBP 372 million outflow of working capital, largely relating to increased levels of stock,
+operating cash flow was GBP 557 million. We invested a further GBP 368 million of this back into the
+business. We'll come on to CapEx guidance for this year later in the presentation. We returned a further
+GBP 491 million to shareholders via ordinary dividends of GBP 231 million and GBP 260 million of share
+buybacks. Although our lease adjusted net debt to EBITDAR ratio has increased to 2.4x, our capital
+structure remains within our targeted range, and the group continues to have financial flexibility whilst
+retaining an efficient cost of capital.
+
+Turning now to working capital. The GBP 372 million outflow in the year is largely driven by an increase
+in stock, most of which relates to where we're in our transformation. As Vero said earlier, our reality is
+that we're transitioning between our old world and our new world, and this is currently creating some
+inefficiency. The impact of this stock increase on cash flow breaks down into 3 main elements. Firstly, the
+impact of growth and foreign exchange, which are a normal aspect of our business. We have more stock
+in the business relating to new stores in Screwfix and Poland and the acquisition of Praktiker Romania.
+This amounts to around GBP 70 million. Foreign exchange impact is another further GBP 20 million. So
+combined, this is around GBP 90 million.
+
+The second element relates to the move to unified product ranges. In order to sustainably leverage the
+scale of our group, we're changing our operating model and controlling more of the supply chain than
+we used to. Costs, which used to be in the cost of product we bought from distributors, are now in our
+supply chain. Around GBP 105 million of the increase in stock is a reflection of the move to this model.
+For the time being, our reality is that we're not currently getting the benefit of having fewer SKUs across
+the business. Longer term, however, we're confident that we can drive working capital efficiencies within
+our new operating model enabled by the unified IT platform, which, this year, enters its final year. New
+unified ranges increased stock by further GBP 85 million. First-time purchases of new ranges were higher
+than normal as we need to fill the displays and support initial sales for our customers. So combined, this
+element is around GBP 190 million.
+
+And the third element relates to decisions that we've taken on fast moving but non-unified categories.
+Given the disruption that we have encountered, we took a decision to de-risk our customer experience by
+carrying some mitigation stock, focused on improving product availability for our customers. We would
+rather take the cost of carry than lose the sales and perhaps ultimately lose the customer. This amounts
+to around GBP 180 million of non-unified stock on fast selling lines. Our strong balance sheet supports this
+course of action. We do, however, have stock reduction plans in place this year to address this mitigation
+stock.
+
+To summarize the year, our gross margin performance was in line with our expectations with the benefits
+of buying as ONE really starting to come through. Our operational efficiency initiatives are on track and
+transformation costs are broadly as expected. Our balance sheet remains strong and able to support
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+KINGFISHER PLC FY 2018 EARNINGS CALL |  MAR 21, 2018
+
+volatility despite the working capital outflow this year, and we're continuing to return surplus cash to
+shareholders, as planned.
+
+I'm now going to hand over to Vero, but will return later to cover our guidance for full year '18 and '19.
+
+Véronique Laury-Deroubaix
+CEO & Director
+
+Thank you, Karen. So as I said earlier, we've delivered all our key strategic milestones for the second
+year in a row. We've delivered 23% unified COGS, we have completed the second year of our unified
+IT platform rollout, alongside delivering better e-commerce. Karen mentioned the launch of our new
+Castorama France website just now, and we have also built the new mobile platform, launched already at
+B&Q. And we've delivered a further GBP 28 million of GNFR benefits.
+
+Let's now do more of a deep dive on each of these areas. So starting with unified & unique; high level
+first, before going into more detail. Our plan, as you know, is customers first. Customers benefit from
+newer products, better prices, higher quality and sustainability and simpler ranges. Our plan also creates
+business benefits; higher sales, cost price reduction, improved processes, over time, operating with fewer
+SKUs and suppliers. Broadly, the GBP 350 million of the overall GBP 500 million we expect to deliver
+equates to 5% CPR on our GBP 7 billion of buying scale. However, not that we could labor this before, not
+having any tangible products to show you, but the reality is that our plan is about higher gross margins
+and higher sales; higher sales driven by unique ranges.
+
+So what are we seeing? I am seeing early tangible evidence of delivery. Unified and unique sales are
+growing. New ranges are outperforming old ranges. We have great feedback from customers and
+colleagues. Gross margins, in this case pre-clearance, are also growing, up 180 basis points, and this is
+after some price investment where it is needed. As you heard earlier from Karen, our price investments in
+France are gaining traction.
+
+Global SKU numbers and suppliers' numbers are coming down by around 80% through a fair and open
+tendering process. We see CPR coming through. And we are now at 23% unified with an exit rate of 35%,
+covering 62 categories in all from underlays to stick timber. Of course, not every category is a positive
+story, but overall, I am very pleased with our progress.
+
+So let's look at the picture overall. Firstly, sales. I am quoting here the full year sales excluding clearance
+for unified and unique ranges. On that basis, they are up 1%, and they've improved as the year has
+progressed. Better in H2 than in H1, which is encouraging, and this despite the disruption we’ve
+experienced. Of our 7 categories, like bathroom and storage or building and joinery, excluding clearance, 5
+out of 7 categories have grown sales overall and 2 were slightly down. So not bad so far.
+
+Sales overall for the group, though, are down 0.3%, as Karen referred to earlier. This number includes
+clearance. So if we include clearance, unified and unique sales are flat, so better than the overall group
+performance. As I said on the previous slide, our plan is about driving growth, driving higher sales, and we
+are seeing this happen in the numbers, even if it's early days.
+
+Just to clarify what we mean by unified and unique using the bathroom and storage category as an
+example. Unified ranges are ranges where we're simply rationalizing the number of individual SKUs and
+suppliers, like kitchen taps as an example. Leveraging our scale, this generates cost price reduction and
+better prices for customers whilst improving the quality and functionality wherever possible.
+
+But we are also creating unique ranges like bathroom storage furniture, as you see here. This is where we
+are developing and designing product ranges ourselves that excite customers, entirely new and unique
+product ranges created by us, based on our deep customer knowledge that are not available elsewhere.
+Kingfisher IP, so Kingfisher own brand. And we can see that growth in unique ranges are ahead of unified.
+This does not surprise me at all. Unique bathroom furniture is up 39%, well ahead of the entire category.
+The mix so far, though, is weighted to unified. In time, the more unique we have in the mix, which
+implicitly takes longer to materialize, the more this will drive our overall sales.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+KINGFISHER PLC FY 2018 EARNINGS CALL |  MAR 21, 2018
+
+Now on to gross margins. CPR is coming through. Gross margins on unified and unique ranges are up
+everywhere, overall up 180 basis points excluding clearance. We expect to continue to deliver margin
+improvement next year from the range that rolled out last year, as it sells through. And we are very
+confident this will continue. Karen will provide our gross margin guidance for this year a bit later, which we
+expect will be up overall, rather than broadly flat last year.
+
+Let's now look at the unique case study in more detail, followed by a unified case study. So unique first.
+Here, we are looking at the whole category of bathroom and storage, which represents almost 10% of
+total group sales, which include some of our key unique categories this year. Overall, unique represents
+just over 1/3 of this category, reflecting the new ranges we have in bathroom furniture and showers. You
+can see here that the whole category is up 11% at a group level, and it is being driven by the performance
+of unique. The numbers here speak for themselves.
+
+And I have said it before. We know, through our deep understanding of customer insights, that
+customer needs are more similar than they are different. So it is not a surprise to us that we see strong
+outperformance of these unique ranges across all our major geographies and in our small geographies
+too, like Romania where sales are up 26%. In the U.K., sales have doubled from a low base. Volumes are
+ahead of sales growth to which is even more encouraging.
+
+Sales of showers have also performed well across all key markets. The U.K. is a bit lower, where the
+ranges have only recently been implemented, but still encouraging. And as I said to the last slide, new
+ranges overall are outperforming old ranges. And the growth has improved in H2 versus H1 with improving
+availability.
+
+On gross margins. In total, gross margins are up on unified and unique ranges by 180 basis points.
+However, this category, which has a higher proportion of unique, has even higher gross margin. That's
+good news for the evolution of our gross margin. This really shows that -- what we can achieve as a
+business when we design our own unique ranges. So unique drives sales and margin.
+
+Let's now look at the more basic unified ranges, sealants and foams. So sealants and foams sit within our
+building and joinery category and meaningful in terms of contribution. This product, as you will know, is
+bought by home improver and pros and is a critical product, nobody wants a poor seal, but generally not
+easy for home improvers to shop. This is a great example of where we have taken a great quality product
+already in the group, in this case Screwfix, and rolled it out across the wider group with the retail own
+brand packaging. But you cannot sell sealants without the sealant guns. So they've naturally been unified
+at the same time, better quality and significantly better prices.
+
+We have also made it easier for customers to shop with clearer merchandising and less complexity of
+range, it was not very clear previously, and easier for colleagues too with shelf-ready packaging.
+
+So the result so far? Well, this was only implemented in H2, but even so, sales are slightly ahead
+excluding clearance, selling prices are 3% lower overall for customers. Gross margins are up, as you
+would expect. We are working with far fewer suppliers and less global SKUs, really leveraging our scale,
+as we should be, which is generating double-digit CPR, CPR that benefits Screwfix alongside the other
+businesses, and some of which has been used to invest in sharper prices for our customers.
+
+Now on to digital, which will contribute GBP 50 million of the overall GBP 500 million. As you know, our
+unified IT platform is a key enabler for ONE Kingfisher. Given B&Q and Castorama France, over 50% of our
+group sales are now on the new platform. As we said at our half year results, we have revised our rollout
+plans to pull forward the larger operating companies, being Brico Depot France and Castorama Poland.
+Previously, their implementation was planned for later this year. For both OpCos, build is underway and
+implementation has started. We are now entering our final year of rollout.
+
+Our digital plans, levering Screwfix’s best-in-class capability, follow closely behind the IT rollout, so B&Q
+is more advanced. We now have market leading 1-hour click & collect in all stores. Group online sales are
+now at 6%, up on last year, driven by B&Q, which has grown from 3% to 4% and in Screwfix up from 25%
+to 28%. Click & collect remains the most popular channel, representing 55% of digital sales, the 45%
+balance from home delivery. This is driven by Screwfix which is 2/3 click & collect versus B&Q on 25%
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+KINGFISHER PLC FY 2018 EARNINGS CALL |  MAR 21, 2018
+
+click & collect. Click & collect is, however, B&Q's faster growing channel, up from 15% last year, no doubt
+helped by its own 1-hour click & collect.
+
+France remains at 1% digital sales, though, as Karen mentioned earlier, conversion since launch of
+Castorama's website is up around 20%. Our new group mobile platform has been built to be multi-market.
+So although it has already launched at B&Q, it will soon be arriving in France for Castorama, following
+the recent launch of their new website, which you saw earlier. The new group app is even better than
+Screwfix. It is market leading, sub-1 second, and includes great customer-focused features, including
+scanning product codes. Since launch, the B&Q app is delivering higher ATV and conversion. App users are
+worth twice the value of website users.
+
+We said at our Capital Markets Day that if we grow our group conversion rate from around 1.5% by only
+0.1%, then that is worth GBP 40 million of extra sales for us. Also, engagement from both customers and
+colleagues has been excellent with a near 5-star rating on the App store. In terms of desktop, we are
+building our group capability to be as quick and agile as mobile. This will be arriving soon for B&Q and in
+the next few months for Castorama.
+
+And finally, we are making good progress on our wider digital tools that we are developing to help
+customers with their end-to-end home improvement projects. The first one of these is the bathroom
+planner tool. This is now available on the B&Q website and is proving popular. Even though only a soft
+launch at this stage, it has already had over 60,000 sessions, saving nearly 3,000 floorplans. There will be
+more to come this year.
+
+Now on to operational efficiency, which will contribute GBP 100 million of the overall GBP 500 million,
+driven by goods not for resale. By operating more efficiently, we will become a truly low-cost business.
+ONE Kingfisher means we'll collaborate and do things together once, and this program is an evidence of
+that. For the second year in a row, we've delivered ahead of our target milestone. Now we are almost 2/3
+the way through our target having delivered GBP 58 million of the GBP 100 million. The examples here
+speak for themselves. Media buying from 8 suppliers to 1, generating a 7% saving. And HR services, we
+are now -- have ONE tender approach across areas such as recruitment and learning and development,
+generating a 10% saving.
+
+Moving forward to year 3 of our 5-year transformation. Firstly, our strategic milestones. As you can see,
+this year will be another step change year of implementation. Unique and unified offer; our target is to
+move from 23% unified cost of goods sold to 40% and to deliver growth in unified and unique sales. I will
+come back to that.
+
+Digital. We are entering the final year of our unified IT platform, and we will make further headway with
+our e-commerce rollout, alongside full launch of more of our home improvement digital services.
+
+Operational efficiency. We are starting to unlock further operational efficiencies beyond GNFR. Our target
+is to deliver GBP 30 million of benefits this year. I will cover this more in a moment.
+
+And finally, retail operations. I speak to our already high engagement scores versus the retail sector. Our
+colleagues are vital to the success of our transformation, and it is personally extremely important to me
+that they remain as engaged as ever as we continue into another step change year of implementation. So
+our target is to maintain these already high engagement scores.
+
+So just a couple of slides now covering our offer and efficiency. Unified and unique, another big year,
+another big year of physical change and clearance. I mentioned earlier that we have 60 (sic) [ 62 ] unified
+and unique ranges so far, 14 in year 1 and 48 in year 2. We will tackle another 52 this year. Given the lead
+times, negotiations are well progressed to deliver another big year, from 23% COGS to 40%. As I said
+before, unique ranges are expected to drive sales growth as they have started to last year.
+
+So what can you expect to see in stores and online this year? On our unique ranges like bathroom
+furniture, the ranges implemented last year are not one-off. They are core programs that customers will
+learn to love and rely on. We have a great platform, however, to expand on, not replacing the existing,
+but adding to the existing. We will be adding a wood finish to the range and also a higher price point
+Scandinavian look, both of which you can see in this picture.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+KINGFISHER PLC FY 2018 EARNINGS CALL |  MAR 21, 2018
+
+You can also expect to see more of the wider bathroom project as we start to implement sanitary,
+including our first rimless toilet, at an amazing entry market price. This is a great example of how we are
+democratizing higher-end products for the many, making home improvement more affordable to more
+people. I will leave you to work out, however, what the benefits are to customers of a rimless toilet.
+
+And finally, paint, a very big category to use, which you can imagine, represents a significant CPR
+opportunity for us. There are, of course, many other ranges that we will land this year, including hand
+tools, which I will cover briefly next.
+
+Some of you may have seen these in stores and online, as you see here. Our new flagship hand tool range
+for the group is launching now across our geographies. It builds on the already strong Kingfisher own
+brand heritage in Brico Depot. In fact, so popular in France, it even has a fan club. The range has been
+updated and improved to meet and exceed the needs of both our home improver and pro customers. The
+products are tough, durable and reliable, and are packed with features that translate to genuine customer
+benefits. We have improved the quality and functionality of the range, and the range now covers more
+customer needs than it did previously.
+
+For example, we are now selling saws for PVC in the U.K., which was not the case previously. A simple
+example of taking best practice from around the group as we rebuild these ranges bottom up. Also,
+each of the tools comes with a market-leading guarantee of either 5 years or a lifetime. And of course,
+all at great prices. We do expect that our own brand participation in this range to be higher than it was
+previously, to build to around 2/3 over the next 18 months from where it is today at 45%.
+
+The unification process reduced our global SKU count by over 80%, from over 8,500 overall SKUs to under
+1,500. So it's still a big range. This in turn allowed us to review our merchandising, helping customers buy
+the right tool for the job without overwhelming them with too much choice. Just the right tool for the job.
+Initial customer reactions are very positive with online reviews averaging around 4 stars.
+
+Now less from me, let's listen to our teams talking about this great new range.
+
+So as I said before, we are now starting to unlock further operational efficiencies beyond GNFR. Our
+unified IT platform is the key enabler that unlocks the start of this next phase of operational efficiency.
+This has started already with shared services center activity. We have so far had little shared services
+capability beyond IT. We opened a shared service center in Krakow, Poland last year, Krakow being the
+European center of excellence for shared services. This year, we will roll out finance shared services to
+at least 2 of our operating companies. The combined benefit from further GNFR and other efficiencies
+is expected to be around GBP 30 million. And work is underway to unlock further operational efficiency
+initiatives, which we will update you on in due course.
+
+So as I have said a few times today, we are in this phase of building the ONE Kingfisher engine that
+provides the platform for growth. By operating more efficiently, we will become a truly low-cost
+business. This means radically reorganizing. We started with the creation of our Offer and Supply Chain
+organization. And just now I talked about our new shared service center and further work is underway as
+we start to reorganize our wider operating model.
+
+We are rolling out our unified and unique offer, as you know, and this continues into this year,
+leveraging our group scale. We continue to roll out our unified IT platform, now entering its final year
+of implementation. This is a key enabler, including developing our supply chain capability, and we are
+developing our digital capability, leveraging our Screwfix best-in-class capability. Going forward, this new
+engine provides the platform for growth. Our unified and unique offer will provide growth, driven by our
+unique ranges. The seamless and stronger digital offer for our customers will also increase sales and
+digital penetration.
+
+And then there is the opportunity to develop how we combine the best of our physical and digital assets,
+to provide customers with what they want, engaging experiences alongside ultimate convenience. On this
+we are starting to develop plans. Of course, we are not starting from scratch. Many would be envious of
+what we have today. We will continue to leverage what we have, whether it be best practices within our
+big box estate, whether it be the great locations we have across our estate. And of course, our digitally
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+KINGFISHER PLC FY 2018 EARNINGS CALL |  MAR 21, 2018
+
+enabled, data-driven and best-in-class fulfillment Screwfix model. On this, we will come back in due
+course when we have more to share.
+
+I will now hand back briefly to Karen to update you on our guidance for this year before coming back to
+summarize.
+
+Karen Witts
+CFO & Director
+
+Thank you, Vero. So now moving on to that guidance for this financial year. At the level of underlying
+profit, we're guiding to an increase in gross margins at group level, this time after clearance. This assumes
+that the cost price reduction benefits we will generate from unifying 40% of cost of goods sold outweigh
+the combination of clearance costs and net price investment. We expect to deliver a further GBP 30 million
+of operational efficiency benefits in the year, GBP 20 million of which will come from our GNFR program
+and a further GBP 10 million from other operational efficiency initiatives, including some headcount
+reduction.
+
+Cumulatively, by the end of this financial year, we expect to have delivered nearly GBP 90 million of
+efficiency benefits from this program. And given we're not planning to open any further Screwfix Germany
+outlets until we have completed our unified IT rollout, we expect the losses to be similar to last year.
+
+Transformation costs and exceptional charges, excluding estate transformation, both sit below underlying
+profit and both form part of our GBP 800 million total transformation cost guidance. For this financial year,
+we believe that our profit and loss transformation costs will be up to GBP 130 million, reflecting another
+significant year of transformation activity. As a reminder, these costs relate to the remerchandising and
+implementation of new ranges and largely cover incremental in-store labor costs and point of sale change.
+And they also include costs associated with our digital activity, covering both our work in upgrading our e-
+commerce capability and in launching new home improvement services.
+
+Our guidance on the exceptional costs of transformation for this year is GBP 50 million. These are largely
+driven by organizational change, including headcount reduction. We continue to expect that the total
+transformation cost of our plan will be around GBP 800 million.
+
+Let's now turn to guidance on our total capital expenditure for this year, including transformation CapEx.
+The inner circle represents the GBP 368 million we invested in FY '17-'18. The outer circle represents
+guidance of up to GBP 425 million for this year.
+
+In the full year '17-'18, we invested around 30% of our CapEx on refreshing and maintaining existing
+stores. Around 1/4 of the investment was on IT, as we rolled out our unified platform in B&Q and
+Castorama France. We invested 17% on new stores and relocations, including 60 Screwfix outlets in the
+U.K. We invested another 18% on our transformation, which included store CapEx for our new ranges and
+higher digital spend as we work on our customer journeys.
+
+Now moving to the outer circle and our guidance on CapEx for this year, where you will see that we expect
+the shape to be broadly similar to last year.
+
+Now let's look at how we are tracking versus our total transformation costs in the 5-year plan. In years
+1 and 2 of the plan, we spent GBP 271 million of transformation costs, so about 1/3 of the GBP 800
+million of total transformation costs that we expect cumulatively to FY 20'-'21. We expect to spend around
+another GBP 245 million this year. This leaves close to GBP 300 million for years 4 and 5 of the plan,
+mostly exceptional costs and CapEx. We expect the majority of the exceptional costs to fall into year 4
+and the CapEx to be spread over years 4 and 5, reflecting investments in fulfillment and digital capability,
+alongside ongoing store equipment as we continue to roll out our unified and unique offer.
+
+We are also reaffirming that we expect to deliver the GBP 500 million EBIT uplift by '20-'21 and to
+complete the remaining GBP 140 million of the GBP 600 million return of capital by the end of this year.
+
+I'll now pass over to Vero to sum up.
+
+Véronique Laury-Deroubaix
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+KINGFISHER PLC FY 2018 EARNINGS CALL |  MAR 21, 2018
+
+CEO & Director
+
+To summarize, for the second year in a row, we've achieved our key strategic milestones. Our
+performance, however, has been mixed with solid growth at Screwfix and Poland and GNFR benefits, offset
+by continued weaker sales in France and some business disruption, reflecting the significant increase in
+transformation activity. We've acted on the root causes, continuing to have a flexible approach, adapting
+as necessary as our transformation progresses.
+
+It has been a big year of transformation activity. The pace of change is quick and impactful, but necessary
+as we build the new ONE Kingfisher engine to support our ambition to be the leading home improvement
+company. Year 3 will be another step change year of implementation, hence we expect some ongoing
+business disruption.
+
+I don't think any of you underestimate the scale of our ambition, but it is the right ambition, the right
+strategy. Overall, we have made good progress and I'm really pleased that we are starting to see tangible
+delivery of our ambitious plan. And given that solid progress, and given the continued support of our
+77,000 highly engaged colleagues, I remain confident in our ability to deliver.
+Thank you for listening.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+KINGFISHER PLC FY 2018 EARNINGS CALL |  MAR 21, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+

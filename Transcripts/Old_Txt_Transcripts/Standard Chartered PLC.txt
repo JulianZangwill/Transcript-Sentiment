@@ -1,0 +1,1316 @@
+Standard Chartered PLC LSE:STAN
+FY 2017 Earnings Call Transcripts
+Tuesday, February 27, 2018 8:00 AM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2017-
+
+-FQ1 2018-
+
+-FY 2017-
+
+-FY 2018-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+0.23
+
+-
+
+-
+
+0.20
+
+0.54
+
+0.47
+
+(12.96 %)
+
+0.73
+
+3626.00
+
+3478.00
+
+(4.08 %)
+
+-
+
+14390.05
+
+14289.00
+
+(0.70 %)
+
+15088.77
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: USD
+Consensus as of  Feb-27-2018 7:10 AM GMT
+
+FY 2017
+
+CONSENSUS
+
+0.54
+
+ACTUAL
+
+0.47
+
+SURPRISE
+
+(12.96 %)
+
+- EPS NORMALIZED  -
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+13
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Andrew Nigel Halford
+Group CFO & Director
+
+Unknown Executive
+
+William Thomas Winters
+Group Chief Executive & Director
+
+ANALYSTS
+
+Christopher Robert Manners
+Morgan Stanley, Research Division
+
+David John Lock
+Deutsche Bank AG, Research
+Division
+
+James Frederick Alexander
+Invine
+Societe Generale Cross Asset
+Research
+
+Manus James Macgregor
+Costello
+Autonomous Research LLP
+
+Martin Leitgeb
+Goldman Sachs Group Inc.,
+Research Division
+
+Michael Francis Helsby
+BofA Merrill Lynch, Research
+Division
+
+Richard Smith
+Keefe, Bruyette & Woods Limited,
+Research Division
+
+Robert Ian Sage
+Macquarie Research
+
+Thomas Andrew John Rayner
+Exane BNP Paribas, Research
+Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Presentation
+
+William Thomas Winters
+Group Chief Executive & Director
+
+Okay. We'll get started. Everyone, thanks very much for joining us at a slightly earlier time for us, but
+pleasure to have you all here. I'll say a few comments upfront, as is our norm, hand over to Andy to go
+through the financials in some detail. I'll have a few more comments and statements at the end. And then
+we will be able to open it up for Q&A.
+
+We're quite pleased with the progress that we made in 2017. It's building on the program that we laid
+out in 2015, executed in '16 through to '17. We have clearly demonstrated that the foundations are
+secure. Our underlying infrastructure, our risk and management controls, our capital base are in good
+shape. We're now poised for growth. And there were some really encouraging signs of growth in our
+reported results for 2017 and then through to 2018, as we'll mention. You see in some of the information
+that we've set out in the slide deck that the areas in which we've been investing have been growing
+consistently, so 13% year-on-year growth in that subset of our business. We now feel that we've got
+the platform to extend that growth for the medium-term, to hit a refreshed set of targets, which is
+to generate, at a group level, 5% to 7% compound growth over the medium term, to do that while
+maintaining our 12% to 13% CET1 target range, to achieve a return on equity above 8%. Of course, that's
+not the end point. This is a milestone that we intend to hit on our way to a full cost of capital plus return.
+And we see encouraging signs and that we can deliver that.
+
+We're very happy to report that we've proposed to resume our dividend at $0.11 per share on the back of
+our sense of confidence in our ability to produce earnings through the medium term and also some clarity
+in terms of the regulatory capital outlook.
+
+And further encouraged to report that we've had a good start to 2018. I think a number of people have,
+but perhaps what feels good about our performance at Standard Chartered is that it's very broad-based.
+So every one of our products, every one of our regions has shown good growth year-on-year. And across
+the group, it's been double-digit year-on-year income growth. 2 years, 2 months does not a year make,
+we understand, but of course, we'd rather start this way than any other way.
+
+Just going back to the walk-through from 2015 to today. You should be familiar with this partially. We
+had this substantial drop in income in 2016, which resulted from business access, some very deliberate
+de-risking, both in our liquidation portfolio, but also in the rest of our business at various other things
+that we set out. As we got into 2016, we had the beginning in 2016 into 2017 at the beginning of real
+underlying business momentum and business growth of net-net $400 million. That's not, of course, the
+growth. So the growth numbers are much more encouraging. We continue to have areas that have either
+underperformed or where we're earning lower returns, and as a result, shrinking those businesses. The
+most clear area of underperformance in 2017 was our Financial Markets area, which we'll talk about in
+some more detail. Though we can't let that take away from the underlying business momentum that we
+are demonstrating now that we're through with this period of more substantial business exits and de-
+risking.
+
+Turning to Page 5.
+
+We've simplistically, but we believe, compellingly, sliced our business into 3 buckets.
+
+At the top bucket are the areas in which we've been investing. These are our growth engines for some
+time to come, and these are good businesses to begin with: Transaction Banking, Wealth Management,
+mortgage and autos, and then the, really the entire liability side of our balance sheet, so our deposit
+franchise.
+
+A little bit over half of the income of the bank grew 13% year-over-year, and that obviously continued
+through to the second half with a 6% increase half-over-half. These are the areas in which we've been
+investing, and we're seeing clear signs that those investments are manifesting themselves in improved
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+customer satisfaction, improved market share and underlying growth that's at or above the markets in
+which we operate.
+
+The second bucket is -- another 1/4 of our income is a set of activities that we knew we needed to
+optimize. These were the lower returning assets in our CIB and Commercial Banking portfolio, lending
+assets, some corporate finance assets, as well as big chunks of our credit card and personal loan portfolio
+that we know needed ongoing optimization. We had been optimizing those, and we've managed to keep
+the income broadly flat, so down 2% year-on-year, but with a bit more encouraging second half results.
+But we know that there's some ongoing optimization to go there, so we're not expecting the same level of
+growth in that business, but that will change over time, as we reposition the underlying stock and the flow
+to generate growth in that part of our business as well. We are also investing in improved performance
+and improved customer penetration in that segment.
+
+The third buckets are the areas that are much more external market related, where we can expect period-
+to-period volatility that is the function of the external environment, financial Markets most obviously, but
+also treasury and other related things.
+
+Clearly had a poor second half of last year and then a less poor, but still poor overall year in Financial
+Markets. We're down 7% year-on-year, down 21% in the second half.
+
+Equally, obviously, from my earlier comment, we had a good start to 2018. The market was unfriendly last
+year. I think we were not out of line with other rates and FX competitors. And I suspect we will be out of
+line with the same in Financial Markets in the first part of this year.
+
+What we expect to do though is to have a trend line that goes through the noise of the market that's
+upward sloping. We think we can grow this business. We think we have differentiated advantages in this
+business. We're investing in this set of businesses. We would expect to grow independent of the external
+environment, recognizing that the results will be volatile as the external environment changes.
+
+We are committed to delivering a sustainably higher return on equity. We've made good progress from
+negative ROEs to 3.5% in the last year, and we intend to continue to drive that through to 8% and then
+beyond. Continuing to strengthen our risk foundation, clearly focusing on clients and growth, which we're
+showing some good signs of doing, improving our efficiency and productivity. We've been very good at
+taking expenses out. We're getting better at becoming a more productive organization. That's a big area
+of our focus. And it's not just for Andy or just for me, it's everybody on our management team is very
+focused on getting that productivity agenda right.
+
+Innovation. Thankfully, we didn't lose the plus on innovation as we went through our period of transition
+and restructuring. We continued to be a leading firm in a number of areas, most specifically, the way that
+we connect to our clients, both wholesale and retail, with some really good innovations, one of the first
+banks and probably the first bank actually to take on new clients in a purely digital framework in India
+with no human touch at all, launching a digital bank Cote d'Ivoire, as we speak, again, no human touch
+end-to-end. This is Standard Chartered Bank that we're talking about, with cutting-edge technology,
+delivered in a seamless way, and it seems to be working, customers really appreciate this. Our Net
+Promoter Score surveys in retail and external surveys in our C&IB businesses and Commercial Banking
+businesses have improved dramatically. In many cases, we're best-in-class in the markets in which we
+serve for customer service, that's what NPS is ultimately measuring. These are big improvements from
+a year ago or 2 years ago. Why? Because we are focusing on the customer again, and we're focusing on
+delivering the customer the services that they demand, many of those are digital.
+
+Finally, and I'll talk about this a bit later, investing heavily in people in order to really drive the
+performance culture that is critical to our long-term success.
+
+The walk forward to the 8%-plus ROE. As you have all noted and is clearly true, we can only accomplish
+this with substantial income growth. And the results over the course of '17 in terms of looking at the key
+areas in which we've invested is encouraging. Of course, we expect there to be some higher costs going
+forward, both variable pay, but also stepped up investment on the back of higher income. But it's not all
+about income. We do have some tailwinds that will be coming our way, we expect in terms of interest rate
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+movements and the associated benefit to our effective cost of funds relative and absolute. We think we've
+hit the peak in terms of our regulary cost -- regulatory cost outlays, and we'll get a bit of incremental
+benefit there. And of course, as we get to the end of our medium-term period, we've got the reduction in
+the bank levy. Together, it will get us to this 8%-plus return on equity.
+
+And with that, I'll hand it over to Andy and come back at the end with some more comments and
+questions.
+
+Andrew Nigel Halford
+Group CFO & Director
+
+Good. Well, thank you very much, Bill.
+
+So key numbers, just to pull out a few.
+
+So $14.3 billion of top line, these are the gray stripes. $3 billion of underlying OP, about treble last year.
+Statutory profit up a lot, and 3.5% of underlying ROE.
+
+So slides on most of these to follow, so I shall go through these at a pretty high level.
+
+Income, 3% up, but weighed back considerably by Financial Markets, which was about a 4% drag on the
+top line, about $0.5 billion less income in 2017 than 2016. The fourth quarter, as some of you'll have
+noticed, the income was slightly lower than in the third quarter. 2 or 3 moving parts in there: strong
+Corporate Finance performance in the fourth quarter, weak Financial Markets performance in the fourth
+quarter, those 2 sort of broadly offset each other. We had hedge accounting adjustments which was
+slightly disadvantageous to the income. And on the Wealth Management side, the full year bonus for VAT,
+as we mentioned last time, we actually achieved by the end of the third quarter. And therefore, there was
+about $40 million extra income in the third quarter, and $40 million less in the fourth quarter. And that
+alone is probably 2/3 of the delta between the 2.
+
+So overall, that's the picture on the income side.
+
+On expenses, broadly in-line with what we had expected, a little bit high on regulatory. We had a lot of big
+programs going in during the year, particularly IFRS 9 and MiFID II and things like that, so we'd hope that
+perhaps will moderate in dollar terms as we go forwards.
+
+Loan impairment then was clearly a big, big factor in year-on-year movements on profits, so $1.2 billion.
+So we did actually average out at about $300 million a quarter, which was what we saw in the first quarter,
+but it was almost too good to be true. However, that did pan out through the whole of the rest of the year,
+and so we have got half level of loan impairments.
+
+Underlying profit, therefore, on the face of it 175% up, albeit and previous year did have the Principal
+Finance losses in it. So if you adjust for that, we are 71% up on a like-for-like basis.
+
+Restructuring, another $350 million of charges, so that takes us to about the $3 billion level now. We have
+primarily the Principal Finance portfolio to exit. That is what is left.
+
+Goodwill, it's full charge REIT Taiwan, not to business, but to do with discount rates. And overall statutory
+profit at $2.4 billion.
+
+Below the line, not on this chart, in the tax charge of $1.1 billion, there is a $200 million deferred
+tax write-off to do with the recent changes in the U.S. tax rates. So the underlying effective tax rate,
+excluding the non-underlying item is about 32%, which is below where we were previously, and we hope
+to get that down further over time.
+
+Down at the bottom, the CET1 ratio, 13.6%, in fact, at both period ends, so a good space on that front.
+The EPS clearly has climbed a lot off the back of the improved profitability, and the dividend, as Bill has
+mentioned, is clearly resuming.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+On IFRS 9 and Basel III, I will touch upon both of those in the future slide, but I think, with both of
+them, there is now clarity or quite a lot more clarity, and we remain pretty comfortable that those are
+manageable as we move forward, but I'll come onto those in a later slide.
+
+So in terms of the income, this is the walk from 2016 through to 2017.
+
+So 2016, there were a couple of items to adjust: one, the income there was depressed by negative income
+from Principal Finance, which was not a recurring feature in 2017, because Principal Finance was below
+the line, so we've adjusted that out. Business exits; 2 small retail exits in the 2016 numbers, not 2017,
+so normalized. So broadly, it's a $13.9 billion to $14.3 billion comparison. In green, all things that went
+well, and in gray, things which went less well. So things that went well, Transaction Banking, a very strong
+performance, 18% up on income over the period. Wealth Management also very, very strong, and good
+performances in treasury and on the deposit front. On the gray, things held us back, Financial Markets,
+which I've already referred to, and a little bit on lending, which has been very much conscious decision on
+optimization of returns. And credit cards, personal loans, that's slightly reduced, albeit, actually, we have
+now seen a stabilization of that between the first and second half, which I think bodes well for the future.
+
+Now on expenses, the top left chart here working maybe up from the bottom of that chart. So $8.6
+billion of underlying expenses is 2% up. And I'd probably pull out 2 things there: slightly higher variable
+compensation, given the high level of profit; and secondly, slightly higher depreciation on ships and
+aircraft that we lease. If you take those 2 out, we're completely flat. We have absorbed significant extra
+investment cost and inflation and have held those numbers constant.
+
+The regulatory cost, as I mentioned earlier, are up, so up to $1.3 billion, with a large number of big
+regulatory programs, landing in the year, and we would hope that, that number will moderate slightly as
+we go forwards.
+
+And then on the bank levy, we have got a quite significant reduction there, about $100 million, as we
+have gone through in more granular detail some of the netting, and that has given us a benefit, which has
+clearly come through in 2017 year, albeit, because it is mostly impacted 2016. What we're saying is going
+forwards, think of the bank levy as being about a $310 million cost issue for us rather than the high 300s
+as previously we had guided.
+
+On the bottom left, you can see the chart that takes us through the 4-year commitment of late 2015 on
+over gross cost take out. We've said $2.9 billion. We are making very good progress there. The end of
+2017, we were 85% of the way through that total. And I would hope that we should be at or slightly above
+that number going forwards, and that should enable us to keep the 2018 costs below the 2015 level as we
+set out a while ago.
+
+So the money that we've saved by the cost take out, in part used to reinvest in the business. I think all
+of you will be familiar with the fact that we said that we needed to invest a lot more in the business to
+improve the fabric of it. And I think it's not actually just the heights of the bars on the left. But if you look
+at the 2 blue bars at the bottom, about $0.8 billion on regulatory and on just replacement of systems,
+what we're actually spending in green to actually improve the business, is now $0.8 billion. The equivalent
+number 2 years ago was $0.1 billion. So a very, very significant increase in the amount we are spending
+to improve the fabric of the business. That is now coming through, which I think is good to see. On
+the right-hand side, 1 or 2 factoids there. So a proportion of our retail customer base that are digitally
+active is going up about 5 percentage points per annum. On the top right, the Commercial Banking, the
+straight through banking, customers as a proportion of total base, going up by 3 or 4 percentage points
+per annum. The turnaround time for onboarding new corporate clients is reduced by 2/3 over the last
+2 years. And what we're doing in robotics and lean automation, that has created either 1,300 roles or
+redeployment of 1,300 roles, but significant productivity improvements. And I think productivity is clearly
+going to be a major focus as we go forwards.
+
+So change of topic, loan impairments. As I mentioned earlier, those have halved during the period, so $2.4
+billion the previous year, $1.2 billion in 2017. That has been pretty broad-based across most of the client
+segments, in fact all the client segments, albeit, the biggest changes have appeared -- occurred in the
+corporate spaces.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+On the right-hand side, 1 or 2 factoids, which you'll probably absorb at your leisure, but I'd just call out
+on those, the gross NPLs are up by $0.6 billion year-on-year. The CET 12s, level below that are flat, but
+the early alerts of the third bottom line here are $4 billion lower than where they were a year ago. And as
+the early alerts can be a feeder into the other areas, that is good, I think to be stemming that flow much
+earlier. So that is a big reduction on that front.
+
+Cover ratio is slightly down. That is just the mix of the accounts that we have resolved versus ones we've
+taken up. But more importantly, when you take collateral into account, we are actually up on cover on the
+nonperforming loans. Nonperforming loans being about 2.3% of the ongoing book now.
+
+Just one other thing maybe to highlight, it's not quite so visible here. But one of the big pushes is to be
+reducing the concentration that we have on small number of corporates. If you go back to 2014, our top
+20 corporates, I think were over 80% of our Tier 1 capital. That number now is about 50%, so we have
+really, really made progress on that front.
+
+And then, finally, the slide on the bottom right, liquidation portfolio. When we announced that, we had
+about $20 billion worth of RWAs, that is now down to sub $1 billion.
+
+Now on the balance sheet.
+
+So top left is the net interest income, so up 5%, $400 million during the year, probably about $200 million
+to do with interest rate increases, $200 million to do with conscious improvement of the mix in the book.
+
+Margin, overall slightly better at 1.55%. But you can see on the bottom right chart, that's the same sort of
+seems pretty this to be volumes up across all the product ranges. The margin improvement coming more
+on liability products, with slight compression still on the asset side.
+
+Bottom left here, on balance sheet, momentum, the overall increase in customer accounts. So deposits is
+9%, that is about 6% on a constant currency basis. So about $30 billion or so more deposits and a very
+good mix of those deposits, so very much the more sticky accounts for us.
+
+In terms of customer loans, those are up 12%, which is 89% on a constant FX basis, and so up about $30
+billion over that period of time, and again, fairly broad-based.
+
+What I think is interesting, that is, on the top right, if you look at where the new accounts are in terms
+of risk profile, the whole of that $30 billion is in the better risk categories, categories 1 to 5, with the
+categories above that, essentially being flat year-on-year. So again, evidence that we are investing, we are
+focusing where there is quality out there.
+
+On capital, I mentioned this briefly. At the end of the day, we started end of the year at exactly the same
+number. And there was a fair amount of work in between the 2. So about 45 bps of profit that's generated,
+sort of CET 1 generation of 45 bps from profit. Then with the dividend payments, slight reduction. And
+the model changes that we referred to on financial institutions, that took a bit more out. So that's the
+normalized, but that model change was a bit of a one-off. There is a corporate one, but I don't think the
+effect of that will be anything likely significant.
+
+On the risk-weighted assets, we are up about $10 billion, and that is primarily, actually FX and the model
+changes. So the rest of that credit migration so fairly neutral during the period.
+
+On IFRS 9, we had indicated previously, we thought this whole impact of that will be between 10 and 20
+basis points of CET1 effect. Our view is that we will be bang in the middle of that. So 15 basis points, that
+is the equivalent of just over $1 billion of extra reserves from the accounting perspective. But because
+some of that had already been taken into account in the regulatory calculations, the effect is more muted
+on the regulatory front. And because there has been a transition arrangement, actually, the year 1 impact
+of this we think will be incredibly small. So overall, a lot of work, yet, so a not very big answer.
+
+And Basel III, more clarity on that late last year. Our best assessment at the moment is that if you apply
+that to our current book, it's about the 10% to 15% uplift. However, it doesn't come in until 2022, so
+that does give time to think through and to make some refinements in the business. Also, a little bit
+difficult to be entirely precise, as most banks are pointing out, there is still a fair amount of national
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+discretionary that is allowed. And until we have the clarity as to how that is intended to play out, both
+here and elsewhere, it's not a precise size. But overall, our sense is, it is manageable, and we will work
+through that obviously over the intervening period.
+
+So just to talk now a little bit about the business performance. So slides on each of the segments, and
+then on each of the regions, which I'll go through, fairly high level.
+
+So Corporate and Institutional banking, top line flat, that is the story of the Financial Markets weighing
+down, as I've referred to earlier, but a very strong performance on Transaction Banking, which has pretty
+much offset it. What is more pleasing, the bottom line is seeing the trebling of the profit there, and that
+has been about, in part, the focus upon the loan impairments and also the controlled expenses. The
+business, Simon talked about in November, the intent is to be getting that into the 5% to 7% range on the
+top line growth, and that is where all of the energy is at this point in time.
+
+Commercial Banking, 3% up on the top line. But I think, most noticeably, that business unit that
+essentially is only 2.5 years old, we have now turned from loss into profit. A big, big focus upon
+loan impairments. And as we go forwards, the big focus is upon growing, but growing the business
+thoughtfully, particularly from the loan impairment aspect. So I think that is a big milestone. That business
+then certainly gives us a much better platform to be moving forwards on than was maybe the case a while
+ago.
+
+So on to the consumer businesses.
+
+The retail banking, obviously, another big business for us. 4% top line growth, albeit, we had 2 disposals
+retail businesses end of the period. If you normalize for those, actually, the growth was 7% during the
+period. Profits moved forwards nicely, double-digit percentage improvement in profits. We have now got
+45% of our income from the priority accounts customers that we have targeted. We added 100,000 of
+those during the year. And I'd say really the big push on retail now is digitalization and rolling out the
+platforms that we have been working on for quite a period of time.
+
+Private banking, top line, modest 1%. A year ago, we did have an insurance benefit. So if you normalize
+that, it was up more like 6% to 7%. And underlying profits still held down by the amount of investment
+we're making in replatforming and upscaling in the business. So that is a journey, and we are pleased with
+the progress so far, but clearly, there is more to come.
+
+Assets under management grew during the period. Net new money was up $2 billion during the year, so
+we are seeing a bit early momentum there, and obviously, it will take a while for that to fully flow through
+to the bottom line.
+
+So turning then on to the regional view.
+
+Greater China, northern Asia, I think are the big region, a very, very good year. So 8% top line and 45%
+bottom line growth there. And really, this was across all markets. Hong Kong was 8% up on income, 25%
+up on profit, Korea trebled the profits during the year. China, excluding the associate investment, returned
+to profit, having been slightly loss-making year before. Taiwan, Japan did well. So I think, across the
+board, really, really good progress there. And clearly, whilst the momentum runs there, it's very helpful for
+the momentum across the whole of the business.
+
+ASEAN and South Asia was a more difficult period. Now a 5% down on the income here is partly affected
+by the disposals of the retail businesses. So without that, we'd have been about 2% down. And about
+$200 million of the $500 million reduction in the Financial Markets income was actually in the ASEAN
+region. So that was the other thing that weighed down. And that would otherwise have been positive if
+it wasn't for those 2 things. However, big focus in there, the rest of the businesses, I think, particularly
+in the retail commercial space, are going pretty well, and that remains a big area of focus. The business
+in India returned to profitability. Bangladesh, very profitable. So I think there are good things happening
+there, but clearly weighed back by a couple of factors last year.
+
+Africa & Middle East. Top line 1%. If you do it on local currency basis, it was up 3%. Good performance,
+probably, slightly better performance in Africa, slightly more modest performance in Middle East. UAE
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+business returned to profitability in the period, which was good, after 2 or 3 years when it hasn't been.
+Profits in Nigeria, up 50% during the period. So I think some good progress there, obviously spanning
+really quite the number of territories.
+
+And then Europe and Americas is down 4% on income, but this is another area which probably took
+about $200 million of the reduction in the FM income, which weighed down on the numbers here. Overall,
+actually, performance in Europe and Americas has been really good. They are involved in about 1/3 of the
+total income. Obviously, a good business globally, in one way shape or form. And the income that they've
+generated isn't booked in Europe and Americas. It's booked in other parts of the world was actually up
+10% year-on-year. So -- and of course, they costs, they also bear the costs of the remediation efforts in
+the U.S.
+
+So central and other similar charts to one that you may have seen before. We have a segmental view and
+the regional view. There are some items in the middle that I'll comment on both, they are Treasury capital
+and corporate center cost and bank levy and some of this are unique to the segment or region views.
+Quite a complex story here, because there've been quite a significant movements in the numbers.
+
+If I just briefly talk to the segment side, the previous year, a small loss, now a big profit. This previous
+year was weighed down quite a lot by things like Permata. This year has actually benefited a bit from the
+bank levy and the $100 million benefit that's sitting in there. And it has been weighed down a bit by the
+hedge accounting adjustment as well. So a sort of $1 billion top line business, if you like, income stream
+and probably ongoing profitability somewhere between the 2016, 2017 numbers.
+
+Central other, on the regional side, on the right-hand side, on the other hand, the prior year, big loss there
+was primarily about the Principal Finance business, which was in the numbers last year where the growth
+below the line this year. And this year has had some benefit from the low bank levy. So that's probably
+slightly flattering of the underlying performance of that business area, because of the one-off nature of the
+bank levy.
+
+So with that, 2015, the ROE was minus 0.4%. We set the initial target of 8%, and we are pretty close to
+being halfway through that ramp up, so halfway up the hill, the other half to go. I think we have been very
+consistent to what we set out in 2015 as we've been doing, and I think that has brought good focus within
+the business.
+
+The top line, obviously last year was more muted, but there was one particular product line that was
+behind that. The start for this year, as Bill has mentioned, has been extremely encouraging, which is good.
+I think the investments, which always take a while before we start to see the benefits coming through, are
+now starting to make a difference. The regulatory clouds on IFRS 9 and Basel III are lifting, and hence,
+the dividend coming back. And I think really the focus now from my perspective is about the income
+momentum, it's about continuing to simplify the business and really putting a focus on productivity.
+
+With that, Bill, I'll hand back to you.
+
+William Thomas Winters
+Group Chief Executive & Director
+
+Okay. Thanks, Andy.
+
+Just a few comments for me to wrap up, and then we'll go into Q&A.
+
+Priorities are clear for us. It's the refocus, strength and focus on clients and growth. Encouraging signs
+through 2017, but 2018 clearly is the year that we need to demonstrate the potential of this franchise as
+we believe in fundamentally.
+
+Talked about the ongoing focus on efficiency and productivity. We will not lose track of the underlying risk
+and control progress that we've made so much of in the past couple of years. And we are very cognizant
+and aware of the newer risk categories like cybersecurity, which we're completely focused on as well and
+clearly stepping up our resources.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Innovation and digitization, it's inherent in our business. The threats come from within and without. And
+we think we've got a pretty good track record. We need to shape that into a very good track record. We're
+investing to accomplish exactly that.
+
+And then the focus on people and culture, as I mentioned, I'll get to in just a moment.
+
+The fight against financial crime is ongoing. If we've distinguished ourselves in terms of the contributions
+that we've made to making the banking environment a hostile place for criminals and bad doers to
+conduct their business, we'll continue to do that. We've done that to our own investments and initiatives,
+and we've done that working with other banks and with law enforcement. The feedback that we get from
+time to time, you've seen some of it in the public domain from our regulators, is encouraging, that we've
+made substantial progress. And we can -- intend to continue to make that progress. We have legacy
+investigations relating to historical activities, as we've mentioned every time I've sit in front of you. Those
+investigations are ongoing. Our discussions with the regulators, law enforcement are ongoing. And of
+course, when we have something to share with you, we most certainly will.
+
+The technology change and focus is really key to our future, and we recognize that and we're investing
+as such. Andy has mentioned that we've maintained a very high level of investment over 2017 into 2018,
+multiples in terms of these franchise improving investments that we're making relative to where we were
+in 2014, '15 period. This is building on our future. A lot of that is going into technology, and we're seeing
+that, and when we're recognized as the best online bank or digital bank in Asia, and when we're the first-
+to-market in key South Asian and African markets with digital application. We recognize that we're a
+desirable partner for some of the new entrants into this market, the e-commerce companies or financial
+technology companies. And we partner with over 200 fintech companies one way or another. That's not
+the threat, that's an opportunity for us. But there are threats out there for sure, and we think that we've
+got a pretty good plan for dealing with those threats. And our track record in terms of delivering on the
+technology undertakings that we've embarked on are good.
+
+We can't accomplish any of this without continuing to evolve the performance culture of our bank. It's
+always challenging to talk about the soft stuff in a meeting where we're talking about earnings results
+which is all about numbers. But for us, we're spending a lot of time on taking what has historically been
+a strong performance culture at Standard Chartered, but which we're on off track as we transform the
+bank, as we went through a challenging transition, the bank turned inwards. People became risk-averse
+and reluctant to make investments and reluctant to take decisions. We are shifting that very deliberately,
+and we've done that with extensive interaction with most of the 85,000 employees of the bank through
+extensive workshops, and listening session and things of that nature. We've got a redefined purpose
+statement, which is focusing clearly, as you can see, on the roots of Standard Chartered. When we go
+back to what made Standard Chartered a great bank 160 years ago, it was the fact that we were focusing
+on commerce and creating prosperity for citizens of the markets in which we operate. That continues to
+be the case today. This leveraging our unique diversity has a lot to do with the fact that it's not just our
+bank which is diverse, our 85,000 colleagues and 15,000 contractors, but our clients as well. And making
+the connection between those markets, between clients, between cultures, between economies is a key
+part of what differentiates Standard Chartered bank. And we don't want to lose that, in fact, we want to
+invest more in that diversity, which is unique to Standard Chartered. The markets in which we operate are
+unique.
+
+And finally, we've tried to drive this through to what we call valued behaviors, which are very simple
+statements that guide our colleagues in terms of everything that they do. I'd call out, in particular, they
+never settle. This is idea of continuous improvement, that good enough isn't good enough. We're here for
+good, not good enough. It's the key parts of what we mean by, never settle. And that, I have to say, as
+we've rolled out these words, and they are just words at the end of the day, and we recognize that they're
+just words. But behind those words is a tremendous passion in our bank. It comes from our Board of
+Directors. It comes from our management team, our senior management, to really live these values. And
+it's resonating. We see people taking different decisions about the way that they conduct their business
+based on these 3 valued behaviors, and we'll continue to drive that. And you should continue to form
+your own views, whether we're actually changing the culture of Standard Chartered bank, so that we can
+position ourselves as a best-in-class bank, not a bank that's trying to catch up.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+We're making progress. We're very happy with the progress. We're doing what we said we were going to
+do. We're in great markets. We think we can match the growth of those markets and exceed that growth.
+Over time, we'll become more efficient and productive. We can become much more productive. That's
+going to drive our returns. It's going to allow us to cover our cost of capital and more in the years to
+come.
+So thanks again for coming out first thing in the morning. Andy will join me, and we'll take some Q&A.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Question and Answer
+
+William Thomas Winters
+Group Chief Executive & Director
+
+Sorry, Mark will come there.
+
+Robert Ian Sage
+Macquarie Research
+
+Okay. It's Robert Sage from Macquarie. I've got a couple of questions, if I can. The first was with the ROE
+targets, because the previous one was sort of specifically related to particular years, I think 8% in 2018,
+10% in 2020. I was just sort of wondering how we should be thinking about the medium-term as sort of
+time frame here. Is it sort of a 2020 number, or sort of how hard is it? And I guess my other just point of
+clarification on this is, I see we're talking ROE, not return on tangible equity in terms of what it refers to?
+And the second question was just on the dividend, which I see is very healthy, sort of reinstated today. In
+terms of sort of dividend policy moving forwards, how should we think about how we might be thinking
+about future dividend payment beyond 2017?
+
+Andrew Nigel Halford
+Group CFO & Director
+
+All right. Let’s take those in order. I'll take the return on target equity. We did give that some thought.
+The impact it makes is not particularly significant. And we didn't want to give the impression that we
+were just upping our numbers courtesy of a redefinition of the base point. So we could have done that.
+I think it would make about 40 basis points difference to our published returns if we did go that route.
+Medium term, yes, we have, as you've correctly observed, remained slightly nonspecific. And I think that
+is reflecting the fact that some of this is within our control and some of this will not be within our control.
+We will get there as fast as we possibly can do. I think if you take our 5% to 8% and some views on costs
+below inflation, you can triangulate to within a couple of years of when it is likely to happen, but we have
+been just a little bit more circumspective given that that is not something completely within our control.
+
+Dividend policy, so step 1 was obviously the decision to recommence. Step 2 was how much to
+recommence, and we have obviously landed on $0.11, which is a full year number for last year. Policy
+going forward is that, that the group will look to increase dividend as the profitability of business
+improves. We have not put it in tight formulas or payout ratios because we think that is just a bit too
+precise. But as we go forward, we'll look at the earnings outlook. We will look at the regulatory outlook,
+both at the group and local level. We will look particularly where there are opportunities to invest and
+expand the business. And to the extent that there is a good return, then we will seek to return a good
+number back to shareholders so that we keep that line moving up.
+
+Michael Francis Helsby
+BofA Merrill Lynch, Research Division
+
+So Michael Helsley from Bank of America Merrill Lynch. Just one question, please. Transaction Banking,
+clearly, the star of the show last year, and that was pretty much driven by cash management, and trade
+obviously quite subdued still. So I was just wondering if you could give us a comment on how both
+businesses have entered 2018. And if you could disaggregate it for us in a volume and a margin context,
+and whether you think trade can actually start to grow revenues this year?
+
+Andrew Nigel Halford
+Group CFO & Director
+
+Yes. So as you say, the overall is very strong. And actually, within that, the cash is incredibly strong. And
+that we have sort of seen flowing through into this year dramatically. I think, on the trade side, first the
+volumes are up, but the margins are under a little bit of pressure. And that is sort of the 2 have sort of
+offset each other in that space. On the other side, on the cash side, we have seen both volume and slight
+margin improvement, so obviously, with rising interest rates, slight ability to reprice. But what I would say
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+is we have put a huge focus upon offering to run the operating accounts or corporate accounts as part of
+the overall offering. And as part of our push on the overall with cost of funds, we have both been pushing
+in the corporate space on the operating accounts, but also in the retail space to try to make sure that we
+are getting an increase in share of the more sticky, the less expensive debt, because our overall cost of
+funds is one of the things on your ROE work chart where we're saying, over a period of time, we do think
+we can make more inroads into the cost of funds, and that is one of the areas that we are most targeting
+to do it.
+
+William Thomas Winters
+Group Chief Executive & Director
+
+Just to add a bit of color. On the cash improvement obviously is encouraging. Only about half of that
+is the result of interest rate increase. The other half is an improvement in the quality of the underlying
+liabilities, which has come from a really determined focus on the liability side of our balance sheet. In
+Transaction Banking, the market has been subdued, for sure. Margin compression has been substantial.
+But our market position has strengthened. So you may remember, a couple of years ago, we showed an
+external survey chart that showed that we were the #1 bank for trade in Asia, with about a 22% share
+of the primary trade bank. We've maintained the overall share, but the proportion of the earnings that
+the primary trade bank actually gets from the trading relationships has increased significantly over that
+period. So we're getting -- we're maintaining a strong -- a very strong #1 share in our core Asian markets
+with an increasing share of that wallet. And that's an offset by subdued volumes until recently, early part
+of this year is encouraging, and margin compression. But in terms of the underlying customer franchise,
+which we still think is a very valuable thing to have, it's encouraging.
+
+Michael Francis Helsby
+BofA Merrill Lynch, Research Division
+
+And just to follow up. On the cash piece, that volume growth that you've seen is that -- can you
+disaggregate that between the clients that you've won new because of the new initiatives that you put in
+or is that old clients that you've already owned.
+
+William Thomas Winters
+Group Chief Executive & Director
+
+Well, it's mostly clients that we already have as a practical control element. So we started to earn money
+out on the new clients, but it's a 2 or 3-year ramp up period to get to full speed, so the vast majority of
+our improvement is still coming from the existing stock. And very simply, we're just asking for additional
+business where we put different metrics in place around what's attractive to the bank, and we've clearly
+prioritized high-quality deposits to improve our funding mix and our cost of fund, and our ends and clients
+are responding to that.
+
+Thomas Andrew John Rayner
+Exane BNP Paribas, Research Division
+
+Tom Rayner from Exane BNP Paribas. Could I have 3, please, especially on costs? I think ex the levy,
+costs were about $225 million ahead of consensus, which if you look at Q4, I mean, is relatively bigger. I
+wondered if you could just give us a bit of how much of that you think was MiFID II, IFRS 9 related and
+which should drop away, and how much was the other things? And just on costs as well, can you just
+clarify that inflation still means 2% to 3% from Standard Chartered's point of view? I think that's what
+you've said in the past. And I've got 2 others, please.
+
+William Thomas Winters
+Group Chief Executive & Director
+
+Right, okay. So I would look at the costs, so we're about $300 million up year-on-year against consensus
+for a $200 million up. 3 things, one, roughly $100 million of increased spend on big regulatory portrait
+that landed during the year. Secondly, about $100 million on extra variable compensation off the back
+of the much higher profitability. And just under $100 million on airline and shipping depreciation on the
+assets that we lease. So those 3 things pretty much explain that year-on-year. So I think the regulatory is,
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+hopefully, as I said earlier, a year of a peak level of projects being delivered. Obviously, the performance
+of business this year will determine where the variable comp is. And the shipping and aircraft should be
+seen as part of a profitable business stream. So that is broadly where we're at. The inflation, you can just
+sort of way average at sort of circa 3% something like that at this point in time, it's in that sort of zone.
+
+Thomas Andrew John Rayner
+Exane BNP Paribas, Research Division
+
+But we are talking about inflation in our markets.
+
+William Thomas Winters
+Group Chief Executive & Director
+
+In our markets, yes.
+
+Thomas Andrew John Rayner
+Exane BNP Paribas, Research Division
+
+Just a second question, please. On Financial Markets, obviously, low volatility has been an industry-wide
+issue. But your Q4 certainly on a Q4-Q4 looked a little bit weak versus peers. Is there anything you can
+add as to why that might be, or what you might be doing to address that one that might not repeat in
+2018, it sounds like you're off to a better start?
+
+William Thomas Winters
+Group Chief Executive & Director
+
+Yes. So first off, keep in mind that the one, one part of the Financial Markets business is capital markets.
+Capital markets, we're roaring in the developed world and less roaring in the emerging markets. So just,
+when we do the side-by-side comparisons, we -- in this case, are operating in a slightly disadvantaged
+market. But the real story is we reversed our Financial Markets management team over the course of
+last year. A new head came in at the beginning of the year. The team was filled out over the course of
+the year. They were beginning to hit their strides towards the end of the year, but we would expect the
+real settling in of the new team with new focus to occur over the course of 2018. And as we've said, that
+the early start to 2018 is encouraging. Obviously, don't read too much into that. So I think we won't be
+unique in having had a good start to the year in Financial Markets. What's important to note though is that
+the team hasn't been hobbled by the challenging performance last year. It's there, they're ready to take
+advantage of opportunities. I'd also note that even with the subdued performance in 2017, it's still a high
+returning business for us relative to the rest of our portfolio. So it's not an unattractive business even at
+these depressed results.
+
+Thomas Andrew John Rayner
+Exane BNP Paribas, Research Division
+
+Okay. So I had one final one, it’s a bit cheeky [indiscernible]. Just on what you said on your dividend
+policy, you will have obviously an investment opportunity as an alternative. I just wondered, how do you
+think about sort of hurdle rates we're looking at those investments? Is it the 8% interim return target, or
+is it the cost of capital that you hope to be ultimately at in the longer-term?
+
+Andrew Nigel Halford
+Group CFO & Director
+
+Yes, I mean we would look more with the lens of a sort of 10% return because, ultimately, that is where
+we want to get the business sort of up to. And I think we need to make decisions today that are building
+towards that sort of space. So the 8% is clearly an important signpost on a journey. I think it's very
+important motivation within the business. People can see we're actually making inroads there. It is not a
+stopping point, we want to get a bit higher, and hence, your question would imply a slightly higher hurdle
+to things we're looking at now.
+
+William Thomas Winters
+Group Chief Executive & Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+So Tom, we're taking incremental decisions on the basis of a 10% cost of capital. So when it comes to
+new lending decisions, acquisitions, which obviously I made any divestitures which we have, we're looking
+against that benchmark. So as the decisions rolled through the portfolio over a period of time, we'll
+obviously drag to the 10%, or else a little bit smaller roughly, of course. But the intention is -- and we
+think the opportunity is to make marginal decisions based off of a 10%. Phased in, I mean we didn't exit
+every client that wasn't earning a 10% return back in 2015, and we didn't say that we were going to, and
+we haven't. So we've been quite deliberate about pacing the way that we effectively force the upgrade of
+our clients or the alternative forced exit. But we are taking marginal decisions off of a 10% return, which
+should obviously drag the total up over time.
+
+Martin Leitgeb
+Goldman Sachs Group Inc., Research Division
+
+Yes. It's Martin Leitgeb from Goldman Sachs. I have 2 questions, please. The first one is a little bit of
+broader questions, just in terms of U.S. related outlook, some commenters expecting 7, 8 hikes. And I
+was just wondering how do you think about your business, how it is going to be affected from those rate
+hikes? So obviously, variable 1 is the direct link to U.S. dollar and U.S. [indiscernible] currencies, which
+you elaborate in the disclosure. But in terms of level 2 impact, how do local currencies react? How do risk
+costs react? How would you think your footprint, your businesses are affected by that?
+
+Andrew Nigel Halford
+Group CFO & Director
+
+Yes. I mean we've talked previously about rising interest rates and impact on the group, and we've sort
+of said 50 bps on a full year basis, $300 million to $400 million. Obviously, so far, the primary uplift we've
+seen has been in the U.S. and to some extent, in Northern Asia, but much less so elsewhere, around
+the world, hence, about 200 of benefit in the numbers of 2017. We've gone back around and had a look
+at those numbers again because, clearly, at a slightly higher start point, then the dynamics is to help
+customers who'll react to further increases just change a little bit. And our view, albeit this is been upon
+a lot of assumptions, is that sort of 50 bps number now is probably 330 bps or something like that, so
+it's still in the range, a little bit below the midpoint of it. Our sense is having risen a bit more on the U.S.
+interest curve that probably we'd see a little less opportunity on the U.S. even because it gets priced away
+or whatever, and therefore, the balance slightly more into the other regions. And hence, we've sort off
+given there a broad brush sort of view of that. So I think still some opportunity in the U.S., but a little bit
+more muted, but still quite a lot of opportunity elsewhere.
+
+Martin Leitgeb
+Goldman Sachs Group Inc., Research Division
+
+The second question I had is just to try to get a little bit more color to your strong start of the year
+guidance in terms of broad based double-digit comment. And I was just wondering, just relate #1 to
+January and February, I would assume it's towards the end of February. In this, is there any more color
+you could add? Is this skewed a little bit more towards Financial Market or to the comparatively weak
+performance last year? I was just wondering if you could add a little bit more color on where the strength
+comes from.
+
+William Thomas Winters
+Group Chief Executive & Director
+
+A bit of color? Last year, January and February were not bad, so the comparator is -- was relatively
+flattered, as you can say, by a particular treasury markets results in Q1 of last year. Second, yes, it is
+January and February. We're not quite done February, but it's a current measure. And I think we've given
+a lot of color with our reference to broad based. And when I said that it's every product line and every
+region, that's about as broad based as you can get.
+
+Unknown Executive
+
+[indiscernible] I will come along and I will try and get everyone's questions in.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+David John Lock
+Deutsche Bank AG, Research Division
+
+It's David Lock from Deutsche. I've got one clarification, please. Just on the 5% to 7% CAGR you can see
+low incomes. I was just wondered if you could just confirm that, assuming a forward curve on the U.S.
+rates, first of all? And then a second one, which is on impairments. The 2017 impairment, obviously, much
+better than last year. If we look at consensus, consensus is now lower for '18, '19 and '20. Do you think
+that the current levels of impairment you're seeing are sustainable? Or are you expecting actually that
+they'll drift up towards that kind of consensus level?
+
+William Thomas Winters
+Group Chief Executive & Director
+
+The 5% to 7%, obviously, that's our best guess, including our estimation of interest rates. And to Martin's
+point, we're not in the school that I think, that's just going to race ahead of market expectations. And as
+such, we think that the market is -- in particular, our markets, will be well equipped to handle the effective
+shock that could come from higher interest rates. It's just very well priced in. But one of the risk factors,
+for sure, is surprises in the risk -- in the Fed outlook. We don't see it, but it's obviously, it's possible. And
+impairments, yes, we absolutely think it's sustainable. And we've changed the way that we underwrite
+credit risk, and we changed the way we hold credit risk. And we're a much more dynamic manager of
+our portfolio than we have been. And of course, we'll have ups and downs as the environment fluctuates.
+So we're not saying that we'll never have a higher level of loan impairments. And through quarter-to-
+quarter, we'll have jumps and dips. But in terms of the credit cost that we've reported in 2017, certainly, is
+supportable and sustainable.
+
+Manus James Macgregor Costello
+Autonomous Research LLP
+
+Manus Costello from Autonomous. Can I ask how much of your cost base do you now consider to be
+variable? And I ask specifically thinking about 2018 and the management of jaws in 2018. If you continue
+to deliver double-digit revenue growth in 2018, might there be upward pressure on that cost guidance that
+you've given if variable costs have to grow?
+
+Andrew Nigel Halford
+Group CFO & Director
+
+I mean I think our big challenge is actually more of the productivity rather than purely the raw cost. And
+the -- by implication, if you look at the forward guidance, the 5 to 7 on top line below inflation are on the
+bottom line, this is going to be more about how do we get more for less over the 3, 4, 5-year period, yes?
+Clearly, the variable comp has impacted a little bit in '17 year, and it will depend a bit on how we perform
+in '18 relative to our expectations of how we'll do, as to where that could put a little bit more pressure
+on. I mean if a business performance is sufficiently good, but there is a bit more pay out on that, then I'd
+hope that there would be a little bit of understanding, but we are trying to make sure that we're keeping
+the 2018 costs as much as we can go down to the 2015 levels.
+
+Manus James Macgregor Costello
+Autonomous Research LLP
+
+To be clear, say if you do deliver double-digit revenue wise, the chances are that the 2018 costs will also
+be a bit higher?
+
+Andrew Nigel Halford
+Group CFO & Director
+
+I'm saying that we have only had 2 months of the year of double-digit, and therefore, let's not get ahead
+of ourselves.
+
+Christopher Robert Manners
+Morgan Stanley, Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+It's Chris Manners from Barclays here. 2 questions, if I may. The first one was, I was just looking at Slide
+14 in the deck, on the balance sheet you mentioned, it was nice to see net interest margin expanding, and
+you're seeing customer loans up 12%, customer accounts up 9%. Then if I think I've got an expanding
+margin and it looks like almost double-digit customer balance sheet growth. I've only got NII up 5%. So
+maybe just a little bit of the explanation of the dynamics, how we think -- should think about earning
+assets versus sort of loans and customer accounts growth? And then maybe or not 5% to 7% growth
+rates we're expecting in top line, maybe you could help us think about how much you're going to have as
+earning asset growth, what's going to be margin expansion, what's going to be fee growth, and just a --
+maybe a little bit of help there. And I have a second one on capital afterwards.
+
+Andrew Nigel Halford
+Group CFO & Director
+
+Yes. I mean, so loan growth, $30 billion as per the chart, and about 1/3 of that is from FX, okay? So $9
+billion or so. So that's not interest earning or maybe it is, but not overtly. Of the balance, we are about
+half on Corporate Finance, and the other half split between retail and Financial Markets. So the retail bit,
+obviously, enduring. The Corporate Finance, as we have discussed before, can move up and down a little
+bit depending on the timeliness of the deals and things like that. But I think the key to understand is that
+there is a reasonable amount of this is FX. And it's about 1/3 of the increase actually on the customer
+deposits is FX as well. And customer deposits, 1/3 FX, about 1/3 better retail deposits, and 1/3 the
+corporate OPAC accounts or credit accounts.
+
+Christopher Robert Manners
+Morgan Stanley, Research Division
+
+So I suppose if we're referring our top line at 5% to 7%, we are going off balance sheet like this, and I
+believe there were some FX impacts in there, how much margin expansions do we have -- do we need to
+have to get to a 5% to 7% top line? I suppose is the question.
+
+Andrew Nigel Halford
+Group CFO & Director
+
+Yes, I mean, you know, we will see what the mix is. Overall, the 5% to 7% on the top line, the cost loan
+inflation. I mean we have now had 2 periods where we've had the margins sort of stable to fractionally up.
+But that is after a multi-year period when it has been down. We are driving the liability side as much as
+we can do now, but partly it's built -- it's about the quality of the mix, which is within our control, to some
+extent, and partly, it's about interest rate increases. We're not going to forward guide specifically on the
+margin, and so we will do whatever we can to get it as high as we can.
+
+William Thomas Winters
+Group Chief Executive & Director
+
+And just to add, I think we tried to position ourselves to be much more dynamic in terms of the way that
+we allocate our assets and liabilities. So it's not as bad a picture of margins staying constant for some
+period of time. As we see attractive assets that we can access, and we're trying very hard obviously to
+position ourselves to access those markets, we can grow faster and perhaps with -- at a lower margin
+if we think it's considered from a risk return perspective. So I think that the real point is, we're better
+positioned to dynamically manage our assets and liabilities than we have been anytime in past couple of
+years.
+
+Christopher Robert Manners
+Morgan Stanley, Research Division
+
+And I have one follow-up question on capital as well. You're still guiding to the 12% to 13%. And when
+I look at, you had quite a big sort of 6% stress test drawdown. Stress drawdown may go up with IFRS 9
+may have a lot of trough. And just trying to understand, given where your systemic reference point is,
+how do you calibrate the 12% to 13%? Do you think Pillar 2A might come down? Do you think that the
+stress test trough that [ BOA ] demands might be changed? Just how do you square those 2?
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Andrew Nigel Halford
+Group CFO & Director
+
+Yes. I mean we've held to the 12% to 13% at the moment even though we're slightly above that 13.6%.
+And I think inherent in your question, there are still some moving parts in this. IFRS 9 has not yet been
+stress tested, and we'll see where that goes. Basel III, a, there is a level of national discretion, which
+isn't yet clear and the concept of stress testing of that is also completely new. And then thirdly, we've got
+preexisting for stress test and the future troughs in there. So our sense was, for the moment, it's sensible
+to keep the range where it is, it's rather a little bit higher on that and then we've got a little bit of cushion
+hopefully to absorb things like that. But our sense is we're in the right zone on that, but stress testing,
+things like that are clearly going to play a part as we evolve the thinking and the regulators evolve the
+thinking over the coming quarters.
+
+Christopher Robert Manners
+Morgan Stanley, Research Division
+
+And so you've got a [indiscernible]
+
+Andrew Nigel Halford
+Group CFO & Director
+
+Until we have a better number, it's 12% to 13%.
+
+Richard Smith
+Keefe, Bruyette & Woods Limited, Research Division
+
+Yes. Richard Smith from KBW. Wondered if I could just ask you 2 quick follow-ups. Just firstly, on the
+regulatory cost, you were saying that you hoped that it was going to be peak and can we see it come
+down from here. I wondered how much you thought we might see a tail off from here, as some of those
+programs abate. And then secondly, if I look at your average balance sheet disclosure, it looks like the
+noninterest-bearing liabilities, the noninterest-bearing deposits are actually remaining relatively stable or
+coming down. I wondered when you talk about cost of funds basically that you could see, how much is
+that? The answer is, effectively, that we see less of the impact through in terms of your interest bearing
+deposits as opposed to actually growing those noninterest-bearing liabilities?
+
+Andrew Nigel Halford
+Group CFO & Director
+
+Yes. I mean the forward accuracy of record is always a little bit difficult. There was a time when we
+hoped that we'd top out at about $1 billion, and we are now $1.3 billion. And I think as most banks have
+found, it is quite a difficult one to give a definitive view on sort of where is the top. Some of what is in
+there is compliance and ongoing regulatory costs, which as the business expands, it's likely to expand.
+Obviously, we look at automation and things like that. I think, at this point in time, we have got a higher
+number of in-flight projects, that what we did have in 2017, that is normal. And there's a lot of work
+on things like IFRS 9. Now ultimately, it may not actually transcend itself into very much movement,
+honestly, if you want, it's just slightly quirky. But it is a year when we had an abnormally high number
+of in [ flight ] purchased land. So I'd say, I'd hope it would moderate a little bit as we go forward, but
+it's more moderated rather than sort of fundamentally changed. The cost of funds, I think if you do a
+comparison of us with some other banks, then our cost of funds are higher. In part, that is because the
+overall mix of our business is slightly less retail maybe than some other banks and hence the lower cost
+of deposits from customers on that side is a lower part of our overall funding mix, but it is something, it's
+on the ROE walk, which we are very focused on how can we get the mix changed? Can we do more in a
+digital world with retail to actually get a higher proportion coming through retail with the OPAC accounts,
+operating accounts in the corporate side, which tends to be sort of sticky and do sit there for long periods
+of time, how can we make more of that? There are regulatory requirements in terms of how much we
+have to then put on deposit with the central banks and so on. And just making sure that we are optimizing
+the mix of those. So there's a whole variety of different factors that are going into it, but it is something
+the treasury team working with the business are now very focused upon.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Unknown Executive
+
+So I think we have time for one more additional one. We are hanging around [indiscernible] with
+questions.
+
+James Frederick Alexander Invine
+Societe Generale Cross Asset Research
+
+It's James Invine here from SocGen. I just wanted to ask about your investments please, you mentioned
+to Tom's question, but is there a project that can give you more than 10% return. How much are you
+restraining your investment because the group return is still quite low at the moment. So is there a much
+bigger pipeline that you'll release if you are more comfortable overall?
+
+William Thomas Winters
+Group Chief Executive & Director
+
+So the real constraint as we went from 2015 to '16 and '17 was capacity. So as Andy pointed out in his
+slide, the investments that were not in just system replacement or regulatory improvements were $100
+million in 2015, it's up to $800 million today. So we needed to ramp up pretty substantially our capacity
+to prudently and toughly make that incremental investment. And that is still -- it's a pretty close to the
+binding constraint. That said, we made commitments about overall expenses in 2018 relative to 2015.
+We take those seriously. So we have kept a pretty careful eye on the margin, as to whether we can be
+a bit more efficient in terms of how we invest and spend. But you also saw in our ROE walk forward, we
+would expect expense increases to partially offset the income growth that we think we can generate. And
+obviously, a chunk of that, some of that story, will comp but a chunk of that is stepped up investment
+because we do have capacity to incrementally invest. And that will always be the case. So there is the
+things that we fully imagined, we would be investing in, as we've progressed with our business. And then
+there's things that arise along the way, the extraordinary focus that we've all got on cybersecurity and
+really understanding what's involved with staying at the cutting edge or at least some sort of leading edge
+of cyber protection, that will evolve. So we have stepped up our pace of investment in that sort of area
+beyond what we've probably imagined in 2015 because the threats become more clear. Nothing specific,
+but just it's an obvious one. It's in the news every day. So not to say that we won't have other things like
+that, that will come up, that aren't in our immediate horizon for planning today.
+
+James Frederick Alexander Invine
+Societe Generale Cross Asset Research
+
+Three follow-up on the investment. You've kind of helpfully given us some metrics on Slide 12, the
+progress you're showing, but I guess those are group averages, and you're in some pretty varied markets.
+So were there any particular regions or countries where you think you're kind of way ahead of the
+competition and this is a real edge, maybe some areas where you think you're kind of lagging some of
+your competitors?
+
+William Thomas Winters
+Group Chief Executive & Director
+
+So if we look at the countries or markets or segments where we thought we were at the leading edge of
+capabilities 3 years ago, it would be a very short list. When we look today, and we see 0 human touch
+online account opening and servicing, self servicing and management, in a handful of markets, we would
+expect that to continue for some time to come. We're first in market in a number of cases today. By no
+means are we first in market across the board, right? We're just not. We are still at a reasonably big
+technology and capability gap between where we are and where the best-of-class is in each market in
+which we operate. But we've demonstrated an ability when we focused to get to best-in-class or at least to
+get to first to market, we'll subsequently demonstrate that we can be best-in-class. And that's an ongoing
+evolution, but it's one we think that -- we're never going to compete on the basis of our sheer scale.
+That isn't what Standard Chartered is. We've got to be more nimble, and we got to hit very hard in the
+markets where we have an advantage. So we've identified what we think those markets are. Africa has
+been a key and we really want to be at the cutting-edge across our African markets. We want to get more
+than our share of growth from Africa. We want to get more than our share of growth from South Asia. We
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+want to demonstrate that we can satisfy a mass affluent market in India efficiently, and we haven't fully
+demonstrated that yet. But the individual products and services that we're rolling out are laying a pretty
+good foundation for us to say, yes, when we focus on it, we can get it right. Honestly, we would expect
+that to snowball over time.
+Good. So with that, thank you again for coming out first thing in the morning. Good questions, as always.
+Appreciate your thoughtfulness and support. And happy to engage as we ordinarily do in the days, weeks
+and months to come. Thanks.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+STANDARD CHARTERED PLC FY 2017 EARNINGS CALL |  FEB 27, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+

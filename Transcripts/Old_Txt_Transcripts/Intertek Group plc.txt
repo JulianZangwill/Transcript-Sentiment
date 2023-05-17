@@ -1,0 +1,1120 @@
+Intertek Group plc LSE:ITRK
+FY 2017 Earnings Call Transcripts
+Tuesday, March 06, 2018 9:00 AM GMT
+S&P Global Market Intelligence Estimates
+
+CONSENSUS
+
+EPS Normalized 
+
+1.88
+
+Revenue  (mm)
+
+2771.87
+
+Currency: GBP
+Consensus as of  Mar-06-2018 8:58 AM GMT
+
+-FY 2017-
+
+ACTUAL
+
+1.92
+
+2769.10
+
+-FY 2018-
+
+SURPRISE
+
+CONSENSUS
+
+2.13
+
+(0.10 %)
+
+1.97
+
+2804.00
+
+FY 2016
+
+FY 2017
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.61
+
+1.88
+
+1.68
+
+1.92
+
+4.35 %
+
+2.13 %
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+12
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+INTERTEK GROUP PLC FY 2017 EARNINGS CALL |  MAR 06, 2018
+
+Call Participants
+
+EXECUTIVES
+
+André Pierre Joseph Lacroix
+CEO & Director
+
+Edward Leigh
+Former CFO & Director
+
+ANALYSTS
+
+Andrew Charles Grobler
+Crédit Suisse AG, Research
+Division
+
+Charles Edward Stanley
+Redburn (Europe) Limited,
+Research Division
+
+Ed Steele
+Citigroup Inc, Research Division
+
+Josh Puddle
+Joh. Berenberg, Gossler & Co. KG,
+Research Division
+
+Suhasini Varanasi
+Goldman Sachs Group Inc.,
+Research Division
+
+Ted Nyhan
+JP Morgan Chase & Co, Research
+Division
+
+Thomas Richard Sykes
+Deutsche Bank AG, Research
+Division
+
+Will Kirkness
+Jefferies LLC, Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+INTERTEK GROUP PLC FY 2017 EARNINGS CALL |  MAR 06, 2018
+
+Presentation
+
+André Pierre Joseph Lacroix
+CEO & Director
+
+Good morning to you all. It's 9:00. Let's try to start on time. We have some of our attendees today on the
+line, so I just want to make sure that everybody is on time. So good morning, and thanks for attending
+our results face-to-face. It's a real pleasure to see you all.
+
+In 2017, we've seen continuous progress on revenue growth, margin management and cash generation.
+And I'm sure you will have noted that our profitability and cash results are ahead of expectations, which
+is good news for everyone. In my view, these results really demonstrate the quality of our earnings
+models but also the disciplined approach we take to performance management. Today, we'll start with our
+performance highlights, what has happened in 2017. Ed will then take you through a detailed presentation
+of our results. We will spend a bit of time then on strategy. I'd like to give you an update on where we are
+with our differentiated strategy. And then we'll finish, as you will expect, with the outlook for 2018 and
+what it means for each of our divisions.
+
+So I'd like to start with the performance highlights, and I'm going to go through relatively quickly because
+you've seen the numbers already. Nonetheless, I think it's important to highlight the key points.
+
+I think the first point is obviously from a revenue standpoint, GBP 2.8 billion, up year-on-year at 7.9%
+at actual currency and 3% at constant currency. I think our revenue performance at constant currency
+was driven by solid organic growth of 2.1%, and it was an acceleration on the organic growth that we saw
+in '16. And certainly H2 was better than H1, but nonetheless, in addition to organic growth, we saw the
+positive contribution from the recent acquisition that we have made. Operating profit was GBP 468 million,
+up 14.2% at actual currency and 10% at constant currency, really pleased about that, driven by a very
+strong margin performance. You all will have seen it. We've delivered a record operating margin of 16.9%,
+up 90 basis point at actual rate and 110 basis point at constant currency.
+
+We've delivered a full year adjusted EPS of 191.6p, up 14.3% at actual currency and 10.4% at constant
+rate. We've announced a proposed final dividend of 47.8p. That will increase the full year dividend to
+71.3p, an increase of 14.3% year-on-year, in line with our progressive dividend policy.
+
+Our cash conversion has remained very strong. And our free cash flow, as you've seen, was up 7.4%.
+
+We have delivered GDP+ organic growth in 94% of our earnings, with 4.8% organic revenue growth
+at constant currency in the combined product and Trade divisions. In both divisions, we benefited from
+broad-based organic revenue growth. Our product business grew by 5.5% at constant currency, and our
+Trade business by 3%. No surprise and as expected, conditions remained challenging in our resource
+division. We saw an organic revenue decline of 8.6%. Important to note is, during the year, we saw the
+rate of decline in Resources improve from minus 12.3% in H1 to minus 4.5% in H2.
+
+Acquisitions are important for us to get access to quality businesses that have strong IP, market-leading
+positions; and provide attractive growth and margin prospects. The acquisition we've made since 2015
+have added circa GBP 250 million to our yearly revenue base.
+
+Clearly the highlight of our performance in 2017 is the margin performance. You've seen it. We've made
+continuous progress in the last 3 years. And in '17, we've seen an operating margin improvement of 110
+basis point at constant currency. This is very significant. We are really proud of these results. We've been
+able to benefit from operating leverage linked obviously to revenue growth, productivity improvement
+and from obviously our portfolio mix. I will give you later on in the presentations a deep dive on what
+we are doing at Intertek to drive margin performance. We believe that there is further scope for margin
+improvement in the years to come, and certainly the organization will remain focused on margin-accretive
+revenue growth.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+INTERTEK GROUP PLC FY 2017 EARNINGS CALL |  MAR 06, 2018
+
+Our business model is highly cash generative. That enables us to invest in future growth but also to
+provide attractive returns to our shareholders. In the last 2 years, we've invested GBP 219 million in M&A
+and CapEx. And our dividend has increased by 36%. We continue to work in a very disciplined fashion on
+cash generation. The working capital as percentage of revenue has reduced to 5%, an all-time low for the
+group, and this is really pleasing. Our free cash flow, as I said earlier, was up 7.4%. We have strengthened
+our balance sheet, and we've reduced our net debt by circa GBP 200 million year-on-year. And at the end
+of the year, our net debt-to-EBITDA ratio was 1x.
+
+We believe in the value of accretive, disciplined allocation of capital. Our first priority, of course, is to
+support organic growth through capital expenditures and investment in working capital to obviously
+support the development of client relationships. In the medium to long term, as far as CapEx, investments
+in new technology, equipment, lab facility to deliver new services will be around 5% of our revenue
+through the long term. The second priority is to deliver sustainable returns for our shareholders with
+the payment of progressive dividends. And in recognition of our highly cash-generative business model,
+our strong financial position, our board's confidence in the attractive long-term growth prospect for the
+groups and our ability to fund continued growth investments in both M&A and CapEx, we are increasing
+our targeted dividend payout ratio to circa 50% of earnings from 2018.
+
+The third priority is to pursue M&A activities that strengthen our portfolio in the attractive growth and
+margin areas of the industry. And the fourth priority is to maintain an efficient balance sheet that gives us
+the flexibility to invest in growth. And our guidance in terms of EBITDA, gearing ratio over the long term is
+between 1.5x and 2x.
+
+I will now hand over to Ed, who will give you a detailed presentation of our financial results.
+
+Edward Leigh
+Former CFO & Director
+
+Thank you, André. And good morning, everyone.
+
+As André has described, we have delivered a strong earnings growth and cash generation. And I'll now
+take you through some of the details underlying our results.
+
+So in summary, we delivered double-digit operating profit and EPS growth. Margin improved year-on-year
+at both actual and constant currency, and our cash flow performance was strong. Organic growth was
+2.1% at constant currency and 6.9% at actual rates. The FX impact on total revenue was 4.9% for the
+year, driven by the depreciation of sterling, noting that the FX impacts turned slightly negative in the final
+few months as the pound strengthened. At constant rates, operating profit [ progress ] was up 10% to
+GBP 468 million, and margin was up 110 basis points. This performance, combined with the FX translation
+gain for the year, resulted in operating profit up 14.2% at actual rates.
+
+Net finance costs of GBP 28.9 million were above last year. And you'll recall, in 2016, that included FX
+gains in our non-sterling debtors driven by the devaluation of the pound in the second half. Our tax rate
+was 24.5%, being down 80 bps year-on-year, reflecting a one-off benefit from the revaluation of deferred
+tax liabilities following the recent tax reforms in the U.S.
+
+So overall, fully diluted EPS grew double digits to 191.6p, being up 14.3% at actual rates and 10.4% at
+constant.
+
+We also delivered a strong cash performance in the year, with our focus on working capital leading to an
+increase in free cash flow of GBP 24 million to GBP 342 million.
+
+I'll now take you through some high-level margin analysis.
+
+So the group recorded a 90 bps improvement in total operating margin in [ 29 ], increasing to 16.9%.
+Organic improved by 90 bps at constant rates, driven by margin accretion in Products and also by the
+benefit of a stronger portfolio mix which contributed 30 basis points. Our disciplined focus on cost and
+capacity management also resulted in stable Resources margin despite a revenue decline of 8.6%. M&A
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+INTERTEK GROUP PLC FY 2017 EARNINGS CALL |  MAR 06, 2018
+
+added positively to the organic margin by 20 bps with the 5 transactions carried out since the beginning of
+2016. And finally and as expected, FX had a slightly negative impact on the group margin.
+
+Now turning to the group cash flow and net debt. Our free cash flow at GBP 342 million was up strongly
+in the year, increasing by GBP 24 million. This was driven by the improved profitability of the group as
+well as our day-to-day focus on cash management. We invested GBP 137 million in both CapEx and M&A.
+The overall strong performance in cash flow resulted in a reduction into net debt of -- to GBP 544 million
+and down by 27% versus last year-end. And that's equivalent to 1x net debt-to-EBITDA ratio, which is
+a significant improvement to the 1.5x in the prior year. The net debt reduction year-on-year included a
+favorable GBP 40 million FX impact from the stronger pound on our dollar-denominated debt.
+
+Now turning to financial guidance for 2018.
+
+The expected net finance costs will be around GBP 25 million to GBP 27 million. And for 2018, effective tax
+rate is expected to be in the 25.5% to 26% range, with the impact of the recent U.S. tax reforms being
+broadly neutral for the group. And minority interest will be circa GBP 20 million. For your models, I've set
+out the number of shares for the EPS calculations. And we're currently expecting full year CapEx to be in a
+range of GBP 130 million to GBP 140 million.
+
+For net debt, we expect to close the year at between GBP 400 million and GBP 450 million, although
+noting that this guidance is stated before any M&A completions and any material movements in FX.
+
+And with that, I'll hand you back to André.
+
+André Pierre Joseph Lacroix
+CEO & Director
+
+Okay, thank you, Ed, for this comprehensive review of our results.
+
+So what I would like to do now is start with a brief strategic update and with a few comments on the
+quality of our earnings models because I believe this is a true differentiator for Intertek.
+
+If you look at the highest level, what is it that Intertek does in the quality assurance industry? We provide
+independent quality assurance services that are critically important to our clients, and this is important
+to sustain the integrity of their supply chains. So in a simple expression, what we do for our clients is
+independent and mission critical. We offer ATIC solutions to our clients in 3 sectors of the economies:
+product, trade and resources. And what's also very important is we operate a capital-light business model.
+That's why our return on invested capital is so strong. And that capital-light business model, combined
+with an entrepreneurial culture, enables us to react very quickly to new growth opportunities by following
+the supply chain of our clients where they want to move their manufacturing footprint. And we've seen
+that over the years, where Intertek has moved very quickly to new geographies when our clients wanted
+to move their supply base there.
+
+Our approach to value creation for the mid to long term is based on what we call internally the Intertek
+virtuous economics. We do not believe in one metric. We believe that, to drive shareholder value creation
+on a sustainable basis, you've got to focus on total shareholder value creation. And the way we define
+it at Intertek is global GDP+ organic growth plus margin accretion, plus strong cash conversion and, of
+course, plus disciplined capital allocation in M&A and CapEx. And we believe that, over the long term,
+the compounding effect of our virtuous economics year after year is what drive the consistency of our
+performance and, of course, the strong returns for all shareholders.
+
+Our future growth outlook is global GDP+ organic growth in real terms. We've talked about it in the past.
+We expect our product divisions, which represent 75% of our earnings, to grow ahead of global GDP. Why?
+Our product growth drivers are truly GDP agnostic. We benefit from brand and SKU expansion; regulatory
+development; as well as increased focus of corporations on safety, quality and sustainability. We expect
+our Trade divisions, which is about 19% of our earnings, to grow at a rate broadly similar to the GDP
+through the cycles. And our Trade business will continue to benefit from the development of regional and
+global trade as well as from the increased focus of corporations on traceability. The growth prospects in
+our resource divisions, which represent 6% of the earnings, are linked, as you know, to the global growth
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+INTERTEK GROUP PLC FY 2017 EARNINGS CALL |  MAR 06, 2018
+
+drivers in the energy sector. It is obvious that investments in exploration and production for essential
+resources like oil and minerals will grow in the medium to long term to, of course, meet the demand of the
+growing population. We also expect structural growth in the renewable sector.
+
+The main strategic objectives of our 5x5 strategy is to move the center of gravity of the group towards
+high-growth and high-margin sectors through to the virtuous economics model that I talked about. And
+to do that, we are pursuing 5 corporate goals. These have not changed since March '16. I'll go them
+-- through them very quickly. First, we want our employees to be fully engaged and work in a safe
+environment. Our second objective is to deliver superior customer service. Our third target is to deliver
+margin-accretive organic revenue growth based on GDP+ organic growth. Fourth, we want to drive a
+strong cash conversion. And fifth, we pursue an accretive, disciplined capital allocation policy.
+
+We are seizing the exciting growth opportunities ahead with our differentiated Total Quality Assurance
+value proposition. We call that TQA. Globally across all of our businesses, we support the existing and
+emerging needs of our clients in terms of quality assurance in each area of their operations: R&D,
+raw materials sourcing, component suppliers, manufacturing, transportation, distribution and channel
+management and consumer management. We offer that superior customer service through a systemic
+end-to-end assurance approach based on the depth and breadth of assurance plus testing, plus inspection,
+plus certification solutions, importantly, delivered by our global subject matter experts in each of our
+operations. Our clients over the last few years have reacted very positively to our innovative quality
+assurance approach with our TQA value proposition. We are pleased with the progress we are making
+with our ATIC sales throughout the world. We've seen excellent growth in the last 2 years in the capital-
+light, high-margin assurance segments, which now represent as you can see 14% of the group revenue, a
+significant improvement compared to where the group was at the end of 2015.
+
+I would like now to do a deep dive on our margin approach at Intertek. Last year, we did a deep dive on
+revenue. This year, I want to cover margin management and essentially talk about 5 important areas,
+starting with organization engagement.
+
+Our 5x5 strategy is based on clear goals that are extremely well understood by our employees inside
+Intertek, and it's very important. It's called organization alignment. We invest considerable amount of
+time aligning the organizations: First, communicating the importance of putting the customer first. To give
+you an example, when I visit local markets, I always lead by example and take time to visit customers
+to talk about our TQA value proposition and get their feedback. It's important that our leaders really lead
+from the front and are spending their time in the markets. Personally, I spend about 50% of my time
+traveling around the world, supporting and coaching our operations. Nothing beats the frontline contacts
+to really understand where the opportunities are. We take time to recognize achievements of our people.
+Recognition is really important to have an engaged organizations. And I will personally host town hall in
+every single market visit I do. Sometimes, I will do 3 town halls if I visit 3 labs in the same market areas.
+And I use these to obviously communicate, connect and ask any questions that our colleagues have. We,
+of course, support the sharing of best practices. We invest in training and coaching. And we have a very
+simple, aligned incentive plan. Our yearly incentive is based on 3 metrics. 80% of the earnings opportunity
+is based on revenue and profit, with a higher weight towards profit to drive margin accretion, of course.
+And the remaining 20% is on return on capital.
+
+The second area of focus in terms of margin management is superior customer service. Why? If you drive
+superior customer service on a sustainable basis, you will command a strong pricing power, which is very
+important. You heard me talked about it in the past. We look at good revenue growth, volume, good price
+and good mix but would rather have less volume but have a better price.
+
+Our customer-centric entrepreneurial culture is really important, and it is helping us to put customer
+first. You probably know that we operate very decentralized operating models. For those of you who
+have come to our office in London, you know that we run the group with around 50 to 60 people in the
+center. We spend time listening to our customers. We do NPS interviews. And we do 7,000 interviews a
+month, which is an incredible amount of feedback we get. This is very, very timely to give us every single
+months the insight of our customers that we obviously use to improve our service. We use, of course, data
+intelligence, these NPS data, to look at our performance by site, by country and by customer. And what's
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+INTERTEK GROUP PLC FY 2017 EARNINGS CALL |  MAR 06, 2018
+
+important in terms of value delivery of our superior customer service, it's based on disciplined operating
+processes, with 0-defect quality commitment from all and obviously continuous improvement. At Intertek,
+we believe we can always be better.
+
+Our growth and margin-accretive portfolio strategy is moving, as you know, the center of gravity towards
+higher-growth and higher-margin areas. You can see it on this slide. And just to recap: What is it we
+are trying to do from a portfolio standpoint? Essentially, we've got 5 priorities. First, we try to grow our
+global-scale businesses. They are the businesses where we've got leading market position and strong
+margin and obviously tremendous expertise. And these businesses are Softlines, Hardlines, Electrical &
+Network Assurance, Cargo/AA and GTS. The second objective from a portfolio standpoint is to focus on the
+businesses where we see fast growth and good margin opportunities. And these businesses are Business
+Assurance, Agriculture, building and products (sic) [ Building Products ], Transportation Technology and
+Food.
+
+The third priority in our portfolio is, of course, to improve the performance of our industry service and
+Minerals, which has not been great over the last few years. Fourth, we continue to review the strengths
+of our own portfolio. We've talked about it in March '16. We operate multiple business lines in 100
+geographies. And we are taking our time, with Ed and the team, to look at selected business units every
+single year. And this year, we have basically reviewed quite a number of these business units, which has
+led to the closure of 8 and the restructuring of 30. And finally, our M&A strategy is based on attractive
+growth and margin opportunities.
+
+The other important part of our margin management is performance management. And we have a
+systemic approach across business lines, countries and sites; and this is obviously critical to sustain strong
+margin performance. We operate a structured performance management calendar that enable us to track
+progress continuously. And we measure financial and nonfinancial metrics, which gives the right level of
+intelligence to our team. As you know, the operational metrics are the leading indicators, and the financial
+metrics are the lagging indicators.
+
+We never stop looking at ways to strengthen our business. It's part of our DNA. It's part of our culture,
+continuous improvement with solutions that are margin accretive and our customer-facing innovations
+are either based on digital tools to improve our processes or technology to develop a new solution. On the
+digital side, for instance, our cloud-based solution Inlight is highly valued by our clients who are looking to
+an end-to-end visualization and tracking of their risk through the entire supply chain. In our GTS business,
+for instance, our workflow Astra ERP gives our clients real-time intelligence on how their certificates are
+progressing through the customer journey. Technology provides a central role to deliver superior customer
+service. For instance, one of our latest innovation is InterPret, an algorithm that use big data analytics to
+predict hydrocarbon composition, providing our clients with real-time information. As you would expect,
+we make investments in our labs with cutting-edge technology. For instance, in our Food business we've
+recently invested in a new equipment that detects the DNA of fish samples, believe it or not, to make
+sure that our retail customers know that the fishes that you're going to buy at Tesco or Sainsbury's are on
+spec.
+
+Turning to operational Kaizen solutions. We've got a really good CRM system called iConnect enabling
+our teams to basically coordinate their local and global sales and marketing efforts. Very, very important
+to have this capability. In terms of enabling our performance management approach, we have put in
+place, as you will expect, digital tools to make it seamless and easy for employees. We operate several
+financial service centers, which today is given in any global enterprise. And we continue to invest. We've
+just recently invest in a cloud-based tool to track our carbon emission side-by-side around the world and
+to get real-time visibility where the operations are.
+
+So I just touched base on a few of these innovations. In the appendix of the presentations there is a bit
+more detail on each of them. And we are very happy to discuss these, if you're interested.
+
+Let's now look at what's going to happen, in our view, in 2018.
+
+In 2018, we expect to deliver good organic revenue growth at constant currency, with a sequential
+progression throughout the year. We expect robust organic growth momentum in our product businesses
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+INTERTEK GROUP PLC FY 2017 EARNINGS CALL |  MAR 06, 2018
+
+and solid organic growth in our Trade businesses, obviously at constant currency. While we have seen a
+reduction of the negative growth rate in the July to December '17 period in the Resources business, we do
+not believe we have reached the trough yet. Trading condition in resource will remain challenging in H1,
+and we expect a gradual improvement in H2.
+
+From a profitability standpoint, we expect to deliver moderate margin progression at constant currency.
+We will remain, of course, disciplined on cash conversion. We'll continue to invest in growth and expect our
+full year CapEx to be circa GBP 130 million to GBP 140 million. As you know, currencies have continued
+to be volatile over the last few months. And the average sterling rates in the last 3 months, as well as the
+spot rate, by the way, applied to the full year results for 2017 would provide a reduction of 400 bps at the
+revenue level and 350 bps at the earnings level.
+
+Let's now discuss the divisions.
+
+Starting with product. We are extremely pleased of our product business, an excellent performance with
+strong, margin-accretive revenue growth; 5.5% organic growth driven by broad-based revenue growth
+across business lines and geographies; very strong operating profits, GBP 350 million, up 13.2% at
+constant currency. And we've delivered a margin of 21.6%, up 140 basis points. And this is obviously the
+results of positive operating leverage, pricing disciplines that I've talked about and obviously productivity
+improvement as well as favorable product mix inside product.
+
+Our softline business delivered robust organic growth revenue across all markets. Moving forward, we
+expect good organic growth in our softline business driven by increased number of SKUs and brands,
+supply chain expansion in new markets and increased demand in chemical testing. Our hardline business
+report robust organic revenue growth across our main markets of China, Hong Kong, India and Vietnam.
+Moving forward, we also expect robust organic growth driven by the innovation we see within our
+customer base as they leverage the wireless technology or IoT. We also see an increased demand for
+chemical testings and obviously an increased demand for inspection. We've delivered robust organic
+revenue growth in Electrical & Network Assurance, and moving forward, we expect that to continue. We'll
+benefit from electrical appliances innovations to provide better efficiencies and connectivity to consumers.
+And also, we expect to benefit from the increased demand for IoT services and, of course, cyber security.
+
+Our Business Assurance business delivered double-digit organic growth in the 3 region of North America,
+Europe and Asia; and we expect that to continue. We'll continue to benefit from the ISO standards
+upgrade, increased focus of corporations on supply chain and risk management and increased consumer
+and government focus on ethical and sustainable supply. Our Building & Construction business delivered
+good organic revenue growth. And we expect that to continue, driven by the growth for greener and
+higher-quality commercial buildings in the U.S. as well as increased investments that we are seeing in
+large infrastructures.
+
+In our Transportation Technology business we've delivered stable organic growth. And moving forward,
+we expect the growth to improve to good. We are seeing continuous investment from our clients in new
+models, new fuel-efficient engines. Obviously, you are seeing the news that we all see where cities are
+going to ban diesel, which means more R&D investments will go in traditional combustion engine, both
+hybrid and electrical engines. And this is definitely the growth areas in the industry at the moment. And in
+addition to that, you see an increased scrutiny on emissions. That's why we bought KJ Tech last year.
+
+We generated good organic revenue growth in our Food business, and we expect that to continue. We are
+seeing obviously continuous food innovations around the world, increased focus on safety of supply chains
+and obviously growth in the assurance business in food. As far as chemical and pharma, we saw a solid
+organic growth. And we believe that, that will continue. We are seeing also growth of SKUs and increased
+concern obviously on product safety and traceability.
+
+So for the full year in 2018, we expect our product-related businesses to deliver a robust organic revenue
+growth.
+
+I'd just like to share some of the innovations we've launched recently in our product business. In our
+hardline and softline divisions, we have developed i2Q, a market-leading inspection solution for supplies
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+INTERTEK GROUP PLC FY 2017 EARNINGS CALL |  MAR 06, 2018
+
+inspection that provides real-time big data intelligence to our customers. And in our Transportation
+Technology, you might have seen the press release last -- recently. We've announced a partnership with
+the American Center for Mobility to provide an extensive range of ATIC services for ACM in the new 500-
+acre testing grounds they have built. So tremendous position for Intertek right in the center of the Detroit
+world of automotive, where we are working with the ACM organizations to test basically the future engines
+for America.
+
+Our Trade business delivered organic revenue growth of 3% driven by broad-based revenue growth across
+business line and geography. We delivered an operating profit of GBP 89 million, up year-on-year by 4.1%.
+Our operating margin of 13.7% was slightly down on last year at constant currency.
+
+Our cargo business reports solid organic revenue growth. And moving forward, we expect that to continue
+to benefit from the global and regional trend we are seeing in these markets. Our government and
+trade service businesses delivered robust organic growth. We won quite a lot of new contracts, you
+will remember from our previous conversations. And we expect that to continue moving forward. Our
+AgriWorld business delivered robust organic growth. And we expect to see solid organic growth in 2018,
+which I'm sure we will talk in the Q&A. For the full year, we expect our Trade-related businesses, which
+represent 19% of our earnings, to benefit from solid organic revenue growth.
+
+A few innovation in our Trade business. Agriculture exports can be quite complex from a paperwork
+standpoint and very time consuming. And to ease this process, we've developed a cloud-based export
+documentation systems that monitors the export process and provides customers with real-time updates
+on their documentation which can be very cumbersome. Fuel tank inspections can be costly and risky for
+our customers, so to make inspection more efficient and certainly safer, we've partnered with a developer
+of fuel tank inspection, a company that produces robot, to make it obviously easier for our customers.
+
+Turning to our resource division. Our resource-related business faced, as expected, continuous challenged
+trading conditions. And we saw an organic revenue decline of 8.6%. Operating margin at 5.7% was
+slightly up year-on-year at constant currency, as we continued to focus on volume, price and obviously
+cost control.
+
+The revenue from CapEx Inspection Services was down on last year, driven by a low level of investment
+in exploration activities from our clients and price pressure. The demand for OpEx maintenance was
+relatively stable but in a price-competitive environment. In '17, we've seen an improvement of demand for
+testing activities in Minerals. In '18, as I said earlier, we expect trading conditions for resource to remain
+challenging in H1, and we expect a gradual improvement in H2.
+
+A couple of innovations in our resource division. Our new PipeAware software allows our pipeline
+customers to access real-time information on their asset inspections throughout their entire manufacturing
+process. We've partnered with Unmanned Eagle Eye in the U.S. to introduce drone technology into our
+CapEx Inspection process.
+
+Just like to close with a few remarks on what I consider the strengths of Intertek before we take any Q&A.
+
+Intertek has a strong track record of shareholder value creation on sustainable basis. You can see it here
+in the graph. In the last 15 years, we've multiplied our revenue, EPS and cash generated from operation
+by circa 6x. And we've multiplied our dividend by over 13x. In 2017, we've continued to make progress
+on revenue, margin, cash and returns. And moving forward, we believe that our high-quality earnings
+models will continue to drive sustainable growth for all stakeholders. As we explained earlier, we offer a
+differentiated TQA value proposition that is very important for our clients, and that provides them with a
+superior customer service. We are uniquely positioned in terms of growth to benefit from GDP+ organic
+revenue growth in real terms. We have attractive structural growth drivers ahead of us, and this is really
+exciting. Our product division, which is 75% of the earnings, is basically driven by GDP-agnostic growth
+drivers; said differently, GDP+. Our Trade division, which is 19% of the group's earnings, will continue to
+be benefiting from global trade growth. And our resource sector, which represents 6% of the earnings, will
+over time benefit from the growth drivers in the energy sectors. We are very disciplined when it comes to
+margin and cash management. In terms of M&A, we will target attractive businesses in terms of growth
+and margins.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+INTERTEK GROUP PLC FY 2017 EARNINGS CALL |  MAR 06, 2018
+
+So in a nutshell, we believe that, in 2017, we made excellent progress both on performance and strategy.
+And we're excited about the future. We see attractive organic and inorganic growth opportunities ahead
+which we are ready to seize.
+So we'll now pause and take any questions you have.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+INTERTEK GROUP PLC FY 2017 EARNINGS CALL |  MAR 06, 2018
+
+Question and Answer
+
+Charles Edward Stanley
+Redburn (Europe) Limited, Research Division
+
+Edward Stanley from Redburn. Three, please. What's -- when you're looking at M&A, when you say
+attractive growth and margin, are there any end markets that you find most appealing? I'll ask them one
+by one.
+
+André Pierre Joseph Lacroix
+CEO & Director
+
+Okay, look, in terms of -- I cannot see you. Where are you? Okay, you're there, okay. So in terms of end
+markets, if you look at our portfolio strategy, you've got the priorities where we see, organic, inorganic
+opportunities for the group. In addition to that, we will look always at new end markets that attractive.
+For instance, what we've done in sustainability with the acquisition in Mexico of ABC is a good example
+of where we can obviously invest in a new end market. And what we've done with EWA and Acumen is a
+strong signal and we believe that cyber security in -- is an attractive end market. So if you take portfolio
+plus sectors where we see attractive growth prospect, that's where we'll look at it.
+
+Charles Edward Stanley
+Redburn (Europe) Limited, Research Division
+
+Okay. And depreciation as a percentage of sales in the Products division seems to be lower year-on-year,
+which has helped the margin seemingly. Can you explain why that is? And will that continue?
+
+Edward Leigh
+Former CFO & Director
+
+I mean that's a function of, I think, the strong revenue performance we've seen coming through, so yes, I
+think we could expect that to continue.
+
+Charles Edward Stanley
+Redburn (Europe) Limited, Research Division
+
+Okay. And finally, on the working capital, which is a historic low of 5% of sales. Do you foresee that
+continuing? And what has been the biggest driving factor behind that?
+
+Edward Leigh
+Former CFO & Director
+
+Well, look, working capital management for us is a critical part of how we think about our business model,
+our operating model. And working capital at 5%, that's certainly where we are now. We continue to work
+on working capital initiatives across the whole range, payables, debtors et cetera. We will continue that
+work into the year ahead. And we're not guiding for a particular number, but that work continues.
+
+André Pierre Joseph Lacroix
+CEO & Director
+
+I mean clearly, on working capital, the progress we've made over the last few years has certainly been
+ahead of our own expectations, so we are pleased where we are. We're going to continue to drive harder
+but don't expect the same year-on-year reduction. That's the implied message.
+
+Josh Puddle
+Joh. Berenberg, Gossler & Co. KG, Research Division
+
+It's Josh Puddle from Berenberg. 3 questions, please. Firstly, I just wondered why margins are going
+down in the Trade division and if you can you comment on expectations for 2018. Secondly, the slide in
+your presentation on the assurance section, very broad maths. It looks like that's growing around 20%
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+INTERTEK GROUP PLC FY 2017 EARNINGS CALL |  MAR 06, 2018
+
+per year. How sustainable do you think that growth rate is? And who do you see as your sort of greatest
+competitors in that section? And then just finally, a clarification on the Resources guidance: You say
+challenging H1, gradual improvement. Do you mean growth in H2, or do you mean less of a decline?
+
+André Pierre Joseph Lacroix
+CEO & Director
+
+Okay, I mean, on -- taking them one by one. On the Trade, basically the margin number that you've seen
+is essentially a function of the drop-through of the revenue we've lost in the U.S. with the storms. You
+will have seen it in the disclosures. We've said it's GBP 4.3 million, which basically has dropped through
+and impacted our margin in the second half. That's the only story behind that. As far as assurance is
+concerned, look, the numbers that we've presented today, and we've always said we'll give you an update
+on a regular basis, is a function of the double-digit organic growth we've seen in Business Assurance and
+also the acquisitions that we have made, so this is both organic and inorganic, all right? So the acquisition
+we've made in cyber security, in sustainability and obviously also with PSI have some assurance services
+there. As far as the competition, I think assurance is an interesting service area because, if you think
+about it, right, the industry has been known as TIC, testing inspection certifications. And companies today
+do much more TIC than they used to do, but there is still much more they could do. The assurance market
+is much more underdeveloped from our perspective because that's not where companies have been
+focused in terms of risk management over the last decade. So yes, we have competition. And we can take
+time to talk about some of these, but for me the -- in the assurance business the untapped opportunity
+is more important, i.e. what is it that corporations today don't do in terms of risk management and they
+should do to provide an end-to-end quality assurance to all their stakeholders? And that's the exciting
+part. And that's why innovation is so important. And that's where we're seeing good progress, when we
+talk to our clients about the fact that TIC is very important. It continues to be so and will continue to
+grow, but their operation is so complex that TIC at every point of the supply chain is necessary but not
+sufficient. They need to complement that with assurance, which is an audit of their operating procedures.
+So the growth remain very, very interesting. And as far as resource is concerned, look, if you look at broad
+base where the energy sector is, I mean, the exploration and production investments, if you take '17,
+[ were ] 50% away from the previous peak, right? So what we've seen in the oil and gas investments
+has been significant, and it's [ 160 billion ] less investment. 2017, the investment in exploration and
+productions of our client are still reduced year-on-year. Now if you take the positive half-full glass position,
+yes, oil and gas companies are doing better in terms of revenue, are benefiting from the price increase of
+the oil, are improving their margins, but they still have a lot of work to do to repair their balance sheet.
+And some of them have got a lot of debt and still to catch up with dividends. So until we see growth in
+real investments in investment and in exploration and productions, no, we're not going to call the bottom.
+And I've always said that, until I see 2 or 3 quarters of stable revenue growth in Resources, I don't want
+to call the bottom. So we are being careful by saying that it's going to be challenging in H1 and less
+challenging in H2. And then it's for all of you to put numbers to these qualitative statements.
+
+Will Kirkness
+Jefferies LLC, Research Division
+
+It's Will Kirkness from Jefferies. 2 questions, please. Firstly, could you talk about the improvement you've
+seen in some of your operational KPIs; and how that rate of improvement looks now, say, versus a year
+ago? And secondly, just a question on inflation in the U.S., particularly on wages, what you're seeing
+there.
+
+André Pierre Joseph Lacroix
+CEO & Director
+
+I think, look, as far as -- let's take inflation, first. As far as inflation is concerned, look, it's early
+days, right, to really take a view on what's going to happen to inflation in the next 12 months. A lot
+of companies are careful with their own wage increases and -- but we are seeing different level of
+inflations around the world. And the way we manage our wages is based on the local level of inflation. So
+typically what we do is we tend to cover part of the wage inflation through pricing, and the rest through
+productivity. That's the approach we take when we have to deal with inflation in the U.S. or no matter
+where we are around the world. The question on operational KPIs is very, very important. Look, we
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+INTERTEK GROUP PLC FY 2017 EARNINGS CALL |  MAR 06, 2018
+
+measure, as you can imagine, multiple operational KPIs. And what we've tried to do is we try to make
+sure that every single business has got, if you want, a cockpit of leading and lagging indicators. And they
+try to basically sequentially improve their performance. And as you can imagine, we have 100 countries,
+1,000 sites, multiple business lines, so the span of performance is quite wide. Having said that, the results
+we've deliver today wouldn't be possible if we have not seen improvement in many areas in terms of
+operational metrics. And for instance, one of the key metric that we track at local level is volume-price
+mix, all right? We've talked about it several times in the past because we are premium operators. And
+I believe in our virtuous economic value creation models. When you are premium operators, to grow
+revenue, you've got to do it with a strong pricing power. If you start lowering your prices, then this is
+the beginning of something you might not like. So volume-price mix is a huge focus area at the local
+level, and it's complex. Take a lab or take an operations. They will have ATIC volume price-points that
+are obviously different. They have sub products, but volume-price mix is a huge area of focus for us. The
+other area is NPS. I mean NPS has been phenomenal for us. I mean you -- some of you have met Richard
+Nelson and Raymond in the past. And I mean [ when you spent ] time with Raymond, these guys are
+customer centric per definition. I mean Raymond created lab tests in Hong Kong. And they believe in the
+value of customers. Now this is the DNA of Intertek. And it was part of the Inchcape Group that I know
+quite well, and the Inchcape family had the same vision. You've had to be close to your customers. Just to
+give you an anecdote: If you were an expat for Inchcape 20 or 30 years ago, they will send you to Kuwait
+or to Perth in Australia. You will not get a holiday ticket to go back here to the U.K. You have to stay for
+2 or 3 years to network with your customers. So I'm giving this anecdote because I obviously heard it
+from Peter in Inchcape myself, but this is a true part of our culture. So where we've launched NPS, which
+is basically listening to our clients every single month, the reaction has been phenomenal. People love it.
+Why? Because it's the impartial, independent view of the clients. And this is not an organization where
+people believe they have maxed out. This is a very, very confident organization where we believe we can
+do much better. So NPS has been phenomenal in terms of operational metrics. Another example would be
+turnaround times. Turnaround times in our industry is very important. You only need to talk to customers.
+And every single day can make a huge difference; and the way our teams are focusing on turnaround
+times is very, very important. And talk about working capital. I mean, yes, we've made good progress,
+but this is by looking at obviously debtors, creditors [indiscernible]. So we have made it clear and very
+visible to our colleagues that we don't want to be a one-metric company. We want to make sure we
+drive consistency, sustainability of results. And the only way to do that is by taking a systemic approach
+internally as well as for our customers on all metrics. So we -- I mean what we're seeing is great, still
+more to come, but it's -- I mean the organization, believe it or not, we are a data company. So our people
+believe in the power of data, and therefore our own metrics are very important. Sorry, a long answer to a
+short question. I get passionate about these things, so...
+
+Suhasini Varanasi
+Goldman Sachs Group Inc., Research Division
+
+Suhasini from Goldman Sachs. A few, if I may. One, on the -- you've seen a very nice margin pickup
+in 2017 led by underlying margin improvement, plus the product mix effects. How many more years
+of underlying margin improvement can you see in the business, especially in Products division, for
+example? Second one, the outlook on your individual divisions. There's a bit of a slowdown in Softlines and
+AgriWorld. Any comments on that? And the last one, your leverage is probably going to go to less than 1x
+net debt-to-EBITDA by the end of 2018. When can we expect the next material M&A?
+
+André Pierre Joseph Lacroix
+CEO & Director
+
+I think, let's just start with the last one. Look, we have a great business, more in terms of cash
+generation. We are very disciplined. We are very interested in M&A. We are interested in the right M&A,
+and we will always remain disciplined. We'd rather not do a deal than do a deal that is too expensive, we
+cannot execute and it's going to destroy shareholder value. So as you can imagine, we get all the leads
+in the market, but we remain very selective. And there is nothing more I can say. And on the question
+about Softlines and Agri outlook, you've spotted the differences in terms of objectives, so well done. So
+basically there are several points. One is on Softlines, and you might have heard it. It's in the press, what
+we've seen. We have seen an increased focus of the Chinese government on environmental audits in their
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+INTERTEK GROUP PLC FY 2017 EARNINGS CALL |  MAR 06, 2018
+
+factory, basically, network. And that is, if you want, slowing down a bit the softline industry in China.
+I'm not tremendously worried about it because the SKUs and the product will still have to be produced
+somewhere, but there is a bit of slowdown and disruption there because, frankly speaking, a lot of small
+factories do not operate with the acceptable environmental audits for the Chinese government. What's
+interesting for us is it creates opportunity from an assurance standpoint because we can obviously help
+there. As far as Agri is concerned, I think the Agri business had had tremendous 2 years in '15 and '16s.
+The first half of '17 was very strong, but what we saw in the second half, we saw a slowdown which is
+driven by several things. One is, in the second half of '16 and the first half of '17, we had highly unusually
+crops in Australia and the U.S., which are 2 important markets for us, and therefore we had significant
+year-on-year increase. And obviously, this year's crop isn't as good as it was. And the other thing too is
+we've seen a bit of demand being brought forward, believe it or not, in our fish operations in Peru and
+Chile. So they are the kind of things we have to also factor in, in our forecasts. And last but not least,
+there is a change of tariffs in Argentina, which is disturbing a bit of the supply chain. So we are a bit more
+careful on Agri given the strong high-base effect we had in the past and the short-term trends. As far
+as the margin improvement is concerned, look, we have done obviously extremely well this year. Don't
+expect that kind of bps improvement every single year. For me, every bp is positive. So we will continue to
+make sure that every single operation is focused on every bp. Every bp is a win. If you can do 2, 3, even
+better. And obviously, what we did is phenomenal. So we'll remain focused, and we'll see. Yes?
+
+Ed Steele
+Citigroup Inc, Research Division
+
+Ed Steele from Citi. Just a couple of questions about the product margin, please. First of all, are you able
+to give us a bit of color about which of the segments within Products did particularly well in the year,
+please? The second question, you talked quite a few times about price discipline et cetera. I imagine
+you've done quite a lot of benchmarking of your pricing against peers. Are you able to give us a flavor for
+how you see it; and how it's changed over the last 12, 18 months maybe, please?
+
+André Pierre Joseph Lacroix
+CEO & Director
+
+Yes. Look, I think the -- it's very difficult. As you know, there is no -- we'll take the second question, first.
+There is no data in the industry about pricing. In a B2B business it's very difficult to know where pricing
+is, so the only thing I can say is that we are very focused in making sure that, if there are certain bids
+where our competitors are too aggressive, i.e. they're all priced too much, we'll rather walk away unless
+we believe this is a major strategic commercial decisions. We need to stay with these clients. We're going
+to find a way to make it up, and this is important for us. And as you know, I don't like to talk about what
+my competition does, but clearly the margin performance, which I think has not escaped you, is slightly
+different than the rest. And pricing is part of what we do, not the only thing we do. As far as product is
+concerned, what I would say is, and you know it from the past disclosures, the highest-margin part of
+product is Softlines and Hardlines. And it's still the case, and these guys have done extremely well in
+2017. So [ inside wins ] in Products, Softlines, Hardlines was very good in terms of margin. Business
+Assurance was very, very good. And the other business that was very, very good is electrical, okay? Thank
+you. Yes?
+
+Thomas Richard Sykes
+Deutsche Bank AG, Research Division
+
+Tom Sykes. Just a few. So firstly, just on the cash flow. Although you gave a net debt range, there's FX
+in that and your increased dividend. Are you expecting to increase your free cash flow in 2018, when
+you look at the increasing CapEx, and then the working capital? Just on the margin benefit: You've put
+in some of those cost savings in there. And you've got cost savings presumably organically and from
+the acquisitions that you've made, so I was just wondering what the sort of future -- what the carryover
+from things you've done over the last 12, 18 months is into 2018 as part of the margin outlook and what
+incremental cost savings there may be in the same way as you've outlined them there. And then just
+there's a sort of quite a baffling array of innovations and technology bullet points in your presentation. So
+just when you look at that, do -- you've presumably viewed technology as growth and margin accretive,
+as opposed to something that's going to be a headwind to you, but is that actually any faster from an
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+INTERTEK GROUP PLC FY 2017 EARNINGS CALL |  MAR 06, 2018
+
+innovation point of view than we've always had in the industry? And is it just something that everybody
+is making quite a big deal about at the moment but it's not actually any faster but it's part of the ongoing
+DNA of the business, please?
+
+André Pierre Joseph Lacroix
+CEO & Director
+
+Okay, do you want to take one?
+
+Edward Leigh
+Former CFO & Director
+
+I'll take the cash flow one, yes, sure.
+
+André Pierre Joseph Lacroix
+CEO & Director
+
+Yes.
+
+Edward Leigh
+Former CFO & Director
+
+So I mean, yes, we're looking at how we're going to continually improve our free cash flow. And we've
+guided to the net debt, which is what we've -- the specific numbers we gave, as you know. So guidance to
+the GBP 400 million to GBP 450 million. That's down about -- the midpoint of that is down GBP 120 million
+or so year-on-year in terms of net debt. So I mean, yes, we're looking at improvements in free cash flow.
+And we can [ give the ] kind of construct later on. So yes...
+
+Thomas Richard Sykes
+Deutsche Bank AG, Research Division
+
+And on the CapEx of GBP 130 million to GBP 140 million [indiscernible] intangibles versus tangibles within
+that is given the technologies, the intangibles going up.
+
+Edward Leigh
+Former CFO & Director
+
+Yes, we don't give that level of disclosure, yes.
+
+Thomas Richard Sykes
+Deutsche Bank AG, Research Division
+
+All right.
+
+André Pierre Joseph Lacroix
+CEO & Director
+
+So as far as the other question you have on the impacts of some of the cost initiatives on margin. Clearly,
+if you look at -- the level of restructuring we did in '16 was greater than what we did in '17. Therefore,
+the sequential effect was what it was in '17, partly due to the other thing that I talk about this morning.
+As far as some of the restructuring that we have done this year -- or last year, you will see it was H1
+skewed. So you had also some improvement in H2. So yes, there is a bit, but I wouldn't expect too much
+from it because it's really baked in into our '17 numbers. I think the -- on technology and, I will say, the
+concept of innovation, the reason why I've decided to shares what we do on innovation is because we
+do innovation to basically provide a superior value proposition to our clients and/or improve our internal
+productivity and efficiencies. And look, the company is very decentralized, very innovative. That's why
+we have this huge breadth and depth of solutions. There is no question that innovation moving forward is
+very important. And as we obviously see a slightly better organic growth, I think I would personally like
+to spend slightly more time on innovation. And innovation, for me, is not only one idea. It's to basically
+making sure that everyone inside Intertek understands they have the license to develop innovation. And
+internally, I talk about 2 type of innovation. There is 0 to one, i.e. [ a lab in one zone ] created something
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+INTERTEK GROUP PLC FY 2017 EARNINGS CALL |  MAR 06, 2018
+
+new that they can sell to their client and then can scale it up. And the other part of innovation, which
+is where I spend my time and with our team, is what can we scale from 1 to 100. So a good example
+is Inlight, which is a truly innovative industry-leading product that we offer to our clients to basically
+track and mitigate the risk to their supply chains. We created -- and we talked about it in the past. We
+created that product for PepsiCo, and PepsiCo saw something that the others had not seen. And now we
+are basically scaling it up to other clients around the world, what I talk about today, our InterPret, which is
+an incredible algorithm that we have had in the North Sea for many, many years in Aberdeen operations.
+Provide our clients with real-time information in terms of predictive analysis and hydrocarbon issues. And
+we've talked to a lot of our oil and gas clients, and they're all very excited because as well nobody has
+that. So my role in the company is to make sure that innovation, provided it's margin accretive, i.e. you
+add value to your clients. And you can have a good pricing point because that's the way to get pricing
+innovation, and obviously you can drive efficiencies. And it's good, but it's also identifying the one that you
+can take from 1 to 100 because a lot of companies are very good at innovation. They do a lot of bits and
+pieces of communication here, but the real plus of innovation is to scale it up when you have a business
+like ours. So yes, we want to spend more time on innovation.
+
+Andrew Charles Grobler
+Crédit Suisse AG, Research Division
+
+It's Andy Grobler from Crédit Suisse. Just one, on M&A. You've talked a little bit about it earlier, but after
+a fairly quiet year in 2017, at least relatively, can you just talk through why you didn't find more? Is it
+because prices have gone up or the cultural fit wasn't there? And how do you expect that to develop over
+the course of 2018, '19? And I suppose, as a -- on a similar point, if you have another couple of years like
+2017, what do you start doing with the excess cash? How do you think about that process?
+
+André Pierre Joseph Lacroix
+CEO & Director
+
+Look, I think, as you know, we have an M&A team here in London but also M&A colleagues around the
+world. The deal flow, right, has not changed. I think our team have been as busy as in '16, in '17, or
+in '15, but as you know, M&A, you've got lots, lots of situations, right? Sometimes, you have someone
+who's got too high of a price in terms of expectations, so this is the very quick conversations. But we have
+lots of transactions where we spend a lot of time on and we basically find out through the process that,
+well, this business has got an entry point issue. The marketing brochure was great, but then when we
+come to the last 4 months EBITDA or revenue growth, it looks very different. And we said, okay, well,
+maybe it just doesn't justify the price. And we don't want to buy a business that requires a turnaround
+if it's not something that we really want to. I mean you have situations where you find something in a
+DD that is not right from a control standpoint and a compliance standpoint. And then sometimes you
+come into situations where the price is right. The DD is right. The entry point is right, but you feel that
+the management will not fit with our culture. And when you bring a company inside Intertek, we need
+to make sure there is the cultural fit. And then sometimes you've got situations where the vendor, the
+seller is not as ready as they thought they would be in terms of carving out their businesses. So you've
+got multiple situations. So from our own time, Ed and I, and Julia, our Head of M&A, I mean the amount
+of hours we spend on M&A is not different than it was in '15, '16s. The [ strike rate ] is slightly different,
+which is I will say a good testament of our disciplined approach. I wouldn't say that there is price inflation
+out there because some of the transaction that we've done, KJ Tech, ABC, the recent deal we've done on
+kappa, are very reasonable in terms of pricing. Obviously, if you've got a tremendous asset that is worth,
+then you will be able to pay more, but I -- price inflation is not the issue. I think the issue is making sure
+that, every time you buy something, you create shareholder value. At the end of the day, organic growth
+in terms of revenue growth has got to be the priority. Acquisition is here to complement organic revenue
+growth and to buy a business that adds up to your top line 12 months down the road. This is an organic
+business, and you want to make sure that it contributes to growth and doesn't destroy shareholder value.
+Look, the question you've asked, what if, I think it would be a good problem to have, and we'll deal with
+it at the right time. Today, we've given a very strong signal that we believe in the quality of our cash
+generation. And we are increasing our dividend payout ratio to 50%, which is a significant commitment
+to our shareholders. And we'll see what we will do if we end up with too much cash one day. Any other
+question? Yes.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+INTERTEK GROUP PLC FY 2017 EARNINGS CALL |  MAR 06, 2018
+
+Ted Nyhan
+JP Morgan Chase & Co, Research Division
+
+Ted Nyhan, JPMorgan. 2 questions for me, if I can. And firstly, and apologies if you've already commented
+on this, but in November, December, I calculated you had 2.8% organic growth. Can you comment how
+you're trading versus that now, how you're [ trading ] versus that at the moment or in the first 2 months?
+And secondly, what is your outlook for the Resources margin and, I suppose, in 2018? But beyond
+that, when revenues start to recover, should we expect operating leverage there given how well you've
+protected that margin?
+
+André Pierre Joseph Lacroix
+CEO & Director
+
+Yes, thanks. We -- I mean, today, we are talking about '17 and the full year guidance. We typically don't
+give short-term data. So the next update will be when we do our first 4 months in May, okay? As far as
+Resources is concerned, I think this is a very, very good point. I mean there is no question that given
+the fact that with the margin that we've delivered, we are almost half from the peak we had at the time
+when the industry was high. There is some, obviously, margin accretion opportunity in the resource sector
+when the industry rebounds. The question is when are we going to start seeing the volume increase. And
+as you've heard this morning, until I see it, I don't want to call it. I've worked in many industries, and
+calling a bottom out of a downturn is very difficult. And I don't want to do that. It will be very arrogant
+from our side. So I think we'll have to watch it. We'll do everything we can to drive revenue performance
+at a good price. And when we see the bottom, we'll call it, but I will wait a couple of quarters, maybe 3. As
+far as margin accretion moving forward, I think what's going to happen -- and the size of the downturn in
+this industry, I will say, is significant, right? The investment have reduced 50% from peak to trough. The
+oil and gas companies still are rebuilding their margins, so -- and during these periods, we've seen both
+volume and price decrease. And the reason why we have to be careful is what you're going to see. You're
+going to see volume picks up first, and then price. And it's only when you get both volume and price that
+we're going to be in the new normal situations and we can expect margin improvement. So personally I'm
+always of the view never waste a good crisis. When you have experienced such a downturn, you have, if
+you've done a good job, become more productive, more efficient. I think, over time, we should be able to
+see some margin uplift, but we'll take it step by step. But clearly, if you take the numbers at face value
+over the medium to long term, we are at about 50% of our peak profit, so there is significant scope here.
+The question is how we time it, how we face it. The good news, it's only 6% of our earnings, so I think we
+have the luxury of time to just take it a step at a time and not do anything crazy. Any other question? Let
+me ask our colleagues or guests on the phone. Do you have any question, if you are listening in?
+
+Operator
+
+[Operator Instructions] We don't have any questions coming through yet.
+
+André Pierre Joseph Lacroix
+CEO & Director
+
+Okay, okay, it doesn't look like we have question now. It's a busy day. It's 10:00. Thank you for coming to
+our face-to-face session today. Really appreciate it. And obviously, Ed and Josh will be there, if you have
+any questions.
+Thank you very much.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+INTERTEK GROUP PLC FY 2017 EARNINGS CALL |  MAR 06, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+

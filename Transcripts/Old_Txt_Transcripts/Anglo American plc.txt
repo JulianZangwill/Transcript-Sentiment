@@ -1,0 +1,1674 @@
+Anglo American plc LSE:AAL
+FY 2017 Earnings Call Transcripts
+Thursday, February 22, 2018 9:00 AM GMT
+S&P Global Market Intelligence Estimates
+
+EPS Normalized 
+
+2.52
+
+CONSENSUS
+
+-FY 2017-
+
+ACTUAL
+
+2.57
+
+Revenue  (mm)
+
+24985.05
+
+26243.00
+
+Currency: USD
+Consensus as of  Feb-22-2018 8:38 AM GMT
+
+-FY 2018-
+
+SURPRISE
+
+CONSENSUS
+
+1.98
+
+5.03
+
+2.77
+
+24756.50
+
+FY 2016
+
+FY 2017
+
+- EPS NORMALIZED  -
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+1.43
+
+2.52
+
+1.70
+
+2.57
+
+18.88 %
+
+1.98 %
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+14
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Mark Cutifani
+CEO & Director
+
+Stephen Thomas Pearce
+Finance Director & Executive
+Director
+
+Stuart John Chambers
+Chairman of the Board
+
+ANALYSTS
+
+Alon Olsha
+Macquarie Research
+
+Fraser Rowat Jamieson
+JP Morgan Chase & Co, Research
+Division
+
+Sergey Donskoy
+Societe Generale Cross Asset
+Research
+
+Izak Jan Rossouw
+Barclays Bank PLC, Research
+Division
+
+Sylvain Brunet
+Exane BNP Paribas, Research
+Division
+
+Jason Robert Fairclough
+BofA Merrill Lynch, Research
+Division
+
+Tyler Anson Broda
+RBC Capital Markets, LLC,
+Research Division
+
+Unknown Analyst
+
+Kieran Daly
+UBS Investment Bank, Research
+Division
+
+Liam Fitzpatrick
+Deutsche Bank AG, Research
+Division
+
+Matthew Hasson
+Numis Securities Limited
+
+Myles Allsop
+UBS Investment Bank, Research
+Division
+
+Paul Joseph Douglas Gait
+Sanford C. Bernstein & Co., LLC.,
+Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Presentation
+
+Stuart John Chambers
+Chairman of the Board
+
+Good morning, ladies and gentlemen. My name is Stuart Chambers, I'm the Chairman of Anglo American.
+It's my great pleasure to welcome you all to our 2017 Full Year Results Presentation.
+
+Let me first please just mention about the fire alarms and exits. There are no drills this morning. So if it
+goes off, it's real. I'm assured there will follow an announcement just in case we haven't spotted that it's
+a fire alarm, but there are 4 exits. There are 2 at the back, 2 at the front. The simplest way is to go back
+out this way you came and follow the signs, and you'll be shepherded out, I'm assured.
+
+Let me -- just before I hand over to Mark and Stephen, let me just quickly refresh you on board changes
+that we had last year. So Stephen, of course, who you know very well already, took over from René
+Médori. We had 2 new Non-Executive Directors join us, Nolitha Fakude, a South African businesswoman;
+and Ian Ashby, a long-serving mining -- very experienced miner. And finally, myself, who had the great
+privilege and pleasure to take over from Sir John Parker as Chairman of Anglo American.
+
+And I think that's enough from me. Let me hand over to Mark, who's going to kick off our results
+presentation.
+
+Mark Cutifani
+CEO & Director
+
+Thanks, Stuart. Okay. Well, welcome, ladies and gentlemen, and thank you very much for taking the time
+to join us. As always, I'd like to acknowledge Stuart and welcome. I see Jim Rutherford up there in the
+audience, Jim, another board member. And my colleagues, my executive colleagues that are scattered
+around the audience.
+
+What I would encourage you to do, again, is to catch them after the presentation. From them, you'll find
+the real story. I think it's important that you hear from them what changes are occurring. And certainly,
+from our perspective, I think it's important to get to know who's actually running the business. So, again,
+thank you very much for joining us here today.
+
+From our point of view in terms of the agenda, I'll kick away with a very short business overview. Stephen
+will pull apart the numbers and try and help people understand what's behind the results. And then, from
+my perspective, I'll focus on where to from here and, in particular, I'll be focusing on the quality of our
+asset portfolio, number one.
+
+I'll talk about our capabilities and the work we're doing to continue to improve the business. And then
+finally, pull apart our capital allocation and the discipline that I think's been very important behind the
+performance improvement over the last 5 years and talk about how we're thinking about the future in
+terms of capital allocation.
+
+So to the numbers. I think the simple message is we've done what we said we'd do. Production
+volumes are up 5%, reflecting improvements and the commissioning of new projects. Consistent
+with the performance improvement, we've also exceeded our cost and volume improvements that we
+targeted for the year. That was $1 billion; we're at $1.1 billion. Earnings and cash flow reflect both the
+continuing improvements in the business. And yes, we saw some help from prices, but almost half of that
+improvement has been delivered on the back of the improvements we've seen in the business, what we've
+delivered in the business.
+
+Cash flow, $4.9 billion, that's been very important in terms of improving our debt position. EBITDA
+margins are up 15% at 40%. And for us, very important number, return on capital employed now at 19%.
+
+For us, the disappointment in the year, safety. We've improved our fatality frequency rate by 40%, but one
+would never say that's a good number; 9 fatalities in the year, exceptionally disappointing for us.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+We have established an Elimination of Fatalities task force, working across the business looking to drive
+the next level of performance to 0. And for us, we've still got a way to go. 6 of those fatalities were in
+platinum and 3 in coal in South Africa. So, in particular, the focus in South Africa is going to be very
+important for us. And so, a lot of work still to be done.
+
+Across occupational health and the environmental issues have been well managed during the course of the
+last few years. We continue to improve the business as our planning and execution disciplines have been
+improved. So still some work to do on safety. Other areas, making good progress.
+
+In terms of driving the results, productivity improvements since 2012 have been significant, around 80%.
+Half coming from portfolio changes; the other half coming from internal efficiency improvements. The
+most pleasing aspect of the 2017 year was the 28% improvement in productivity. And that's a significant
+improvement and explains a good part of the cost-reduction performance during the course of the year.
+
+Yes, again, we got some price pressures -- or we got some price help, but some of that was taken away by
+foreign exchange and inflation, and Stephen will talk to that. So the 28% productivity improvement's been
+very important in supporting the improvement work.
+
+Over the same time, we've seen a 27 -- 26% reduction in unit costs. And from our point of view, the real
+cost improvement has been something like 40% when I take inflation and foreign exchange movements
+into account.
+
+Despite the sale of 30-odd assets, we've actually delivered 9% more production than what we were doing
+in 2012. And I think that gives you a sense of the scale of the improvement inside the business.
+
+In terms of EBITDA margins, we're up to 40%, and that's the see-through margin based on the mining
+business itself. And again, the key drivers, productivity improvements, the efficiencies that we've also
+achieved through the implementation of the operating model and the technical changes that we talked
+about back in 2013, 2014 have made a significant improvement. And with our marketing team, the focus
+on high-quality products, and we'll talk about some of our niche positioning in the bulks in particular, has
+helped us improve the realized prices, particularly in the bulks area.
+
+And so with that, I'll hand across to Stephen.
+
+Stephen Thomas Pearce
+Finance Director & Executive Director
+
+Thanks very much, Mark. Just before I get stuck into the numbers, just a quick anecdote, if I may. So
+for those of you that were here back in July, it was my first half-year presentation, Mark was trying to
+convince me to go blue and go with Chelsea. So I have made a decision. It was based around 2 things.
+One was colors. So the team I batted for back in Australia wears yellow and black. So I had to find a
+team with yellow and black because I've got some of the gear. And the other one was, being the good
+finance person I am, about capital discipline and cash flow management. And so I try to apply those same
+principles that we do in corporate life into my personal life. And one of the other executives, so one of my
+colleagues at work has membership tickets for Watford, so I thought -- and he travels a lot. So I thought
+I've got to be a fair chance of at least pick those tickets up at some stage through the season. So I will
+declare my colors. They're yellow and black. And it's the mighty Hornets that I'm going for.
+
+Okay. So let's get into the real business of the day. So it is a good set of numbers, as Mark said. And
+importantly, for me, it's a clean set of numbers; so the things that we've been focusing on through the
+business simply showing through the numbers and the outputs.
+
+The other important thing for me and for Mark and the whole executive team is really that we've been
+delivering on our commitments. And that's a really important fact for us.
+
+So I'm going to whiz through about 9 slides this morning relatively quickly. We'll touch on EBITDA and how
+that flows into cash flow; what we did with that cash flow, particularly in terms of capital allocation, EPS
+and dividends; and we're also providing a little more detail in terms of how we're looking forward and how
+we're thinking about the business in the years to come.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Clearly, for '17, the priority has been around de-gearing the balance sheet. And you've seen that in how
+we've allocated the cash flow and the reduction in net debt. We've maintained a sensible spend in terms of
+stay-in-business capital. And it's really the combination of those things that sets us up also for a very, very
+strong 2018.
+
+So let's have a look at EBITDA in the first case. So there's really 2 key themes that you can see on this
+slide. So the left-hand side is really about the macro themes. So we have had some sort of upside from
+commodity prices. They're up about 16% on the prior year, but offset by strengthening in currencies and
+underlying inflation in the regions that we work.
+
+On the right-hand side, you can see more of a self-help theme. So continuing on the work we've done
+over recent years, the cost, the volume, the productivity improvements. If you recall at the start of the
+year, we'd identified a $1 billion challenge. And at that stage, we'd identified about half of those initiatives,
+and we backed ourselves to deliver the other half. So really pleasing, we delivered $1.1 billion for the year.
+
+I'm just going to touch on inflation briefly. I know there's been a lot of sort of new talk about inflation.
+Yes, some of you guys are writing about it as well. And while it's maybe an emerging theme in the U.K.,
+Europe and the U.S., it's really been part of our lives now for a couple of years in terms of the regions that
+we work in and the countries that we operate in. So it's been vital that we really focus on the productivity
+and efficiencies, so that we're outpacing that in terms of the things that we're focused on.
+
+We haven't had the benefit of low inflation and even in areas like the Pilbara, you've probably seen
+deflation in recent years. And obviously, that hasn't applied to us.
+
+I think the other thing I would just remind you of, often, in a period of higher inflation, it's driven by
+increased activity, which is fundamentally good for commodity prices in most cases. And obviously, the
+third leg of that is really currencies.
+
+So as we look at the detail, obviously, it's a fifth straight year for us in terms of delivering those
+improvements. $4.2 billion since 2013.
+
+Now the next dollar gets harder than the last dollar. And similar to last year, we've identified about half
+of what we're going to look at in terms of our go-forward targets. We did have some headwinds this year.
+So we had Cyclone Debbie in the first quarter. We had extensive rains through Southern Africa in the first
+quarter. So we were able to overcome those and deliver the $1.1 billion.
+
+I suppose I would just remind you that, that's a run rate. So the $4.2 billion is a run rate number for us of
+improvement per annum in underlying EBITDA.
+
+But we're not going to stop here. So we've identified $800 million in terms of our target for 2018. And
+as I mentioned, we've identified a bit less than half in terms of specific initiatives. We're going to back
+ourselves to deliver the balance.
+
+It will be sort of a normal theme of operating cost, productivity. And as we look forward then across that
+period to 2022, we'll really start to pick up some of the themes of innovation and technology. Now we
+often get asked, "Well, what are the things you're going to focus on?" And it really is the sum of a lot of
+little things. It is hard work. It's not just one sort of key area of focus or key initiative. It's the sum of an
+enormous number of parts that help us deliver this.
+
+So as we look at underlying EBITDA and the key numbers here, it really reflects what we've done with
+portfolio, the improvements we had in marketing, the cost out, all the efficiencies that we have tried to
+focus on and that's really delivered the step change in underlying earnings, up 48% to $3.3 billion; free
+cash flow, up 93% to $4.9 billion; and obviously, the measure that we absolutely all love is the return on
+capital employed, up 73% to 19%.
+
+For those of you that need to balance your books in terms of looking forward, effective tax rate in the low
+30s as we go forward.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+The year also saw us focus on continued capital discipline. You recall at the start of the year, we'd guided
+to $2.5 billion. We revised that guidance down to $2.3 billion. And we came in a whisker under that $2.2
+billion for the full year.
+
+Focus for me, as I mentioned at the half year is really twofold. One, when we spend it, we spend it well
+on the things that we need to spend it on. But also, are we spending enough, are we spending enough to
+maintain the assets in the condition that we want to maintain them?
+
+So to look forward to 2018, our guidance of $2.6 billion to $2.8 billion. So up a smidgen on last year, up
+about $0.2 billion on what we originally guided for 2017. Couple of reasons. There's a little bit of rollover
+from 2017 for things that we still need to get done, some stronger currencies that we're assuming as we
+look forward; and then there's some stay-in-business capital for some of those new projects that we've
+delivered or for assess that we've maintained within the portfolio.
+
+As we look beyond that in terms of some longer-term guidance, $2.6 billion to $2.9 billion, just to note
+that, that excludes unapproved projects, but it does include things like the Venetia underground that are
+already sort of in the system.
+
+So focusing on the balance sheet. Net debt almost halved down to $4.5 billion. That flowed very directly
+into the EBITDA-to-cash flow ratio, 0.5, and obviously, into the gearing or leverage ratio down to 13%.
+
+For me, it's the combination of all of these 3 measures that I suppose I really focus on, rather than just
+one in particular. They sort of have their place at different points in the cycle. Obviously, absolute net
+debt, a real priority for us, and we'll continue in 2018.
+
+We have guided in terms of a net debt-to-EBITDA ratio 1 to 1.5x, but it's really at that low point in the
+cycle that we wouldn't want to exceed that 1.5x for any sort of extended period, and we'd look to bring
+it back inside that guideline. Then, obviously, gearing or leverage, really the strength of the underlying
+balance sheet that allows you to keep that consistency of strategy no matter what point you are in the
+cycle.
+
+Priority for us is to continue to de-gear. This is really a "once in a financial director's life cycle" that you get
+to fundamentally reset the balance sheet in the way that we have that opportunity now.
+
+Now we are seeing strong bulk prices, in particular, continue. And that's generating fairly significant cash
+flow for us. So we do intend to continue to de-gear the balance sheet as we go forward.
+
+As we look at returns to shareholders, I suppose this is, for us, a really good example of just simply doing
+what we said we'd do. So we reinstated the dividend early at the half-year, and we announced a 40%
+payout ratio policy. And what that has done is really exactly as it's intended. We had a higher profit in the
+second half. So dividends are up $0.06 to $0.54, brings the total payment for the year to $1.02 or $1.3
+billion to shareholders off the 2017 result. And just to note that, that's the highest dividend we've paid in
+10 years.
+
+So finally for me, really, this slide, coming back to my little anecdote at the start, this is what it's all about
+at the moment in terms of how we're thinking about running the business.
+
+So sustainable cash flow really underpins both the balance sheet and the returns to shareholders. That
+strength of balance sheet has really been driven well and rapidly over the last 2 years, in particular, but
+particularly the last 6 to 12 months. That's enabled us to return dividends to payments and significant
+returns to shareholders. And obviously, then we consider the discretionary options we have post hitting
+those first lot of key targets.
+
+We will consider additional returns to shareholders as part of that evaluation. So it is as part of our
+choices, as you see across the bottom. Right now, though, we think we've got the right sort of balance in
+terms of returns to shareholders, continued de-gearing of the balance sheet and sensible growth where it
+suits us within the portfolio.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+So how did we go? You can see sort of the report card on the right-hand side. Won't talk to the numbers,
+you can see, clearly, the priority was allocating cash flow to strengthening the balance sheet and
+appropriate returns to shareholders.
+
+As we look forward, what should you expect? And the answer's pretty much more of the same. So we are
+going to continue to focus on cash flow, balance sheet and returns to shareholders and should expect that
+to continue next 6 months, 6 months beyond and in the years following.
+
+Mark, back to you.
+
+Mark Cutifani
+CEO & Director
+
+Thanks, Steve. Thank you. For those that know our organization pretty well, you'd be aware that we've
+actually got 2 Watford supporters sitting on the Executive, Duncan and Stephen. With the amount of --
+or with the frequency that they change their coaches, either of you may get a phone call in the next few
+weeks given performance.
+
+Stephen Thomas Pearce
+Finance Director & Executive Director
+
+The reference to the Hornets [indiscernible].
+
+Mark Cutifani
+CEO & Director
+
+I think we'll move on.
+
+I think the most important point to make in talking about the future is to draw a line under where we are
+today. It is a fundamentally different business. 47% less assets, yet we're producing 9% more product.
+That productivity improvement and the efficiencies that go with it have helped us reduce our cost by 26%.
+
+Our EBITDA margins are up 33%, and this is against the 2013 performance. And that's against a backdrop
+of an 18% lower price basket today compared to when we did that comparison back in '13. So a 33%
+improvement in our industrial margins against an 18% lower price basket.
+
+As a consequence, cash flows and returns have substantially improved. And most importantly, return on
+capital employed at 19% remains a number that we focus on as the measure of whether we delivered
+those cash flows the right way.
+
+In talking about the future, I want to focus on 3 points. Firstly, we'll outline the key points in the
+transformed business as it is today, which builds off that foundation tagline. I'd like also to talk about how
+we think about capital allocation in the context of the future evolution and improvements we see available
+to us in the business. And then beyond that, where we see further scope for material continuous and
+step change improvements that will help deliver the $3 billion to $4 billion improvements that Stephen
+mentioned earlier.
+
+So first on the portfolio upgrading. Gahcho Kué delivered on time and budget. Grosvenor completed
+its first longwall at the end of last year. During the changeover, Seamus and the team corrected some
+technical problems with the hydraulic supports. We've started in the new year with a second longwall and
+so far, so good.
+
+Minas-Rio, 26th of January is a very important date in terms of our Stage 3 licensing. During the course of
+this year, we'll complete the preparation for the next phase of expansion. We require a confirmation that
+we've built the asset consistent with the Stage 3 license at the end of the year, and that will help us then
+start the next phase of ramp up through '19 into '20.
+
+On disposals and closures, we've done a lot of cleanup work through the year, and you will see some of
+those transactions confirmed in January. And I think that demonstrates that continuing focus on making
+sure that it's the focus on the assets, the focus on margins, the focus on continuous improvement, that's
+where we're going with in terms of all the assets. But I want to be clear. We like what we have in terms
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+of the assets. And now we're focused on making our current businesses improve in terms of their margins
+and their performance in terms of delivery of returns.
+
+As a consequence of the focus on asset quality, and again, I make the point that it's about the quality
+of the assets that we have in the portfolio, we have a business that is diversified by commodity and by
+geography. Our job, as a leadership team, is to bring the capabilities that we have within the business to
+bear on those assets and, with the unique nature of the portfolio, provide what we think is a very unique
+value proposition to our shareholders.
+
+And consistent with the geographic conversation, I should make a couple of points on South Africa. In the
+last 3 years, we've gone through major restructuring of all our businesses in South Africa. We've gone
+from 31 assets to 17 assets. And with the efficiency improvements that we've also delivered across the
+portfolio, our EBITDA margin's around 35%, we generated $2.3 billion free cash flow last year and we
+delivered a healthy return on capital employed of 23%.
+
+We're encouraged with the leadership changes in the country. And certainly, we're encouraged with the
+hand that the President has offered to the industry. The deferral of the court case around the Mining
+Charter, I think's a very important development. And so from our point of view, we're very focused on
+working across the portfolio and with the government and with other stakeholders to make sure that our
+South African business remains competitive and continues to improve.
+
+South Africa is like all other jurisdictions. From our point of view, we want policy certainty and that we
+make sure that we're doing the right things in the country to make sure that we've got a competitive
+industry. And when it can be demonstrated we can make returns in the country, then investment follows.
+It's a very simple thesis and one that drives our behavior across the global portfolio.
+
+In terms of capital allocation, Stephen has outlined our broader approach to capital and how we think
+about capital. I'd like to add some further shape to that conversation, dealing with both discipline and our
+allocation priorities. Our track record over the last 5 years has been one of discipline and delivery. And
+we're determined to repeat that in terms of the next 5 years.
+
+One statistic that I think is very important to reflect on, in 2012, our sustaining capital was $2.9 billion.
+In 2017, it was $1.8 billion. And our production was actually 9% higher than it was in 2012. And yes,
+there's always a bit of lumpiness in some of those capital numbers. But from a sustaining position, the
+efficiencies we've improved -- or we've achieved in our capital spend reflect the efficiencies we've achieved
+throughout the operations with the application of the operating model.
+
+On the portfolio, the focus, again, is on asset quality. Second, any expansion object -- or any expansion
+proposal that we look at is subject to intense competition for capital and is scrutinized against strict
+investment criteria at each stage gate.
+
+In copper, we've got significant growth options both inside the assets that we've got operating today and
+with our greenfields potential in the Quellaveco. We like the commodity, we like the resources we've got,
+we like the assets we've got. And we believe we've got the potential to continue to improve the copper
+business.
+
+On De Beers, as you would expect, we continue to supply to market demand. And as we see demand
+growing, we have the capacity to respond to the market in a sensible way without significant capital
+allocation.
+
+On platinum, we're still in the business improvement journey. And we're in a market that doesn't require
+more products. So the focus has to be on continuing efficiency drives and incremental improvements, and
+that journey is continuing.
+
+On bulks, we've developed Kolomela, Grosvenor and Minas over the last few years. There's been
+significant capital outlaid, so today, we're working hard to continue to improve our margins, make sure
+those assets are delivering on their potential. And whilst we'll continue to spend money on incremental
+improvements, that business is playing a very important role in generating significant cash, helping us
+with our debt and it certainly has turned out to be a great decision on making sure that we stayed focused
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+on value and kept the quality of the assets. And from our perspective, the team has done a great job in
+delivering on the expectations that we saw and the ability that we see -- or the potential we see in those
+assets.
+
+Now continuing with the capital allocation theme, I think it's important to make a few points in respect of
+important markets from our point of view. We will allocate capital to De Beers if the demand is there for
+our products. We certainly have incremental improvement opportunities that we'll encourage and support
+Bruce to pursue. But in terms of understanding the business and where it sits, I'll give you a sense of how
+we think about the business.
+
+On trading conditions, recent condition -- or recent indicators are the trading conditions, particularly in the
+U.S., are pretty strong although we also see opportunities in other markets.
+
+One of the most standout features of what we've seen in the market over the last 18 months is the
+amount of diamonds that millennials are buying and the 45% represents the amount of diamonds bought
+by millennials in our 4 most significant markets. People say that maybe buying patterns are changing.
+Well, from our point of view, millennials are our single most important buyers of our product.
+
+And so I think from our point of view, that's a great outcome and certainly shows that people are still
+buying diamonds for engagement rings, but they're also buying diamonds to celebrate other significant
+events in their life. And they're looking for something that's special, that's unique and that says something
+special about the event and the person which they're celebrating that event with.
+
+The other significant change in the market dynamics is that self-purchases by women are growing. And a
+few years back, it was around 22%. Today, 33%. So the autonomy and the change in the demographics
+in purchasing behaviors is very much related to women. And certainly, from our point of view, the work
+Bruce and the team have done in terms of the UN female conversations and positioning the business in a
+different -- very different way have been very effective in the marketing certainly.
+
+On geographic demand, again, the U.S. remains our most important market. And certainly, in the last 3
+months, we've seen encouraging trends. We'll continue to commit to marketing expenditures. And from
+our point of view, we think that's very important in making sure that we promote our goods and see
+growth in the market.
+
+And on the other side of the coin in terms of synthetics, I think certainly deserve a comment as we've had
+a few questions from people in the market. The way I think to characterize synthetics is they're a very
+different market offering. They compete in a different market, whether it be with crystal or other products
+such as costume jewelry.
+
+From our point of view, it's important that we continue to differentiate the value proposition for a
+diamond. It's unique. It's rare. And from our point of view, that proposition still holds. The responsibility
+of us at De Beers and the industry is to make sure that, that proposition is continued to be articulated in a
+very clear way.
+
+On PGMs and electrification of the drivetrain, certainly, something that we're aware of and watching very
+carefully. But let's put it into context. The drivetrain or the small vehicle, electric vehicles or the small
+diesel vehicles in Europe represent about 15% of the market for our products.
+
+The overall growth in demand for vehicles continues to outweigh the switching from diesel to small-scale
+electric vehicles. We expect that those trends will hold reasonably well up to 2030. The question we have
+in our minds is how much will fuel cells play into that market and counterbalance and drive growth across
+the sector.
+
+Certainly, as an industry, we have to do more to promote our products, but from our point of view, we
+think the prognosis for our products is very solid over the next few years. And in terms of the longer-term,
+hydrogen and fuel cells will be the game changer. We're just not sure of the timing.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+So we have to make sure that we remain and continue to move to the left of the cost curve in our
+industry. And we think, from our perspective, there are a lot of things that we can manage and improve
+and certainly help demand prognosis for us in the industry.
+
+Consistent with our overall thesis on quality of assets, in all markets, we see challenges to the demand
+for our products. The good thing about our position, particularly with the Mogalakwena, is that even
+today, where people would say it's a pretty tough market for PGMs, we'd delivered a 54% margin in 2017.
+And when you look at the character of our revenues, 40% platinum, 40% palladium and over time, base
+metals and other products will play a more important role in the revenue stream.
+
+So 54% margin off a diversified revenue mix is a very important position. And we've still got a lot of
+improvement that we can deliver through the operating improvement programs that we see and the
+application of new technologies that both Chris and Tony are working on across the asset.
+
+Amandelbult, significant resource, needs to continue to improve its cost. Chris is targeting a 25% cost
+reduction. That will be important in terms of our business, focused on both safety and productivity.
+
+Our processing operations, arguably, the most efficient in the industry, delivering a stable 9% margin. We
+need to continue to improve to make sure we stay there. But for us, we think we're very well positioned in
+the industry, drive to the left, protect your margins. And the long-term prognosis is pretty good when you
+think about the new technologies in fuel cell and hydrogen that are going -- that could impact us in a very
+positive way.
+
+Again, capital allocation, bulks. We've been very targeted in the way we've developed the bulks portfolio.
+In going from 68 assets down to 37 assets, we did sell a number of coal and smaller-scale assets. So
+today, we have niche positions, Kumba, Minas-Rio, metallurgical coal, quality assets, good margins, and
+we continue to improve our performance in each one of those areas.
+
+Seamus and Peter are partners in positioning those products at the top end of the revenue scale. And so
+as a consequence, our margins in those businesses are challenging the lower-cost, lower-quality producers
+out of the Pilbara. And for us, margins drive returns. So making sure we keep our capital allocation tight,
+we drive our revenues and our costs, and our margins and returns are challenging the major players in the
+industry.
+
+Again, I've got to acknowledge the bulks team. They've been through a tough time in the last 3 years, but
+the performance that they've delivered while going through some uncertainty has been exceptional and
+the fact that we've kept those assets is a reflection of the great work they've done in improving the cost
+and efficiencies across the business.
+
+With an asset suite of around 35 assets, we've got lots of opportunities to improve the business on an
+incremental basis. That is small-scale capital, quick-return projects that add cash flow and returns to the
+business.
+
+A couple of examples, Moranbah, Grosvenor, by de-bottlenecking the processing plant, we get ourselves
+another 25% capacity, continues to help improve our cost position. It's a no-brainer at $200 million.
+
+In De Beers, some of our highest-value diamonds are delivered from our Marine operations in Namibia,
+another ship, less than a 3-year payback, again a very strong business case that Bruce and the team are
+developing.
+
+We have a number of other options across the portfolio, copper, De Beers, PGMs, Mogalakwena, met
+coal, a number of options that we can kick into place depending on market demand and the margins that
+we see can be delivered from those assets. So again, an exciting range of portfolio options across the
+business.
+
+In terms of greenfields, Quellaveco remains a very important resource in the context of Anglo American.
+We're currently finalizing our feasibility work. So we're going through the verification processes post the
+feasibility. We expect to bring the project to the board for review at the midyear.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+It's a significant resource. We believe there are significant additional resources that could be added
+to improve the 30-year life that we see today, potentially doubling that life. The current estimates on
+operating cost, around $1.10 a pound. And we've done a lot of work in de-risking the asset both from a
+geotechnical point of view. All of the key permits are in place. We've built our relationship with the local
+community. We've built our relationship with the government. And certainly, from our point of view, we're
+doing the final work, so that we can bring the project to the board the middle of the year.
+
+We would expect during the course of the year to make a final decision, but I certainly don't want to
+preempt the decision the board would make. And so again, we are planning to take the project to the
+board midyear. If there's work to be done to complete, I wouldn't expect it to be significant. So during the
+course of the year, we'd expect to be moving forward.
+
+The syndication of the project is also an important principle or important point to make. We believe
+it's appropriate for these types of projects to bring in partners that add value, that can support the
+development of these types of projects, both from a risk point of view and to bring value forward.
+
+So in syndicating or thinking about syndication would be on the basis of value. So getting that balance
+right is something that we'll talk to the board, and we are talking to the board about as a part of the
+process.
+
+Over the last 5 years, we've restructured the business. I talk about an 80% productivity improvement.
+Half of that productivity improvement has come from portfolio changes. Half of that productivity
+improvement's come from actual underlying efficiency improvements.
+
+We expect to continue to improve the business. As Stephen said, we've identified $3 billion to $4 billion
+worth of cost and volume improvements that we'd expect to deliver by 2022. Now that's a run rate
+number. So for us, we still see a lot of opportunities to improve.
+
+On the continuous improvement front with our operating model, we'd expect most assets to improve in
+the range 3% to 5% a year. And certainly, we're factoring some of those improvements in our numbers.
+
+On a broader front, the technical team, led by Tony and with the business unit leaders, we've got loftier
+ambitions in terms of step changes. They will tend to be a little back-end loaded given the innovation work
+and where we are progressing with energy, water, the concentrate, the mine, coarse particle flotation, but
+they certainly -- they will certainly start making a contribution inside that time frame.
+
+Embedded in a culture of continuous improvement, every person in the business is responsible for
+identifying and improving their part of the business. And for us, it's a way of life and an everyday
+conversation across the business. So we're confident we can deliver at least $3 billion to $4 billion worth
+of run-rate improvement over the next 3 to 5 years.
+
+With that type of culture, the quality of the portfolio is important. And one measure of quality and
+potential we have is that we've got a life-of-mine average across those assets of around 30 years.
+
+Our job in the next 5 years is to continue to identify improvements and work that potential so that every
+year, we're getting better across the asset suite. It also provides us with the flexibility to think about
+where we are in the market and make judgments inside those assets in terms of the best way to operate
+them under various market conditions.
+
+That's not about high-grading assets; that's just about making sure we're delivering on their potential and
+responding to market conditions, which is a lot tougher when you've got high-cost assets.
+
+And with that, we believe with the internal opportunities we have, we can continue to grow profitable
+production around 16% over the next 5 years. And that includes continuous improvement on some of
+those projects that I've talked about in terms of opportunities.
+
+So finally, in terms of our investment proposition, we characterize Anglo American today first off the asset
+base. We've got a portfolio of high-quality assets that have the potential to continue to improve as we get
+smarter. Second, we've built the people capabilities to get the best out of those assets. And three, we've
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+instilled an operating and capital discipline that understands our job is to deliver cash flow and returns on
+a sustainable basis.
+
+We've put ourselves in a position where we don't have to do anything outside our portfolio to continue to
+improve or provide you with quality enhancement opportunities.
+So with that, very happy to take questions.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Question and Answer
+
+Mark Cutifani
+CEO & Director
+
+Yes, Jason?
+
+Jason Robert Fairclough
+BofA Merrill Lynch, Research Division
+
+It's Jason Fairclough, Bank of America Merrill Lynch. Mark, 2 related questions, I guess. First, Minas-Rio,
+I mean, it's taken a really long time to get this thing ramped up. Why? And then, just from that, you're
+looking to gear back, though it sounds like we're reaching a decision point. How do you think about the
+readiness of Anglo American as an organization to do another megaproject? Because to be frank, it didn't
+really cover itself in glory with Minas-Rio.
+
+Mark Cutifani
+CEO & Director
+
+Two good questions. Firstly, on Minas-Rio. And maybe if I reflect for 1 minute on Minas-Rio. We overpaid
+for the resource. We bought a project that was at concept level. The permits weren't in place. And we
+underestimated the project cost. A number of errors, and I'm just saying we've turned that upside down
+and inside out to make sure we've understood every lesson that can be learnt. And that process has
+been very thorough. On Minas-Rio today, the license -- the final license has remained a constraint on
+the footprint for the mine. So that Stage 3 license has been very important to us. So the -- with the
+completion of the license process, we can then step out the mine and mine at the 26.5 million tonne rate.
+So now it's just physical constraint on the footprint. If you remember the Samarco incident, anything that
+had anything to do with the tailings dam in Brazil became an issue. And so we lost probably 18 months,
+Seamus, on that final approval as a consequence of Samarco. So we've got through that process. It's not
+finished. But certainly, I think the key point to make is the technologies that we've used for the tailings
+dam at Minas-Rio is very different to the Samarco. It's a downstream lift, so it's a different engineering
+principle. So that's the key issue. Now going into Quellaveco, as I said, the learnings have been applied.
+At Quellaveco, we have all of our major permits. We've been through all of the process with the locals,
+with the government, very supportive of the project. We've gone 3 times back through the engineering.
+We're doing a final external review. And if anything, they're arguing that we may have been a little bit
+conservative in the process, that's good news, but let's wait and see what the final outcome is in terms of
+the review. All of the project disciplines have been renewed. And under Tony and the team and between
+Tony and Duncan and their teams, we've pulled apart the organization and reconstructed the business.
+In the last 5 years, against all of the major projects that we had when I started back in 2013, we've
+delivered all of those projects on time for $1 billion less than the estimate I gave you back in 2013. So the
+disciplines are there, the learnings have been applied, we've got a different team looking at this business.
+This is a different business and the approach to a Quellaveco is very different to what would you have
+seen with Minas-Rio.
+
+Sergey Donskoy
+Societe Generale Cross Asset Research
+
+Sergey Donskoy, SocGen. I have a few questions. First, on net debt, which I think was a big positive
+surprise coming about $1 billion below consensus. I wonder to what extent this could be because of one-
+off factors. I think there was a $900 million working capital release. And I think the taxes paid were also
+about $600 million below the -- a figure on the net -- on the income statement. So the total of about
+$1.5 billion. So I wonder on normalized working capital and excluding this movement in deferred taxes,
+what would be the adjusted net debt figure for the year? That's question number one. Second, you expect
+CapEx to increase by about $500 million next year. If you could give us an idea which divisions, which
+projects will be the main drivers here? Third, the diamond production guidance, you expect 2018 to be a
+bumpy year and then, production to go down to about 20 -- up to about 32 million carats. Is this because
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+this is the physical constraint, you cannot go higher? Or is this how you see the market, you just don't see
+more demand? And finally, just very short.
+
+Mark Cutifani
+CEO & Director
+
+I think you're going have to spend an extra penny. I'll let Mr. Watford pick up the 2 capital numbers.
+
+Stephen Thomas Pearce
+Finance Director & Executive Director
+
+So firstly, on net debt, this really plays with the outcome, and I suppose we appreciate it. It's a bit lower
+than what people were expecting. But really, I suppose, the thing we're pleased about is the translation of
+EBITDA into cash flow. That's probably been the primary focus. So I'm pleased about that. Yes, working
+capital has been a focus. And I think I flagged that at the half year as well. So I can't promise we're going
+to continue to reduce it. What I can promise is that we will continue to understand it better and better
+in terms of days, et cetera. So yes, we saw probably a little bit of price increase flow-through in your
+receivables towards the end of the year. Inventories, in fact, were probably a little bit higher than we'd
+hoped in a couple of areas, so. In Kumba, and in met coal in particular, we couldn't quite get all the tonnes
+to the ports that we wanted. But offsetting that was probably a really positive moving creditors, which
+is probably a little more than what people were expecting. And one of the bigger things in that has been
+the prepayment that we have through the platinum business increased again this year, and also some of
+the change in the arrangements as we have moved some of the operations and joint ventures into sort
+of processing of concentrates and POC contracts. You've seen that translate into some working capital
+movements as well. So listen, I'm pretty comfortable with where it is, from a working capital point of
+view, but I wouldn't be banking on major, major steps forward from that, from a dollar point of view.
+On the tech front, so yes, there's a couple of timing things; probably the major one I'd point out would
+be met coal in Australia. We will probably have a bit of a -- probably about a $400 million pool pick up,
+I think, towards the tail end of 2018. And that's just timing, as we have come out of constructions and
+lower prices into profits. So that will true itself up through 2018. On CapEx, so again, just a reminder,
+our original guidance was $2.5 billion. Our guidance into next year is $2.6 billion to $2.8 billion. Again,
+carryover from '17, FX and some additional projects that we've either brought on or kept, are probably the
+main influences. The majority of the CapEx though, is really around stay-in business, pre-stripping and
+mine development. So they're really the key things that we're focused on. And some of that's really the
+continuation of the projects we've already got in play. So Venetia Underground is a great example. That's
+probably about the major point was this year and next year in terms of expansion of LifeX, top capital.
+But there's still some work to do in met coal, in terms of, as we get ready for the next long hauls and all
+that sorts of things. So it's a combination. It's broadly spread. So nothing odd particularly, sort of pull out
+there. Mark, I'm going to let you to comment on dormant production, but obviously the switch in Venetia
+from an open pit to underground plays out in sort of years 3 to 4 as well.
+
+Mark Cutifani
+CEO & Director
+
+And in terms of the diamonds, we sort of run a 2- to 3-year look ahead. If you think back, we had a big
+kick up in sales really last year, which was the release of the lower priced carats. This year, Bruce has set
+the organization up to deliver against what we think the demand will be. We'll continue to adjust as we
+go. Stephen made the point about the Venetia switch. What Bruce is doing at the moment is looking in
+the sequencing of some of the other operations, to see that if that demand remains strong, what he can
+do to bring a bit more production forward to get more balance in the second year. But I think you're going
+to go with the guidance as it is today, knowing that Bruce and the guys are working hard to watch the
+demand carefully. And if there's an opportunity to make more sales, we don't want to miss a sale. And so
+the team's very focused on balancing up, depending on where the market is.
+
+Stephen Thomas Pearce
+Finance Director & Executive Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Mark, also, it's not something we have traditionally guided out years 2 and 3, in terms of market demand
+for diamond. So which I suppose, we're trying to provide a little bit of extra clarity.
+
+Izak Jan Rossouw
+Barclays Bank PLC, Research Division
+
+Ian Rossouw from Barclays. Just 2 questions. First question, just on unit costs. How can we relate these
+cost improvements that you equate to unit costs, given that they've being going up every -- for the past
+few years, and it's guided to go up? I understand FX is obviously a key driver in that, but should we just
+accept that, given your geographical exposure that unit costs should just be higher than peers? And
+then maybe, looking at this $3 million to $4 billion cost improvements you're targeting out to 2022, do
+you actually think you can bring unit cost down in nominal terms over that period? And then the second
+question, just on South Africa. You mentioned that, I guess, in the past that it is now a much smaller
+part of your overall capital employed base, 25%. Yet it generates almost 50% of your free cash flow. I
+mean, obviously, this is an imbalance that, as you've said, should normalize over time, but shouldn't you
+monetize or may take opportunity of this imbalance to monetize some of those assets?
+
+Mark Cutifani
+CEO & Director
+
+Firstly, on the unit cost, we're going to continue. For us, the imperative is to continually improve our costs.
+And we look at 2 moving parts: Firstly, reducing our cost so that we are actually doing better than inflation
+on a global basis. And we've done a pretty good job of that. In fact, our unit costs on a nominal basis are
+down 26% over the 5 years. Clearly, inflation is becoming a bigger issue, but we've to deal with inflation
+in the jurisdictions we're in, over the years, whereas others have got a little bit of a free kick with deflation
+in Australasia now, and they've also had depreciating currency. So maybe that's starting to turn. So on
+that basis, we might get a more level playing field in looking forward. We don't want to rely on rising
+commodities because the one thing that comes with inflation is better commodity prices. We don't want
+to rely on that. We want to do better than inflation in improving our cost structure. So on a real basis,
+you're chasing 3% to 5% a year. That's where that 3% of 5% continuous improvement number is very
+important. Secondly, you want to try and run faster than your competitors. So there are 2 imperatives
+that we talk about on a monthly basis. So the continuous improvement stuff, and then the step change
+work that occurs later in the period, which then stands us in good stead beyond the 5 years, will be very
+important. So we're very focused on the things that we can control. We're not relying on commodity prices
+or byproduct credits to give us a free pass. It's cost that we control, but. That's what our job is, to make
+sure the business is setup well. In terms of --
+
+Stephen Thomas Pearce
+Finance Director & Executive Director
+
+Can I just add something to that before you move on? So the unit cost guidance that we've given in
+the appendix, just to be clear on the assumptions that underpin that. So we've said that the currency
+assumptions, I mean, in that appendix. What we have embedded in there in terms of cost improvement is
+only those things that we have specifically identified. So that's a little bit less than half of the $800 million.
+And obviously, as we're still identifying those, we'll allocate those across business units and operating
+sites as we complete that exercise. So yes, obviously, we'll report against it. Currency does play a part.
+Probably the other theme is just some timing and maintenance, or moving of long hauls and those sort of
+things, influences a little bit of volumes through 2018. So yes, we can take you through the detail later,
+in terms of some of the individual assets in that, but there's some subtle influences in there that are just
+influencing some of the volumes as they drop out in '18.
+
+Mark Cutifani
+CEO & Director
+
+On South Africa. Over 5 years, we've almost halved the number of assets, and we're delivering better
+results today than we were 5 years ago in a better price environment. So the restructuring Chris, Kumba,
+Seamus, the rest of the crew, in all parts of the business, the dam has been very successful. So we're not
+shy about saying the guys have done a good job in South Africa. I think it's great. The political changes,
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+the leadership, the hand that has been extended by the government continues to encourage us, but
+there's still a lot more work to be done. And what I would say is, we're starting to see more significant
+contributions outside our portfolio. So the balance is starting to swing. And certainly, from our point of
+view, in terms of earnings, I think it was about 70-30. Stephen will...
+
+Stephen Thomas Pearce
+Finance Director & Executive Director
+
+Roughly that. So the split of the EBITDA is South Africa, 3.7. And the rest of the world, 5.2. So you can
+see the sort of the rebalancing that's starting to occur.
+
+Mark Cutifani
+CEO & Director
+
+Yes, so 25% of our capital employed is in South Africa. We are, at the moment, probably spending more
+of our capital base outside of South Africa because that's where we see significant opportunities. But that
+doesn't mean we're not looking after the assets, putting capital into the assets to make sure they deliver.
+So it's a normal portfolio conversation. But again, we're very pleased with the progress we've made, and
+with the restructuring, South Africa is in a very competitive position, but there's more to be done.
+
+Matthew Hasson
+Numis Securities Limited
+
+Matt Hasson from Numis. Have you taken any steps to mitigate the strength of the rand? Just on your
+sensitivities, it looks like it could cost you $750 million, the rise in the rand, recently. And just a tiny little
+anecdote from last summer, Mark, I believe I saw you at Lordswood in England, I thought. Is that true?
+
+Mark Cutifani
+CEO & Director
+
+That's another bet I lost. So I've lost the bets in the rugby and the cricket. So I'm not doing well. Yes, I
+did have -- yes, I do have an English hat. I've got 2 children, and now I sound like they're English. So the
+family is transforming. I'll let Stephen talk about the rand, and then I'll talk about some other things we're
+doing on the operating costs, so.
+
+Stephen Thomas Pearce
+Finance Director & Executive Director
+
+Yes. So no, just to be clear, we do not hedge currencies, in terms of the operations of the business. I
+wouldn't pretend to be the smartest person in the room, in terms of picking when the right point to do
+those things are. We view ourselves as a long-term price taker, and that includes currency as well. To
+come back to the point I made, when I was earlier, encourage you to think about the other things that
+move with currencies and inflation, and that's normally commodity prices. So as you've seen this year, the
+impact of prices far outweighed the impact of FX and inflation. So just to encourage you to think about all
+of those 3 moving parts, as you think about the currency.
+
+Mark Cutifani
+CEO & Director
+
+And on South Africa, in particular, Seamus, with Kumba and the team have got a very focused business
+improvement program looking forward. And I think that's going to be really important. And we're still not
+where we want to be in terms of benchmark productivity. So work to be done there. PGMs, you would
+have seen, I hope noted the Amandelbult come at a 25% cost reduction that Chris and the team are
+chasing, plus improvements at Mogalakwena, and in thermal coal, July, Seamus again, and the team are
+focused on driving our cost improvements ahead of the inflation rates and taking into account that FX is
+going to move. So we've got to run twice as hard, but that's where the guys are focused.
+
+Liam Fitzpatrick
+Deutsche Bank AG, Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+It's Liam Fitzpatrick from Deutsche Bank. Two questions. Firstly, coming back to South Africa, maybe a
+bit more directly. If the outcome of the new mine, potential new mine policy is positive for industry or
+acceptable, does that mean you are committed to your 3 big South African businesses, Kumba, Coal and
+Platinum? And then, on the $3 billion to $4 million target, can you break that down between cost and
+volume? And how much of that is approved already and in your volume targets out to 2020?
+
+Mark Cutifani
+CEO & Director
+
+Okay. On the mining chair. But first, let me make it clear that we're committed to the assets we have, as
+I said today, in South Africa. We always will assess if there's a change in policies somewhere, how we will
+think about capital allocation across the group. But with Kumba, with PGMs in terms of Anglo platinum
+and in terms of thermal coal, good assets, delivering good returns. We want to make those businesses
+better. The Mining Charter, however it frames up, will impact our capital allocation decisions as they
+should. As we've seen in other jurisdictions across the world, policies change. And you can name a few
+that we've seen in the last few months, both inside of Africa, outside of Africa. So we're encouraged by
+what the President has said, that he understands for mining to invest, there has to be policy certainty
+and an encouraging environment where we can make returns. We believe that, that's a good start to the
+conversation, but I wouldn't want to preempt where those conversations will go. We'll make decisions as
+we do with any jurisdiction we have in the portfolio, but we're very pleased with what we've seen so far.
+And we're encouraged, we'll wait to see what we get out of the policy conversations. Stephen, do want to
+make any?
+
+Stephen Thomas Pearce
+Finance Director & Executive Director
+
+Yes, so the $3 billion to $4 billion so rather than, we saw it survive the first $800 million this year. So
+without being specific on dollars against each initiative, let me give you a flavor of the themes that you'll
+see that will feed into that. And some are volume and some are costs and in productivity. So you got
+Minas-Rio ramp up. Clearly, that'll go from where it is. And we're forecasting this year to up to its capacity
+through that time frame, Moroanbah growth and debottlenecking the dead marine vessel that Mark spoke
+about. Long haul hours and cutting rights through each of the met coal operations. Amandelbult, cost-out,
+inefficiencies. Improvements in Mogalakwena, [ Quisella ], one of the coal assets, getting back on track. It
+had a pretty tough year in 2017. Copper grades move across the years, which should be a bit better next
+year. And then there's all the operating efficiencies, so whether that's truck hours, digger rates, process
+recoveries, automation, use of data, particularly feeding into maintenance programs. Now there's a lot of
+things that are going to come through and feed through our business as we keep getting more disciplined,
+and then adapting and running with technology and innovation. And then, particularly on the innovation
+side, the things that Tony's previously spoken about, about our water use, our crushing technology, our
+recovery and our use of energy. All of those things will probably feed slightly more into the longer-term, as
+Mark mentioned, probably more into the 3- to 5-year. And then there's marketing initiatives that Peter will
+be focused on, in terms of the quality products into the market, remembering $1 extra on revenues, just
+as good as $1 add-on cost. So there really is no one individual thing. It's the sum of all of those parts. And
+there's a lot of other things I haven't mentioned, but it is a combination across volume and cost. And we'll
+be working really hard and backing ourselves to deliver those.
+
+Mark Cutifani
+CEO & Director
+
+We run a portfolio of opportunities on a continuous basis and on a step basis, in terms of innovation and
+then smaller capital options. So we're always looking at ways to best bank to be had for our buck, and for
+the time, these 2 guys, they're spending on improving the business. So we keep that portfolio running, so
+it's across a range of opportunities, depending on where we see the markets going at any one particular
+time. So it's a good range of opportunities, and Stephen's probably touched 30% of them in what he's
+just said. So that's our job, to look at everything we can see, and then allocate our resources to the best
+opportunities.
+
+Myles Allsop
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+UBS Investment Bank, Research Division
+
+Myles Allsop, UBS. Just maybe following up on South Africa to start with. How -- I mean, Chris mentioned
+3 to 6 months as a potential time frame to see a new charter. To him, that's realistic. Also the ANC's
+going to win a general election next year. Are we getting ahead of ourselves, in terms of thinking it's
+all rosy in South Africa? And the industry's going to have to comprise, I presume, with the new charter,
+whether it's around, so 26% in power, whatever. But just give us a sense of how you're thinking about
+what compromises you're prepared to make, and the industry's likely to make? And then, maybe for Steve
+as well, on net debt, very impressive deleveraging in a relatively short period of time. Is $4.5 billion the
+right number; should we be thinking about spot free cash? [ But I want you to ] give us a number on that?
+How much spot free cash flow you'll be returning to shareholders, is the swing now very much back to
+shareholders?
+
+Mark Cutifani
+CEO & Director
+
+On South Africa, give Stephen a chance to put his thoughts together, very simply put. The future of the
+industry will be determined by the policy framework the government puts in place. The one thing that I
+think characterizes Anglo American is the quality of the assets we've got across the globe. And we make
+the point very simply put. Investment follows returns, not the other way around. And we've made that
+very clear. And I think the reason that the President has identified the mining industry as one of the
+great opportunities is, we all got that last conversation wrong. And the elements that were in that charter
+document, from our perspective, didn't provide a climate for returns. And therefore, capital allocation or
+capital spending, basically dried up across the industry. So I think we got to give them a bit of time to
+settle in the chair, have the right conversations. We'll come to the table looking for and providing ideas on
+how to make the country and the mining industry better, so it'll attract returns, that's our job. And I think,
+based on what I've seen so far, they're in the same place. So it's a matter of finding what works, and what
+works for the long term, because our industry is a 30-, 40-year industry. When we make investments,
+we make it for the long term. We want to see policy certainty that we can bank on. We've got a long way
+to go yet. And I think the toughest thing for the President is the expectations that are being built up and
+the expectations over a very short period of time. We've got to give him time. It's going to take time. So
+South Africa's going to require a lot of work.
+
+Stephen Thomas Pearce
+Finance Director & Executive Director
+
+Thanks, Mark. So firstly, on net debt, yes, I would love to see it lower, and I think we've got a real
+opportunity across these 12 months to continue that journey. How fast will it be, or how far would it go
+depends where prices are and all that sort of thing. So a little hard to exactly forecast. But would I love
+to see another couple of million dropped out over the next 6 and 12 months? Yes, absolutely. And as I
+said, we've got this real opportunity where we have had few calls on our cash flow outside of sustaining
+and sort of stay in business capital, where we can sort of complete that journey and fundamentally reset
+the balance sheet. And I think the industry generally and us, in particular, really appreciate the value of
+a strong balance sheet and it's happened quickly, and that's great, but we have still got a little bit further
+that we want to take it. Had we consider that versus some incremental shareholder turns? Yes, we got
+around the wheel, exactly as you would expect. So we had discussions this full year. We'll have discussions
+at the half year. Right now, we think we've got the right balance, in terms of the 40% payout. It did what
+it's supposed to. Was it a bit higher than the first half, based on higher profits, balance sheet priorities and
+returns to shareholders? We think we've got that balance about right for where we sit today, but we will
+always consider that as we go forward.
+
+Myles Allsop
+UBS Investment Bank, Research Division
+
+Spot-free cash flow.
+
+Stephen Thomas Pearce
+Finance Director & Executive Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Spot-free cash flow, yes. Listen, spot prices, probably year-to-date. They're a bit up from where they
+averaged through '17. So you could conclude from that, that maybe EBITDA, and then a reasonable flow
+into cash flow would see some similar numbers to this year. So I'm voting for price to stay high.
+
+Mark Cutifani
+CEO & Director
+
+Let's work with the back. Back up.
+
+Alon Olsha
+Macquarie Research
+
+Alon Olsha from Macquarie. Three questions. Firstly, just on diamonds. Could you give us an indication
+of the mix of stones you've sold so far this year, certainly versus last year, where you seem to have had
+greater demand for lower quality goods? How's it shaping up this year, and what's your expectation for
+that mix going forward, notwithstanding, of course, the lower, lower current stance coming from Gahcho
+Kué and Orapa. Second question, just on Minas-Rio. You've got the installation license in place. You're still
+waiting for the bigger, kind of the final permit, the environment permit later on this year. Could you give
+you an update on the timing around that? And the receipt of that license, would it impact guidance from
+Minas-Rio at all this year or next year? And then finally, on Quellaveco, is a syndication of that project
+bringing in a strategic partner? Is that a requirement for this project to go ahead? Would you consider
+doing it with another partner, and I'm sure you won't give me your long-term copper price assumption,
+but is it higher or lower than when the last time you evaluated this project?
+
+Mark Cutifani
+CEO & Director
+
+Okay. In terms of goods, last year, there was about 3 million carats for us, very early in the year that
+were sold, so obviously, impacts the quality. This year, we'll do a bit better. On a production basis there,
+you're right in pointing out that Gahcho Kué and Orapa will drop the headline quality number, but also
+remember their low cost carat. So even though the carat, the quality number or the pricing that we get for
+those carats will drop, and we don't like to put a number on that because obviously, there are commercial
+negotiations that go on, so we don't to flag where we are, but we still think they're wonderful products.
+From our point of view, they will have an impact, but certainly, our margins are in good shape, because
+they're lower cost carats as well. So without giving you a forecast forward.
+
+Stephen Thomas Pearce
+Finance Director & Executive Director
+
+Just to add to that, early '17 was more the anomaly, because we were clearing the lower stuff that had
+hung over from India demonetization, et cetera, in '16. We're really back to a normal mix now. So fairly
+simply, that's probably the high-level answer.
+
+Mark Cutifani
+CEO & Director
+
+In terms of Minas-Rio, the important thing for the final approval at the end of this year, means that this
+year the production's reasonably flat.
+
+Yes, sorry. And we've forecast something similar, although we start to ramp up during the course of
+next year off that. And then, we start hitting our straps in 2020. In terms of the approvals, there's a
+process that we can go through, to try and bring a little bit of our movement forward, to try and mitigate
+imbalanced production, but we won't forecast that. That's an opportunity not yet realized. So there's
+work going on to look at bringing things forward, but I think the safe thing at the moment is to forecast
+that flat production as we have done in the forecast. On Quellaveco, we already have a partner. We will
+only syndicate for value. I think that's important. From our point of view, that's where we'd prefer to
+be. Asyndication. We think the right number is in the range 50% to 70%, but at the same time, a lot of
+debate with the Board about getting that balance right. So I wouldn't like to preempt anything other than
+to say, we believe we'll syndicate somewhere in that range. It's a great project. The debate is, obviously,
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+should you take a bit more of a great project, or should you balance that and take some profits early?
+That's the debate with the Board that we'll have at the mid-year.
+
+Alon Olsha
+Macquarie Research
+
+Anything on the long-term copper price?
+
+Stephen Thomas Pearce
+Finance Director & Executive Director
+
+No.
+
+Mark Cutifani
+CEO & Director
+
+It will go up or go down. We're not sure in which order.
+
+Stuart John Chambers
+Chairman of the Board
+
+An unfortunate suggestion, please limit your questions, we have 2 maximum, please. Just in the interest
+of time.
+
+Mark Cutifani
+CEO & Director
+
+Fraser?
+
+Fraser Rowat Jamieson
+JP Morgan Chase & Co, Research Division
+
+Fraser Jamieson from JPMorgan. So another quick one on Minas-Rio. Obviously still, challenges
+to overcome there, and the priority is to get upwards of 26.5 million tons. Having said that, price
+achievements are very good. It feels like there's a structural element coming into some of the pricing
+premiums, et cetera. So very long-term thoughts, phase II, phase III, is that plausible at all? I notice it
+wasn't on any of your slides, talking about future growth options, et cetera? Should we forget about that
+forever? Or is it something that may come back in? And then second one, just wondering if Stuart might
+be willing to answer a question, coming into the organization and the industry from outside, what do you
+see as your key priorities in terms of guiding the Board, and what are the key challenges for Anglo to be
+addressing over the next few years?
+
+Mark Cutifani
+CEO & Director
+
+So I'll go with the Minas question first. From our point our view, the focus, 100%, is get ourself to the
+26.5 and the cost target. Good news is, the quality looks good. And we think the quality premium from a
+number of perspectives is, both cyclic and structural, we think there's a bit of both occur.
+
+So we think the project is well placed for the long term. Yes, we have options for the future
+
+but we're not going to get ahead of ourselves, we're going to deliver the project, the cost, the margins
+and the returns. From our point of view, let's get there first, let's not think about the next phase, let's
+make sure we get to -- we deliver and make sure we're delivering returns. At the moment, we're actually
+delivering cash flow. That's the encouraging thing. Our costs, I think, are about 15% below what you
+would've normally expected at this sort of volume. So the guys have done a great job on the cost front.
+Let's keep the focus on what's important and we'll deliver it and talk about the future when it's appropriate
+to talk about the future. Mr. Chairman?
+
+Stuart John Chambers
+Chairman of the Board
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+I'm not mic-ed up, so I'll take that. Can you hear me all right? Thank you for the question. I think in
+terms of observations, let me say the first thing, it's interesting that -- and we had a Board meeting this
+week, as you'd expect. It's interesting that the Board delightfully continues to challenge itself and beat
+itself up about what are doing everything we can and we're doing the right thing. But it's interesting,
+if you come in new and you look back, this business really is a fundamentally different business than it
+was 5 years ago. I think that really does need to be remembered. Therefore, what are the priorities? I
+think first of all, whatever happens to the market, whatever happens to prices, whatever happens at the
+various commodity areas, the one thing that you can never excuse yourself on, is not doing everything
+you can which is in your control. And I think this annual drumbeat of continuing to drive cost, efficiency,
+productivity improvements, volume improvements by actually running our mines the best way we now
+can, we know how, better than the previous year and better than the competition is an annual drumbeat.
+And I think that's a really, really important thing to do. I think the other thing, I would say, is safety
+and environmental is so crucial to the mining industry. And that's from somebody who's coming new
+in. I'm very familiar with the manufacturing environment, but you can't choose where these mines are.
+They are where they are. So the environmental and their kind of community engagement thing is just
+so fundamental to success. And I was pleased to see Mark talking very early on about how disappointed
+we are in our safety performance. That step change remains to be required. In terms of priorities going
+forward, other than those, run things the best you can. I think we have to look at our business through
+an asset lens. And assets include mines, also brands. And that's the most important thing, you can -- it's
+clear to me, you can't market or talk your way out of a fundamental cost curve problem. So I think driving
+all of our assets regardless of which commodity they happen to sit in, to the left, and continuing to invest
+in those, which can be brought there, and can stay there, is key. They will therefore result in us being
+in the commodities we're in. And we will be, and continue to be a successful, diversified mining -- major
+mining company. And that's kind of -- few words from me.
+
+Mark Cutifani
+CEO & Director
+
+Thanks, Stuart. [ Minner? ]
+
+Unknown Analyst
+
+It's [indiscernible] at [indiscernible]. Just 2 questions, one clarification. First on copper. Clearly the
+resource endowment is enormous, but the company doesn't seem to be fully in control, because the local
+extension that the [indiscernible] requires the corporation of Quellaveco to go through that wall between
+the 2 mines, and clearly, for Collahuasi you need to convince Glencore that is a good idea. And they have
+plenty of growth elsewhere. So why would they commit more capital? How do you extract yourself from
+this kind of slight dilemma? And secondly, on diamonds, I'm a bit confused. So when we talked about
+these last 2 years, the capability was always put at 36 million to 37 million carats from a production
+perspective. I understand we may be talking about 32 now, because it's so far out, and you don't give
+guidance that far out. So how should I look at that gap of 5 million? Has it come down to capability, or is it
+just you being cautious on guidance?
+
+Mark Cutifani
+CEO & Director
+
+No, the -- firstly, let me pick up the diamonds point, that we've got the potential to hit 37 million carats,
+but there is a timing as we swing from open cut to underground, [ Minner ]. And we're doing some other
+incremental work. So those numbers are in Bruce's forward-looking forecast. So I won't say when and
+how, but we have that capacity. And, in fact, we know where those numbers are. What he is doing is
+making sure that we've got some flexibility in how we respond to the market. Because we don't want to
+bring that capacity on today, when the market's still reasonably well balanced. So it's a phasing issue
+as opposed to an absolute quantity issue, first point. Two, on copper, we're in and have been in very
+constructive conversations with CODELCO around the [indiscernible]. Those conversations continue. One
+of the difficult issues we have is that with the change of government, the senior management of CODELCO
+changes, but they're certainly been a good base established now, so we're going to continue working that
+through, and we think that's important. And we think there is a pathway there. On Collahuasi, we believe
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+there's still a lot more improvement available, and we acknowledge the team's effort, Duncan, in terms
+of the improvements they've made. We want to keep seeing improvement, but we also believe, with the
+technical work Tony and Duncan are working on, there are some compelling new technologies that will
+really shape a different future for our copper business in Chile. And we think those arguments, but that
+need major capital leaks, in terms of delivery of improvement, by reduced water consumption, which is a
+no-brainer in that sort of environment. So we think, any partner we have in an asset that is sensible and
+rational and wants to make a lot in terms of returns, would consider those opportunities, but it's up to us
+to build the case, and we think we can.
+
+Paul Joseph Douglas Gait
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Paul Gait from Bernstein. Two questions, if I could. First on Kumba. So you've upped your guidance in
+terms of production. I'm just wondering, we used to talk a lot about the changes on the mine plant that
+had been made there. Should we sort of regard those production increases now as sort of sustainable
+into the longer term? Or was that sort of, could it come back down, sort of after the next sort of couple
+years? I know you're able to make those changes without sort of compromising the grade or the sort
+of lump fraction that you sort of distinguish that mine. The second question is outside South Africa, I
+mean, obviously, political changes there. We're also seeing Zimbabwe declaring itself open for business.
+Obviously, the great dike there is this really significant, sort of PGM resource. Do you think about moving
+outside of that South African footprint into Africa, more broadly?
+
+Mark Cutifani
+CEO & Director
+
+Okay. On Kumba, I think, in many cases when I talk to people, I don't think people recognize how
+significant the changes were in spinning the mine around 90 degrees. When you say it quickly, it doesn't
+sound like much. And as Tony pointed out, it was a fairly significant change, which took about 2 years
+to execute. As a consequence, that's been the major shift. And the focus on equipment productivity, I
+think, we're up by a factor of 150% on our major shovels now. So the reason we're delivering additional
+tonnage is: one, the big change in the mine; and two, the underlying productivities of the equipment,
+we're operating track, it used to be 4,000 hours a year, it's now 6,000 hours, so our sustainable capital is
+also going down. So it's sustainable right -- it's a sustainable right pull. I think the life of mine is 13 to 15
+years, Duncan? What Tony and Seamus and the team are working on now, what are the new technologies
+to try and enhance that resource space and build more life in the asset. So that's where the focus is now,
+Paul, and continuing cost reduction. We've got a great product. We get a lump premium, and our margins
+are matching the Pilbara as we speak today. How do we do better and protect that cost base with ongoing
+improvement? So it's cost and life are the 2 areas of focus for the business.
+
+Stephen Thomas Pearce
+Finance Director & Executive Director
+
+The only thing I would add there is, is infrastructure capacity. So yes, we're working closely with Transnet,
+who provide the rail, and so making sure we're as efficient as we can onto the train, down the train line
+and in and through the port, is a real area of focus for us, even though we don't own and operate all of
+that aspect, but we are bumping up against some of those capacity constraints. And so, obviously then,
+the focus for improvement can be around grade and quality and which tonnes you do move down the
+lines, so we've got all those options in front of us.
+
+Mark Cutifani
+CEO & Director
+
+Don't think, don't forget, Kolomela's making, when we started the work, we're at about $10 million off a
+design of $9 million, it's up near $14 million now. So again, underlying productivity improves have been
+quite significant in the operations. So in terms of [indiscernible] keep making each year a better year in
+terms of the underlying performance. So they've done a very, very good job.
+
+On Unki, or Zimbabwe, I think there have been a number of statements. I think there's still a lot of work
+to be done. We need to see a lot more in terms of the policy framework, infrastructure, those sorts of
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+23
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+things. So we'll continue to nurture Unki, I know Chris [indiscernible] has mastered, in terms of the quality
+of the resource effect. I think both Chris and Tony agree, it's a great resource, but we'd like to see a lot
+more color buoy before we think about taking any further steps. But we're continuing to nurture that
+operation and make sure we're doing the right things.
+
+Sylvain Brunet
+Exane BNP Paribas, Research Division
+
+Sylvain Brunet with Exane BNP Paribas. First, on diamonds. We know the first quarter is always quite
+important for the midstream where they make their decisions. We've seen a couple of bankruptcies in the
+third quarter. Could you give us a sense of what happened in the fourth? And what is your perception of
+the mood in the midstream right now? Another question on diamonds, when we see a number of mines
+still ramping up until 2020, do you believe that this industry could secure enough pricing power before
+then? Another question on the working capital. To understand clearly the change in the payables and the
+prepayments you mentioned, should we treat that as a one-off or as a run rate from here or not? And
+lastly, on the $6 billion of cash you report in the consolidated accounts -- last one, out of the $6 billion,
+how much is in South Africa?
+
+Mark Cutifani
+CEO & Director
+
+So I'll pick up the diamonds, and I know Stephen will have the numbers off the top of his hat. In terms of
+the mood of the sentiment, yes, there have been some bankruptcies. I'd like to make a point that one of
+the bankruptcies, and there has been a fraud case that's been broadly reported, has nothing to do with De
+Beers. It's a separate entity and involves banks, but there are no relationships with our business. And in
+fact, the financial reporting transparency piece that we have put in place is designed to identify and help
+us identify where those things may have occurred. And so, there's been a big change in De Beers out of
+the last 15 years, as you know. So they're not connected to us. Two, the mood generally has been pretty
+good. I think most importantly, the U.S. selling season was very positive. And the mood coming back
+has been quite strong. There are always a few that may be struggling for different reasons, but so far,
+the feedback has been good, and certainly, encouraging from our perspective, and again looking forward
+where we're cautious and slightly optimistic. I've learned in this business not to get too excited by one or
+two sites, so. But so far, so good. And certainly, the feedback's been pretty solid. In terms of mood, or in
+terms of new mines being built, remember, the diamond industry is really in a -- has really got a supply
+problem '20, '21, '22. So we don't think those new mines will disrupt. The industry needs more mines.
+I think, as an industry, the key is investing in new demand. And I think the commitment ourselves have
+made, and are also to the creditors made, those programs are going to be very important in making sure
+our product is front and center in terms of consumer choices. And I think that's the key for us. From our
+point of view, we don't think those new mines will materially impact, given what we think we can do with
+the demand. Stephen?
+
+Stephen Thomas Pearce
+Finance Director & Executive Director
+
+Yes, thanks. So firstly on working capital. I suppose, broadly happy with where the levels are at today.
+So there'll be movements across whether it be creditors, prepayments, dealers, stock levels at different
+points in time, and at different times through the year. How much you come through with the weather
+patterns or diamond buying patterns and timing of sites, all that sort of thing. So you'll see some small
+pluses and minuses, but generally happy with the overall level. On -- I should have probably mentioned,
+on the debt capital structure and the cash and net debt, so net cash in South Africa, $3.4 billion and net
+debt in the rest of the world, $7.9 billion. So that's how you get to that net $4.5 billion. What you've seen,
+I sort of spoke about it more at the half year, and there's a slide in the appendix there in terms of the debt
+capital structure. So we've been progressively doing a number of things, extending the maturity, shaping
+the profile of maturities and also then looking at how we think about both the cash we have on hand, the
+undrawn facilities, and as we get control over our CapEx as we get certainty over our cost performance
+and cash flow, just bringing all those things down and progressively just tightening up and that don't
+all come for free. And so, yes, we can save, let's say, $100 million as we work through that strategy to
+tighten those things up. So that's where our focus is on that front.
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+24
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Mark Cutifani
+CEO & Director
+
+Okay. I'll take one more question, and then we'll go to South Africa for a question.
+
+Tyler Anson Broda
+RBC Capital Markets, LLC, Research Division
+
+Tyler Broda from RBC. I guess, the results from all of the companies have sort of shown that having
+amazingly, a strong balance sheet is no longer a scarce thing.
+
+Stephen Thomas Pearce
+Finance Director & Executive Director
+
+It's still very valuable.
+
+Tyler Anson Broda
+RBC Capital Markets, LLC, Research Division
+
+Which is, yes, still very valuable, I guess, definitely. But -- in terms of the syndication thoughts around
+Quellaveco, whether or not is, is the company sort of entertaining any thoughts of recycling that capital
+that's going to come in for what is a scarce growth, high return growth project in copper? So any thoughts
+about recycling that capital into another opportunity, to sort of keep the total exposure, but just to have it
+structured in a more different way?
+
+Mark Cutifani
+CEO & Director
+
+I'll let Stephen have first crack, then I'll have a view as well.
+
+Stephen Thomas Pearce
+Finance Director & Executive Director
+
+Yes, as you would expect, we're thinking through all the things you would think we would, as what we
+think about that investment decision and ultimate percentages. So some of it's about value, as Mark
+mentioned. And some of it is about how do we think about our balance sheet both in this opportunity and
+for the suite of other opportunities that may emerge largely within our existing portfolio or from without,
+and making sure that we do have that flexibility through all parts of the cycle, without overstretching on
+any 1 particular project or locking ourselves out with other value-creating opportunities. So we think about
+all the things you would expect, CapEx, cash flow, returns, other opportunities, sovereign risk, et cetera,
+et cetera. So they all are factoring into our decision, and will help inform where we eventually land.
+
+Mark Cutifani
+CEO & Director
+
+For us, syndication of a major project is a strategic choice. In the end, we've learned a lot of lessons
+from Minas-Rio. We've applied those lessons to the project. But at the same time, we don't know what
+we don't know, irrespective the amount of work we do. The oil and gas industry worked out a long time
+ago, with these types of bets were near this lumpy, best to share that risk. So it's a strategic choice in the
+first instance. And we've made that point a number of times, and we'll keep making that point. Because
+Minas-Rio was also a 100% bet. It would have been a lot more easy to handle if we had shared some of
+that risk. And so again, we've got Duncan and Tony and the guys, absolute brilliant work on Quellaveco,
+but there are still things we don't know, we don't know. So it is strategic. And I think, secondly, when
+we've got capital -- when we've got the business, the allocation model is absolutely critical. So debt,
+dividend, investment in the right places, and every dollar of capital goes through a stringent justification,
+competition stage guiding process. I'll keep saying it, because it's a disciplined we as an industry haven't
+demonstrated to our shareholders. And for 5 years, we've been there and we're going to stay there. South
+Africa? I do owe 1 back here, but I'll go to South Africa, if I can take South Africa.
+
+Operator
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+25
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Kieran Daly from UBS.
+
+Kieran Daly
+UBS Investment Bank, Research Division
+
+Mark, we are at that point in the cycle where companies have started to look at their, and even list in
+their presentations, on the potential growth projects, mainly brownfields. You obviously have Quellaveco
+as your sort of first cab off the ranks, shall we say in terms of growth. Then just to see that you put
+Moroanbah South in the brownfield slide that you have there. I just wonder, what's the latest on
+Moroanbah South? I mean I suppose to some extent it is brownfield, a little tie-in with Grosvenor
+Moroanbah North, as I understand it, but just wondering what's your current thinking around Moroanbah
+South is? And also obviously, you have partner there that was looking to sell out their share, but it doesn't
+look like they are going to right now, so just some thoughts on that, please?
+
+Mark Cutifani
+CEO & Director
+
+Yes, certainly, Quellaveco is the most advanced. And certainly, from our point of view, it's a great project
+in what appears to be a very good commodity position. So very excited, but there's still work to be done.
+What we're trying to demonstrate is we've got portfolio or good opportunities across the portfolio, Seamus
+and the guys have had a run at some money in terms of Grosvenor. We've got Minas-Rio that we're still
+working through. But I think as you broaden the -- for people to understand, we've got other options,
+but the team's got to demonstrate delivery, getting the margins, delivering on cash flow. And in the
+future, we have other options in the portfolio that the guys are thinking about. And that was the point we
+wanted to make is, we've got a portfolio of opportunities that will compete for capital. And at some point,
+when it's appropriate, we will look at all of those options. And that was the point we're making here. And
+we're certainly not on the -- we've certainly not got it at the stores ready to go, just making a point of
+opportunity.
+
+Stephen Thomas Pearce
+Finance Director & Executive Director
+
+Some of more long-dated than others, [indiscernible].
+
+Stuart John Chambers
+Chairman of the Board
+
+I could just take other questions in the -- we'll just have the other questions in the roundtable, please.
+Thanks.
+
+Mark Cutifani
+CEO & Director
+Okay. Thank you, ladies and gentlemen. I believe we have a roundtable. Thank you for joining us today.
+Very much appreciate your participation. And again, focus on the assets, capabilities and making sure that
+we continue to hold our discipline in terms of delivering returns. Thank you.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+26
+
+ANGLO AMERICAN PLC FY 2017 EARNINGS CALL |  FEB 22, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+27
+
+

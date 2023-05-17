@@ -1,0 +1,714 @@
+Schroders plc LSE:SDR
+FY 2017 Earnings Call Transcripts
+Thursday, March 01, 2018 9:00 AM GMT
+S&P Global Market Intelligence Estimates
+
+CONSENSUS
+
+EPS Normalized 
+
+2.10
+
+Revenue  (mm)
+
+1981.46
+
+Currency: GBP
+Consensus as of  Mar-01-2018 8:22 AM GMT
+
+-FY 2017-
+
+ACTUAL
+
+2.22
+
+2068.90
+
+-FY 2018-
+
+SURPRISE
+
+CONSENSUS
+
+5.71
+
+4.41
+
+2.24
+
+2127.67
+
+FY 2017
+
+CONSENSUS
+
+2.10
+
+ACTUAL
+
+2.22
+
+SURPRISE
+
+5.71 %
+
+- EPS NORMALIZED  -
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+10
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+SCHRODERS PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Peter Harrison
+Group CEO & Executive Director
+
+Richard John Keers
+CFO & Executive Director
+
+ANALYSTS
+
+Charles John Douglas Bendit
+Joh. Berenberg, Gossler & Co. KG,
+Research Division
+
+Gurjit Singh Kambo
+JP Morgan Chase & Co, Research
+Division
+
+Hubert Lam
+BofA Merrill Lynch, Research
+Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+SCHRODERS PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Presentation
+
+Peter Harrison
+Group CEO & Executive Director
+
+Good morning, everybody, and welcome to the Schroders 2017 Full Year Results. Thank you for making
+the effort through blizzards on the first day of spring. We've got quite a few people online, so if we could
+be disciplined with microphones later on, that would be very helpful.
+
+We're going to do the normal running order this morning. I'm going to take you through the high-level
+numbers. Richard Keers, our Finance Director, will then take you through the detail. And I'll come back
+and talk about the outlook and 1 or 2 strategy points.
+
+But overall, we feel these are a strong set of results. We've delivered a 15% increase in net income to GBP
+2.06 billion. Strong cost control has meant that our cost-income ratio has fallen from 64% to 61%, and
+that led to a 24% increase in net profits after exceptional items to GBP 800.3 billion.
+
+Assets under management is a new high at GBP 447 billion, when you include assets under administration.
+And our net new business was GBP 9.6 billion for the full year.
+
+We declared a full year dividend of 113p, which was up 22% on the previous year.
+
+What I'd like to now is just quickly go through the flow numbers in a bit more detail, because I know that's
+important to you. Overall, GBP 9.6 billion of new business, and one of the features of these results is
+that it's spread pretty broadly across all areas of the firm. So Institutional saw inflows of GBP 4.2 billion;
+Intermediary of GBP 3.4 billion; and Wealth Management made an important contribution of GBP 2 billion
+of net new business.
+
+One of the things we talked about at the interim stage was a very large outflow in sub-advisory. And we
+said we were going to give you more detail on the sub-advisory element of our business. So if I could just
+now split out those sub-advisory flows, you can see that, that GBP 5.8 billion outflow in the U.S., which
+occurred in the first half, we actually over -- for the full year, we actually had outflows from sub-advisory
+of GBP 4.2 billion, which meant that the branded flows were rather higher than shown on the previous
+page. Branded flows were actually GBP 7.6 billion, which is the highest level we've had since 2009.
+
+I think big mandate losses will always be a feature, and internalization is definitely a theme in the
+marketplace. But the resilience of the business with Intermediary, Institutional and Wealth Management all
+contributing was an important part of the performance.
+
+If we just now look at flows by asset class, again, the same pattern emerges. Equities saw a small inflow.
+Fixed income saw inflows. Multi-assets saw inflows; and private assets, which we broken out as a separate
+segment, also saw inflows. And if I just look at those split for you between Institutional and Intermediary,
+which you may find of help, equities was a small inflow of 0.1%, [ actually masked ] GBP 3.1 billion
+flowing into Intermediary and GBP 3 billion out of Institutional, which a large chunk of that relates to our
+quantitative equities group, which saw GBP 2.7 billion out, particularly in Australia, where the market
+dynamics are certainly changing. But we saw good inflows, particularly in global equities and in European
+equities.
+
+Fixed income, the flow of GBP 3.5 billion was split GBP 0.7 billion into Institutional and GBP 2.8 billion into
+Intermediary. And really, all areas of our fixed income business contributed, particularly the credit areas
+and emerging debt, but there was a good contribution there. And in the multi-asset area, GBP 1.5 billion
+of flows. There, GBP 4.6 billion of Institutional flows and GBP 3.1 billion out of Intermediary, which is that
+big mandate we talked about earlier. So there, important inflows, particularly China, in risk mitigation and
+in total return mandates.
+
+And finally, private assets, which was GBP 1.9 billion of flows into Institutional mandates and GBP 0.6
+million into Intermediary, but you can see that a number of areas of the firm contributing.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+SCHRODERS PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+If I just now look at that by region, to give you a flavor of that. The U.K. saw GBP 3.1 billion of flows
+split GBP 1.2 billion, Institutional; and GBP 1.9 billion, Intermediary, which was a good performance from
+the U.K. Europe, another strong year, GBP 4.3 billion of inflows. GBP 0.4 billion out of Institutional, but
+GBP 4.7 billion into Intermediary. And really, good performances, Germany, France, Spain, Italy, really
+across the piece. We did see an outflow of note in Switzerland and outflow of note in Benelux, but broad
+performance across Europe as a whole.
+
+Asia was somewhat more muted than normal, GBP 0.9 billion of inflows, of which GBP 0.8 billion were in
+Institutional. Pleasing for me was that Japan and China, which are strategically very important to us, saw
+cumulative inflows of GBP 3.3 billion. But this Australian dynamic saw outflows of GBP 3.7 billion. So quite
+a big barbell within Asia between developing Asia and like more mature markets.
+
+And then finally, Americas, which saw GBP 0.7 billion out, GBP 2.6 billion for Institutional but GBP 3.3
+billion out of Intermediary. And again, that refers to that mandate. The underlying dynamic there, I
+think, was very pleasing, because if you have a GBP 5.8 billion mandate out at the beginning of the year,
+actually, to end up GBP 0.7 billion down was pleasing. Hartford delivered well, our retail Intermediary
+partnership, but also the Institutional business delivered well. So we were pleased with progress that
+we're making in the U.S.
+
+That's a snapshot on flows. I'll be back to talk about it later. What I'm going to do now is hand over to
+Richard to take you through the detail of the financials.
+
+Richard John Keers
+CFO & Executive Director
+
+Thank you, Peter, and good morning, everyone. As you just heard, 2017 has been a strong year for
+Schroders. Peter has covered growth and longer-term strategy. I will now explain how this translates into
+the 24% increase in profits that we have reported today and, in headlines, how I see this unfolding in
+2018.
+
+So let's begin with how the results break down and where the growth has come from. Net income
+increased by GBP 276 million or 15% to GBP 2.1 billion, driven by the growth in our AUMA, which closed
+this year up 13% at GBP 447 billion and also as a result of good performance fees. We have a total comp
+ratio of 43%. That's 1 percentage point down due to changes to our compensation policy for material risk-
+takers. The effect is to reduce the accounting charge in 2017, and I will explain how you should think
+about this in a moment.
+
+Our total cost ratio has reduced to 61%. That's 1 percentage point down due to comp cost and a further
+2 percentage points down due to other costs. These other costs were in line with the guidance I gave
+you, allowing for acquisitions. So as you can see, this is strong revenue growth, driven by AUM and
+performance fees, combined with good cost discipline that has driven the 24% growth in profits to GBP
+800.3 million before tax and exceptional items.
+
+We have a full year tax rate of 21.4%, which is higher than the 20.5% we had last year. The increase
+is mainly due to the reduction in expected benefit of our U.S. deferred tax asset. This is a one-off
+adjustment and comes from the U.S. government's decision to lower the corporation tax rate from 2018.
+It means our deferred tax asset is worth less, and we have taken a charge now. However, we will see the
+benefit of a lower U.S. tax rate in the future. Our forecast is for a lower headline rate in 2018, possibly
+between 20% and 20.5%. But as you know, this does depend on the mix of profits between the various
+tax jurisdictions.
+
+The tax charge for 2017 of GBP 172 million takes profit after tax but before exceptionals to GBP 629
+million. With exceptional items of GBP 34 million, which mainly relate to the amortization of intangibles,
+that brings us to profit after tax of GBP 594 million, an increase of 21%.
+
+Right. Let's start by looking at what's driven the increase in net income. As I've already mentioned, the
+-- I'm sorry, as I have already mentioned, AUMA was up 13%, but the driver of most of our net income is
+average AUM, and that was up a little more at 19%. That is driven by the impact of 4 things: acquisitions,
+investment returns, FX and net new business.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+SCHRODERS PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+So let's see how each of these 4 factors has affected income. Starting with acquisitions. These increased
+our average AUM by GBP 10 billion. That's the acquisitions this year and a full year impact of the 2016
+acquisitions, which together increased net operating revenue by GBP 57 million.
+
+The next 2 factors, investment returns and FX, increased average AUM by GBP 53 billion, increasing
+operating revenues by GBP 193 million. Looking at the 2 components: investment returns have brought
+strong growth, with related increases in revenues being only partly offset by changes to fee structures.
+The net effect is higher revenues of GBP 125 million. This year, on average, sterling has been weak
+compared with the whole of 2016. And as a result, we saw an increase in our revenues of around GBP 68
+million. Finally, we generated GBP 9.6 billion of net new business in 2017. The revenue from this and the
+full year effect of 2016 flows has increased this year's revenues by GBP 10 million. But as you just heard
+me say, for new business, we focus on annualized revenues, and the flows this year have generated GBP
+63 million of annualized revenue, of which GBP 24 million is in these numbers. That's a little higher than
+the revenue number I just quoted, which is because the impact of 2016 flows has partly offset the growth
+in this year's revenue.
+
+In 2017, we also generated strong Alpha performance, resulting in performance fees of GBP 78 million,
+an increase of GBP 37 million on 2016. As you know, performance fees are difficult to predict, but at this
+early stage of the year, we are budgeting GBP 40 million for 2018. Bringing this all together means a GBP
+297 million increase in net operating revenue. That's 17% up.
+
+Lastly, other income decreased by GBP 21 million. This is due to one-off gains in 2016, partly offset by
+GBP 6 million of income from assets under administration. The overall outcome is a 15% increase in net
+income to GBP 2.1 billion. Let's now look at this by segment and channel.
+
+Starting with Institutional. Net operating revenues were up GBP 122 million to GBP 814 million, with
+closing AUM at GBP 256 billion, up 13%. GBP 30 million of the revenue increase is due to performance
+fees, which were GBP 58 million. The remainder was driven by higher average AUM, which was up GBP 37
+billion, with revenues up GBP 91 million or 14%.
+
+Net operating revenue margins, excluding performance fees, were down a little from 32 basis points to
+31.5 basis points. That's a bit better than the guidance I gave you, and let me explain what has happened.
+We have seen continued Institutional demand for lower-margin fixed income and multi-asset products.
+Although these flows were at lower margins, they still generated GBP 12 million of annualized revenue
+growth, of which around GBP 2 million is included in these results. So that's good for revenues. They have,
+however, pulled down our revenue margins a little. The decline has been partly offset by the acquisition of
+Adveq, which has added GBP 6 billion to our AUM at the end of July. And as you would expect of a private
+equity business, it is at a higher revenue margin. So there are a number of factors impacting margins, but
+at this stage, we still see less than 1 basis point decline in 2018, so still around 31 basis points. As always,
+this will be highly dependent on markets.
+
+Now let's turn to Intermediary. Net operating revenues were up 17% to GBP 929 million, with AUM of GBP
+134 billion at the year-end, which is up 12%. The increase in revenue was mainly driven by an GBP 18
+billion rise in average AUM, with revenues up GBP 124 million or 16%. We also earned GBP 20 million of
+performance fees in 2017, which is a year-on-year increase of GBP 8 million. As we have heard from Peter,
+we had net new business of GBP 3.4 billion, with demand for higher-margin products. What is important
+for us is that those net sales have increased our annualized revenue by around GBP 44 million. Of this,
+about GBP 19 million is included in the 2017 revenues, with the rest coming through in 2018. So unlike
+Institutional, net new business has increased our margins, and importantly, it is bringing strong annualized
+revenues, which is a key focus for us.
+
+To help with your modeling, let's look at net operating revenue margins, which were 72 basis points for
+the year, excluding performance fees. That's a 1 basis point decline over the year and is 2 basis points
+better than I expected at the half year. The reason is that higher-margin net new business, combined with
+strong equity markets, pushed up the higher-margin business as a proportion of AUM. The effect was to
+offset the declines that I set out a year ago. Despite margins holding up this year, we still see longer-term
+pricing pressures. And as a result, our margins may fold a little in 2018 by perhaps a bit. But again, this
+will depend on how our business mix changes from net sales and markets.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+SCHRODERS PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Moving to Wealth Management. Net operating revenues were up 20% to GBP 267 million. That was
+mainly driven by a GBP 42 million increase in management fees, which were up 26% to GBP 204 million.
+Benchmark Capital contributed GBP 10 million to that increase. And you can see on the slide, other income
+was also up a little. Revenue margins, excluding performance fees, were 61 basis points. That's down
+4 basis points, consistent with the guidance I gave you and is due to Benchmark. Annualized revenues
+are also a key focus here. The Wealth Management business has generated around GBP 7 million on GBP
+2 billion of net sales, with around GBP 3 million included in these results. For your models, we expect
+margins to be around the same level in 2018. But here, the business mix, the level of transactional
+fees and interest income will all have an effect. At this stage, we see no reason for you to change
+revenue margins for your models. With that, I am concluding my comments on revenue. The rest of my
+presentation is focused on operating cost and group capital.
+
+And I start with operating costs. As you know, comp costs are the biggest component of our cost base
+and make up around 70% of our cost. This year, we have made changes to our remuneration structure
+for employees who are deemed to be material risk-takers under new regulatory requirements. This
+required us to increase the proportion of their pay that is deferred. The increase in amounts deferred this
+year has reduced our total comp ratio by 1 percentage point. This is an accounting benefit, and it will
+disappear over 2 years as we build up performance years with greater deferral. The outcome is a total
+compensation ratio of 43%. We're expecting this to increase to around 43.5% in 2018 as this accounting
+benefit unwinds.
+
+Non-comp costs have increased by GBP 31 million in 2017 to GBP 387 million. That's slightly higher than
+guidance due to Adveq operating costs. Managing a successful balance of controlling costs whilst investing
+in growth opportunities is vital for our long-term success. As a result, we have been able to reduce our
+total cost ratio by 3 percentage points to 61% in 2017.
+
+As you've heard from me before, our focus is on investing for future growth, in technology, in
+accommodation, in our people and in selective acquisitions. In 2018, we will see some important
+changes being realized with further investment for the future. This will be reflected in some growth in
+our cost base, and it's worth taking a moment to give you some more color to help you understand
+this. Starting with acquisitions, we will see an increase of around GBP 10 million as the full year impact
+of the transactions we completed in 2017 comes through. Both Peter and I have briefly talked about
+the investments we're making in technology, and key to our long-term success is our new front-office
+investment platform, which will go live later this year. This is an exciting time for Schroders, and we
+expect to see longer-term benefits, both to the way we operate and to our overall cost base. For now, in
+2018, we are anticipating increased technology costs of around GBP 25 million, including dual running
+costs until legacy systems are decommissioned. As you know, the group has grown significantly in recent
+years. Profits have more than doubled in the last 5 years from GBP 360 million in 2012 to over GBP 800
+million this year. This growth is underpinned by our people, and the headcount has increased by around
+50% over the same period. With more people comes a need for more space. In 2017, we moved into
+new offices in New York, aligning with our growth strategy. And in 2018, we'll be moving into our new
+headquarters in London, along with changes in other locations around the world. As a result, costs are
+going up by around GBP 20 million, but this just reflects the growth we have seen and expect to see going
+forward.
+
+Similarly, other costs such as marketing, VAT and people-related costs are moving in line with our
+increased operational scale. Finally, as we all know, regulatory demands continue to be significant. This
+includes paying for research, but this will not be material. Bringing this all together, we expect to see non-
+comp costs to be GBP 450 million in 2018. Finally, we're reporting GBP 35 million of exceptional operating
+expenses. These are primarily acquisition-related costs, and they include the amortization of acquired
+intangibles. We're budgeting around GBP 30 million of exceptional items in 2018.
+
+Now let's turn to the last section on capital. We continue to maintain a strong capital position, but equally,
+we remain focused on making our capital work harder to support our future growth. Total capital increased
+by GBP 318 million to GBP 3.5 billion at year-end. You can see on the slide the 2 views of our capital that
+I'll take you through at the half year. I now take you through the more significant movements. Other items
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+SCHRODERS PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+increased by GBP 0.3 billion to GBP 1.1 billion. The increase is mainly driven by the growth in our pension
+scheme surplus and due to acquisitions.
+
+Looking at our pension surplus first. We've seen this grow from GBP 67 million 5 years ago to GBP 163
+million at the end of 2017. That's driven by the outperformance of our asset portfolio relative to changes
+in the value of liabilities. As you know, we manage these assets. During that same 5-year period, we've
+seen investment returns of GBP 457 million on opening assets of GBP 777 million despite also investing
+in LDI assets to derisk the portfolio. At the same time, we have paid benefits of GBP 242 million. The
+other reason other items has grown is due to acquisitions, which increased goodwill and other intangibles
+by GBP 213 million. It's the combination of acquisitions, increases to our seed and co-investment and
+strategic spend on our property, estate and technology assets that has reduced our liquid investment
+capital, which you can see on the right-hand side of this slide.
+
+As you would expect, our regulatory requirements have also increased as the business has grown. That
+means our capital surplus after deductions is GBP 1.2 billion. That is slightly lower than the figure for 2016
+and is due to the investments we have made. You can see that both our capital surplus and our liquidity
+are managed carefully, with an eye to enabling and sustaining our growth agenda. Overall, we continue to
+maintain a strong position, and I see this as a positive.
+
+So in summary, this hasn't been a bad year. Net income is up 15% to GBP 2.1 billion. Our good cost
+discipline has delivered a total cost ratio of 61%. And when you put these 2 factors together, it means a
+profit before tax and exceptional items of just over GBP 800 million, which represents a 24% increase.
+That, in turn, equates to a 22% increase in basic EPS before exceptional items to 226.9p. Reflecting this
+performance and in line with our progressive dividend policy and a payout ratio of around 50%, we've
+increased our final dividend by 23% to 79p per share, which brings the total dividend for the year to 113p.
+
+Thank you. That's enough for me. I hand you back to Peter.
+
+Peter Harrison
+Group CEO & Executive Director
+
+Thank you, Richard. Those of you who attended our Capital Markets Day will be familiar with the 7 areas
+of growth that we outlined and which I talked about a bit at the interim stage. I just wanted to revisit
+our progress on that, because I think, to my mind, getting investment for the future right is absolutely
+mission-critical to being deliver -- able to deliver consistent growth. And these 7 areas of expansion and
+investment are really important to our future growth.
+
+And just moving on the chart from left to right, products and solutions, we made some changes in the
+management team here during the year, and Charles Prideaux is now leading that group. But more
+importantly, we've launched our strategic capabilities. We've launched about 40 new products across
+a whole range of areas, particularly high alpha solutions areas and multi-asset. We've completed our
+rebranding. We've got a lot more digital presence. And I think what we're seeing from these results is a
+number of those new areas starting to deliver good growth. And I think for me, getting the right products
+on the shelf is mission-critical.
+
+I also talked at the Capital Markets Day about the importance of longevity, and you will have seen in
+the acquisitions we've made and the development of our private asset strategy, the growing longevity is
+certain to have a real impact on our long-term growth rate. And I think that's definitely something that we
+will return to again.
+
+Fixed income multi-asset remains a key part of the market. We saw GBP 5 billion of growth in this
+area despite that one-off outflow. And although in North America we saw marginal outflows, actually,
+the underlying progress in that business was really very strong, both on the Institutional and on the
+Intermediary side.
+
+Asia Pacific for me is about how we develop some of the more peripheral markets. Malaysia, for example,
+is an important contributor this time. But also those big markets of Asia, China standing out; and Japan,
+where we see the changes in regulation really favoring those managers who have taken the high road.
+And that, again, has contributed positively to these results.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+SCHRODERS PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Technology is now a terribly fashionable thing to talk about, but I do think it's transformational in an
+industry which is about data processing. Rich has mentioned we made a big investment, whether it be
+in cloud computing, whether it be in front office systems, whether it be in data centers, whether it be in
+CRM systems. But ensuring that we're match fit here is absolutely critical. And I think whilst we've made a
+lot of progress, particularly around data insights, it will remain an area of high investment going forward,
+because I think it's the area where we can really differentiate ourself from the competition.
+
+The 2 areas we didn't talk about in detail at the Capital Markets Day were private assets and Wealth
+Management, so I just want to spend a moment longer on those now. We decided this time to strip out
+private assets for you, because it's going to be an important part of our strategy going forward. So on this
+chart, there's some more granularity of the areas that we're including in this. And the top bit of the pie
+are absolute return funds around emerging market debt and our open architecture GAIA fund range. And
+then you get into alternative forms -- so more private asset forms, the first 2 being more alternatives,
+whether it be securitized credit, infrastructure finance, insurance-linked securities, private equity. What's
+interesting about this chart, that with the exception of commodities, that all these areas contributed to our
+growth in private assets this time. Adveq performed well. We saw -- we reported in our results GBP 0.3
+billion of net new business. Actually, for the year, they posted GBP 1.1 billion, but we didn't consolidate the
+other GBP 0.8 billion because it was prior to the closing of the acquisition. We also saw some important
+growth in our real estate business. I think the weight of money flowing into these markets remains a
+really big opportunity for us. We've launched this year what we call our alternative sales force, which is a
+growing group of people who are dedicated to selling alternatives beyond our traditional sales force, will
+remain an important area of growth.
+
+And finally, Wealth Management. And I probably put myself on the hook a little bit last time we met
+saying we will turn round our Wealth Management business. And I think I'm pleased with these results.
+There's more to go. But we saw GBP 2 billion of net inflows, of which GBP 0.9 million was from the
+Benchmark business and GBP 1.1 billion was from our traditional Schroder Cazenove Wealth Management
+business. And within that, the U.K. Wealth Management business of Cazenove performed particularly
+well, with GBP 1.7 billion of flows. And that, for me, is the engine of growth. We partnered out our Italian
+Wealth Management business, which meant there were some flows out of that business just whilst the
+partnership was going through. So underlying GBP 2 billion of inflows, we completed the whole acquisition
+of their Wealth Management business, which went well, with staff retention and client retention. And the
+Benchmark acquisition has also performed well. We saw growth of 30%-plus in their EBIT contribution
+and their revenue growth. So across the piece for me, the Wealth Management business really starting to
+fire, and we've got some really important bits of the jigsaw in terms of the way the Wealth Management
+landscape is changing. So again, an important part of our strategic future growth.
+That was all I was going to say on the slides. What I tend to do now is to do some Q&A. What we'll do first
+is we'll do the people in the room. There may well be some people online who've got questions, in which
+case I would ask them to press the button, and their questions will be relayed into the room.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+SCHRODERS PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Question and Answer
+
+Peter Harrison
+Group CEO & Executive Director
+
+If you could say your name and organization, that would be great.
+
+Hubert Lam
+BofA Merrill Lynch, Research Division
+
+It's Hubert Lam from Bank of America Merrill Lynch. Three questions. Firstly, on costs. You had an
+exceptional year of cost income at 61% this -- in '17. Obviously, it seems like costs are creeping up. Just
+wondering, is 65% still your objective for the medium term for cost income? My second question is on
+M&A opportunities. You had that colorful slide, Slide 17, which showed your diversification across the
+alternative platform. Just wondering where within that pie chart you think you would like to grow further
+in, given that you already -- it feels like you're diversified already, but where do you think the greatest
+growth opportunity is? And maybe around that, talk a little bit about valuation in terms of where you're
+seeing in terms of M&A opportunities out there. And lastly, on just recent market sentiment. Obviously,
+markets have been a little bit more challenging year-to-date. Just wondering what, in terms of your
+conversations with Institutional retail clients, if there's anything -- any big change in market feeling?
+
+Peter Harrison
+Group CEO & Executive Director
+
+Thank you. We are retaining a target of 65%. I think it's -- we are working really hard on simplification
+of the business, and that's what a lot of this technology spend is going on. Whether or not we'll end up
+cutting that target as we really get down into it, I'm conscious that markets are at good levels at the
+moment, and there's an element of fixed cost in our business, but we don't let cost rise to 65% to hit
+the target. That's certainly the case. But we are very, very focused on -- this is a competitive market.
+Passive's growing. Ensuring that we fix the roof and making sure our costs are low is an important part of
+the strategy.
+
+Richard John Keers
+CFO & Executive Director
+
+So if I could add, if we're sitting here in 10 years' time and we've seen significant growth in the business
+and we're delivering 35% profit margin, I think the shareholders have done very well. So in the short
+term, yes, I would hope we're going to beat that. But in the longer term, if we're growing the business and
+we deliver 35% profit margins, I think we'll all be very satisfied.
+
+Peter Harrison
+Group CEO & Executive Director
+
+Yes. This is a really important point. Rich and I spend our time saying to you that this is a revenue
+business. If you've got a 35% operating margin, GBP 1 of revenue is a valuable thing. And I get slightly
+frustrated by a commentary which is all about cost when, actually, if we can grow revenues and grow
+longevity, we're in a really good position. And that's about partnerships and good client proposition. Your
+second question about acquisitions, you're absolutely right. And valuations are high, and that's a real
+impediment to -- I think we've got to look at the intrinsic value of businesses, and the fact that money is
+cheap and prices are high is a deterrent to doing the wrong thing. And we're certainly, I would say again,
+we are not looking to do transformational transactions. You can see the way we've rifle-shot individual
+product opportunities or region opportunities is much, much interesting and much lower risk, much more
+culturally accretive and doesn't give any tail risks. So to my mind, that strategy is very much in place.
+You -- the second part of your question was where. The private asset space is vast, and that's one of the
+attractions of it. For me, we will look across that space. The 2 areas that stand out of easy opportunity
+for us are incrementally adding to our real estate business. I think that makes good sense. And private
+debt, which is a huge space where, I think, there's more to do. But that's not to preclude that we won't
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+SCHRODERS PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+do things in other areas. But they're the 2 areas. But I would put the [ rider ] on valuations strongly.
+And finally, on market sentiment, I think it's a very good point. We had a ridiculous period of very low
+volatility last year. I mean, no more than 3% move in any 1 month and every month one of increase. And
+that now has been -- has changed. But I think that what's been remarkable has been the resilience of
+the marketplace. And I think it's settled down very quickly. I think it's fair to say we would expect to see
+more volatility in markets in 2018 than we saw in '17. That's not a particularly brave assumption, because
+how does it get much lower. But what we haven't seen is an underlying tone and tenor change. I mean,
+I think there is still a sense that the economies are in good shape. Markets are functioning well, and that
+underlying confidence hasn't been dented. Are there any more questions?
+
+Charles John Douglas Bendit
+Joh. Berenberg, Gossler & Co. KG, Research Division
+
+It's Charles Bendit from Berenberg. A couple of questions. Just in light of your comments on markets,
+what portion of your fixed income held by Institutional clients is, by nature, needs to be invested via
+insurance clients or pension clients? And what portion do you think is susceptible to some higher aversion
+towards the asset class? And second question, Lloyds Banking Group is maturing a sizable Scottish
+Widows mandate. Is that a tender process that you're looking at, or is that a capability you don't currently
+have?
+
+Peter Harrison
+Group CEO & Executive Director
+
+On the first, I mean, you're absolutely right, the fixed income market is very polarized between 2 groups
+of investors. One is those who need to hold the asset class, and they're matching their liabilities, and it's
+particularly true in the insurance space; and those who are opportunistically looking to invest in fixed
+income. We were fortunate in building our fixed income business over the last 5 years, and we built it in
+the knowledge that rates were very low. So we have got very little exposure to products which are not
+more total return orientated or opportunistic. With the exception of a credit franchise, which would be
+damaged by rising rates insofar as, if spreads were to widen out and underlying rates would increase, then
+the appetite for credit would decline. That's an area where we've got very strong performance and have
+delivered very well. So I think we watch it, but I think the reality is too precious there. One is underlying
+rates going up, and the other one is this huge thirst for income, which doesn't go away. And so if you were
+to see a bit of a backup in rates, the income buyers would come back in. So I'm not overly concerned
+there, and we don't have a large book of traditional sovereign mainstream index-like money, which is --
+I think that's a very difficult market in which to make money in. And on Standard Life, I'm afraid I'm not
+going to comment on individual client things. We participated in success with the Friends Life acquisition.
+But in terms of Standard Life, whether we do something or not, I'm not going to be drawn on, I'm afraid.
+
+Gurjit Singh Kambo
+JP Morgan Chase & Co, Research Division
+
+Gurjit Kambo, JPMorgan. Just 2 questions. Firstly, in terms of multi-asset, I think your flagship fund has
+done very well last year versus some of its peers. But I know your multi-asset offering is a lot more
+diversified than just one fund. So just get some thoughts on where demand is coming in, in multi-asset.
+And second, just in terms of your technology spend, how should we think about technology spend to sort
+of be ahead of the pack in terms of revenue opportunities versus sort of cost rationalization or efficiency?
+
+Peter Harrison
+Group CEO & Executive Director
+
+So yes. Multi-asset, you're right, it's a very broad church. So it's got things like income products in there,
+some multi-asset income products which will remain good; risk mitigation products, which, again, were
+particularly strong last year; and DGF growth, biased DGF funds, diversified growth funds. And all of those
+areas are performing well. We've increased the range of products in terms of variability of risks, so from
+lower risk to higher risk rather than just mid-risk, which is some of the areas of product development.
+But I think what we've seen is across the piece, those areas have been important. The area which I think
+for long term, where we can really differentiate is around the solutions space. And what was pleasing to
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+SCHRODERS PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+me this time was a [ reasonable ] portion of new business coming in and bespoke solutions for clients,
+where they come to us with their problem and we answer it. And that's particularly -- some of the really
+big regions of the world go through derisking. They're looking at it saying, "How we can find something
+which is bespoke to us?" And I think in a world of mass personalization, that trend will get ever larger. And
+so with the big investment we're making in solutions is in advance of that business continuing to grow.
+Technology spend is a -- you're absolutely right. There's a cost and efficiency point, and there's a revenue
+piece. There's also a third one, which is the alpha. And I think we've spent a lot on trying to ensure that
+our portfolio managers get good information in front of them in order to make better decisions. So a big
+investment in their desktop applications, in our data insights team and building the ability to handle very
+large data sets on the cloud with new coding languages, et cetera, is one part of investment. The other
+is around sort of moving data centers, becoming more secure, but also around creating simplicity. And
+a big chunk was a move to going agile, which enables you to have many, many more smaller projects
+and incrementally improving. The big windfall on costs will come, as Richard alluded to, once we've
+implemented a single accounting book of record and a new front office system. I think we're targeting
+taking down 170 applications, which is really big simplification of our estate. And I think what we're
+looking to do is to maintain high spend to really drive home this sort of extra opportunity that we've got
+in terms of being on the front foot. So most of it is being aimed at costs and simplification. And certainly,
+something like robotics is all aimed at cost. But we're increasingly -- AI helping us on trading algos, et
+cetera, on decision support will become -- that will move more into revenue space. And then there's some
+bits of technology which aren't really technology, but rebranding, getting websites more automated so that
+they're much more responsive to consumer engagement. There's a technology component to that, pretty
+small, but that does drive revenue.
+
+Should we go -- no? If there are no questions online, which I'm being told there aren't. Any more for
+anyone? Well, thank you. Thank you for making the effort to come in through the snow, and thank you for
+your attention.
+We'll also be holding a Capital Markets Day probably in early October, similar to the one we held last year.
+We'll circulate the date shortly.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+SCHRODERS PLC FY 2017 EARNINGS CALL |  MAR 01, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+

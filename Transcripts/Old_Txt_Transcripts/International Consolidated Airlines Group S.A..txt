@@ -1,0 +1,1561 @@
+International Consolidated Airlines Group, S.A. 
+LSE:IAG
+FY 2017 Earnings Call Transcripts
+Friday, February 23, 2018 9:00 AM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2017-
+
+-FQ1 2018-
+
+-FY 2017-
+
+-FY 2018-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+SURPRISE
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1.04
+
+1.03
+
+(0.96 %)
+
+1.10
+
+5686.50
+
+5467.00
+
+(3.86 %)
+
+5252.00
+
+(2.39 %)
+
+22977.15
+
+22972.00
+
+(0.02 %)
+
+23867.64
+
+EPS 
+Normalized 
+
+Revenue  
+(mm)
+
+Currency: EUR
+Consensus as of  Feb-23-2018 8:00 AM GMT
+
+FY 2017
+
+CONSENSUS
+
+1.04
+
+ACTUAL
+
+1.03
+
+SURPRISE
+
+(0.96 %)
+
+- EPS NORMALIZED  -
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+13
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+Call Participants
+
+EXECUTIVES
+
+Alejandro Cruz de Llano
+Chairman & CEO
+
+Andrew Light
+
+Antonio Vázquez Romero
+Chairman
+
+Enrique Dupuy de Lôme
+Chávarri
+Former CFO & Executive Director
+
+Daniel Röska
+
+James Edward Brazier Hollins
+Exane BNP Paribas, Research
+Division
+
+Jarrod Castle
+UBS Investment Bank, Research
+Division
+
+Mark A. Simpson
+Goodbody Stockbrokers, Research
+Division
+
+Neil Glynn
+Crédit Suisse AG, Research Division
+
+Penelope Jane Butcher
+Morgan Stanley, Research Division
+
+Unknown Analyst
+
+Javier Sanchez-Prieto
+Vueling Chairman & CEO
+
+Luis Gallego Martín
+Chairman & CEO of Iberia
+
+Lynne Embleton
+MD of Gatwick, Director of
+Strategy & Director
+
+Stephen Kavanagh
+Former Chief Executive Officer of
+Aer Lingus
+
+Unknown Executive
+
+William Matthew Walsh
+CEO & Executive Director
+
+ANALYSTS
+
+Alex Paterson
+Investec Bank plc, Research
+Division
+
+Andrew Lobbenberg
+HSBC, Research Division
+
+Damian Brewer
+RBC Capital Markets, LLC,
+Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+Presentation
+
+Antonio Vázquez Romero
+Chairman
+
+All right, good morning, everybody. Welcome to the result -- full year results presentation of IAG 2017.
+
+I'm glad my colleagues here, Marc Bolland and Jim Lawrence, board member, are joining us here today. So
+thank you for coming.
+
+We have seen an improved economic environment in IAG's core market along 2017 despite terrorist men
+and political issues in less extent and less [ dramatic ] than last year. It seems to be the people continue,
+will continue traveling. The ongoing Brexit situation, I will refer quickly, is, as I say it in the capital market
+day, we are confident that a comprehensive agreement, air transport agreement, between the EU and
+the U.K. will be reached. IAG complies with the relevant control regulations and ownership and control
+regulation, and we're confident that we will continue to do so even when the new regulations are coming
+into place in the U.K. on a post-Brexit scenario. The board and the management has been giving a lot
+of thought to the Brexit implications. We have done a lot of work. And we are in regular contact with all
+regulators and with the government. Willie will further elaborate on that.
+
+As far the shareholders' return is concerned, as a result of the 3 quarter in 2017 was -- were presented,
+we did announce an interim dividend of EUR 0.125 per share. And I am pleased to announce that the
+board was recommended, is going to recommend a final dividend of EUR 0.145 per share. Altogether,
+these make a total dividend of EUR 0.27 per share, which means 15% higher than the one of last
+year's and is pretty much in line with the growth of the underlying [ EBIT ]. This demonstrate the board
+confidence in IAG's financial strength, strategy and the outlook.
+
+I'm also pleased to announce that the Board of Director yesterday approved another EUR 500 million
+share buyback program 2018, which is same amount than last year. In total, IAG returns in cash to
+shareholder last year has been EUR 1 billion. And we do expect a similar amount or more in 2018.
+
+I hand over right now to Willie -- or to Enrique for the management presentation.
+
+Enrique Dupuy de Lôme Chávarri
+Former CFO & Executive Director
+
+Okay, so we are going to be jumping on the financial results. Good morning, everybody.
+
+As it was already said and we'll repeat again, we are presenting a strong set of results, including an
+operating profit figure of EUR 3,015,000,000 for this year '17, which is EUR 480 million on top of last
+year's figure. And this represents an improvement of 19% in terms of percentage against year '16. And
+we have been basically achieving this improvement through a stronger set of revenues through the
+group. And revenues figures, especially in the unit revenue terms, have been improving since the first
+quarter. We were at the beginning of last year doubtful about the moment where we were going to be
+getting to breakeven in terms of unit revenues. Since year '13, we have been suffering of a long period
+of unit revenue reductions. We thought that it was going to be coming through the summer season. It
+was before. It was Q2. And it has been improving consistently through the 3 quarters of the year, Q2,
+Q3 and Q4. And you will see our Q4 figures in terms of unit revenues have been strong, very strong
+[indiscernible].
+
+So it's also showed through a combination of capacity growth and passenger revenue growth. So capacity
+growth has been improving by 2.6%. RPKs figures have been growing by 3.8%. And that has been
+reflected in improved load factors [ through ] the different companies and improving and through the
+progress of the year.
+
+In terms of ex fuel unit costs, we have increased our figures, nonfuel unit costs in constant currency
+terms, by 2.7%, out of which 0.6% has to do with increases in third-party businesses and revenues that
+are not strictly related to ASK. So the type of a -- like-for-like, apples-to-apples figure against last year,
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+it's 2.1%. And this 2.1% has been very much related to some one-off and some type of consequences
+of our success. And I'll be going through those type of negative impacts later on in this presentation, but
+they are very much related, and I advance these concepts to you, with a significant swing in variable
+awards and bonuses for employees that are strictly related to the success in the performance of the
+business through this year. We have had also some one-offs, unfortunately, through the year having to do
+with the, I would say, June power off disruption in British Airways. We are also providing for some type of
+legal litigations and settlements that we are basically confirming through Q4, but I think a very significant
+message is the underlying trends in unit -- in nonfuel unit costs keep on being appropriate, keep on being
+favorable. We will be resuming the negative growth in nonfuel unit cost through year '18. And basically,
+we're still very focused in being able to improve the efficiencies on our businesses in this respect.
+
+So talking more precisely on Q4. We've been reducing slightly the figure of operating profits for Q4 in
+respect of last year. There is a negative currency impact that explains significant part of the EUR 35
+million, I mean, difference. And you will see that on a like-for-like basis the difference between the 2 years
+is just EUR 7 million. And it's basically very much related to the, I would say, bonus effect that we will be
+commenting later on. In terms of the revenue performance, passenger unit revenues have been improving
+in the last quarter of the year by 2.4%. It has been, as you will see, a very across-the-board improvement
+in terms of our companies and in terms of our different strategic markets. And this is not only related to
+premium traffics. It's also been affecting our leisure traffics as well. In terms of ex fuel unit costs, again
+the concentration on the bonus adjustments through Q4 is the one explaining that high figure that you are
+seeing and that we will be going through later on.
+
+As I was explaining to you, Q4 operating profit has been reduced by EUR 35 million in respect of '16
+figures. You make the currency adjustment of EUR 28 million. The net like-for-like and constant currency
+reduction is just EUR 7 million.
+
+So in terms of performance, passenger revenue has been improving. And it has been improving not only
+in terms of the capacity growth, so you see the ASK improvement, but also in terms of the price mix.
+So that's the [ unit ] piece of the improvement. Also about passenger revenues, we have had a strong
+performance of cargo revenues specifically, and that's something that is flowing into year 2018 as well. It
+was the case in Q3. It has been even slightly better in Q4, and we expect to have a positive contribution
+improvement from cargo again through '18.
+
+In terms of our cost base, we've had, I would say, the impact of increased capacity in fuel but also for
+the first time since '13 probably as well a slight negative contribution having to do with pricing with
+higher fuel prices, again, I would say, a small figure for Q4. And we're -- we'll be seeing smaller impacts
+through Q1 and Q2. I'll explain that afterwards. So ex fuel costs, of course the capacity drag and then
+very significantly the bonus impact that I'll explain briefly to you. So last year, '16, on top of post-Brexit
+environment last quarter of the year, most of the companies of the group realized they were not going to
+be able to achieve their targets. And then the winding of the accruals that were made through the rest of
+the quarters of the year, which reduced the base of Q4 '16 -- it's easy to explain. The base of Q4 '16 was
+[ that is reduced by ].
+
+This year, the performance has been absolutely diametrically different, and it has been positive. So after
+Q3, it appeared very evident the companies and the group were going to be achieving their targets, even
+the Net Promoter Score target. So there has been a rebuilding of accruals in Q4. And the swing between
+the 2 years then, it's very remarkable. It's very material. It's in the range of EUR 90 million. So that is
+basically the one explaining this negative performance in the fourth quarter in terms of employee costs.
+Again bringing to you a little bit of comfort, the one that we have, the costs and pre-cost performance for
+the combined 2 years, so just smoothening the bonus impact, has been a net negative. So employee costs
+through '16 and '17 have been reduced in [ unit terms ]. And that's a very important [ sign ].
+
+[ Other supplier ] cost increases, that we will be explaining with the [ indiscernible ] further on. And the
+ownership costs improving basically because of the combination of reduced depreciation and amortization
+cost and increased rental payments have been favorable this year -- this quarter.
+
+Again on the revenue side, here is where I wanted to bring. This is a broader picture on how different
+the market segments and the strategic markets have been performing through Q4 very positively. So
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+we'll get some more details afterwards, but it's good to envisage how both the premium, very strong
+premium traffic, but also the nonpremium and the long haul have been helping us in this in revenue
+increase. In the short haul, again strong performance for British Airways and Iberia. And as you would
+be expecting because Q4 is then, I would say, a weak season, a weak quarter for the more seasonable-
+pattern companies in the group, as -- Vueling and Aer Lingus is where there has been some type of
+minor reductions in unit revenues. But we are envisaging Q1 in again a positive way, and we are getting
+evidence of these unit revenue improvements been flowing into Q1 and Q2 of this year '18.
+
+A little bit more of detail, a little bit more of flavor. This is a chart where we show our performance in
+terms of capacity and in terms of unit revenue in constant currencies. So what to notice is that the
+improvements that we are seeing are across-the-board, are in all of the geographies. Even the negatives
+that we have seen here in domestic has very much to do with capacity increase and stage length increase.
+So this has very much to do with growth both from Iberia and Vueling from the peninsula, into the Canary
+Islands, a very long-stage-length leg, which naturally and mathematically reduces unit revenues.
+
+But having said that, North America had a significant 2.8% increase. And just to give you a little bit
+more of flavor: The performance of British Airways has been above 5%, very much aligned with the
+performance that you may have heard from the U.S. carriers, above its 5%. Of course, this is averaged
+down by LEVEL or even by Iberia, but even Aer Lingus has had a flattish performance in North Atlantic
+with a capacity increase of double-digit figures. So it shows North Atlantic is working very favorable for
+the group in terms of revenues but also in terms of contribution as well [indiscernible]. Latin America has
+been the star in this quarter. And it has been the star because of, even with a very significant capacity
+growth, has been showing a very impressive unit revenue performance. And that's both for British Airways
+and Iberia, both networks. And it's very much related on continental flights. It's not Caribbean. Caribbean
+went okay, but the south continental flights are the ones that are improving more significantly. And we
+are talking again on Argentina. We are talking on Brazil. We are talking on Mexico. We are [ talking on
+Colombia ], even Chile. So the new Chile and Santiago de Chile route for British Airways has been great,
+[ yes ].
+
+And then the rest of, I would say, regional areas. Asia Pacific, also a very significant 3.7% increase in unit
+revenues, benefiting from the discontinuation of the Chengdu route last year; and improvements that we
+have seen, for example, for Iberia in Tokyo. Africa and Middle East, again I would say 2.3% unit revenue
+improvements on a growth of [ 4.6 ].
+
+So the picture is good not only because of specific regions being strong but also across-the-board pattern.
+
+And this is a little bit more of flavor again on the costs side, and this is having to do basically with the
+fourth quarter. And this is where you see the specific bonus swing affecting mostly to British Airways and
+Vueling; and being responsible for, I guess, most or very significant part of this plus 3.2% increase that
+we are seeing in the quarter. Again a little bit more of flavor on selling and IT: Selling has to do, of course,
+with specific cost decisions that are having already and that they will have in the future benefits in terms
+of revenue. And I'm talking about the new distribution model. I'm talking about marketing campaigns in
+the case of Iberia on their 90th anniversary. I'm talking about the decoupling about passenger figures in
+terms of growth and ASK figures. So our growth in terms of passengers and selling costs are passenger
+driven. It's significantly higher than the growth in terms of ASK, so that's basically behind these increases
+in selling costs that are having a parallel increase already in revenues. The IT, other is very much focused
+on a couple of issues, one-off issues. They have to do with litigations, settlements and provisions. It's
+basically having to do with [ an issue with ] executive-class litigation on fuel surcharges on one side. It's
+having to do also with a VAT litigation with Spanish authorities on international flights. So that's something
+that we have been preparing to be conservative about and we are covering our risks, but that's something
+that's very much related to the quarter, to one-offs. And that's basically explaining more than 2/3 of the
+increase in IT and other costs.
+
+So again the message today is that what we are seeing is the underlying nonfuel unit costs that we
+want to keep coming lower on a year-to-year basis and that we have done so. Remember that, from the
+beginning, from the launching of our project, of our IAG project, we have been able to reduce nonfuel
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+costs in 7 years by [ 10% ]. So we are happy and convinced that we will be able to resume [ a pattern of
+reduction ].
+
+And here is about fuel costs, unit fuel costs. And we are being again here conservative. We are taking
+today -- or last week market fuel prices. We are taking this reference of $650 per metric ton and a $1.22
+per euro type of rate. And here is how it shows on our usual model, the usual chart. Basically, in euro
+terms there's going to be a very light reduction in quarter 1, also minor in quarter 2. Then it's going to
+be more in the range of 8% to 9% in Q3 and Q4 if prices, fuel prices, remain at the levels that they are
+today. Just a very quick "back of the envelope" calculation: So there's going to be on these terms a fuel
+bill increase in the range of EUR 400 million, EUR 450 million per year, out of which more than half is
+having to do with capacity increase, so the price-related costing is going to be less than 1% of revenue,
+around 0.7% of revenue. So again, we are worried about fuel prices. We are, I would say, focusing on
+our hedging instruments, especially focusing on the way we can obtain additional revenues, and we are
+convinced we will. The impact for the year is comparable to 0.7% in terms of unit [indiscernible].
+
+So here we have our ROIC performance last fourth quarter for the different airlines on the group. So
+16.0%, so this is record figure. It's record figure for the group. The figures that you are going to be seeing
+in the next couple of slides are record figures for each of the companies in the group. Very importantly,
+this 16% was 13.6% last year, so a very significant improvement.
+
+Aer Lingus staying at 23% ROIC, which is a very impressive level but through a double-digit capacity
+improvement which is again even more challenging. British Airways is 16%, again last year 13.5% or so;
+very impressive figures as well. And worth to mention the improvement of Vueling. You will see in terms of
+operating profit figures they've been reaching 13.4% after a single-digit figure last year. And again, this is
+the consequence of a very efficient turnaround that the team in Vueling has been able to implement. So I
+would say, very confident and very satisfied of this achievement.
+
+As you see here, operating results for Vueling -- or sorry, Aer Lingus, EUR 270 million, EUR 269 million, so
+EUR 36 million better than last year; in terms of lease-adjusted margin, 15.7%, so 1.4 percentage points
+better than last year. British Airways, again record figures in terms of operating profit, GBP 1,754 million,
+GBP 281 million, in sterlings, these figures are sterlings, better than last year; 14.9% lease-adjusted
+operating margin.
+
+Iberia have come back strongly with an improvement in terms of operating results of EUR 105 million. So
+it's about 1/3 of improvement or 30%. Again, improvement in lease-adjusted margin 1.7, very significant.
+Maybe the star in terms of improvement, again, is Vueling this year, EUR 60 million, to 182 -- EUR 188
+million, sorry; and operating margin, adjusted to lease, of 12.7%, improvement of 6%.
+
+So really the performance of the group has been very important, very significant work [indiscernible].
+
+Below the line. Below the line, we are disclosing an improvement of 14% in underlying EPS. So that's
+totally dilutive and pre-exceptional and which we'll be translating into a growth on dividend per share
+of 16%. So basically worth to mention the reduction in net finance income and expense. So the
+real underlying financial -- net financial costs have been reduced and very significantly because, as
+you will see, the size of our in-balance-sheet debt, both gross and net, have been improving very
+significantly. Some swings against last year on these other concepts, which is basically aggregating a very
+heterogeneous basket of things. Relevant there then, I would say, gains and losses on disposals. So last
+year, we had a capital gain, a remarkable capital gain, on British Airways on the disposal of our A319 fleet.
+And this year, we had some minor losses, so significant swing there. Significant swing also on the, I would
+say, valuation of ineffective hedges. That's going to be changing now through our new IFRS regulation. We
+are going to probably reduce very significantly the volatility that we will be recognizing below, I would say,
+the operating profit because of this concept. And this has to do with time value recognition that's going
+to be treated in different ways. So hopefully, we will be able to reduce up to some [ stages ] this volatility
+below the operating profit line. There will be some less -- some remaining ones having to do, for example,
+with pension accounting which as you know [ below the line ].
+
+Taxes. Effective tax rate of around 19% this year, very much in line with last year. So profit after-tax of
+EUR 2.243 billion; and an improvement in fully diluted earnings per share, as I was mentioning, of 14%.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+A little bit of our summarized financial structure. As I was mentioning, gross debt has been reduced not
+only because of the gradual repayment of our financial leases but also because of a repayment of some of
+our funding in British Airways and the group that happened through 2016. So on balance sheet, net debt
+is now EUR 655 million, again showing a very strong balance sheet. Of course, we always adjust it through
+our -- what we call the notional level of our operating lease liabilities. These figures will be changing
+through the adoption of IFRS 16. As you know, the new accounting standard then will be recognizing in
+balance sheet those operating lease obligations as then, I would say, the value, the net present value,
+of the committed rentals payments through time. And we hope the final figures that we will be bringing
+into our balance sheet are not going to be very different to the ones that we are showing here on a more
+simplified basis.
+
+So adjusted net debt-to-EBITDAR and improving again this year. And this is, of course, before what we
+intend to do in terms of this new share buyback, EUR 500 million, that we've announced the intention of
+the company, the group to execute [ through FY '19 ].
+
+So cash flow. Again, on the top of the chart, we are showing how we have been retributing, how we have
+been giving back cash to shareholders both upon the results of '16 and then upon the results of '17,
+what we intend to do. So on the results of '16, the board and then the shareholder assembly decided to
+distribute EUR 495 million, and then the share buyback of EUR 500 million. This year, we are proposing
+a final dividend of EUR 0.145 per share, subject of course to the approval of the general shareholder
+assembly; and a share buyback program of EUR 500 million. We'll be then above EUR 1 billion of cash
+being returned to our shareholders. And that, we can do so because we will be generating, we have been
+generating significant amounts of cash.
+
+So in terms of operating profits, you see the EUR 500 million improvement. In terms of EBITDAR, it's
+about EUR 400 million improvement; and then in terms of equity free cash flow, again something in range
+of a EUR 400 million improvement, leading us to an equity free cash flow generation of EUR 2.7 billion
+per year, which is as you'll remember probably above the average of the plan. The average of the plan
+is EUR 2.5 billion. As you know, the year-by-year figure is heavily influenced by delivery dates on our
+fleet renewal program. So we are going to have ups and downs. This year has been benign. Next year,
+we are going to have more -- this year, sorry, '18, we are going to have more fleet deliveries, so that will
+represent probably a lower figure. But again, I would say, very comfortable in terms of coverage of our
+future share and -- buyback and share dividend [ commitment ].
+
+And then this is again good news. We are not going to be very explicit about figures, but as a whole,
+it's a very positive message. As you know, because we've been public about it, British Airways team
+has been engaged since the beginning of last year working on a new pension fund scheme that could
+represent a reduction in the exposure and the vulnerability, financial vulnerability, of their balance sheet
+and their accounts. So this means basically closing for [ our ] future accruals the famous NAPS scheme;
+and integrating the BARP scheme, which is a -- it is already a defined contribution model. So both of
+them should be embedded in a new one that the team has been working and defining and discussing with
+employees and unions. So there has been a very, very intense work being done to convince unions, to
+convince employees to transmit information, to put the systems ready in the company, to engage the
+employees into the new system.
+
+And the latest news on this area are positive because the ballots that both -- on a consulting, a
+consultative basis that both BALPA and united (sic) [ Unite ] have been performing have been resulting
+in positive votes from employees on their engagement with the new schemes. And there is still a formal
+-- it's not only formal. It's a real, I would say, final step that has to be undertaking by the pension fund
+trustees to approve their migration into the new model and the actual closing for accruals of NAPS. And
+we are expecting to get that one by the end of March. So that means that, since the beginning of April,
+cross fingers, hopefully, we'll be able to open a new defined benefit -- defined contribution, sorry, scheme
+for all the employees both engaged in NAPS and BARP. And that will have positive implications in terms of
+exposure, in terms of vulnerability into the future and that we have a reflection in both balance sheet and
+profit and loss account. It's very early to talk about numbers. We are not going to be talking today about
+figures because the transition into the new model will be one that will have choices for employees, choices
+about how much they would be receiving as a lump-sum cash payment; of how much they would want
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+to be, I would say, included into increased contributions into their future plans. So that's something that
+probably we will be getting more information through March and we'll be ready to explain and transmit
+and share with you once it's [ final ].
+
+So giving back...
+
+William Matthew Walsh
+CEO & Executive Director
+
+Thank you, Enrique.
+
+I get to steal Enrique's normal slides and the outlook page.
+
+So [ comparatives ] comments. I think 2017 was a very good year, and we're building on that for 2018.
+And we believe that -- at current fuel prices and exchange rates we expect our operating profit in 2018 to
+show an increase year-on-year significantly, we believe, for our passenger unit revenue and ex fuel unit
+costs are expected to improve at constant currency. And so 2017 was a good year. We said on the front of
+our annual report and accounts that the best is yet to come. I'm saying that again today because there is
+more to come in 2018 and beyond.
+
+If we look at capacity increases for the year, the headline figure of 6.7%, you can see that that's a
+contribution evenly split across the operating companies. I'd like to point out again we are not a legacy
+carrier. British Airways is probably the most legacy of our carriers, and the growth at BA in 2018 will
+be about 3%. 0.6% of that 3% comes through the acquisition of the addition of [ bulk ] at Gatwick
+from Monarch. The Iberia contribution of 7.5%, some of that is fourth quarter loaded. And it is a base
+effect here because Iberia had 2 aircraft grounded in Q4 of last year for retrofit, putting in the new
+[ products ] in the premium economy in the aircraft. We got 1 aircraft down this year. And LEVEL obviously
+will continue its growth. And I'm going to talk about LEVEL later on, but we have already announced 3
+additional aircraft for LEVEL in 2018, 1 of those aircraft in Barcelona and 2 in Paris Orly.
+
+Now I think the distribution of that capacity growth is important. And this is a regular slide that we show
+you. And you can see there that we have a number of new routes that we've already announced, with
+Aer Lingus continuing its strong growth on the North Atlantic, which has been extremely positive, yes, for
+Aer Lingus. And we are very confident that, that can continue. In fact, there's quite a lot of opportunities
+in the future for Aer Lingus. We've talked previously about the A321neo LR, which they will take into the
+fleet in 2019. And clearly, we'll talk more about that at Capital Markets Day later on this year. Some new
+routes for British Airways, one for Iberia. I'd really focus on the like-for-like changes because what you
+can see there is that a lot of this comes from frequency, particularly at Vueling. And this is absolutely
+consistent with the strategy that we highlighted to you as we went through 2016, that Vueling was going
+to focus very much on the quality of their network. We believe we spread ourselves too thin during 2015
+and 2016 as we went through growth there. I think that the team have done an outstanding performance
+[indiscernible] 2017, evidenced by not just the operating profit but also the punctuality and customer
+satisfaction scores. There's been a huge turnaround for Vueling, and I think it's great testament to the
+group.
+
+So what they've been doing has delivered very strongly in 2017, and we're building on that in 2018 with a
+clear focus on the quality of the network that we have; having regular, frequent flights in key destinations,
+principally from Barcelona; but also building on our hubs at Rome and Paris. So we believe this is very
+sensible. We have focused on growth where that growth is accretive. That's an important point. 6.7%
+headline ASK growth, but with unit revenues improving year-on-year.
+
+So how are we doing all of this? I've said before I think we are unique. And we're not legacy. We have
+the advantages of legacy. We have the knowledge of legacy, but we're new in our thinking. We're flexible.
+We're innovative. Our structure is unique. And I'll point to some of these issues in a second, but what we
+get is a financial performance that in 2017 exceeded our targets. And Enrique mentioned that return on
+invested capital of 16%, above our 15% target; lease-adjusted margin 14.4% and the range 12% to 15%
+that we've highlighted investing in accretive organic growth. We're always open to the opportunity for
+inorganic. I think what we've done to date has been very successful. The acquisition of bmi and the folding
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+of that operation into BA at Heathrow, the acquisition of Vueling, very successful acquisition of Aer Lingus,
+the recent acquisition of slots at Gatwick, all of these are very positive for us.
+
+So that performance leads to our equity free cash flow of almost EUR 2.7 billion, as you've heard Enrique
+say, above our target through the plan of EUR 2.5 billion and generating cash for our shareholders;
+EPS growth of 14%. That sustains our regular dividends, clearly. And as the Chairman mentioned in his
+opening comments, we announced our intention to complete a EUR 500 million share buyback in 2018,
+similar to the 2017 share buyback.
+
+The figures are clear. We have a focus on generating cash and using that cash to invest in the business
+where it's accretive to our growth. We will sustain the regular dividend. And further is surplus cash. We
+will return that surplus cash to our shareholders. We're not going to use this. It is absolutely consistent
+with what we've been saying. If we're not going to use it, and that cash will get returns. The only question
+we've had in the past is how we return that. And clearly, we believe that share buyback is the right thing
+to do. We successfully completed the share buyback in 2017, 3.5% of shares outstanding. That was well
+executed. And in 2018, as I mentioned, we intend to repeat that with a EUR 500 million share buyback.
+
+Now our strong platform also is built on a clear focus on cost efficiency. And since we created IAG in 2011
+-- and you can see the chart here. Reference base is 2010. In constant currency terms, you've seen our
+ex fuel unit costs decline by 10.3%. And there is more to come. There will be some hills in this. It's not
+a roller coaster. There are times when we have to address some cost issues and invest, but we have a
+clearer path through the next 5 years of our plan that will see us reduce our unit costs further. And we'll
+do this through further synergies from the growth platform which has been very successful and improving:
+the Iberia Plan de Futuro II, which is in [ train ]. Vueling has an ongoing focus on their cost efficiency.
+And Aer Lingus will continue doing what they've done and doing it extremely well. So we are focused on
+cost reduction. I think that's been very effective. We will continue to do that. And we're very confident
+that, for the period of this plan, we will see a further reduction in our unit costs. And this is well in excess
+of anything that our competitors have done. We will continue to move at a pace that is better than our
+competitors'.
+
+LEVEL has been fantastic for us, and I think it demonstrates the flexibility of that unique model that I've
+talked about. What we get through IAG is a focus on capital discipline that doesn't exist in other groups
+because we don't favor one airline. We favor the efficient airlines. And we have great competition for our
+capital. That clearly creates a much more efficient group, but in LEVEL we see a strategic opportunity.
+You've heard me talk about this segment [ of the market ] at length. We think it is a segment of the
+market that can be exploited successfully by IAG. We are encouraged by what we've seen so far, very
+encouraged indeed. We launched LEVEL out of Barcelona on the 1st of June. It was a board decision
+in February announced on the 17th of March, launched on the 1st of June; shows the flexibility, the
+innovation that we have in IAG, our ability to move quickly and adapt to new opportunities. We launched
+the year ahead of plan because we saw the opportunity at Barcelona. We're building on that with the
+addition of another aircraft. We're changing the network. We operate at Barcelona to Punta Cana. We
+learned a lot from that. Punta Cana is principally a market that is important to tour operators. So rather
+than Punta Cana, we're going to switch to Boston. And out at Paris, we've launched LEVEL, which will, I
+mean, see us using the OpenSkies platform. So that will be transformed into LEVEL. And we've announced
+the first 4 groups with 2 aircraft based at Paris to Montréal-New York, Guadeloupe-Martinique. Our plan
+in the short term sees us getting to about 15 aircraft but with the opportunity to build on that. We're
+using the A330-200, which is a very efficient platform for us, 293 seats, 21 premium economy seats, very
+efficient structure. Unit cost performance of LEVEL has been better than our expectations. The 5 aircraft,
+the 3 additional aircraft will also be Airbus A330-200s, but we do have opportunities to switch to the 787.
+And we are in discussions with both Boeing and Airbus about the future aircraft for LEVEL.
+
+This is the unique structure that we have because we can use multiple AOCs to provide the lift for LEVEL.
+We have 787s in the group already, so we have the experience of operating with these aircraft. And
+we have the flexibility to use them. So LEVEL, as I said, has exceeded our expectations in terms [ of
+performance ]. And we believe there's a lot of opportunities for us. It gives us significant advantages over
+our competitors, shows the flexibility of IAG. It proves the plug-and-play platform that we have, that we
+can get this airborne, get it working very quickly and get it working very efficiently.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+Now a lot of talk about Heathrow. And we're very clear that we would support the expansion of Heathrow.
+We think there is a strong economic case to be made for Heathrow but only if the [ cost is right ]. We're
+very much focused on the national policy statement. And we want to see a hard measures included in that
+because that will hold Heathrow to some of the promises that they've made. They've made lots of nice
+promises. If you were a naive, foolish person, you would believe them. We're neither naive nor foolish.
+We don't believe them. We won't see this guaranteed. We think there is an opportunity at Heathrow. We
+think the airport can be expanded without any increase in passenger charges. We've shown Heathrow
+how we would do it. If we were responsible for the expansion, and we believe it is possible for them. They
+don't have the incentive to do this in an efficient way because, as you know, the regulatory structure
+has rewarded their inefficiency. And that's unacceptable to us. It's been unacceptable. It continues to be
+unacceptable, but we're not going to tolerate it. And therefore, we will continue to argue very strongly our
+case that this should only proceed if there is a hard commitment to maintaining passenger charges. We
+see no reasons why customer charges should increase. We're not in any way impressed by language that,
+"We're trying to keep them close to the existing charges." That's not good enough, and we believe it can
+be expanded without any increase.
+
+The expansion would bring these slots to Heathrow from 480,000 to 740,000. The secretary of state has
+said he would like to see 15% of those new slots, about 39,000 slots earmarked for domestic growth.
+And I think that's an interesting concept he pointed out at the Transport Select Committee. The domestic
+network that Heathrow uses about 8% of the existing slots at Heathrow, around 39,000 thousand, 40,000
+that would, in fact, be a doubling of the slots used for the domestic flights at Heathrow. We believe that
+that's -- will only work if the airport charges deeply because we can't see any incentives for carriers to
+come in and operate domestic flights. And if the charges remain at their current levels, there'd be no
+possibility if charges were to increase. And that includes the existing domestic network that we have.
+
+And Heathrow have said they can do this for GBP 14 billion. We think that price is still excessive. So if
+it's efficient, we will work with them. The timetable, as you see, has been set out. And there's a lot of
+consultation. I take comfort from the fact that John Holland-Kaye is obsessed with the comments that
+I've made. To quote Oscar Wilde: He said that "Whenever people agree with me, I always think I must be
+wrong, but the fact that they're disagreeing with me means I'm right." And we will continue to argue the
+case very strongly. And I'm pleased that other airlines have sided with us in terms of what needs to be
+done at Heathrow.
+
+Now the Chairman has outlined all of the comments that I wanted to make in relation to Brexit. We are
+evaluating all of the changes that we believe can be considered to ensure that all of our airlines within
+the group [ continue to profit ]. It is interesting to say that a number of airlines who have responded to
+this issue have put in place a structure that we already have in place. And they say that, that ticks the
+box, that they're now able to provide assurance. We already have structures in place. And clearly, we're
+flexible in terms of adapting those structures [ effective ]. We do remain confident that a comprehensive
+air transport agreement will be agreed between the EU and the U.K. We're certainly very pleased with the
+[ discussions that ] the U.K. government [indiscernible] with others. Particularly, the U.S. feedback we've
+had obviously has been very, very positive. We have had extensive engagements with all of the relevant
+regulators. We will continue to do so, and those engagements will continue over the coming months.
+[indiscernible] been very good discussions with the regulators. We've got a good relationship with all of
+the relevant [ regulators ]. And we're confident that we will comply with U.K. ownership, controls that are
+regulations; and EU ownership and control regulations as they will be structured post Brexit.
+
+It's important to remind people IAG is a Spanish company. We have long-established airlines in a number
+of countries with substantive businesses, sensible places of business. So Aer Lingus is in Southern New
+Zealand and Ireland, principal places of business, while Iberia is in Spain. Vueling is in Spain. British
+Airways is in the U.K. LEVEL in Spain and France. We employ over 60,000, nearly 64,000 people right
+across those countries. We're operating 546 aircraft. As I mentioned, we have structures and have
+protections in our bylaws that have been in place since we created IAG in 2011.
+
+And we're going to continue to make progress. I think a lot of positive work done during the year. And
+the structure of IAG is one where we control the capital at the center and control of capital-controlled
+capacity because we'll only allow capacity where we see that capacity being sensible and accretive. That
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+provide our shareholder the assurances that our shareholders need and demand. And I think that others
+don't get that we're not going to pursue capacity growth that is ill disciplined. Capacity growth [ will be
+simply ] very, very sensible. Go back and look at that chart, building on the strength of our own network
+to be sure that we continue to have a leading position in our core markets, building on the strength of
+our network across the North Atlantic and across the South Atlantic, taking advantage of the economic
+upturn in some of the key economies that we serve, using LEVEL to exploit a completely new segment
+of the market. The fascinating thing about LEVEL with the expansion out of the Barcelona is we've not
+seen any cannibalization. It hasn't in any way impacted on the Iberia traffic out of Madrid. So growing the
+leadership position. We have strong brands that we have. We're doing a lot of work now at IAG at better
+understanding how we can exploit our brands, not controlling the brands from the center. That's still the
+responsibility of the operating companies but ensuring that we can use the brands in markets to their best
+effect. And that's something you will see more and more as we go through 2018, building on the success
+[ maybe ] as it is, becoming real plug-and-play. And I think the evidence of that, if anybody questions us,
+is how can you get an airline that you make a decision to launch in February but you announce them the
+17th of March and get them airborne on the 1st of June? That shows the flexibility and the strength of the
+platform that we have.
+
+So that unique structure gives us the confidence that we can continue to build, the confidence that we
+will continue to innovate to respond to any challenges and opportunity, to build on the brands that we
+have, to continue to reduce our ex fuel unit costs with structured programs in all of the airlines. We're
+pleased to have exceeded our financial targets in 2017, better returns than 2016 with more that we will do
+in 2018. Remind you what we've said, current fuel prices, third quarter, Enrique said about the fuel price
+and exchange rates, we expect our operating profit to increase in '18 over '17. Unit revenue and unit costs
+improving through the year.
+So a confident, strong position. I'm excited about the opportunities for 2018 and beyond. With that, I'm
+going to hand back to Andrew, who will manage the Q&A.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+Question and Answer
+
+Andrew Light
+
+Thanks very much, Willie and Enrique. We're now ready for questions. So David and I have mics. We're
+not using the big microphones.
+
+James Edward Brazier Hollins
+Exane BNP Paribas, Research Division
+
+It's James Hollins from Exane. Three, please. I was just wondering if you could give us some detail on Q1
+RASK. Are you seeing similar trends to Q4? Any numbers on that would be great. Secondly, on the ex-fuel
+CASK outlook for full year '18. I was wondering if you could say that would absolutely be down still if you
+took out the benefits of the potential pension change at BA. And the third one is, the wolves are at your
+door on promotion on more specifically Net Promoter Scores. I was wondering if some of the detail we're
+seeing in the media, maybe this is for Alex, would suggest that there's a bit of negativity around the BA
+brand. What are you seeing internally in terms of NPS, in terms of your own view of what the customers
+are saying, either for you or Alex?
+
+William Matthew Walsh
+CEO & Executive Director
+
+Let Enrique address the first 2 questions and then I'll jump in.
+
+Enrique Dupuy de Lôme Chávarri
+Former CFO & Executive Director
+
+Yes. So unit revenue, early signs that we're seeing for Q1 '18 are basically following the positive trend that
+we have been announcing. Again, we will have to evaluate Q1 with a -- say, with a grain of salt because it
+includes Easter, okay? And last year was different. So including Easter, we're really comfortable and we are
+encouraged by the early signs. And we're seeing -- and there are early signs on January and -- of course,
+March, Easter. It's growing and it has to grow. But even January and March, the signs that we're seeing,
+early signs are positive and following positive trend. The second one was?
+
+William Matthew Walsh
+CEO & Executive Director
+
+Unit costs.
+
+Enrique Dupuy de Lôme Chávarri
+Former CFO & Executive Director
+
+So -- yes, unit cost into '18, again, recovering, I would say, positive. So negative unit trends. Of course,
+we'll be able to disclose impact of new pension fund schemes [indiscernible] [ this year ] was later on.
+It's going to be positive. We're not going to be announcing today any figures. But apart from that, we are
+following, I would say, the plans that we've been engaging in for the last couple of years. For example, we
+are, as you know, considering some of our labor costs has been exceptional, both in British Airways and
+Iberia because they are basically attending these famous 2 projects. So in the case of British Airways, it's
+project Athens. And project Athens is going to have -- maybe Steve, you can give a little more flavor on
+that one.
+
+Unknown Executive
+
+And do you want to comment on the pension as well? I think it is important to say that we still have a
+deficit, which needs to be managed. So that the deficit doesn't disappear if the trustees [indiscernible] --
+the trustees, we've got to consult with the trustees, and we don't want to get ahead of ourselves here.
+That has to take place and reach agreements with the [indiscernible] do you want to comment?
+
+Unknown Executive
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+A few comments, really. I would still expect the nonfuel unit costs for BA to be down next year even
+without the pension benefit going through. So, that's the direct answer to the question, James. In terms of
+the second half of this year, we did slow down on some of the project Athens stuff because we did want to
+get through the consultative ballots, as you can imagine, you don't want to do too many things sequencing
+and phasing is important. So that's one of the reasons the restructuring program went into 2018. So
+there's still lot of work to do in 2018. So we've got a lot of plans -- we did a lot in 2017. We changed a lot
+in the engineering basis and we changed a lot in the terminals as well, but there's plenty more to do. So
+to reiterate what Enrique said earlier, is we're still very, very focused on nonfuel unit cost and there's still
+lot of plans to deliver it in 2018.
+
+William Matthew Walsh
+CEO & Executive Director
+
+In terms of NPS [ and I'll ask Allan -- Alex to comment, but my observation of it is that the performance
+in BA in the fourth quarter was very encouraging. We know that the NPS was impacted by the decision
+that were taken. I mean we knew there would be. Some of the measures we took which are designed for
+future proofing British Airways, we knew would have a short-term negative impact. We've seen it. We've
+made some of these changes in Aer Lingus. We knew what the impact would be. We made the changes in
+Iberia. We could see what the impact -- of the changes we've made in BA. We knew what was happening
+there. BA did face then some extraordinary issues, which impacted on the NPS, but the recovery in the
+fourth quarter -- I don't know Alex if you have a microphone there, the recovery in the fourth quarter was
+great. Part of the issue in relation to the bonus that Enrique spoke about and what we're seeing so far
+this year is very, very good. So I'll let Alex speak and then I'll tell you what I'm going to do in terms of
+targeting Alex for NPS [indiscernible].
+
+Alejandro Cruz de Llano
+Chairman & CEO
+
+Looking forward to that. The -- so very quickly to extend what Willie was saying, the NPS has been
+evolving positively underpinned by a fantastic performance operation. So the increases in punctuality and
+baggage performance have been a tremendous underpin for positive evolution of NPS. And that positive
+evolution continues across January and February, et cetera. The only detail I would give you is, as we go
+to market with new features, product features, call it the new economy class, long haul, catering, as we
+roll out the Club World catering and bedding, we see specifically and very visibly increases to NPS. We
+have a lot of that coming throughout the whole year, as we explained to you at Capital Markets Day. So
+we are very encouraged by the early signs of the evolution of NPS, more investment as it translates and
+it goes live. We are convinced that it will deliver further increases and of course, underpinned with what
+looks like still very good and operational performance with an opportunity to improve even more. Thank
+you.
+
+William Matthew Walsh
+CEO & Executive Director
+
+So as you know, James, the league can be won or lost in the run up to Christmas, the early performance
+in January. And I have to say, based on the performance of BA, that leads into Christmas and through
+the early part of this year. So it's definitely looking as a very good performance. And Alex will be tasked
+with even beating the targets that we've already have agreed [indiscernible]. So we expect even better
+performance. But it's very encouraging, and it is important to reflect on the investments that we are
+making, which are designed to generate [ RASK and] [ indiscernible ]. But the changes, and I make no
+apologies, the changes we have made, we've made so that British Airways will be competitive in the long
+term. You have to go through some short-term turmoil to get through that, and we're getting through
+that. Very encouraged by it.
+
+Jarrod Castle
+UBS Investment Bank, Research Division
+
+It's Jarrod Castle from UBS. Firstly, just on staff. Obviously, the likes of Ryanair are seeing wage inflation,
+some of the other airlines. At this point in the cycle, it is going to be a case of, please sir, can I have some
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+more so to speak from your employees? And secondly, just on the buyback, EUR 500 million is a good
+number, but could you have done more and why not? Or do you just think that is the magic number, EUR
+500 million, each year? And then just lastly, a quick one on high-speed rail and the launch from London to
+Amsterdam. What that does or doesn't mean for British Airways, et cetera?
+
+William Matthew Walsh
+CEO & Executive Director
+
+Okay. I think what Ryanair is facing is unique to Ryanair. Stephen would like to comment on the
+negotiations that he just completed with pilots in Aer Lingus, very close neighbors to Ryanair, but those
+negotiations have been ongoing and they -- we got a result from an independent arbitration board. I think
+it is -- Stephen if you [ indiscernible ]
+
+Stephen Kavanagh
+Former Chief Executive Officer of Aer Lingus
+
+We've just completed effectively a 3-year deal with all labor groups, with pilots specifically. It's 11% of
+total over 39 months, 8.5% award and the balance associated with productivity, which is a one-for-one.
+So across the other labor groups, the 8.5% was the award. So we're very comfortable in terms of the
+levels of productivity that we can drive out of the business on an ongoing basis. That's not only affordable,
+but that underpins our nonfuel unit cost opportunities in the next 3 years.
+
+William Matthew Walsh
+CEO & Executive Director
+
+Stephen, -- the one thing I would say is we're not seeing any difficulties in recruiting pilots at the moment.
+I commented on this before. There's talks of pilot shortage. I don't see it. I think we've got some issues
+that are evident in terms of the number of captains that are available, but we don't have an issue. We
+haven't seen this in any of the airlines so far. The market is a bit more competitive really, but there's still
+plenty of supply in the market side. We don't have any concern based on what we're seeing. In relation
+to the share buyback, EUR 500 million last year, we have an intention of EUR 500 million this year. That
+sounds like it's now there and it's firmly established. Clearly, the share buyback makes sense and we set
+out the criteria we would use to decide whether the share buyback would be the right thing to do with it.
+We believe it's very clearly the right thing to do given where our share price is today. We'll always look
+at how much and that's a decision that the board will take, but I go back to what I said. Our intentions
+with regard to excess of cash are very clear. We'll invest cash in the business where that cash will generate
+additional returns for our shareholders. We will look at inorganic opportunities where we see opportunities.
+We want to be positioned to take advantage of that. We're not actively involved in anything. As you know,
+we were very actively pursuing NIKI. But great credit to Javier for walking away from that deal because
+he had a clear view as to the price he was prepared to pay that would generate value for us. And for
+-- professional enough to not get into a ridiculous bidding war. So somebody want us to pay more for
+that, great. The advantage for us is having seen what the market is like there and established a clearer
+understanding of present IAG. It's now looking to do something organically in Austria. We will decide
+which, how many of our brands we'll use to do that. But we see a market opportunity that we can pursue
+organically, and that's the beauty of it. We understood what the benefit of the inorganic was. And we can
+see the benefit of organic, and we will continue to do that. And if we have excess cash then the board
+will discuss that and conversations [indiscernible] I've said it before, those conversations are very clear.
+We will use the cash sensibly if we can, and if we don't see a reason then that cash will be redistributed
+[indiscernible] the form of the redistribution will be [ indiscernible ] share buyback.
+
+Neil Glynn
+Crédit Suisse AG, Research Division
+
+Neil Glynn from Crédit Suisse. Can I ask 3 questions? First one that I have, focused on the 2018 guidance.
+Obviously, the new distribution strategy is still very, very young. Is there anything within that guidance at
+this point? Or is that a free option for '18, maybe hoping for more beyond as you build the strategy? And
+the second question on the Monarch slot. I think all -- or certainly most or all are being used on short haul
+this year. Over the medium term, how much of those should we expect to migrate to long haul? And then
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+third question, maybe for Lynne, I see she's been sitting here, on the cargo side. I think it was just over
+EUR 60 million of cargo incremental revenue in 2017. I guess most of that probably dropped through to
+the EBIT line given strong global trade flows. Can we expect a similar performance in 2018?
+
+William Matthew Walsh
+CEO & Executive Director
+
+I'll let Lynne address cargo. I would say, it was a record set of performance for cargo that's why we didn't
+highlight it in the presentation, but Lynne gets great credit. She went in with cargo, faced some challenges
+and produces a record performance. So well done, Lynne, and no pressure on you for 2018.
+
+Lynne Embleton
+MD of Gatwick, Director of Strategy & Director
+
+All right. On the 2018 outlook, so we certainly saw the market strengthen as the year went on in 2017
+quarter 4, the demand was fantastic. So we actually saw a lot of that revenue come through in yield in
+quarter 4. We're very conscious of where the fuel price is, and so as we've gone into 2018, we're trying
+to make sure that we can [indiscernible] to not let the fuel price damage [ the division. ] So, so far, we're
+seeing the market performing very strong. We know that the cargo market is very volatile. So I would like
+to get a crystal ball out and predict how the full year looks. But we feel we're in a strong position to take
+advantage of the market [indiscernible] market condition [indiscernible].
+
+William Matthew Walsh
+CEO & Executive Director
+
+And while you're standing, because you used to run Gatwick, and I'll ask Alex to comment as well, but you
+want to give a view as to how you would see Gatwick developing [indiscernible]?
+
+Lynne Embleton
+MD of Gatwick, Director of Strategy & Director
+
+Indeed, had I still been running Gatwick, I would have been delighted to get hold of the Monarch slot.
+I think it's a fantastic opportunity to get [ British Airways ] there, both the short haul and the long haul
+performance at Gatwick has been strong and giving the kind of financial returns that shareholders could
+expect. We do see plenty of opportunities to grow long haul business. But there are opportunities in the
+schedule to strengthen the short haul business as well. So, I'm somewhat envious of Alex's opportunity to
+make the most of that portfolio.
+
+Alejandro Cruz de Llano
+Chairman & CEO
+
+And not a whole lot more to add. Certainly, the focus this year is the short haul. It's very, very difficult
+to procure or to consider any other options other than short haul. So you'll see increase of frequencies to
+well-known destinations. And we are kind of thinking what is it that we will do next year, and of course,
+aircraft availability and such continues to be a big issue. So nothing much to comment on. Very big focus
+on '18 short haul. And as soon as we come up with ideas for what we can and cannot do for '19 onwards.
+But certainly, in terms of ambition, to be able to take a look at options to continue to grow, a very, very,
+very successful long haul network for Gatwick is definitely possible.
+
+William Matthew Walsh
+CEO & Executive Director
+
+On our new distribution strategy, very pleased with the introduction [indiscernible]. The point we need
+to make here is it's a cost initially, and in fact, it's behind some of the cost increases that we're seeing,
+and that will continue to be the case. As you know, the move away from the deals that we had with the
+GDSs. So paying higher rates to the GDS. But the long term is very positive, and this is an investment in
+a long-term change in our distribution strategy, which will see us continuing to work with the GDSs where
+it's sensible to do so. And I've been very clear about that. We want to have a relationship with the GDSs,
+we believe they still have a role to play, but not the way it was played in the past. So the changes have
+been very well received. It's performing better than we would expect it. We are seeing a very healthy
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+improvement in our direct distribution. And direct distribution for us is much cheaper than distributing
+through the GDS folks. The short-term issue here is the cost issue, so our cost's increase. That's one of
+the headwinds that we face, and Enrique mentioned. But over time, it's the right strategy. And this is
+ultimately a revenue strategy, but it's one that we'll see as, it being distribution cost increases.
+
+Unknown Executive
+
+And the breakeven in the equation that Willie was mentioning, it's coming, I would say, earlier than we
+thought. It's going to be coming through '18, and that's very [indiscernible].
+
+William Matthew Walsh
+CEO & Executive Director
+
+And we will talk -- we'll give a lot more detail at Capital Markets Day because we'll have 1 year of
+operation of the new distribution strategy at that stage, but what I would say is the initial response in all
+of the airlines has been better than indiscernible].
+
+Mark A. Simpson
+Goodbody Stockbrokers, Research Division
+
+Mark Simpson from Goodbody. A couple of questions, one for Alex, Plan4, just understand where that's at,
+I think being conservative on EUR 50 million of costs associated with that program over the last 2 years.
+So wondering how that score plays out, but specifically at BA and on the cost front. LEVEL, I think you've
+mentioned in the past just the surprise to the upside was how strong ancillary was on a per pack space.
+Wondering if you could give us a bit more detail about how that's being played out. And then finally, North
+Atlantic, Japan, markets where the long haul capacity is originating from those markets are unhedged. I
+assume looking into the summer that the concept of either you call it a fuel surcharge or a price increase,
+that we'll likely to maybe see there's markets benefit from that change?
+
+William Matthew Walsh
+CEO & Executive Director
+
+On Japan -- well, in Japan, as you know, it's regulated from the pricing point of view and maybe domestic
+Japanese carriers -- the Japanese carriers putting through fuel surcharges. It's not a structure that we
+particularly like, but in some markets that is the structure in the market and I think you will see more
+of that. And we share your view that with the U.S. carriers currently unhedged with the increase in the
+price of oil. We would expect them to seek cover by the increase. In fact, I was encouraged by some of
+the comments, particularly that Delta made where they talked about the industry's ability, exactly as we
+have. The industry does recover it in time. It's much shorter today than it used to be 5 years ago. And
+the view that was being expressed by them is that period of recovery is short term [ too ]. So that points
+to support what it is we've been saying that the industry responds much more rationally to these issues,
+and we expect that to continue to be the case in 2018. Not everybody does that in a way that we would
+describe as maybe rational, but the industry in the main, certainly, that's what we're seeing. With LEVEL,
+yes, ancillary -- we'll focus on ancillary later on this year, it will be a feature in Capital Markets because
+we're doing a lot not just in LEVEL. But we're learning from what we're seen. But what we've seen in
+LEVEL has reinforced our view that this new business model of low-price seats where the customer gets
+a choice, we give the flexibility to the customer to decide what it is they want. And, you make it easy for
+them when they are aboard the aircraft to buy products that they want to. So the way we do it, as you
+know, on LEVEL is through the screen. Very efficient, works extremely well. I do have a video. I don't
+know if it's on our website. So how it operates on an Iberia flight [indiscernible] we show it internally.
+We should certainly make it available, but we will do a lot of this in Capital Markets Day because some
+of the learnings from LEVEL we're applying to other processes. Aer Lingus, as you know, has introduced
+a new fare structure and they would see genuine focus on retail revenue. That's very much their focus
+[indiscernible]. We are learning a lot and clearly, the technology has improved a lot to enable us to do this
+more efficiently. And Alex, do you want to comment on Plan4?
+
+Alejandro Cruz de Llano
+Chairman & CEO
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+So very quickly, Plan4 was the name that we used to put in the 5-year plan and it involves 4 pillars. So
+it's customer, operations, efficiency and people. So everything that you've seen that we talked about
+at Capital Markets Day last year was part of -- mostly was part of the customer, our proposition and
+investment that was going to come behind it. operations, I talked about it before. A tremendous emphasis
+behind increasing operational excellence from punctuality, baggage, cleanliness, et cetera. The last one is
+people, and that involves all the different programs that we have internally to deliver -- manage to deliver
+better experience overall for our customer. Yes, [ third ] one is sufficient. And we are, as Steve mentioned
+earlier today, we are on track to continue delivering all the different initiatives within the efficiency and
+cost reduction for the year. You will see that as we go along. But again, very much on track over 200
+different initiatives. Plan4, more than just cost, because cost is just one of the [indiscernible] that's on
+track.
+
+[ audio gap ]
+
+I think the guidance that we've provided that there's going to be a positive evolution both on unit
+revenues and unit costs. And I think that's always [ tandem ].
+
+William Matthew Walsh
+CEO & Executive Director
+
+[ Pete ] do you want to comment on that?
+
+Unknown Executive
+
+Yes, 2/3 -- 3/4 of way through that program in terms of sectional cost guidance coming through. So there
+is a -- still a chunk that will come through in 2018. But as I said, we did slow down some of the plans in
+2017 given what else we were trying to do at the time. So that's why it's gone into 2018.
+
+Andrew Lobbenberg
+HSBC, Research Division
+
+It's Andrew Lobbenberg from HSBC. Can I ask about LEVEL and what the timing is in terms of structuring
+it organizationally and how you're going to run with multiple AOCs? And equally, how it blends in or
+doesn't through the joint business agreement [ How American sees it ]. Can you talk about Italy and the
+option to take advantage of what may or may not happen with Alitalia? And then, could I just ask around
+the Monarch slot take up at Gatwick. How are you handling that operationally? Because I think there was
+an application to bring in some Qatar planes again. But how are you going to fly those and what impact
+would that have on costs?
+
+William Matthew Walsh
+CEO & Executive Director
+
+Thanks, Andrew. Maybe I'll let Alex comment on the Monarch. But we don't have an intention at this stage
+or requirement to use any of the Qatar aircraft. So what we set out to do is to cover as many as we could
+with our existing resources from within the group, including BA from Heathrow into Gatwick [ that ] [ sort
+of help from ] Aer Lingus [ Vueling ] so -- and then whatever residual [indiscernible] Alex, do you want
+to...
+
+Alejandro Cruz de Llano
+Chairman & CEO
+
+There will be a limit -- limited amount of leasing this year. We are covering some of the lines with our own
+aircraft, and we will evolve from there. But no Qatar aircraft.
+
+William Matthew Walsh
+CEO & Executive Director
+
+So it's been better than some of our competitors who have acquired spots elsewhere where they've been
+[in effect ] almost completely with leasing. This is, again, the advantage of the group that we're able to
+pull together resources from across the group to cover as many of the operations as possible. So you're
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+going to see Aer Lingus operating at Heathrow, some flights to the BA, which freed up some BA assets
+to go into Gatwick. So we'll continue to try and do as much as we can from within our own resources
+and only then look for [indiscernible]. In terms of LEVEL, LEVEL does best within the JBA. So as you
+know, OpenSkies was in the JBA or is in the JBA, and LEVEL will replace capacity that was provided by
+OpenSkies. So American welcomes the development. This is seen as a response [ that ] I think American
+recognizes needs to be made. I've been very pleased actually. I think the relationship with American is
+very positive and gets stronger day by day. Our thinking is becoming almost completely aligned. Our
+challenges are probably the same as theirs, our opportunities are probably the same and we're working
+with them to see if there's anything more that we can do. But LEVEL will operate within the JBA. And Paris
+operation will replace capacity that was in the JBA already being provided by OpenSkies. And in Italy, as
+I said before, we did give a good look at Alitalia to see was there anything that might be of interest. I
+don't know, Javier, if you want to comment? We were approached by other airlines who were interested in
+acquiring Alitalia, but didn't want to acquire it all. And were looking for somebody to take bits and pieces
+of. So we had some dialogue to see if there's opportunity there.
+
+Javier Sanchez-Prieto
+Vueling Chairman & CEO
+
+Yes, as Willie has said, I mean, there's a lot of things going on there in the Italian market. The good
+thing about that is that we are willing -- as a group, I think that we are well-positioned to take advantage
+of some of the development. We have seen that already in our figures in 2017. So we've seen that it
+[ needs ] development. And of course, we have done some good developments also in Vueling. But I
+think -- I believe that the market is being restructured, and we are taking advantage of that and we will
+continue doing so in an inorganic way in 2018 and we're always open to these opportunities. But if that
+opportunity is not happening, we're always prepared to take advantage in organic.
+
+Damian Brewer
+RBC Capital Markets, LLC, Research Division
+
+Damian Brewer, RBC. Three questions, please. First, we're just coming down to the BA defined benefit
+pension changes and as that goes through you've hinted already that's could slow down the progress a
+little bit of the cost efficiency for the second half of the year. Does that, therefore, mean that when we're
+looking at costs from the BA side of IAG for this year, most of that efficiency, if you like, momentum,
+would likely come from the second quarter onwards [ what's the thinking ]. If you could expand,
+give some more details on that, that would be great. Secondly, just looking at sort of, if you like, the
+incremental profits for ASK, all 4 operating companies delivered quite impressive incremental operating
+profit for ASK. But I was just wondering, Iberia, in particular, it was up nearly 35%, 40%, whereas Aer
+Lingus was up only about 3% to 4%. So I just want to understand why Iberia next year gets lower growth
+rates in terms of incremental capacity compared to Aer Lingus? Do you expect that position to reverse
+for what's going on there? And then very finally, and since IAG was formed, you've been running at very
+high level of one-off charges against very exceptional profit. How much of that was cash in terms of 2017?
+What would you expect the run rate to be going forward? And if that comes down, particularly the cash
+element, does that open up more potential things like share buybacks, dividends or inorganic growth?
+
+William Matthew Walsh
+CEO & Executive Director
+
+Okay, [ John ] deal with the first issue?
+
+Unknown Executive
+
+Just to give you a little bit more flavor. I think your assertion, Damian, is right. That it's going to be
+from Q2 onwards rather than Q1. Just to give you a bit more flavor on pensions, we basically reached
+an agreement with the unions pre-consultative ballots in mid-December. And then in early January, the
+pilots [ an offer then] for them, put out by consultative ballot, and that then ran to the end of January.
+Then at the end of January Unite commenced their consultative ballot, which finished last week -- it was
+on the 19th, so this week, on Monday. So having now got through the -- we got through the [ GMB ]
+[ ballot ] for Unite, the only final hurdle left to do is to get through the trustees, and the trustees have to
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+go through due process as we talked about earlier, and that will happen in March. So because we were
+going through that consultative ballot, we thought it was very important to keep the focus on the pension
+change rather than other changes that we would like to make. And hence, your assertion with regards to
+is it Q2 onwards, I think that's a fair assumption.
+
+William Matthew Walsh
+CEO & Executive Director
+
+So about the cash?
+
+Unknown Executive
+
+Yes, yes, so as you were mentioning a significant part of those below the line movement and differences
+with [ FY ] 2016 are noncash elements. So evaluation, mark-to-market of noneffective hedges is a
+noncash element. Financial charges on pension funds is in general terms a noncash element. The benefit
+and the losses on disposals of assets, it is cash, okay? But at the end of the day, we need to go to the end
+of the cash flow statement and the end of the cash flow statement this year has been able to make for
+us EUR 2.7 billion. Next year, probably the figure is going to be lower than that because we are going to
+have more fleet deliveries. But having said so, again, the big message is both the regular payments and
+eventually another, I would say, share buyback program would be well covered, more than 2x by our net
+[indiscernible]
+
+William Matthew Walsh
+CEO & Executive Director
+
+In terms of the investment, yes, the Iberia performance in 2017 was very good. Clearly, they benefited
+[ from macro-economic performance]. We're not in any way penalized. We do look longer term at
+investments. Aer Lingus has been able to grow 12% retaining a 23% ROIC, and we challenged them. Is
+that sustainable? We don't want just performance in 1 year. Is it sustainable? And you do that, can you
+continue to grow? Can you continue to add aircraft? Can you continue to deliver this performance? And
+looking at Stephen, I know his answer because he demonstrated to us that he can and will. The same
+with Iberia. So Iberia will take delivery of new aircraft this year, the A350 comes into Iberia [ this aircraft
+in ] June. Yes, maybe [ if you'd like to ] comment, Luis? So this year, introducing a new aircraft type,
+particularly new long-haul aircraft type is something that you need to take time and be careful about. And
+so Stephen, talk about your [indiscernible]?
+
+Luis Gallego Martín
+Chairman & CEO of Iberia
+
+We will receive our first A350 and also we are going to receive our 2 first A320neo. The challenge that
+we have is with the growth that we have presented. We need to grow it -- improve our ROIC margin and
+that's the challenge that we have. In one way we need to handle the impact in the RASK that we are sure
+we are going to have with this growth. That with the measures that we have in the Plan de Futuro, we are
+going to improve the margin also from the cost side. So that's the challenge that we have for this year.
+The new generation aircraft and all the things we are doing in the company, we are sure they are going to
+achieve the results that we're expecting.
+
+Daniel Röska
+
+It's Daniel from Bernstein Research. Three, if I may. Maybe first one, comment a little bit on your Brexit
+situation and we all can kind of think through what that may entail for your corporate structure? Do you
+see a path forward in the medium term that would actually lead you to revisit the bylaws on the IAG
+holdings or leading you to kind of a situation where the IAG stock comes with stock without ownership
+restrictions? And second one, Avios has been a little bit absent in the communication for the past couple
+of months. Just wondering if you could comment on the realignment and how Avios plays in kind of to
+the IAG platform strategy, but also distribution strategy going forward. And lastly, maybe on the tandem
+between LEVEL and Vueling, kind of how important is Vueling to what you're planning with LEVEL, and any
+thoughts going forward kind of some thoughts [ to it ]?
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+William Matthew Walsh
+CEO & Executive Director
+
+We don't see any change to the structure [We, the structure works today but ] going forward, and clearly,
+if we needed to or wanted to adapt, we'd look at that, but we don't envisage any. In relation to Avios, very
+good performance, actually it was a record performance for them as well. So I probably should highlight
+that. What they're doing and what you'll see in Capital Markets, we're doing sort of a refresh of Avios,
+which will go to our board in March. And expect that to be approved by the board in March and then
+we'll talk more about it after that. We felt it was probably more appropriate to talk about it after we've
+completed that. So with Bill Crawley having gone in there as the CEO he's completed his review. We've
+-- we were originally going to take that to the board yesterday, but we had too much on our agenda. So
+it's postponed. I fully expect that to be approved by the board. And then we will talk more about what
+we plan to do. And interestingly, LEVEL and Vueling, with the 330 with wide-body long-haul low-cost,
+we believed and we still do that [ speed ] is important. It hasn't been as important with the start up as
+we thought. And in fact, it's been a surprise both to [ us centrally ] but also to Vueling. They are seating
+some passengers into [indiscernible] at the level. But it's not needed either. The point-to-point demand
+has been much stronger. So I think it just reinforces our view that where we're targeting or we believe
+are underserved cities in continental Europe from a long haul point of view that you can get into these
+cities and you can generate new demand, stimulate new demand with the pricing structure that we have.
+And there's the inherent underlying demand that just wasn't being served. But ultimately, we do believe
+that the short haul takes a lot of work in the long-term, but we haven't needed it with the 2 aircraft. And
+actually, we don't see a need for it to support the 3 aircraft that we have acquired. But going forward, as
+we exploit the opportunities that we see in Europe, we do see the -- and certainly, that's what we see with
+others who are trying to do. But so far, it's not been a [indiscernible].
+
+Alex Paterson
+Investec Bank plc, Research Division
+
+It's Alex Paterson from Investec. Just following up on that, the LEVEL. Clearly, you've been able to get this
+airline flying very quickly. It hasn't cannibalized [ those you feed ] into it. On your, I think, Slide 20 [ you
+show you go ] 3 aircraft -- sorry 2, 5 and then just like [ 10 ] involved and so on, what would encourage
+you to increase the 10 that are involved? Is it that the constraint is that you want to learn with [ it as it
+is ] a [ different edition ] of aircraft or what is it that stops you being 25 aircraft in 2022?
+
+William Matthew Walsh
+CEO & Executive Director
+
+That's interesting because that's exactly the challenge I get from some of our board members when we
+present the feedback that we've seen from it so far. There's a couple of issues. We're not worried about
+the model because we were confident the model worked before we launched. I think we watched very
+carefully and researched it for some time. We're more confident given our experience of operating [ so
+far, yes ] 2 aircraft for a very short period of time. But certainly, the trends that we expected to see,
+we've seen them and [ indiscernible ] and we're very confident that the launch in Paris, as again, we
+know that market. We have a strong presence on the ground there and we know how we can exploit the
+market there. Going forward, we're looking at what is the right aircraft. So there is an aircraft decision
+that we need to make. We're very clear that we could get into the market very efficiently with the 330-200
+and the configuration that we are talking about. And the unit cost performance has been better than we
+have expected. And we did highlight that the cost advantage of a 787 is significant, but with fuel prices
+where they were, that $500 a ton or even at $650 a ton, that isn't enough to offset the ownership cost.
+When you cross a couple of lines: One, there are more and more 787s in the market, there are more and
+more 787 qualified pilots in the market, there's more experience and support for 787. So as that aircraft
+matures and as ownership costs decline and as fuel prices maybe change, but, so we're looking at an
+aircraft decision as much as anything else. We still see opportunity with the Airbus aircraft and we see
+opportunity with the Boeing aircraft. And we want to make sure -- so the chart you saw shows, I think,
+shaded aircraft, which shows the opportunity. And all the time we're looking at flexibility, all the time we're
+looking at flexibility across the group within the individual airlines, but across the group. If we needed
+to adjust capacity downwards, what flexibility do we have? But the confidence in the model is stronger
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+today than it was before we launched, and we will see opportunities from an aircraft point of view. And I
+think the 787 more and more we see as an opportunity in the future development level. Very pleased as
+I say with the 330, very pleased with the cost performance. So at 5 years' time, is the 330-200 the right
+aircraft.
+
+Unknown Executive
+
+As Willie is saying, in some ways, 787 is a fuel cost hedge for the group, 330 is an ownership cost hedge
+for the group. So we could be foreseeing a combination of [ them ]
+
+Penelope Jane Butcher
+Morgan Stanley, Research Division
+
+Penny Butcher from Morgan Stanley. Just one from my side, in a similar vein to Daniel's question
+about leaving out talking about Avios. On the sort of broader international partnership, you obviously
+have reiterated your commitment to American. Could you update us on the latest with LATAM and
+[ particularly ] the Asia side of the market given there's pretty explosive growth out of the Chinese carriers
+into expanding their international businesses? What are your kind of options and opportunities there?
+
+William Matthew Walsh
+CEO & Executive Director
+
+With the LATAM, as you know, we're pursuing a joint venture that requires regulatory approval. We're still
+awaiting clearance in Chile. We have it in -- yes, it's Chile. So subject to that, we will develop the joint
+business with LATAM. In China, we've entered into a closer relationship with China [indiscernible] with
+British Airways on codeshare. We continue to look for opportunities there. We're seeing a lot more interest
+in working with us from the Chinese carriers. As you know, we don't have a Chinese carrier in oneworld,
+which has been an issue for us. And we've been overly concerned about that because we've been able
+to serve China both directly and with our oneworld partner, Cathay Dragon over Hong Kong. But I'm
+pleased with the relationship that we're developing with them [indiscernible] [ expand the southern route,
+in particular ] in fact it's been very encouraging, Alex -- sorry, Alex is going. So maybe I'd announced
+something that Alex was going to announce. So we'll continue to look for bilateral relations to develop
+them principally with British Airways, but also with Iberia, something [ we've seen more ] for interest in
+that. So I see it as an opportunity. I'm not concerned that we haven't had a stronger position there in the
+past. I do see this as an opportunity.
+
+Penelope Jane Butcher
+Morgan Stanley, Research Division
+
+For India?
+
+William Matthew Walsh
+CEO & Executive Director
+
+No, maybe I'd say that's too quick. We'll probably look at that, but I think I've always dismissed the idea
+of Air India while government ownership is involved. Now, what the government is saying now is a million
+miles away and better than has been said in the past. But I don't think it would be enough to encourage
+us to go for this. That's a company that requires massive restructuring. There appears to be an appetite
+for us, but I'd want to see some evidence of the restructuring. So I think it would be a risk that wouldn't
+be justified at this stage. So I think the answer is no. We haven't been looking at it for -- we're aware of
+what's going on, but it's not something that's [indiscernible]
+
+Unknown Analyst
+
+Can I just come back to your guidance, especially the unit revenue guidance? I'm just curious to
+understand how your thought process is guiding for increasing unit revenues for the full year at this
+point of the year while H2 visibility, obviously, is still very low. So is it that H1 is so strong that you are
+comfortable giving that guidance? Or is it more a function of extrapolating the current demand trends and
+capacity trends into H2?
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+William Matthew Walsh
+CEO & Executive Director
+
+No, what we did was -- we have a budgetary process, we have a business plan process, we have a
+financial plan process. Our financial plan hasn't been approved by the board, which was -- I have to be
+honest, based at a lower fuel price. We didn't saw a momentum in the fuel price since we came through
+the fourth quarter. We went back through all of the operating companies to say what do you see in an
+environment where fuel prices are in the 650 dollar range as opposed to maybe the 550 dollar range. And
+we're very encouraged by what we saw in 2017, the visibility that we have. So clearly, Q1 is probably
+easier for us to call, particularly as Enrique said with Easter at the end of March, you'll get a benefit of
+Easter in Q1. But looking at everything that we see at this stage, and we're not by any means being
+aggressive. We see a path, the unit revenue improvement through the year [ particularly ] unit revenue
+performance in 2018 [indiscernible]. It would be easy for us to give you a confident statement about Q1.
+[ You'd be amazed that ] anybody doesn't do that because given what we're seeing already and the Easter
+[ effect for one ]. But based on what we're seeing, our assessment of capacity, our assessment of demand
+and we're...
+
+Unknown Executive
+
+And the reaction that we've been in some way achieving through our teams and the market response in
+Q1 is [ very encouraging ].
+
+Unknown Analyst
+
+[indiscernible]
+
+William Matthew Walsh
+CEO & Executive Director
+
+We are growing ahead of the markets. But that's principally through what we're doing with LEVEL, what
+we're doing with Aer Lingus, some of the recovery in Iberia, what Vueling is doing. So we're slightly
+above what -- growing slightly above and growing unit revenue. Absolutely, it's the right thing to do with
+flexibility that we have to adjust capacity. So I always say when we give headline capacity growth figures
+of 6.7%, I'd be surprised if it is less than that because we always tweak it on a tactical basis. But equally,
+in 2017, we went above the guidance that we've given and that was on the back of LEVEL and on the back
+of some opportunity that the airlines saw at certain times. But the capacity that we're seeing across all
+of the core markets that we have is encouraging. We are seeing some interesting growth in the long haul
+low cost in certain markets. But we're actively involved in that so we can understand what is happening
+there. And we're particularly encouraged by what it is we're seeing so we can perfectly understand what's
+happening there. I don't expect all of that capacity to materialize given the performance of some of the
+airlines that we're talking about. So as we look at the -- but if I look back at 2017, demand exceeded
+capacity in all markets in 2017, all geographic locations, in all markets. Now we always know you can
+do that by heavily discounting prices. But in an environment where unit revenue was good, we expect
+the demand to match the capacity. It may not exceed the capacity in 2018, but we certainly expect it to
+match and in some markets, we expect it to exceed. So we still see a pretty healthy capacity demand
+environment as we look at 2018 from our position.
+
+Unknown Executive
+
+So thank you, everyone, for your questions at this time. Thanks, Enrique and Willie, and management
+committee for the answers [indiscernible] and we'll speak to you again on the first quarter call.
+
+William Matthew Walsh
+CEO & Executive Director
+Thank you.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+23
+
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A. FY 2017 EARNINGS CALL |  FEB 23,
+2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+24
+
+

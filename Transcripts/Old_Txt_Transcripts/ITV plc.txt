@@ -1,0 +1,1488 @@
+ITV plc LSE:ITV
+FY 2017 Earnings Call Transcripts
+Wednesday, February 28, 2018 9:30 AM GMT
+S&P Global Market Intelligence Estimates
+
+-FQ4 2017-
+
+-FY 2017-
+
+-FY 2018-
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+ACTUAL
+
+SURPRISE
+
+CONSENSUS
+
+EPS 
+Normalized 
+
+-
+
+-
+
+-
+
+0.16
+
+0.16
+
+0.00
+
+0.16
+
+Revenue  (mm)
+
+997.00
+
+1000.00
+
+0.30
+
+3076.49
+
+3132.00
+
+1.80
+
+3162.34
+
+Currency: GBP
+Consensus as of  Feb-28-2018 9:00 AM GMT
+
+FY 2017
+
+CONSENSUS
+
+0.16
+
+ACTUAL
+
+0.16
+
+SURPRISE
+
+0.00 %
+
+- EPS NORMALIZED  -
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Table of Contents
+
+Call Participants
+
+Presentation
+
+..................................................................................
+
+..................................................................................
+
+Question and Answer
+
+..................................................................................
+
+3
+
+4
+
+11
+
+COPYRIGHT © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+
+2
+
+ 
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Call Participants
+
+EXECUTIVES
+
+Dame Carolyn J. McCall
+Chief Executive, Director &
+Member of Management Board
+
+Ian W. Griffiths
+Former COO, Group Finance
+Director, Member of Management
+Board & Executive Director
+
+ANALYSTS
+
+Ian Richard Whittaker
+Liberum Capital Limited, Research
+Division
+
+Julien Roch
+Barclays Bank PLC, Research
+Division
+
+Laurence Davison
+Deutsche Bank AG, Research
+Division
+
+Matthew Bloxham
+
+Patrick Thomas Wellington
+Morgan Stanley, Research Division
+
+Richard Eary
+UBS Investment Bank, Research
+Division
+
+Simon Baker
+Societe Generale Cross Asset
+Research
+
+Steven Craig Thomas Liechti
+Investec Bank plc, Research
+Division
+
+Unknown Analyst
+
+William Henry Packer
+Exane BNP Paribas, Research
+Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+3
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Presentation
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+Good morning, everyone. Thank you for joining us on this very cold morning for ITV's 2017 Full Year
+Results. It's very good to be starting here as ITV's Chief Executive. I'm joined by Ian Griffiths, of course,
+and also members of the management board.
+
+In a moment, as is customary, I'm told at an ITV results presentation, I will play you a show reel.
+This shows some of the fantastic programs ITV broadcast in 2017, which drove such a strong viewing
+performance onscreen and online. It also includes some of what's coming up on ITV in 2018 and the high-
+quality productions which ITV Studios creates, owns and distributes. Great content and driving value from
+that content is at the very heart of what we do. Quite simply, all platforms need brilliant programs to
+attract and retain audiences.
+
+In terms of the format of this morning, after the show reel, I'll give you some of my initial thoughts and
+observations. It is still early days, of course, but I wanted to give you an idea of what I've been up to in
+my first 7 weeks and some thoughts as to why I think ITV is really well-positioned for the future.
+
+We are currently, as I think you all know, undertaking a strategic refresh to help us highlight the
+opportunities for ITV and also the gaps we will need to address in light of a changing media landscape. I
+will share with you some of the key questions we are asking ourselves as part of that process.
+
+Ian will then take you through the operational and financial performance for 2017 and I will then come
+back to give you some early insight into what lies ahead for 2018. We will then have time for your
+questions, although I'm sure you'll understand that we want to finish the refresh before we answer your
+key strategic questions. So let's play the show reel. If you are watching on the webcast incidentally,
+unfortunately, you won't be able to see this bit.
+
+[Presentation]
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+So some fantastic content to look forward to there. It has clearly been in 2017 a challenging year for
+business generally, with continuing economic and political uncertainty, and for ITV, this has obviously
+impacted TV advertising spend. But despite the challenges, ITV's operational performance has actually
+been strong. Share of viewing was up for the second year running, a first ever for ITV. There was a
+significant increase in online viewing up over 30% and with good revenue growth. And the Studios
+business delivered significant revenue growth both in total and excluding acquisitions.
+
+The board is proposing a full year dividend of 7.8p, up 8%, which reflects confidence in the business and
+the outlook for 2018. This is very much in line with our ordinary dividend policy.
+
+So a solid foundation to build on as the media landscape continues to change and evolve rapidly with more
+content to watch and more ways to watch it. Traditional broadcasters are no longer our only competitors
+for viewers, for advertising and for quality content.
+
+The relatively new competitors are also our customers. The strategy refresh we have kicked off will
+address all of this, including the need for effective and deep partnerships with advertisers, platforms and
+content owners to ensure they are the right partnerships for ITV and that we get paid the appropriate
+value for our content. We will come out of it with a clear strategy and well-defined priorities to reestablish
+and establish where ITV needs to be in 3 to 5 years’ time and what we need to do to face the challenges
+and exploit the opportunities ahead. We're undertaking a very thorough and rigorous process, and at the
+half year, we will share those headlines with you and then we will do a deeper dive at the Capital Markets
+Day in September.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+4
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+I have now been, as I said, at ITV for about 7 weeks, and while I obviously still have a great deal to
+see and to learn, I have already visited many parts of the business and met many, many people and
+they're very talented people at ITV. I spent time in our offices in the U.K., of course, but also our U.S.
+headquarters in New York. I've been to our newsrooms in Meridian, Granada and Yorkshire where I was
+really struck as to how they have embraced digital technology to deliver not only award-winning news but
+to drive real efficiencies. I've been on the set of the U.K.'s biggest and favorite soaps, Coronation Street
+and Emmerdale. It's just incredible to see what goes into producing the high-volume quality content,
+6 episodes of each, every single week. I've also visited some of our production companies, including
+Mammoth, one of our recent acquisitions, which has a phenomenal slate of dramas, including many which
+you just saw Victoria, Poldark, Vanity Fair, Shiver, the producers of Paul O'Grady's For The Love of Dogs,
+you'll be amazed how popular that program is, and Piers Morgan's Life Stories, Twofour who produced This
+Time Next Year and the Real Marigold Hotel, again, you saw clips of; ITV America who produces scripted
+reality programs such as Hell's Kitchen, Alone and Fortune & Fire; and Amsterdam-based Talpa, our format
+business, and of course, producer of The Voice.
+
+I've been very much in listening mode as I want to understand what the people who know this business
+best think. It's also been a really good way of getting people involved in the strategy refresh and hearing
+their feedback and their views. Over the coming months, I have plans to visit many of our other locations
+in the U.K. and internationally. As you'd expect, I've also been meeting people in the industry much
+more widely, including Ofcom, some of our major advertisers, our partners, the government and industry
+bodies.
+
+What has struck me in all of these conversations and meetings is the pride and passion ITV people have
+for what they do and rightly so. And also the critical role ITV plays in the wider media ecology, but also
+importantly, in society as a whole.
+
+One of the reasons I joined is because of that and also because ITV is, I believe, a really strong consumer
+proposition and it makes fantastic content which drives mass audiences and key demographics, which are
+so valuable to advertisers. It has the potential to do more targeted advertising, offering advertisers the
+benefits of both. And that is a pretty unique position to be in, and I can say that as a former advertiser.
+
+Live TV remains the preferred way of watching content even for younger audiences, and that really
+surprised me. It gives immediate scale, reach and fame for advertisers that just cannot be gained
+anywhere else. It also provides a safe, trusted and transparent environment in which to advertise and
+generates the highest return on investment of any media. Recent research by Ubiquity found that for
+every GBP 1 spent, TV generates over GBP 4 of profit compared to just over GBP 2 for online video
+and less than GBP 1 for online display. We've got copies of this research for you to takeaway if you're
+interested. And this is clearly something we are talking to our advertisers and media agencies about.
+
+So while online advertising continues to grow, advertisers are beginning to challenge and actually quite
+vocally what some online advertising actually delivers and we are now starting to see more questions
+being asked about kind of unacceptable content and contextual advertising, measurability and actually
+indeed the trust.
+
+The ITV Hub delivers a high-quality, trusted and measured environment for advertisers. It allows us to
+build direct-to-consumer relationships around our great content and our program brands, something we
+are just at the beginning of. But already, we have 75% of all 16 to 34-year-olds registered.
+
+And through voting and competitions within our programs, we had over 100 million interactions last year.
+Just think of all that data. Another thing that has become increasingly clear to me during my first weeks
+at ITV is that creating and owning quality content is a real advantage and how the integrated producer
+broadcaster model benefits the whole of ITV.
+
+We have a great opportunity to make content famous on our channels in the U.K. before selling it around
+the world. Not only does our success onscreen and online depends on having great content, but the global
+demand for high-quality programming remains strong as broadcasters and platform owners look for brand
+defining content.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+5
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Netflix and Amazon have become important buyers of our content, and it isn't all about drama, which is
+what you read about all the time. They're also looking at unscripted content in the U.S.
+
+ITV Studios is now an international production business of scale. Revenues of over GBP 1.5 billion, 54%
+of that was generated outside the U.K. It is active in 11 countries with a library of over 45,000 hours. We
+have strong relationships through our global production and distribution network, and we sell content to
+over 200 channels globally.
+
+So I thought I would now share with you some of the key questions we will be asking ourselves as part of
+the strategy refresh. We have 3 big themes in this refresh: content production, advertising and direct-to-
+consumer. For content, we are asking ourselves how we best position ITV Studios to meet the changing
+demand for content, how we prioritize ITV Studios in the key genres and geographies. Those are just a
+couple of the questions. For advertising we need to determine how to remain the strongest marketing
+platform in the U.K. and what opportunities we can capture and advance advertising solutions.
+
+For direct-to-consumer, some of the questions we're looking at are what ITV's online proposition should
+be, how we create winning direct-to-consumer proposition and what is ITV's platform distribution strategy.
+We are also exploring questions around data, of course. Data strategy is absolutely critical. Of course, we
+need to ensure we have the right integrated strategy and operating model so we are also looking at skills
+and capabilities.
+
+There's a lot to get our teeth into here, but everyone I have met at ITV is really energized about this
+refresh, and I look forward to sharing that with you when we have those outcomes.
+
+I'm now going to hand over to Ian.
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+Thanks, Carolyn. Good morning, everyone.
+
+2017 was always going to be an interesting year and it certainly turned out that way. Continued economic
+uncertainty led to the pressure on advertising and earnings, but we've seen strong revenue growth in
+Studios and online, which led to nonadvertising revenues being up 11%, and external revenues up 2%.
+And that growth, coupled with tight control of costs, has mitigated around half the impact of a 5% decline
+in advertising.
+
+However, profits are down 5% to GBP 842 million, which translates to 16p of earnings. Against this
+uncertain backdrop, as Carolyn said, the operating performance of the business has been strong. We
+delivered good share of viewing growth, saw 39% growth in online viewing and in Studios, we had strong
+organic growth, we've more debt due to paying special dividend and tight cash managements or profit-
+to-cash conversion of 91%. And the board's confidence in the core business, its cash flows and our strong
+start to the year, both on and off screen, underpin an 8% increase in the full year dividend to 7.8p, this
+very much in line with our dividend policy of paying roughly half our earnings over the medium-term.
+
+And given this year's ordinary dividend, 5 years of special dividends, leverage of 1x and a strategy refresh
+underway, the board has decided not to pay a special dividend this year.
+
+Operationally, Broadcast had a strong year, growing share of viewing for the second year in a row,
+delivering a SOCI index over 100%; increasing share of advertising to 47.6% and continuing to grow
+online and pay both in terms of viewing and revenues. However, advertising was down 4.8% or GBP 81
+million, and that's hard to mitigate. We had the benefit of GBP 25 million less spend on screen as it was
+a non-sport year and we took action on the cost base. However, profits fell to just under GBP 600 million
+with margins down 1% to 29%.
+
+Within broadcast, online had a strong year with revenues up 15% and online viewing was up nearly
+40%, whether measured by requests or time spent on the hub. In fact, all our viewing KPIs showed real
+progress. Share of viewing across the family was up 0.4 percentage points to 21.7%, with growth on the
+main channel and ITV2 and 4. This reflects the quality of the schedule across all our channels.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+6
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Commercially, it's important we continue to deliver scale audience and the demographics demanded
+by advertisers. If we do that, we'll keep our compelling advertising proposition. We delivered 99% of
+commercial audiences over 5 million, which is around 780 shows, roughly the same numbers as last year
+but without the benefit of a big sports tournament. This shows the importance of the soaps being strong
+and continued investment in quality drama and entertainment.
+
+ITV2 and ITV4 performed well in delivering their target demographic, viewing from 16-34s on ITV2 was
+up 17% driven by Love Island and the Seth MacFarlane shows; and movies and sports delivered a 12%
+increase in male audiences on ITV4. And as already mentioned, hub viewing grew strongly helped by
+investment in new functionality such as improved personalization, recommendations and notifications.
+
+The hub is starting to become a scale proposition, with 21 million registered viewers and we're starting to
+understand them better. For example, we now know that over half of our online viewing is from 16-34s.
+They love our content and want to watch it whenever and wherever. And the Hub delivers real incremental
+profit as the cost of the content are largely paid for through linear broadcast.
+
+In 2017, we also invested in our SVOD business in the U.K. with the Hub+, Cirkus in the Nordics and
+Germany and BritBox in the U.S., which is now launched in Canada. BritBox is ahead of plan and has
+already got over 250,000 subscribers.
+
+At the start of the year, the economic uncertainty when forecasting NAR was difficult. We planned for a
+challenging first half and expected things to improve as the year progressed. That's very much the way
+the year evolved and we're encouraged by Q4 returning to growth, and this growth looks set to continue
+into this year.
+
+The category spend is clearly mixed. Tech and telco spend was strong on the back of new product
+launches, car revenues were positive all year, again driven by new models, and the supermarkets also
+spent more, though weakness in the high street meant the retail category as a whole was down 3%. FMCG
+advertising was weak to start, but improved as the year progressed as we saw money allocated back to TV
+by some of the bigger advertisers. Across Q4, we saw supermarkets, FMCG, finance cars, entertainment
+and telco advertising all up year-on-year.
+
+We've maintained our investment in original content through the advertising cycle and with a healthy
+mix of drama, entertainment and the soaps and daytime, this quality content continues to underpin the
+strength of our advertising proposition.
+
+Moving to Studios which had a strong year delivering nearly GBP 1.6 billion of revenue, 13% growth, 7%
+on an organic basis. There's been growth across all areas of the business. The U.K. benefiting from new
+dramas and producing The Voice; the U.S. growing by 28%, excluding currency with the return of Hell's
+Kitchen, Good Witch and our drama pilot Snowpiercer; the international business, especially France and
+Australia, had a strong year, driven by the production of U.K. and Talpa formats; and the growth in GE
+came from drama, offsetting our decline in DVD sales.
+
+Overall, profits were, as we expected, flat year-on-year. The reason for this was that 2016 comparatives
+had a GBP 37 million benefit from The Voice China format sale. This is a one-off, so being flat year-on-year
+is a good result and shows a continuing growth from the underlying business.
+
+Margins are down a couple of percent to 15%, primarily because there's no repeat of the high-margin
+format deal and as I'll show, we've got more new content, especially drama, which is coming through at a
+slightly lower margin.
+
+We've talked before about the lumpiness of our Studios business and how shows move around. This
+means there's always churn. And last year to standstill, we had to replace over GBP 300 million of
+revenue. In fact, we delivered almost GBP 430 million of revenue, GBP 135 million from returning formats,
+entertainment and drama and GBP 293 million of new shows that all had the potential to return, which
+they won't, but that's the nature of this business. A healthy Studios business needs to keep investing in
+shows with a potential to return and travel.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+7
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+We recognize that these fluctuations can make it hard to assess the underlying business. Looking back
+over the last few years provides a better understanding of our performance. On this basis, Studios has
+delivered 5% compound annual revenue growth from the core business, that's the business we had before
+2012, excluding all acquisitions and currency.
+
+Similarly, it's important we produce a decent return on the capital we invest. And the return on investment
+for 2017 across the portfolio of acquired companies is 13%. And we've averaged 12% return over last 3
+years. On either basis, this return is well ahead of our cost of capital. Studios is a much stronger business
+delivering good organic growth and a positive return on capital. It's also a portfolio much more focused on
+drama and entertainment. And as this slide shows, we produced over 300 hours of scripted content last
+year. The U.K. is growing nicely with series such as Victoria, Unforgotten and Cold Feet; and we're gaining
+momentum in the U.S. through shows like Snowpiercer and Good Witch. The recent acquisitions of World,
+Tetra and Cattleya are drama teams focused on series with international appeal.
+
+In 2017, we invested around GBP 240 million in producing scripted content, so around GBP 80 million
+more than last year. And this growth in returning series reflects the quality of the pipeline. The number of
+hours of returning drama has nearly trebled over 3 years, and we now own 19 series which is sold to over
+100 countries.
+
+Entertainment is a different model as quite often successful formats are remade in local territories. We've
+over 3,000 hours of entertainment being made globally, including The Voice and the Celebrity Hell's
+Kitchen and The Chase, and the number of hours produced is growing by over 80% in the last couple of
+years. We sold over 60 different formats internationally last year and now have 17 formats being made in
+more than 3 countries. We've chosen to invest in rights and content with the potential to return in travel.
+To that end, we've made good progress in building a stronger, more international Studios business.
+
+Pulling all of the above together, the NAR decline had the biggest impact on profit, down GBP 81 million.
+Lower schedule costs and GBP 29 million of overhead savings in part offset this; while in Studios, the good
+growth from the underlying business is held back by the difficult comps. We did continue to invest in the
+business on the Hub, our box office trial and new creative in Studios, especially in the U.S., and the net of
+all this is our EBITA of GBP 842 million, down GBP 43 million or 5%.
+
+Our associates were a loss of GBP 4 million, which includes our share of BritBox, which although ahead of
+plan remains loss-making. And after interest which came in at GBP 33 million and tax, an effective rate of
+19%, EPS was 16p, down 6%.
+
+On a statutory basis, EPS is down 9% or 10.2p. Exceptional items not in our adjusted numbers are GBP
+154 million. The bulk of this relates to acquisition earn-outs and this has led to a charge of just under GBP
+100 million mainly relating to Talpa. There's GBP 30 million of property-related costs, which are fees and
+asset write-offs and move costs, and there's GBP 27 million relating to a provision on The Voice of China.
+Our Chinese partners have defaulted on payments relating to the 2016 format deal. And even though we
+are pursuing them for the unpaid amounts and with credit insurance in place, the accounting standards
+are such we had to provide for what they owe us and we're unable to recognize any offset in recovery. We
+believe we have a robust position and that ultimately, there will be no material impact on ITV. Therefore,
+we're treating this as exceptional because in our judgment, this is going to be a timing difference between
+this accounting provision and future cash being received.
+
+Moving on, the balance sheet remains robust supporting our investment-grade credit, and we continue to
+have good access to liquidity. Our leverage is increased to 1x net debt-to-EBITDA, primarily as a result of
+last year's special. Operating cash flow is over 90%, which is a real positive, not least when we invested
+so much in scripted projects, which had around a GBP 55 million negative impact on our working capital.
+
+The net pension deficit is GBP 83 million. This is GBP 245 million lower than last year due to GBP 80
+million of company contributions, good asset returns and updated member experience data.
+
+We have agreed the key aspects of the tri-annual evaluation for the main section of the pension scheme
+and our cash contributions remain unchanged. We expect a similar result on the other sections.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+8
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+And finally, some of the planning assumptions for 2018. Our schedule costs will increase to around [ 10
+60 ] million because of the football World Cup, and we expect around GBP 580 million of this to be in the
+first half. We're also likely to see an increase in scheduled costs for 2019. This will be driven by sports,
+having 10 England games as part of the new schedule of matches, plus with the rugby World Cup; and we
+also plan to invest more in drama, ideally drama we create, own and control the rights to, benefiting from
+being an integrated producer broadcaster. This will impact Broadcast in 2019 but deliver future returns to
+Studios. These 2 investments mean the 2019 schedule costs will be around GBP 1.1 billion.
+
+Coming back to 2018, there are some investments we're already committed to. These will impact profit by
+around GBP 15 million to GBP 20 million. Half of this relates to cost of occupying new London properties,
+plus there's initial investments in addressable advertising, our self-serve advertising trial and improved
+functionality for the hub such as series so far and box sets, which we'll get back following the closure of
+the Encore channel on Sky later this year. The Encore closure will impact our pay revenues by around GBP
+20 million, though this will be offset by the continued double-digit growth in online advertising.
+
+Tax rate is expected to be 19% and this has been reassessed in light of the U.S. tax reforms, and at
+this level, the rate should be sustainable for the next couple of years. As far as CapEx is concerned,
+there's GBP 60 million of business-as-usual CapEx and in addition, there will be around GBP 40 million of
+investment in our London property project, including fit out of new offices and design and initial demolition
+costs, all subject to the final planning approvals. There will also be around GBP 30 million of move and
+relocation costs as we vacate the tower. These will go through the P&L and be treated as exceptional.
+This project will run for several years probably to 2023 and we'll update as the project progresses and we
+decide on exactly how we'll procure the various space of the building.
+
+So in summary, there's no doubt 2017 was a tough year for advertising, but all of the parts of the
+business have performed well both financially and operationally. And we have a really strong foundation as
+we plan for the future.
+
+Thank you, and back to Carolyn.
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+So on to 2018. So as Ian has indicated, we have had a great start to the year. Viewing has been really
+strong with the schedule including the return of Dancing on Ice, The Voice, Vera, Endeavour, Trauma, Six
+Nations; record viewing for our key daytime shows and the sixth episode of Coronation Street. Our Family
+share of viewing so far is up 7% and total viewing volumes are actually up too up 3% and online viewing
+is up 22%.
+
+We are incredibly encouraged by ITV Studios' great pipeline of new and returning shows, including
+Unforgotten, Vanity Fair, Survival Of the Fittest, I'm A Celebrity, Poldark, those were all for ITV by the way,
+Poldark, Bodyguard and Shetland for BBC, Living the Dream for Sky; and internationally, Love Island, The
+Voice, the Chase, Big Star's Little Star and Good Witch.
+
+We've already secured over 60% of our expected revenue for 2018, about GBP 100 million more than this
+time last year.
+
+The economic outlook remains uncertain. We expect ITV Family NAR to be positive in the first half with Q1
+up 1%, a continuation of the improvement we saw towards the end of 2017.
+
+The World Cup obviously starts in June, very exciting. ITV has a great pick of games throughout the
+competition with 31 matches, including England's big first round match against Belgium. It drives a really
+valuable audience delivering mass and the hard-to-reach male demographics to advertisers, as well as
+strong simulcast viewing online, particularly for those 4 o'clock games where people are at their desks. We
+have already sold the sponsorship to 3 brands and we are currently selling advertising slots, demand for
+which is really strong.
+
+Love Island returns to ITV2 this year for an extended series. It's a great example of ITV operating as an
+integrated producer broadcaster, but also in a very 360 way, and more of that when we do the strategy
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+9
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+refresh. It was a big success last year, as you know, and from that, we have already sold the format to 6
+countries, as you saw on the show reel.
+
+Vanity Fair is an ambitious 7-part drama to be broadcast on ITV in 2018. It is being produced by
+Mammoth, which ITV acquired in 2015. It will be a glorious production, with filming already taking place in
+Budapest and London, with fantastic on and offscreen talent. We have maintained the rights to the initial
+broadcast and the online windows in the U.K., and have sold the international rights to Amazon. So there
+is a lot to look forward to in 2018.
+
+We have kicked off our strategy refresh and when we report to you at the interims, we will be able to give
+you an update and some of the key headlines from that. And of course, we remain extremely focused on
+the business. As I said, lots to do and the energy and the commitment of ITV people, both creatively and
+commercially, will help us to deliver what is a very full agenda.
+
+We have a solid foundation to build on, as you have seen, with a strong balance sheet, healthy cash
+flows. This gives ITV the flexibility to make the right strategic choices for the long-term in a competitive
+environment, while we still deliver sustainable returns to shareholders.
+And thank you for your time this morning, and we are now very happy to take your questions.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+10
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Question and Answer
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+I think there's 1 down here.
+
+William Henry Packer
+Exane BNP Paribas, Research Division
+
+Will Packer from Exane BNP Paribas, 3 questions, please. Firstly could you give us your view on the
+retransmission fee debate and where you see things. Your predecessors was pretty vocal that the pay
+TV players should pay material revenues to ITV. Do you share that view or are you looking for a more
+cooperative relationship with the pay TV companies? Secondly, thanks for sharing the data on the returns
+of your Studios assets. Could you disentangle the returns on the U.S. assets? There's a perception within
+the TV production industry that perhaps they relatively struggled. Is that fair? Any thoughts there will be
+helpful. And then finally, 2 positive years of viewing, very strong relative to history. Can you sustain that
+for a third year?
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+Okay, on what you described on retran, I mean, we believe and continue to believe that we have to
+be paid fairly for our content. So that hasn't changed. I think when you look at partnerships, we are
+very, very -- I think it's very important that we take a broad view of those partnerships and we decide
+which partnerships are very important to ITV going forward. And those then become partnerships and
+commercial agreements which are quite broad in their nature. So I would say that our position on being
+paid fairly for our content has not changed at all, but our approach is a much broader approach, which is
+ITV dealing with partners rather than just 1 element of ITV dealing with a partner. So it's constructive. On
+your question, I mean, I'll hand over to Ian on Studios a bit, but I would just observe on your question
+that there is quite a lot of noise about the U.S. business, it feels. But it's strange really, because having
+been to New York and had a really deep dive into ITV America, early days, I know, but I would say it's
+very clear what we're doing in America. ITV America, New York mainly and L.A, but mainly New York,
+is a production business that is just producing high-volume unscripted content for multiple channels in
+America. And it's doing well and it's profitable. The scripted business, which is in L.A. is, and again, I
+only spent 1.5 hours with the person leading that, but it's a very -- a totally different business with a
+totally different model. And actually, ITV has done that in a very stealthy kind of low risk way, actually.
+And so I've been quite surprised at how much kind of attention that gets for a relatively small part of the
+overall Studios portfolio. And of course, we are looking in the strategy refresh as to what we said to you
+about geography and about genre and both of the things are -- those things are very important, I think
+questions to address when it comes to scripted in America.
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+I'm not going to pick the numbers, but just a bit of context, the U.S. market has undoubtedly changed in
+recent times, primarily because the traditional buyers of content, the cable networks, are going through
+a really tough time. However, when we look at our Studios business today in the U.S., they're no longer
+our sole customers. We've got a much broader mix of customers, in particular, some of the SVOD and
+FANG group of companies who are looking for different types of content. One of the things on the slide,
+Queer Eye for the Straight Guy, is a reboot of the old format being sold to one of those companies, and we
+find that quite interesting because they're now looking -- we talked before about the demand for drama,
+demand for drama from Netflix and Amazon. Actually in the U.S., they're looking for a much broader range
+than just drama. They're looking for all types of different genre and we're well-placed to serve that. The
+thing about return on investment, especially the Studios companies, is how you measure it and whatever
+point in time you measure it, you can get all sorts of strange answers. So I'll give an example, I was
+talking to someone outside about this. We bought a business called High Noon, I'm just picking 1, purely
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+11
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+at random. Within 18 months, they lost their biggest show, which happened to be Cake Boss. If you do a
+return on investment at that point in time on where that business is, you could get a very strange number
+and you could actually make some strange decisions on the back of that. If we do a return on investment
+on High Noon today, because it's got a great show called Fixer Upper, the return on investment looks
+fantastic. So you have to look at these things in the round as a portfolio and the quality of the pipeline.
+You've seen the accounts, there's no write-offs in the accounts, there's no concerns about the quality of
+the business in the accounts, and our Studios business has delivered 7% growth organically, 13% in total.
+The health of the business is there in the numbers and I think it's a much stronger business than it was.
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+On viewing, I won't ask Kevin to answer that question because he will always take kind of -- he'll say, "but
+I think our...", but I think actually, we've done really, really well, and I think that's really about the quality
+of our content and also about developing this kind of -- the way we deal with consumers. And actually, the
+more we can get consumer insights, the closer we can get to our consumers, the more likely it will be that
+we can sustain that. And I think our aim, obviously, is to sustain that.
+
+William Henry Packer
+Exane BNP Paribas, Research Division
+
+Just to go back to the retransmission question, in consensus numbers for '18, '19 and beyond, is there
+anything for retransmission fees? And if so, should they come out?
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+There's a real mix of what people have done, some people put numbers in as an estimate, other people
+haven't. So there's a mix in there.
+
+Ian Richard Whittaker
+Liberum Capital Limited, Research Division
+
+It's Ian Whittaker from Redburn. Again, 3 questions. First of all, just looking at your decision not to pay a
+special dividend on things. I mean if you look at this business, net debt EBITDA is 1x, you are very cash
+flow generative, and obviously, you said over the strategic refresh that's why you're holding things back.
+Yet, sort of -- I mean, that sounds as though there is the potential sort of for quite significant outlays.
+So from the very initial views at the moment, I mean, would you think sort of the use of the cash that
+you will save via special dividend with more sort of internal organic investments or are you open to the
+potential for quite significant acquisitions moving forward? The second thing is just in terms of the video
+on demand revenues, sort of you talked about the strong growth that's coming through in terms of the
+viewers on there, but in terms of the actual revenue growth that is coming through, it's much lower. So
+that end -- sort of the explanation that passes being you obviously don't want to sort of put too many
+adverts on there for the user experience. Just wondering at what point you start to close the gap between
+the user growth and the actual revenue growth within that business? And then third of all, just in terms
+of, I guess it's more of a sort of how you sort of report numbers moving forward in terms of advertising.
+Your NAR was down 5 but if we include sponsorship and VOD growth, you're actually down 3 for '18. So is
+there a case for actually having a more integrated ad number if that's how sort of the business is moving
+forward? And sort of in terms of that delta between the 2, '18 you've got extra sponsorship revenues
+presumably from the World Cup, you've got continuous strong growth in VOD. In '18, should we sort of
+think about it still being the 2 percentage point difference or could there be a wider gap between NAR and
+the total number?
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+That would be guiding you, but anyway, let's just take it 1 at a time. On the specials, so for me, we
+laugh about this because when I found out that you'd had -- that there had been 5 consecutive special
+dividends, I kind of said well, what's special about those then? Because you know what I mean? My
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+12
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+background is you do a special dividend when it's unusual. It's something different, right? Now that's not
+being flippant. I think philosophically, I would just say my track record, Ian's track record is not to sit on
+cash, right? So nor is the board. The board is not going to want to sit on cash. So the most important
+thing here is if we have cash to give back, we will give it back in 1 way or another. We will give it back to
+shareholders. It is very -- that's a very important kind of thing for us. However, what we're saying here is
+-- I don't want to prejudge the strategy refresh. I don't want to say we're going to use what we would've
+had for a special dividend to do this, that and the other, because actually that will be totally prejudging
+what we're trying to do rigorously and thoroughly and comprehensively. And so I think when we come
+back to you at the half year, we will be able to be in a much better position to talk to you about that.
+I think the most important thing is that we will be disciplined about the use of cash. We are not -- it is
+entirely about the returns we will get to shareholders. That's what we will do. But that also means we
+have to have a healthy and fit business for the next 5 years. We have to be competitive. And that's what
+we're assessing at the moment, which is how can we be competitive over the next 5 years for content, for
+advertising and retaining viewers in all our platforms and how do we monetize them, which I think comes
+really down to your question about VOD, revenue and how we drive that with the user experience, kind
+of interrelated with that because we've just got to make sure that we don't do something too quickly that
+has unintended consequences on something else. So that's partly what the strategy refresh is doing. And
+I'll bring Ian in at the moment but it is interesting your point about NAR and non-NAR because of course
+we don't -- I mean, of course, we care about any shifts, but effectively, it's -- what we really care about is
+the total pot and that we're getting the revenue from our advertisers and also we're getting it from other
+means. So I think you're right to say that over time, the integrated number will be a very -- is a more
+meaningful number.
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+No, I agree. I think as we look at the strategy and new priorities, the reporting needs to align with that
+and the same applies to capital policy. Once we're clear on that, we can come back with a view on our
+capital policy, which will reflect all Carolyn as just said, around we'll be very disciplined as we have been,
+we'll protect our investment-grade. But the capital policy needs to enable us to execute the strategy and
+those things all need to be aligned as does the reporting.
+
+Ian Richard Whittaker
+Liberum Capital Limited, Research Division
+
+Just a quick follow-up question, I mean you mentioned in terms of advertisers -- some advertisers
+coming back in, in the second half. So is that sort of just initial steps or are you starting to see now an
+acceleration of advertisers saying hold on a minute in terms of online advertising there are doubts let's
+shift it back into TV?
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+I think it's a combination of things. So I don't think it's a very clear cut binary thing. I think there are
+definitely more questions about online advertising, not simply the transparency and the trust and the
+content. So there's a whole issue around content where your advertising is seen and advertisers did pull
+off Google, for instance. So there's that's 1 issue. There's a whole issue around measurability and what
+you are actually paying for and how much of it is driven by bots and how much is actually worth paying
+for. There is a big, big issue around transparency and measurability. That benefits TV. And therefore,
+obviously ITV within that. It benefits TV because we are so highly kind of measured. I mean, we -- you
+have to watch an entire ad, you have to watch it at the right speed. If you're fast forwarding, you're not
+counted into the numbers. The ASA highly regulates the type of advertising we can carry. So we have
+a very, very trusted environment and a very measurable environment. That is definitely permeating
+advertisers, there's no question about that. But it all takes a bit of time. I think there is a factor which is
+-- and this will benefit us on 1 way because we are also online, we are also doing VOD. You don't get fired
+as a media buyer for buying digital because if you're not buying digital people are going, "Well, you're not
+really keeping up," right? And I think that will start swinging back, because that isn't the way to really plan
+media, right? You want to plan media to be effective, and if it's not effective, then it doesn't matter what
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+13
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+you're doing to be seen to be keeping up with the trend. So I think there are all sorts of factors. There
+is the other factor that just hit in 2016 and has lagged, is the fact that FMCG had input costs because of
+devaluation of the pound and the whole Brexit scenario that they've been dealing with and you've heard
+Unilever and P&G come out and say very openly that they are cutting costs. But actually where they're
+cutting costs from is agency fees and production budgets rather than on media spend because I think
+people know that you have to spend money to advertise when you're having a tough time.
+
+There's a question up there. Oh sorry, I beg your pardon.
+
+Laurence Davison
+Deutsche Bank AG, Research Division
+
+It's Laurie here from Deutsche. I understand you -- first question, I understand you don't want to
+prejudge the refresh. Just some broad questions though about the sector. Why do you think TV advertising
+is starting to dislocate from relatively strong macro across Europe given what you said about FMCG and
+the strong place for TV? Second question, when you're looking at best in class model for ITV, which other
+media groups or even more broadly than TNT do you look at as the right model? And then thirdly, on
+Studios outlook, are we on course for a rev organic growth consistent with that 5% that we saw -- that
+we've seen over the past 5 years?
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+Okay, those are very big questions, the first 2. I think Studios one is quite relatively easy to answer. But
+I think that I don't actually think there has been that much of a dislocation. I don't think the economic
+environment is that strong. And remember, we're driven -- our advertising is a U.K. driven advertising.
+The U.K. has been weak, has been the weakest in Europe, and the devaluation of the pound has affected
+lots and lots of companies here. And uncertainty, political and economic uncertainty, is not good for
+advertising because it does depress it because of consumer uncertainty. It's all linked. So actually, I don't
+think there has been the dislocation you've been talking about in the way you've described. Actually, that's
+not our -- that's not what we've seen. We've seen actually quite a big economic effect on our advertising
+spend because of economic uncertainty and consumer lack of confidence, actually. It's hard about the
+other models. I mean, I'll bring Ian in here because I think actually what's quite amazing about ITV is
+what an amazing -- it's a really unique model because if you think about it, we are the only free-to-air
+advertiser that has no safety net. I mean, Channel 4 has a safety net because it's government-owned.
+The BBC has the license fee it starts with GBP 3.8 billion in the bank. Sky has a hybrid model of satellite
+and subscription and advertising. So we are the only free-to-air model, and I think that gives us quite a
+lot to think about. Of course, we're going to remain free to air, but we then have to think about how we
+evolve our own way of looking at us going forward in 5 years, 10 years' time. So what happens in -- but
+I think that's an opportunity because I think there are opportunities for SVOD, for instance. There are
+opportunities with data and with communities of viewers that I think it gives us opportunity going forward
+in terms of the model.
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+The only thing I'd add to that is when you look at what's happening in the world around us, owning
+more of your own content being in control of more of your own content definitely feels like a strategic
+advantage. When you look at what everybody else is doing around us, that seems to be a really good
+place to be starting from. On the Studios outlook, we fully expect Studios to have another good year of
+revenue growth. And as Carolyn said in her script, we've got roughly 2/3 of our target revenue already
+secured. Now whether that's going to be 5%, 7% or 3%, we'll see how the year progresses, but we're
+looking like another good year of growth. The reason we don't give a specific guidance on this is things
+do move around quite significantly. And we mentioned this drama Snowpiercer we got coming out of the
+U.S. This a big project for us. TNT have commissioned it. And we're having conversations with TNT about
+when it's best to be scheduled and exactly how many episodes we have in the first series. And it could well
+be that the right thing to do for the show is for it to be broadcast on TNT in Q1 next year. Now we could
+rush it all out and have a conversation and say let's do it later this year and get the revenue this year,
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+14
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+but to give the show the best chance of success and we only recognize the revenue when we deliver it to
+them, the right thing to do is maybe to wait. And that causes quite a lot of fluctuation in terms of things
+moving around in terms of 1 year to the next, but the fundamentals of the Studios business, as hopefully
+you heard today, right across the board both in the U.K., the U.S., the rest of the world are in really good
+shape and the pipeline of new shows coming through is good. And the reason we did that bit about looking
+back over 5 years, you've all seen the numbers over those 5 years or so. We've had years of no growth or
+2% and years of 7%, like we did last year, and 9%. The average is around 5%. The market feels like it's
+growing around 5%, 6% and there's no reason through that cycle we shouldn't be growing at similar level.
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+Lots of questions. Should we go there? And then there's just over here.
+
+Steven Craig Thomas Liechti
+Investec Bank plc, Research Division
+
+Steve Liechti from Investec. Just on the refresh. Given the fact you've given program spend out to 2019,
+does that mean the refresh will have no particular implications on that program spend and you're sort
+of setting now your agenda there or can it change? That's the first question. And then second question,
+drama, have you ever actually broken out how much drama revenues are of the roughly 1.5 revenues in
+Studios business at a revenue level? Any thoughts in terms of the split of that going forward, I guess, for
+the refresh? And then last one, just quickly on IFRS 15, can you just remind us is there any effect on that
+particularly in the Studios business, I guess?
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+On the program spend, I mean, I think that you've seen for 2019 it's been driven really by sports and
+also by drama. So at the moment, that's -- the reason we put that out there is that we didn't want any
+surprises. We know about that now, you have to get sports rights, you get years in advance, not just kind
+of months in advance. So I think that's a good thing for you to see as the program spend for that year
+because that's what we've said. Do you want to take the drama and the revenue breakdown?
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+It's a good question, Steve, about breaking down the GBP 1.6 billion or so of Studios revenue by genre.
+We never presented it that way. We tend to do it geographically because that's largely how we run the
+business. And within those geographies is a mix of genre. We'll take that away and think about it. And
+then what was the other question?
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+IFRS.
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+IFRS, there is no material impact on either Broadcast or Studios from IFRS. In fact, there's no impact
+on the Studios business looking back historically and the opening position. There's a bit of revenue cost
+gross-up in Broadcast. It's immaterial, it's less than GBP 10 million and has no profit impact.
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+Should we go to the back then and Maddy, if we come down here?
+
+Julien Roch
+Barclays Bank PLC, Research Division
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+15
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+It's Julien Roch from Barclays. I do like everybody else, not prejudging the refresh but asking questions
+about the refresh. So BritBox, 250,000 subscribers, but the losses within associates are only 4 million. So
+it looks like you've not been aggressive on marketing. As you are saying, you will roll out internationally,
+would it be a good idea to be aggressive on marketing to grow the business quickly but incur losses?
+That's my first question. The second question is on content. Once we're a couple of weeks in, do you feel
+that this is the right size and it's about execution or do you feel you are still subscale in content? That's
+my second question. And then the third question is how do you feel about the way advertising is sold in
+the U.K., which means 100% [ filler ] inventory, which is not the case in other countries, which kind of
+prevents you from doing a lot of media for revenues, which has been very successful for even a lot of
+targeted advertising? Do you feel that it's something you should change?
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+Do you want to do BritBox first?
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+Carolyn's going to smile when I answer this question.
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+Here we go.
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+Because it's about marketing spend.
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+I know.
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+Which we have a -- actually, Julien, it's a really good point, and Carolyn will smile when I say this, because
+I went over and met the BritBox team shortly after launch, and they were actually quite proud that they
+were performing ahead of plan in terms of subscribers and hadn't spent much on marketing. So I actually
+said, which you might smile, what would it have been if you had actually spent more money? And to
+address that, we've actually put some of our marketing team over there to work with the BBC team.
+So marketing will be an important part of rolling out BritBox as we look to expand that as a direct-to-
+consumer proposition and not least of which as we look to see what the international roll out is having just
+launched in Canada. So it's not the only thing...
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+So the joke there is that I'm obviously a believer in marketing. I've had great success in marketing brands
+effectively and driving traffic and profitability, and we have a constant discussion about...
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+I put my Finance Director hat on occasionally.
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+16
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+He puts his CFO hat on.
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+It's not the only thing in that 4 million. We have, as you may have seen during the year, we also invested
+in a couple of scripted businesses in the U.S. Circle of Confusion and Blumhouse TV. So they're also in that
+number in the associates spot.
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+Yes, so on content, and obviously, Ian can come in here as well and maybe Kevin and Julia. I mean, I
+don't -- I think it's very interesting to talk about subscale because actually, I think it's really about the
+quality of your content and how many viewers you attract or how much money you get for the value
+of your content. So I think we're doing well on both of those things. And so -- and of course, you're
+competing with for viewers with big-budget productions, and I think our way of handling that is to find
+different ways of coproducing. So we wouldn't on our own necessarily do a very, very big thing, but we
+would do that in a different kind of model with somebody else. So I think Snowpiercer is a good example
+of that, World On Fire is a good example of that. There's just a whole -- there's a range of things that we
+do that are the way we fund differently. So I don't feel -- I don't think we feel that we're subscale in any
+way. I think we feel that our content is incredibly strong, and that we have to continue to be very strong
+because content is the thing that drives our viewers, and therefore, that drives everything that we do.
+
+Julien Roch
+Barclays Bank PLC, Research Division
+
+Last question on advertising.
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+Of advertising. I think it is -- your question is largely about CRR, I think isn't it.
+
+Julien Roch
+Barclays Bank PLC, Research Division
+
+Well, CRR and share deal. So, yes, you need to remove CRR to remove share deal.
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+Yes CRR, so the share deal is about CRR. I think actually the less I'll say about that in this forum the
+better because I think we have got CRR, and I think it can obviously be restrictive. I mean for those --
+I don't know how many people are familiar with CRR, but I mean, the fact is you can reduce spend and
+still get your share and therefore -- and you get no penalty as a result of that whereas most media, the
+more volume you put in, you'll get a price advantage. But the less volume you put in, your price probably
+goes up. So it is different. It's a very different trading model. But I think, again, one of the things we have
+to look at very closely is all of the advertising proposition rather than just CRR. I think it's 1 important
+element of what we do, a very important element. But it is something we have to look at in the round.
+And of course, it doesn't just affect ITV. It affects all of TV. So more of that in the future.
+
+Patrick Thomas Wellington
+Morgan Stanley, Research Division
+
+Patrick Wellington from Morgan Stanley, 3 questions. First one, just going back on the schedule spend.
+Ian, can break down the 2019 extra GBP 50 million between the accidental football element and the
+drama element, which might be a bit more studied. And normally one would expect then in 2020 to drop
+back down again. Is that going to be the case? Second thing, partly linked to this, GBP 83 million extra
+investment in drama, 160 to 243, can you show us how that flows through the P&L? And then thirdly,
+studied use of the word refresh.
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+17
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+Well spotted.
+
+Patrick Thomas Wellington
+Morgan Stanley, Research Division
+
+If I were remodeling my house I would knock it down and put a few extra walls in or whatever. If I'm
+refreshing, that's a bit more like a lick of paint. So generically, are you saying that they've broadly got it
+right and a few things need smartening up or does there need to be a bit more of structural work?
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+Just to walk you through the program spend, the schedule costs, so current year, 10 25 as we have
+been clear on all the way through, this is a non-sport year. 2018, we'll go up 10 55, 10 60 as we reflect
+the Football World Cup. 2019, we have got these 10 England games, which is a change of how the
+international games are being scheduled because it's got this new tournament called the League of
+Nations which just meant that all of the qualifying games are [ constatinered ] into set years. So you have
+a big year in 2019, we'll have 10 England games, we'll have no qualifying games in 2020, we'll have 10
+England games back again in 2021. So to your point, Patrick, we will see a spike in 2019, it will fall back a
+bit in 2020 and will increase again in 2021. The drama spend which is we are working through, is roughly
+around an incremental GBP 25 million and part of that GBP 1.1 billion of 2019. So looking at it as of today,
+the cost in 2020 should fall back to around 10 70, 10 80-ish if it helps. And then on the studio side of
+things, the GBP 240 million, that's the cost of production. And it's linked directly, slightly to Steve's point
+about breaking out drama hours. So we made 300 hours last year of drama and the GBP 240 million is the
+cost of making those 300 hours. And that just goes through the accounts hitting the P&L as and when we
+recognize the revenue for delivering those shows. So it's all in the numbers in the round.
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+So on the strategy refresh, I think if we were saying we're doing a comprehensive strategy review, it
+would mean that we will be looking at every single thing and we're not doing that. Because as you've just
+heard from the presentation today, diversifying into Studios is the right strategic decision. It is doing well,
+it is diversifying us. It is doing all the things it needs to do for ITV. So we're not uprooting that and saying
+should we revalidate -- should we relook at that? What we are doing within that is saying okay, what does
+the next 5 years look like for Studios? What do we need to do for the next 5 years to do this even more
+effectively than we have been doing? So that's why we use the word refresh because it is really about
+looking at the gaps. Because things have changed rather a lot in the last year. So the strategy laid out, the
+turnaround strategy, was a 5-year plan, and it was a very, very effective. We're now in a different world
+and we are going to have to compete harder for viewers and advertisers. And it's really about identifying
+how we do that and how we compete in the next 5 years and what we look like in 5 years' time in order to
+be as fit and healthy as we are today.
+
+Richard Eary
+UBS Investment Bank, Research Division
+
+It's Richard Eary from UBS. Just 3 questions. First one, just a follow-up on Patrick's on the changing
+content spend. Ian you talked about GBP 25 million. Can you walk us through? Is that essentially an
+upgrade in terms of quality or is it increased hours and how do we think about that in terms of price
+versus volume? The second question, just on Studios, you talked about revenues and didn't really touch
+on profitability. In '17, there was obviously some benefits of some cost savings coming through. There
+were some benefits of some FX gains as well. How do we think about that in '18 given that you've
+obviously got investments coming in and you've obviously got some FX headwinds and obviously you've
+got probably more shows that are coming through that make you lower margin initially. And then the last
+question, just want to understand in terms of the statement about committed to the ordinary dividend
+policy. I know that you made an opening remarks, Carolyn, about special is not really special if it's 5
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+18
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+years. How do we think about that ordinary dividend policy as we go forward given it's sort of less than
+50% today? And do we think we can walk that up to 80% or where do we go?
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+All yours.
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+Thanks, the incremental spend in the schedule for drama in 2019, which is the stuff we have to start
+working on now as we said quite carefully in the script, ideally we want that to come from shows that
+we own in and have creation and the rights to distribute globally. Because at the heart of that is giving
+ourselves the best chance for creating the next Broadchurch or the best Downton, a breakout hit. And
+actually, we're in a position to do that now because of the strength of our teams. And acquisitions like
+World and Mammoth have really enhanced the quality of our drama business. The internal labels that we
+have before are in really good shape as well. So you add those 2 together and we've got the strongest
+pipeline of ideas we've ever had. So it's not about cost of revenues. Actually it's just about using our
+schedules and see if we can turbocharge our Studios business. And as Carolyn said, acting more as an
+integrated producer broadcaster and that GBP 25 million is a rough net impact on the program spend
+in terms of shows going in, in terms of drama and the other shows have to come out, because clearly,
+we've got a full schedule. So you do get a saving there, so that's what's going on there. And in terms
+of Studio's profitability, I agree with you, Richard. There are moving parts around Studios in terms of
+potentially currency, potentially more scripted coming through, which initially starts at a low margin. You
+really get your returns on scripted when you're in series 3 and series 4 and you're selling to either the big
+SVOD players or into multiple territories. That's when you make your profit. But I am confident despite
+this headwinds that we will grow our Studios profit next year and a good way to think of Studios to some
+extent putting currency aside a little bit is that growth we talked about earlier, whether it's around 5%, if
+you think that should come through at around of 15% margin, that's a good proxy through the cycle for
+what our Studios business should look like. And then on the dividend policy, I'd just come back to what we
+said earlier around capital and how we use it. It all needs to join up. We need to have the uses of capital
+aligned to the strategy and it all needs to be a consistent message.
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+And I think at the Capital Markets Day will be a great opportunity to look at capital policy because we will
+be -- the strategy refresh will have been concluded, we'll be into executing some of the strategy and we'd
+be able to I think, take a broader view of that then.
+
+Richard Eary
+UBS Investment Bank, Research Division
+
+Can I ask just a follow-up on that in terms I presume your outline sort of debt parameters as well in terms
+of actually how you think about the business going forward and whether you think...
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+Again, that will have to be consistent. And as we've said, our credit rating is important to us, running
+a tight balance sheet is important to us, having a balance sheet that supports strategy is very, very
+important as well. So it all just needs to join up, so yes, we'll come back with the whole lot.
+
+Matthew Bloxham
+
+Matthew Bloxham from Bloomberg Intelligence. Just 1 question on the Studios business. How do you think
+about the interplay with your Broadcast business? I guess, if you give Studios free reign and it starts to
+commission more content for BBC, Channel 4 and that's successful, it potentially compromises your own
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+19
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+channel advertising. So does that have free reign or is there some kind of constraint you put around the
+kind of content they produce for other broadcasters?
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+They have free reign actually. They are a commercial business and they have to make money out of
+content. That's what they were set up to do and they have to do that really well and they have to sell to
+whoever commissions. So they're either commissioned or they sell. And they will do that for anybody. It's
+up to Kevin to ensure that we get the best commissions. So if he can, so it's up to his head of drama and
+entertainment and factual to make sure that they are spotting the right shows. And so it's a good creative
+-- it's not even attention, it's just a good creative flow. I mean, that's the way it goes.
+
+Simon Baker
+Societe Generale Cross Asset Research
+
+Simon Baker, Soc Gen, 3 questions again, please. Firstly, on FMCG spend, Ian, you said you're seeing
+them allocating more to TV. Is that more as a percentage of a declining pot or you're actually seeing
+it in absolute terms going up in the fourth quarter and possibly give an indication for the first quarter?
+Secondly, on ownership of Sky, Comcast's presentation centered on the strategic rationale revolving
+around scale benefits, distribution and content. Does the ownership of Sky, whether it's in the hands of
+FOX or Disney or Comcast, make a difference to you? Your peers have been arguing that they're going to
+be beneficiaries from scale. In my mind, that means somebody's losing out? And then thirdly, just on the
+restructuring chart -- sorry, on the exceptional charge guidance for 2018, of the GBP 85 million, Ian, how
+much is not related to acquisition accounting?
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+I'll deal with that one first because that's the easiest. GBP 85 million, roughly GBP 55 million relates to
+accounting and GBP 30 million relates to the property side of things, which is essentially the move costs
+and a bit of dual costs of having rent and rate of business for buildings. So that's how it splits down. On
+the FMCG side, we did see a return to growth from FMCG across Q4. That has continued into Q1, but it's
+slightly more mixed in Q1. Food is good, cosmetics is good, household is down. I wouldn't read too much
+into that because the phasing in the first half of the year around the various categories is often skewed
+by what their plans are for the full year, especially when you got a big event like sports. So I'd say we
+wouldn't extrapolate that too much.
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+I think generally, it just does feel that there is an uptick overall in FMCG I feel -- it does feel better, but
+early days. What we're doing? Sky, Comcast. Would you want to say what you think?
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+Yes, Sky's content is interesting because they have to bid for it every 3 years, if you think of what really
+differentiates Sky content. I think that's an interesting place to be. And they've clearly got the content
+that's on Sky Atlantic, which a change of ownership of that might lead to question marks about who gets
+that content as well. So Comcast is a fantastic company and they run a great business as do Disney and
+maybe FOX. Who knows?
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+That's why I didn't answer the question. Who knows?
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+20
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+It sounds like whoever has got the biggest checkbook at the moment.
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+There's a question right at the back.
+
+Unknown Analyst
+
+It's Steve [indiscernible] from [indiscernible]. I'll go for a couple. The second may be in a couple of parts.
+First, just on the sort of online digital journey that ITV is on. It feels like the Hub sort of improved but still
+playing catch up with rival platforms. Can you just give us some initial impressions, Carolyn, about where
+you think it needs to get to in terms of pay per view capabilities or is there anecdotal evidence that you
+had some problems around the Groves/Eubank fight in signing up customers. Digital ad insertion, whether
+you think you can -- where you are in the journey, whether you think you can get there organically or you
+need some sort of external investment to fix that potential problem. And just coming back to Comcast
+and Sky and possibly Disney Sky and possibly FOX Sky, can you sort of give some thoughts on regulatory
+issues that you might see around any or all of those deals? And also, it's obvious that most of your
+emerging competitors are global now or going to be part of large global media groups. How comfortable
+are you in ITV's position, medium, long-term as still largely a U.K. free to air broadcaster against those
+guys that are buttressed by global reach, global distribution, all those kinds of things?
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+Okay, I mean, look, the Hub at the moment is catch up TV. That's all it does. We've just started doing
+Marcella as a boxed sets, so you'll start seeing more boxed sets. That really improves the user experience.
+So if you've missed a series, you'll be able to catch up on the series before watching the new series.
+That's good for users, but it's good for ITV. I think we now have to work out what the next steps are and
+what we should do that will actually place us in a better position competitively but also that gets returns
+because you can do -- I think what we have to do is be quite careful about how we look at this rationally
+because I think you can be get very, very excited about doing lots of whizzy things that actually don't
+make money. So we've got -- we absolutely have to think about consumers and the user experience and
+then we've got to flow from there, and we have to say how do we monetize what we do on Hub further.
+So what are the other models that we can use. So I think that is what the strategy refresh will address.
+That is a really important part of what we're going to focus on. Box office is an experiment, it's a trial.
+It's probably one of the first -- that was the first big fight that we had. I think lots of lessons learned on
+that because consumers are vocal if they don't get what they want when they want it. And it's a very
+different experience for ITV to be at the sharp end of -- because viewers aren't like that. I mean, they
+might complain to Ofcom about something on screen, but it's much -- it takes a bit of time and then it's
+-- whereas with this it's much more visceral and immediate and you've got to have a way of responding
+to that quickly and the infrastructure to do that. And at the moment, we outsource all of that because
+it's too small. So it's a trial. So lots and lots of learnings for that. And we need to absorb that and then
+think what more do we want to do on that kind of thing. It's interesting and it's definitely another revenue
+stream. And it's also more data, of course, because I think that fight got, what, 350,000 subscribers? So
+it was actually very successful from a subscriber point of view. And remember, I mean, they'll be vocal, we
+have Twitter feeds about what some people didn't get but it will be a minority of people that didn't get. It's
+still not good but it will be a minority. And it was a problem with the platform. It was a problem with the
+Sky platform for a number -- for a minority of users on that platform. So just putting it in perspective, it
+was a good thing for us to do and it was a good experience for us to do. On the addressable and we won't
+do that organically. We will need to -- but it is budgeted for. So I don't want you to think we're going to
+have to put a lot more money into the numbers because actually we've already put aside a sum of money
+to actually look at this whole area of ad technology and how we can accelerate what we do in the area.
+Disney, FOX, Sky, what? Regulation.
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+21
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Well, I think the regulatory position probably gets a bit clearer and cleaner with Disney stroke Comcast
+versus FOX. But we'll leave that to the experts to determine because it was clearly a challenge around FOX
+and I can't say plurality which is the word of the moment, but it's probably a bit easier with Comcast and
+Disney.
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+Yes, and as to the global media groups, I mean, I think that we are very, very strong in our home market
+and we are a global media player on the content side, and I think recognized to be global on content.
+The most important thing we have to do, we are an advertising funded business and our advertisers are
+U.K. advertisers. They're trying to reach U.K. audiences. So actually, being the #1 medium in the U.K. is
+a formidable thing to be. And so I think ITV is in a very strong position. It's very well-positioned for the
+future regardless of the kind of global consolidation that is going on. I mean, global is not -- global and
+massive is not without its issues, i.e. it adds complexity, it adds silos, it adds -- it does add something
+different. ITV actually, one of the things we are really, really focused on is being agile and nimble and
+being able to move quite quickly over the next 5 years on things that we need to do and really focusing
+on the things that we do better than anybody else. And there are quite a lot of things we do better than
+anybody else. And again, that's an important thing that we're going to be very concentrated on. Any other
+questions? Another 1 over there.
+
+Unknown Analyst
+
+It's [indiscernible] from UBS. Just coming back to the sort of like trading so far this year, obviously,
+March benefits from an early Easter, which obviously means that the March numbers are up and January,
+February are obviously quite weak. You looked at share of viewing numbers, they seem quite positive in
+terms of audience numbers, but advertising conditions are actually quite weak in January, February off
+a very weak comp from last year. But you talk about FMCG coming back. Can you just talk us through
+what's the disconnect between some of those numbers?
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+I don't think there's been a fundamental change in the broader level of confidence across U.K. corporate.
+So I think corporates are behaving quite cautiously, quite carefully, spending money with a fair degree
+of rigor and balance across the board. It's different sector by sector. But as a whole, I think we're still
+operating in an environment with the overhang of uncertainty in it. I think what we've done is give a view
+across the first half of the year. We've expect the first half of the year to be strong. We don't normally
+go that far out. But the month-to-month numbers, I have said this probably more times than I care to
+remember. We shouldn't get too hung up on whether April is down or March is up. It's what does the year
+feel like, what does confidence feel like. And the fact we're up across the first 6 months after Q4 being up
+in 2018 suggests to me at least things have calmed down. And I think that's a better place from where we
+were 12, 18 months ago. That's a start.
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+I think that's a really good way of putting it. I think that the shrillness of the noise around corporates
+post June 2016 for various reasons, I mean, about kind of read about what does that all mean, what does
+that mean to customs, what does that mean to costs, what does that -- that feels like it's the transition
+agreement has calmed down British business. But it hasn't solved any issues yet because we still don't
+know whether that transition agreement is going to be signed and also whether what that's going to
+contain. So there is still uncertainty, which is -- but it is definitely a calmer corporate environment.
+
+Unknown Analyst
+
+Just a sort of quick one, 2017 you did GBP 29 million in terms of savings. It doesn't look as though in
+terms of the statement there's anything for 2018 in there. Just for our numbers, should we assume 0 or
+sort of are there any incremental savings you could make?
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+22
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+No, embedded into how we operate is managing inflationary pressures, but we're not doing anything
+incremental on top of that for 2017 -- sorry, 2018. No doubt we'll be looking at, as Carolyn mentioned in
+her view at the start, what's the right operating model for us. And that creates an opportunity to look at
+things again.
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+
+And again, just there.
+
+Laurence Davison
+Deutsche Bank AG, Research Division
+
+Can you just quickly confirm Ian, just on The Voice and the treatment of that as an exception on the
+failure to actually pay that, when do you actually expect to receive all or what's the actual cash schedule
+for receiving that?
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+Well, there isn't a cash schedule set out and we are pursuing very vigorously by Talent who are our
+partner in China, and we've got an insurance claim with the credit insurers who underwrote the original
+content. And we're in those conversations now, Laurie.
+
+Laurence Davison
+Deutsche Bank AG, Research Division
+
+So it's fully underwritten?
+
+Ian W. Griffiths
+Former COO, Group Finance Director, Member of Management Board & Executive Director
+
+The receivable is yes, fully insured.
+
+Dame Carolyn J. McCall
+Chief Executive, Director & Member of Management Board
+Are there any more questions? No? Great, thank you all very much for being here.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+23
+
+ITV PLC FY 2017 EARNINGS CALL |  FEB 28, 2018
+
+Copyright © 2019 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research,
+model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered,
+reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless
+of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS,
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without
+limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase,
+hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites, www.standardandpoors.com (free of charge), and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+
+Copyright © 2019 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence
+
+24
+
+

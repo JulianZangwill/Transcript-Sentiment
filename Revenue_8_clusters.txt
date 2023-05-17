@@ -1,0 +1,61 @@
+Cluster 1:
+Admiral Group plc
+Antofagasta plc
+Coca-Cola HBC AG 
+Croda International Plc 
+Fresnillo plc 
+Halma plc (LSE:HLMA)
+Hammerson plc 
+Informa plc 
+InterContinental Hotels Group PLC 
+Intertek Group plc 
+ITV plc 
+London Stock Exchange Group plc 
+NEXT plc 
+Pearson plc 
+Persimmon Plc 
+RELX PLC 
+Rentokil Initial plc 
+Schroders plc 
+SEGRO Plc 
+Taylor Wimpey plc 
+
+Cluster 8:
+Anglo American plc
+Barclays plc
+Centrica plc 
+CRH plc 
+International Consolidated Airlines Group S.A. 
+J Sainsbury plc 
+Rio Tinto Group 
+
+Cluster 4:
+AstraZeneca plc
+BAE Systems plc
+EVRAZ plc 
+Kingfisher plc 
+Legal & General Group Plc 
+Lloyds Banking Group plc 
+Reckitt Benckiser Group plc 
+St. James's Place plc 
+Standard Chartered PLC 
+The Royal Bank of Scotland plc
+WPP plc 
+
+Cluster 3:
+Aviva plc
+HSBC Holdings plc 
+Unilever PLC 
+
+Cluster 2:
+BP p.l.c. 
+
+Cluster 5:
+Glencore plc 
+
+Cluster 6:
+Prudential plc 
+
+Cluster 7:
+Tesco PLC 
+
